@@ -91,7 +91,7 @@ id,latitude,longitude,name,address,zip,city,state
 124,47.37209,8.520482,Weststrasse,Weststrasse 115,8003,Zürich,Active
 125,47.378521,8.496727,Utogrund,Albisriederstrasse 200,8047,Zürich,Active
 126,47.381356,8.510418,Hardau,Bullingerstrasse 73,8004,Zürich,Active
-127,47.361567,8.525525,Klopstockwiese,Klopstockstrasse 23,8002,Zürich,Active
+127,47.361567,8.525525,Klopstockwiese,Klopstockstrasse 23,8002,Zürich,Active (empty)
 128,47.363875,8.517481,Binz,Haldenstrasse 69-27,8045,Zürich,Active
 129,47.379952,8.542726,Stampfenbachplatz,Walchestrasse 11,8006,Zürich,Active (empty)
 130,47.391366,8.488108,Bahnhof Altstetten,Altstetterplatz 1,8048,Zürich,Active
@@ -151,7 +151,7 @@ id,latitude,longitude,name,address,zip,city,state
 192,46.9677817,7.4646494,Wankdorf Bhf Nord,Gardistrasse 1,3014,Bern,Active
 193,46.9552642,7.4593279,Kasernenstrasse HKB,Kasernenstrasse 13k,3014,Bern,Active
 194,46.95863750501819,7.45710501650628,Kasernenwiese,Militärstrasse 42,3014,Bern,Active
-195,46.9543451,7.4453536,Lorrainebrücke,Lorrainestrasse 1,3013,Bern,Active
+195,46.9543451,7.4453536,Lorrainebrücke,Lorrainestrasse 1,3013,Bern,Active (empty)
 196,46.9665865,7.4639627,Wankdorf Bhf Süd,Wankdorffeldstrasse 2,3014,Bern,Active
 197,46.9394841,7.3899968,Bachmätteli,Bottigenstrasse 9,3018,Bern,Active
 198,46.9439597,7.3746103,Westside,Riedbachstrasse 96,3027,Bern,Active
@@ -180,7 +180,7 @@ id,latitude,longitude,name,address,zip,city,state
 222,46.9534366,7.4239308,Hochschulzentrum von Roll,Fabrikstrasse 14,3012,Bern,Active
 223,46.9506632,7.4370414,Hauptgebäude Uni Bern,Falkenplatz 4,3012,Bern,Active
 224,46.9541456,7.4307168,Unitobler West,Lerchenweg 37,3012,Bern,Active
-225,46.95560612233403,7.428042090100739,Hochfeldstrasse,Länggassstrasse 74,3012,Bern,Active
+225,46.95560612233403,7.428042090100739,Hochfeldstrasse,Länggassstrasse 74,3012,Bern,Active (empty)
 226,46.9557805,7.4352658,Uni Mittelstrasse,Mittelstrasse 38,3012,Bern,Active
 227,46.9545136,7.4294963,Unitobler Ost,Muesmattstrasse 45,3012,Bern,Active
 228,46.9534206,7.4328277,Mittelstrasse Süd,Mittelstrasse 5,3012,Bern,Active
@@ -206,7 +206,7 @@ id,latitude,longitude,name,address,zip,city,state
 250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
 251,46.949347,7.447977,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
 252,46.9497908,7.4441278,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
-253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active (empty)
+253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
 255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
 256,46.9555118,7.4768856,Zentweg,Zentweg 25,3006,Bern,Active
@@ -295,7 +295,7 @@ id,latitude,longitude,name,address,zip,city,state
 362,47.37271,8.530437,Stauffachertor,Werdstrasse 25,8004,Zürich,Active
 363,47.416155,8.541712,Wahlenpark,Eggbühlstrasse 21,8050,Zürich,Active
 364,47.3708387,8.5595335,Kinderspital,Dolderstrasse 32,8032,Zürich,Active
-365,47.388689,8.536433,Kornhausstrasse,Kornhausstrasse 30,8006,Zürich,Active
+365,47.388689,8.536433,Kornhausstrasse,Kornhausstrasse 30,8006,Zürich,Active (empty)
 366,47.407098,8.55033,Dorflinde,Schwamendingenstrasse 41,8050,Zürich,Active
 367,47.368183,8.56155,Römerhof,Samariterstrasse 4,8032,Zürich,Active
 368,47.3619068,8.5609218,Hegibachplatz,Forchstrasse 99,8032,Zürich,Active
@@ -470,7 +470,7 @@ id,latitude,longitude,name,address,zip,city,state
 568,47.347701,8.528049,Jugendherberge,Mutschellenstrasse 114,8038,Zürich,Active
 569,47.405751,8.539016,Freibad Allenmoos,Ringstrasse 82,8057,Zürich,Active
 571,47.375556,8.547901,ETH/Zoologisches Museum,Karl-Schmid-Strasse 4,8006,Zürich,Active
-572,47.402164,8.534974,Radiostudio,Brache Guggach,8057,Zürich,Active
+572,47.402164,8.534974,Radiostudio,Brache Guggach,8057,Zürich,Active (empty)
 574,47.45041071949902,8.563071583930034,Flughafen Kloten,Veloabstellplatz Parking 2,8058,Zürich Flughafen,Active
 580,46.800445,7.122294,Petit-Moncor,Route de Petit-Moncor,1752,Villars-sur-Glâne,Active
 581,46.514554,6.619263,Vaudoise Assurances,Avenue de Cour 43,1007,Lausanne,Active
@@ -554,7 +554,7 @@ id,latitude,longitude,name,address,zip,city,state
 680,46.946852812713296,7.483654624791477,Merzenacker,Obere Zollgasse 94,3006,Bern,Active
 681,46.93987160970557,7.425113039012359,Weberstrasse,Weberstrasse 25,3007,Bern,Active
 682,46.938845,7.4210796,Kirchbergerstrasse,Kirchbergerstrasse 41,3008,Bern,Active
-683,46.948471616973904,7.450529302235038,Rathausgasse,Rathausgasse 31,3000,Bern,Active (empty)
+683,46.948471616973904,7.450529302235038,Rathausgasse,Rathausgasse 31,3000,Bern,Active
 684,45.87125166693927,8.98675487202064,Mendrisio Municipio,Via Municipio,6850,Mendrisio,Active
 685,45.87216325637743,8.983528791038395,Mendrisio CPI,Via Franco Zorzi,6850,Mendrisio,Active
 686,45.8762029265714,8.981280464481735,Mendrisio Fox Town,Via Moree,6850,Mendrisio,Active
@@ -576,7 +576,7 @@ id,latitude,longitude,name,address,zip,city,state
 704,45.87254294486857,8.987224327562924,Mendrisio Museo,Via Vincenzo Vela,6850,Mendrisio,Active
 705,45.88354716154987,8.980175414992559,Mendrisio Piscine,Via S. Martino,6850,Mendrisio,Active
 706,45.902508020940914,8.978527062977733,Capolago Stazione FFS,Via Famiglia Carlo Scacchi,6825,Capolago,Active
-707,45.86839596516475,8.97806954826163,Mendrisio Stazione FFS,Via Stefano Franscini,6850,Mendrisio,Active (empty)
+707,45.86839596516475,8.97806954826163,Mendrisio Stazione FFS,Via Stefano Franscini,6850,Mendrisio,Active
 708,45.87023343314977,8.987408595931916,Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
 709,45.86959228856764,8.989624365925325,Mendrisio La Filanda,Largo Mario Soldini,6859,Mendrisio,Active
 710,45.87483787298627,8.937745151961444,Arzo Scuole,Via Onorio Longhi 2,6864,Mendrisio,Active

@@ -8,7 +8,7 @@ on:
     - cron: "0 20 * * 0"
 
 jobs:
-  build:
+  update-stations:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,10 +24,11 @@ jobs:
       with:
         poetry-version: '1.1.12'
 
+    - name: Install poetry dependencies
+      run: poetry install
+
     - name: Run the data fetch python script
-      run: |
-        poetry install
-        poetry run python main.py
+      run: poetry run python main.py
 
     - name: Commit files
       run: |

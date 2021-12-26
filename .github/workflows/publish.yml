@@ -32,12 +32,8 @@ jobs:
 
     - name: Commit files
       run: |
-        git config --local user.name "Michal Ziemski"
+        git config --local user.name "Stations Updater"
+        git status
         git add ./stations/stations.csv
         git commit -m "Update the list of PubliBike stations"
-
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        force: false
+        git push origin HEAD:main

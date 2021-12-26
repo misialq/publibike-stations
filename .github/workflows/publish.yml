@@ -35,5 +35,11 @@ jobs:
         git config --local user.name "Stations Updater"
         git status
         git add ./stations/stations.csv
+        git status
         git commit -m "GHA: Update the list of PubliBike stations" || echo "No changes to commit."
-        git push origin HEAD:main
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true

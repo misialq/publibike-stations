@@ -48,7 +48,7 @@ id,latitude,longitude,name,address,zip,city,state
 57,46.226652301126975,7.359097847094511,Gare de Sion Sud,Rue des Entrepôts,1950,Sion,Active
 58,46.2278,7.3595,Gare de Sion Nord,Avenue de la Gare,1950,Sion,Active
 59,46.23055,7.373705,Bietschhorn,Avenue Bietschhorn,1950,Sion,Active
-60,47.374403,8.540188,Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
+60,47.374785,8.539882,Achtung: Die Station wird am 31.12 wieder auf den Werdmühleplatz zurück verschoben: Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
 61,47.4099615,8.5452956,Marktplatz,Querstrasse 8,8050,Zürich,Active
 77,46.234697,7.386034,Hôpital - CRR,Avenue du Grand-Champsec,1950,Sion,Active
 80,47.3795837,8.5156327,Bullingerplatz,Bullingerstrasse 5,8004,Zürich,Active
@@ -339,7 +339,7 @@ id,latitude,longitude,name,address,zip,city,state
 427,47.4188324,8.5064743,Zehntenhausplatz,Wehntalerstrasse 541,8046,Zürich,Active
 428,47.40158,8.58841,Hirzenbachstrasse,Hirzenbachstrasse 2-4,8051,Zürich,Active
 429,47.4080095,8.5777038,Luegisland,Luegislandstrasse 412,8051,Zürich,Active
-430,47.382089,8.547195,Stapferstube,Nelkenstrasse 24,8006,Zürich,Active
+430,47.382089,8.547195,ACHTUNG: Station wird am 10.1 an die Stapferstrasse 7 verschoben: Stapferstube,Nelkenstrasse 24,8006,Zürich,Active
 431,47.362209,8.510788,Binz Center,Grubenstrasse 52,8045,Zürich,Active
 432,46.235077,7.377833,P+R Stade,Rue des Echutes,1950,Sion,Active
 433,46.226638,7.342806,P+R Potences,Rue de l'Envol 28,1950,Sion,Active
@@ -457,7 +457,7 @@ id,latitude,longitude,name,address,zip,city,state
 555,46.946839,7.4556,Mühlenplatz,Schifflaube 1,3011,Bern,Active
 556,47.391289,8.537546,Schaffhauserplatz,Rotbuchstrasse 15,8006,Zürich,Active
 557,47.374206,8.514138,Idaplatz,Idaplatz 4,8003,Zürich,Active
-558,47.369549,8.518432,Schmiede Wiedikon,Brinerstrasse 2,8003,Zürich,Active
+558,47.369549,8.518432,ACHTUNG: Station wird am 10.1 an die Zweierstrasse 166 verschoben: Schmiede Wiedikon,Brinerstrasse 2,8003,Zürich,Active
 559,47.374241,8.525602,Bezirksgebäude,Badenerstrasse 90,8004,Zürich,Active
 560,47.376467,8.526609,Helvetiaplatz,Molkenstrasse 15,8004,Zürich,Active
 561,47.413733,8.541541,Center Eleven,Therese-Giehse-Strasse 11,8050,Zürich,Active
@@ -470,7 +470,7 @@ id,latitude,longitude,name,address,zip,city,state
 568,47.347701,8.528049,Jugendherberge,Mutschellenstrasse 114,8038,Zürich,Active
 569,47.405751,8.539016,Freibad Allenmoos,Ringstrasse 82,8057,Zürich,Active
 571,47.375556,8.547901,ETH/Zoologisches Museum,Karl-Schmid-Strasse 4,8006,Zürich,Active
-572,47.402164,8.534974,Radiostudio,Brache Guggach,8057,Zürich,Active
+572,47.402164,8.534974,ACHTUNG: Station wird am 10.1 an die  Wehntalerstrasse 98 verschoben: Radiostudio,Brache Guggach,8057,Zürich,Active
 574,47.45041071949902,8.563071583930034,Flughafen Kloten,Veloabstellplatz Parking 2,8058,Zürich Flughafen,Active
 580,46.800445,7.122294,Petit-Moncor,Route de Petit-Moncor,1752,Villars-sur-Glâne,Active
 581,46.514554,6.619263,Vaudoise Assurances,Avenue de Cour 43,1007,Lausanne,Active
@@ -623,4 +623,4 @@ id,latitude,longitude,name,address,zip,city,state
 755,46.317945,6.188104,"Coppet, Gare",Route de Founex,1296,Coppet,Active
 756,46.370779,6.228414,"Nyon, Stade de Colovray",Route de Genève 37,1260,Nyon,Active
 757,46.543261033642686,6.661545646440144,Croisettes-Biopôle,Route de la Corniche 2,1066,Epalinges,Active
-758,46.547872289288286,6.671632436126663,"Hors service pour des raisons techniques: Epalinges, Croix-Blanche",Rte de la Croix-Blanche 25,1066,Epalinges,Active
+758,46.547872289288286,6.671632436126663,"Epalinges, Croix-Blanche",Rte de la Croix-Blanche 25,1066,Epalinges,Active

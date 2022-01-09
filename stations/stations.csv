@@ -48,7 +48,7 @@ id,latitude,longitude,name,address,zip,city,state
 57,46.226652301126975,7.359097847094511,Gare de Sion Sud,Rue des Entrepôts,1950,Sion,Active
 58,46.2278,7.3595,Gare de Sion Nord,Avenue de la Gare,1950,Sion,Active
 59,46.23055,7.373705,Bietschhorn,Avenue Bietschhorn,1950,Sion,Active
-60,47.374785,8.539882,Achtung: Die Station wird am 31.12 wieder auf den Werdmühleplatz zurück verschoben: Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
+60,47.374785,8.539882,Achtung: Die Station befindet sich wieder auf dem Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
 61,47.4099615,8.5452956,Marktplatz,Querstrasse 8,8050,Zürich,Active
 77,46.234697,7.386034,Hôpital - CRR,Avenue du Grand-Champsec,1950,Sion,Active
 80,47.3795837,8.5156327,Bullingerplatz,Bullingerstrasse 5,8004,Zürich,Active
@@ -339,7 +339,7 @@ id,latitude,longitude,name,address,zip,city,state
 427,47.4188324,8.5064743,Zehntenhausplatz,Wehntalerstrasse 541,8046,Zürich,Active
 428,47.40158,8.58841,Hirzenbachstrasse,Hirzenbachstrasse 2-4,8051,Zürich,Active
 429,47.4080095,8.5777038,Luegisland,Luegislandstrasse 412,8051,Zürich,Active
-430,47.382089,8.547195,ACHTUNG: Station wird am 10.1 an die Stapferstrasse 7 verschoben: Stapferstube,Nelkenstrasse 24,8006,Zürich,Active
+430,47.382089,8.547195,ACHTUNG: Station wird am 18.1 an die Stapferstrasse 7 verschoben: Stapferstube,Nelkenstrasse 24,8006,Zürich,Active
 431,47.362209,8.510788,Binz Center,Grubenstrasse 52,8045,Zürich,Active
 432,46.235077,7.377833,P+R Stade,Rue des Echutes,1950,Sion,Active
 433,46.226638,7.342806,P+R Potences,Rue de l'Envol 28,1950,Sion,Active

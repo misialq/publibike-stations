@@ -48,7 +48,7 @@ id,latitude,longitude,name,address,zip,city,state
 57,46.226652301126975,7.359097847094511,Gare de Sion Sud,Rue des Entrepôts,1950,Sion,Active
 58,46.2278,7.3595,Gare de Sion Nord,Avenue de la Gare,1950,Sion,Active
 59,46.23055,7.373705,Bietschhorn,Avenue Bietschhorn,1950,Sion,Active
-60,47.374785,8.539882,Achtung: Die Station befindet sich wieder auf dem Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
+60,47.374785,8.539882,Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
 61,47.4099615,8.5452956,Marktplatz,Querstrasse 8,8050,Zürich,Active
 77,46.234697,7.386034,Hôpital - CRR,Avenue du Grand-Champsec,1950,Sion,Active
 80,47.3795837,8.5156327,Bullingerplatz,Bullingerstrasse 5,8004,Zürich,Active
@@ -457,7 +457,7 @@ id,latitude,longitude,name,address,zip,city,state
 555,46.946839,7.4556,Mühlenplatz,Schifflaube 1,3011,Bern,Active
 556,47.391289,8.537546,Schaffhauserplatz,Rotbuchstrasse 15,8006,Zürich,Active
 557,47.374206,8.514138,Idaplatz,Idaplatz 4,8003,Zürich,Active
-558,47.369549,8.518432,ACHTUNG: Station wird am 10.1 an die Zweierstrasse 166 verschoben: Schmiede Wiedikon,Brinerstrasse 2,8003,Zürich,Active
+558,47.370018,8.518165,ACHTUNG: Die Station wurde an die Zweierstrasse 166 verschoben: Schmiede Wiedikon,Zweierstrasse 166,8003,Zürich,Active
 559,47.374241,8.525602,Bezirksgebäude,Badenerstrasse 90,8004,Zürich,Active
 560,47.376467,8.526609,Helvetiaplatz,Molkenstrasse 15,8004,Zürich,Active
 561,47.413733,8.541541,Center Eleven,Therese-Giehse-Strasse 11,8050,Zürich,Active
@@ -470,7 +470,7 @@ id,latitude,longitude,name,address,zip,city,state
 568,47.347701,8.528049,Jugendherberge,Mutschellenstrasse 114,8038,Zürich,Active
 569,47.405751,8.539016,Freibad Allenmoos,Ringstrasse 82,8057,Zürich,Active
 571,47.375556,8.547901,ETH/Zoologisches Museum,Karl-Schmid-Strasse 4,8006,Zürich,Active
-572,47.402164,8.534974,ACHTUNG: Station wird am 10.1 an die  Wehntalerstrasse 98 verschoben: Radiostudio,Brache Guggach,8057,Zürich,Active
+572,47.402749,8.5355,ACHTUNG: Die Station wurde an die Wehntalerstrasse 98 verschoben: Radiostudio,Wehntalerstrasse 98,8057,Zürich,Active
 574,47.45041071949902,8.563071583930034,Flughafen Kloten,Veloabstellplatz Parking 2,8058,Zürich Flughafen,Active
 580,46.800445,7.122294,Petit-Moncor,Route de Petit-Moncor,1752,Villars-sur-Glâne,Active
 581,46.514554,6.619263,Vaudoise Assurances,Avenue de Cour 43,1007,Lausanne,Active
@@ -624,3 +624,7 @@ id,latitude,longitude,name,address,zip,city,state
 756,46.370779,6.228414,"Nyon, Stade de Colovray",Route de Genève 37,1260,Nyon,Active
 757,46.543261033642686,6.661545646440144,Croisettes-Biopôle,Route de la Corniche 2,1066,Epalinges,Active
 758,46.547872289288286,6.671632436126663,"Epalinges, Croix-Blanche",Rte de la Croix-Blanche 25,1066,Epalinges,Active
+762,46.23517,7.35027,Agasse,Chemin de l'Agasse,1950,Sion,Active
+763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
+764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
+765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active

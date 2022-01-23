@@ -231,7 +231,7 @@ id,latitude,longitude,name,address,zip,city,state
 278,47.417701,8.545602,Emil-Oberhänsli,Felsenrainstrasse 2,8050,Zürich,Active
 279,47.39808,8.533647,Bucheggplatz,Bucheggplatz 2,8057,Zürich,Active
 280,47.392347,8.523549,Wipkingerplatz,Wipkingerplatz 4,8037,Zürich,Active
-284,46.520323,6.631268,Place de l’Europe,Place Centrale,1003,Lausanne,Active
+284,46.520469823395864,6.630836110862832,"Station déplacée pendant les travaux du Grand-Pont, Place de l’Europe",Place Centrale,1003,Lausanne,Active
 285,47.36691,8.548562,Bahnhof Stadelhofen,Galerie über Gleis 3,8001,Zürich,Active
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
 288,45.982056,8.918121,Montagnola Piazza Brocchi,Piazza Brocchi,6926,Montagnola,Active
@@ -339,7 +339,7 @@ id,latitude,longitude,name,address,zip,city,state
 427,47.4188324,8.5064743,Zehntenhausplatz,Wehntalerstrasse 541,8046,Zürich,Active
 428,47.40158,8.58841,Hirzenbachstrasse,Hirzenbachstrasse 2-4,8051,Zürich,Active
 429,47.4080095,8.5777038,Luegisland,Luegislandstrasse 412,8051,Zürich,Active
-430,47.382089,8.547195,ACHTUNG: Station wird am 18.1 an die Stapferstrasse 7 verschoben: Stapferstube,Nelkenstrasse 24,8006,Zürich,Active
+430,47.382577,8.546903,ACHTUNG: Die Station wurde an die Stapferstrasse 7 verschoben: Stapferstube,Stapferstrasse 7,8006,Zürich,Active
 431,47.362209,8.510788,Binz Center,Grubenstrasse 52,8045,Zürich,Active
 432,46.235077,7.377833,P+R Stade,Rue des Echutes,1950,Sion,Active
 433,46.226638,7.342806,P+R Potences,Rue de l'Envol 28,1950,Sion,Active
@@ -624,6 +624,7 @@ id,latitude,longitude,name,address,zip,city,state
 756,46.370779,6.228414,"Nyon, Stade de Colovray",Route de Genève 37,1260,Nyon,Active
 757,46.543261033642686,6.661545646440144,Croisettes-Biopôle,Route de la Corniche 2,1066,Epalinges,Active
 758,46.547872289288286,6.671632436126663,"Epalinges, Croix-Blanche",Rte de la Croix-Blanche 25,1066,Epalinges,Active
+761,46.79633089439779,7.131816212475342,Le Domaine (Swiss Lodge),Chem. des Eaux-Vives 17,1752,Villars-sur-Glâne,Active
 762,46.23517,7.35027,Agasse,Chemin de l'Agasse,1950,Sion,Active
 763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
 764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active

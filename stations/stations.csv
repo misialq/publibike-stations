@@ -568,7 +568,7 @@ id,latitude,longitude,name,address,zip,city,state
 694,45.849794,8.944964,Stabio Stazione FFS,Via Cantonale 11,6855,Stabio,Active
 695,45.848177,8.936794,Stabio via Mulino,Prati del Trevano,6855,Stabio,Active
 696,45.991069,8.936421,Gentilino,Via Nocc,6925,Collina d'Oro,Active
-697,46.29883640615767,7.540133582460179,temporär ausser Betrieb/hors service,Chemin du Grand Lac,3960,Sierre,Active
+697,46.29883640615767,7.540133582460179,Sierre Piscine de Guillamo temporär ausser Betrieb/hors service,Chemin du Grand Lac,3960,Sierre,Active
 698,46.22707219319727,7.362775883948622,Campus Energypolis,Rue de l'Industrie,1950,Sion,Active
 699,45.858612,8.940146,Stabio Via Segeno,Via Segeno,6855,Stabio,Active
 701,47.375748,8.548599,ETH Karl-Schmid-Strasse: Mobile Station Zürich 2,Karl-Schmid-Strasse 1,8006,Zürich,Active
@@ -629,3 +629,4 @@ id,latitude,longitude,name,address,zip,city,state
 763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
 764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
 765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
+766,46.020826,8.964896,Quartiere 9 Pregassona,Via Industria,6963,Lugano,Active

@@ -219,7 +219,7 @@ id,latitude,longitude,name,address,zip,city,state
 263,47.359978,8.552717,Feldeggstrasse,Seefeldstrasse 96,8008,Zürich,Active
 264,47.353198,8.553189,Lake Side,Bellerivestrasse 170,8008,Zürich,Active
 266,47.375819,8.516676,Lochergut,Badenerstrasse 246,8004,Zürich,Active
-268,46.292116,7.522262,Hôpital / ECAV,Rue de l'Hôpital 14,3960,Sierre,Active
+268,46.292116,7.522262,Hors service: Hôpital / ECAV,Rue de l'Hôpital 14,3960,Sierre,Active
 269,46.283387,7.53985,Technopôle,Route de Sous-Géronde 40-42,3960,Sierre,Active
 270,46.291525,7.533052,Sierre Gare,Chemin du Petit-Bois,3960,Sierre,Active
 271,46.9478655,7.4371433,Open 06:00 - 22:00 In der Velostation PostParc,Schanzenstrasse 5,3008,Bern,Active
@@ -629,4 +629,4 @@ id,latitude,longitude,name,address,zip,city,state
 763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
 764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
 765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
-766,46.020826,8.964896,Quartiere 9 Pregassona,Via Industria,6963,Lugano,Active
+766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active

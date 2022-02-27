@@ -40,7 +40,7 @@ id,latitude,longitude,name,address,zip,city,state
 49,46.005413,8.952597,Piazza Mercato/Contrada di Verla,Via Pretorio / Piazza Mercato,6900,Lugano,Active
 50,45.984764,8.932378,Fornaci,Via Pian Scairolo 9,6912,Pazzallo,Active
 51,45.991081,8.943799,Paradiso Centro,Via Franco Zorzi,6900,Lugano,Active
-52,46.232469,7.358425,Planta,Place de la Planta,1950,Sion,Active
+52,46.232469,7.358425,"Planta: Carnaval, station fermée jusqu'au 28.02",Place de la Planta,1950,Sion,Inactive
 53,46.232201,7.363252,Scex,Place du Scex,1950,Sion,Active
 54,46.2285,7.3507,Ancien Stand,Avenue de France,1950,Sion,Active
 55,46.224204,7.333028,Châteauneuf-Furet,Avenue Maurice-Troillet,1950,Sion,Active
@@ -189,7 +189,7 @@ id,latitude,longitude,name,address,zip,city,state
 231,46.9524539,7.4354213,Hallerstrasse,Hallerstrasse 9,3012,Bern,Active
 232,46.9441328,7.449692,Helvetiaplatz Bern,Helvetiaplatz 1,3005,Bern,Active
 233,46.802604,7.1509925,Gare de Fribourg,Avenue de la Gare 1,1700,Fribourg,Active
-234,46.815219,7.155715,Poya,Rue de Morat,1700,Fribourg,Active
+234,46.815219,7.155715,Fribourg-Gottéron,Rue de Morat,1700,Fribourg,Active
 235,46.793372,7.1584206,Uni Pérolles,Boulevard de Pérolles 95,1700,Fribourg,Active
 236,46.8104076,7.1730614,Schönberg,Route de la Heitera 3,1700,Fribourg,Active
 237,46.806661,7.1620248,Bourg,Place de Notre-Dame,1700,Fribourg,Active
@@ -219,7 +219,7 @@ id,latitude,longitude,name,address,zip,city,state
 263,47.359978,8.552717,Feldeggstrasse,Seefeldstrasse 96,8008,Zürich,Active
 264,47.353198,8.553189,Lake Side,Bellerivestrasse 170,8008,Zürich,Active
 266,47.375819,8.516676,Lochergut,Badenerstrasse 246,8004,Zürich,Active
-268,46.292116,7.522262,Hors service: Hôpital / ECAV,Rue de l'Hôpital 14,3960,Sierre,Active
+268,46.292116,7.522262,Hôpital / ECAV,Rue de l'Hôpital 14,3960,Sierre,Active
 269,46.283387,7.53985,Technopôle,Route de Sous-Géronde 40-42,3960,Sierre,Active
 270,46.291525,7.533052,Sierre Gare,Chemin du Petit-Bois,3960,Sierre,Active
 271,46.9478655,7.4371433,Open 06:00 - 22:00 In der Velostation PostParc,Schanzenstrasse 5,3008,Bern,Active
@@ -564,7 +564,7 @@ id,latitude,longitude,name,address,zip,city,state
 690,45.83031984322107,8.996931081752528,Seseglio,Via Campagna 4,6832,Pedrinate (località Seseglio),Active
 691,45.856501,8.988615,ColdreBike,Via San Gottardo,6877,Coldrerio,Active
 692,45.83248,9.033629,Chiasso Stazione FFS,Piazza Elvezia,6830,Chiasso,Active
-693,45.835102068444385,9.027882228092864,Chiasso Municipio,Piazza Col. C. Bernasconi 1,6830,Chiasso,Active
+693,45.835102068444385,9.027882228092864,"Chiasso Municipio: Carnevale, fuori servizio fino al 1° marzo.",Piazza Col. C. Bernasconi 1,6830,Chiasso,Inactive
 694,45.849794,8.944964,Stabio Stazione FFS,Via Cantonale 11,6855,Stabio,Active
 695,45.848177,8.936794,Stabio via Mulino,Prati del Trevano,6855,Stabio,Active
 696,45.991069,8.936421,Gentilino,Via Nocc,6925,Collina d'Oro,Active

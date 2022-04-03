@@ -208,7 +208,7 @@ id,latitude,longitude,name,address,zip,city,state
 252,46.9497908,7.4441278,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
-255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
+255,46.9526864,7.4299899,ACHTUNG: Die Station ist aufgrund Beschädigung durch ein Starssenfahrzeug bis voraussichtlich am Montag 4.4.2022 ausser Betrieb: Pauluskirche Bern,Freiestrasse 3,3012,Bern,Inactive
 256,46.9555118,7.4768856,Zentweg,Zentweg 25,3006,Bern,Active
 257,46.9480422,7.4502406,Simsonbrunnen,Kramgasse 40,3011,Bern,Active
 258,46.9475995,7.4473498,Theaterplatz,Theaterplatz 4,3011,Bern,Active
@@ -222,7 +222,7 @@ id,latitude,longitude,name,address,zip,city,state
 268,46.292116,7.522262,Hôpital / ECAV,Rue de l'Hôpital 14,3960,Sierre,Active
 269,46.283387,7.53985,Technopôle,Route de Sous-Géronde 40-42,3960,Sierre,Active
 270,46.291525,7.533052,Sierre Gare,Chemin du Petit-Bois,3960,Sierre,Active
-271,46.94791529277261,7.437537592453252,PostParc Velostation - INSIDE the building!,Schanzenstrasse 5,3008,Bern,Active
+271,46.947856328360984,7.436903989490435,PostParc Velostation - INSIDE the building!,Schanzenstrasse 5,3008,Bern,Active
 273,47.389862,8.514605,Westpark,Pfingstweidstrasse 60,8005,Zürich,Active
 274,47.375991201,8.541239126,Beatenplatz,Beatenplatz 1,8001,Zürich,Active
 275,47.394007,8.542036,Pauluskirche,Milchbuckstrasse 52,8057,Zürich,Active
@@ -270,7 +270,7 @@ id,latitude,longitude,name,address,zip,city,state
 321,46.93965162143165,7.440241261842887,Monbijoubrücke,Eigerstrasse 80,3007,Bern,Active
 322,46.9347023,7.4420357,Schöneggweg,Zinggstrasse 37,3007,Bern,Active
 323,46.933646280041835,7.448225744500959,Restaurant Dählhölzli,Tierparkweg 2,3005,Bern,Active
-324,46.9458861,7.4146074,Schenkstrasse,Huberstrasse 2,3008,Bern,Active
+324,46.94588,7.41549,Schenkstrasse,Huberstrasse 2,3008,Bern,Active
 325,46.9360173,7.4300596,Bahnhof Weissenbühl,Südbahnhofstrasse 14b,3007,Bern,Active
 326,46.9478691,7.4598938,Bärenpark,Grosser-Muristalden 4,3006,Bern,Active
 327,46.938964,7.4476281,Anshelmstrasse,Aegertenstrasse 49,3005,Bern,Active
@@ -318,7 +318,7 @@ id,latitude,longitude,name,address,zip,city,state
 391,47.401852,8.499265,Meierhofplatz,Limmattalstrasse 177,8049,Zürich,Active
 392,47.393309,8.528074,Röschibachplatz,Röschibachstrasse 73,8037,Zürich,Active
 393,47.415721,8.538067,Oerliker Park,Birchstrasse 191,8050,Zürich,Active
-395,47.3669233,8.5420304,Bürkliplatz,Stadthausquai 1,8001,Zürich,Active
+395,47.3669233,8.5420304,ACHTUNG: Die Station ist bis auf Weiteres ausser Betrieb. Die nächste Station finden Sie auf der PubliBike-App: Bürkliplatz,Stadthausquai 1,8001,Zürich,Inactive
 396,47.409881,8.535767,Holunderhof,Regensbergstrasse 195,8050,Zürich,Active
 411,46.9257473,7.3770699,Niederwangen Bahnhof,Freiburgstrasse 554a,3098,Köniz,Active
 412,46.9266467,7.4359484,Bellevuestrasse,Bellevuestrasse 75,3095,Köniz,Active
@@ -398,6 +398,7 @@ id,latitude,longitude,name,address,zip,city,state
 489,46.523333,6.625402,Chauderon,Place Chauderon 11,1003,Lausanne,Active
 490,46.534129,6.606292,Prilly-Centre,Route de Cossonay 28,1008,Prilly,Active
 491,46.9650342,7.4514649,Wylerbad,Scheibenstrasse 65c,3014,Bern,Active
+492,46.947825089118304,7.437944273944041,HIER KEINE PUBLIBIKES. Nur im Gebäude während der Öffnungszeiten,Bogenschützenstrasse 10,3011,Bern,Inactive
 494,45.970318,8.88374,Caslano Piazza Lago,Piazza Lago,6987,Caslano,Active
 497,46.9579458,7.4537747,Breitenrainplatz,Moserstrasse 33,3013,Bern,Active
 499,46.801805,7.136609,Hôpital Fribourgeois,Chemin des Pensionnats,1752,Villars-sur-Glâne,Active
@@ -463,7 +464,7 @@ id,latitude,longitude,name,address,zip,city,state
 562,47.370238,8.514841,Goldbrunnenplatz,Schrennengasse 37,8003,Zürich,Active
 563,47.360004,8.534227,Mythenschloss,Alfred Escher-Strasse 76,8002,Zürich,Active
 564,47.345248,8.535082,GZ Wollishofen,Bachstrasse 15,8038,Zürich,Active
-565,47.381355,8.532727,ACHTUNG: Die Station wurde aufgrund Bauarbeiten vor die Klingenstrasse 9 verschoben: Zollstrasse,Klingenstrasse 9,8005,Zürich,Active
+565,47.381355,8.532727,Zollstrasse,Klingenstrasse 9,8005,Zürich,Active
 566,47.396172,8.50373,Am Wasser,Hardeggstrasse 6,8049,Zürich,Active
 567,47.381447,8.497982,Dennlerstrasse,Dennlerstrasse 23,8047,Zürich,Active
 568,47.347701,8.528049,Jugendherberge,Mutschellenstrasse 114,8038,Zürich,Active
@@ -625,7 +626,7 @@ id,latitude,longitude,name,address,zip,city,state
 758,46.547872289288286,6.671632436126663,"Epalinges, Croix-Blanche",Rte de la Croix-Blanche 25,1066,Epalinges,Active
 761,46.79633089439779,7.131816212475342,Le Domaine (Swiss Lodge),Chem. des Eaux-Vives 17,1752,Villars-sur-Glâne,Active
 762,46.23517,7.35027,Agasse,Chemin de l'Agasse,1950,Sion,Active
-763,46.51649685275541,6.550408183414197,Vallaire - hors service pour des raisons techniques,Champs-Courbes,1024,Ecublens,Active
+763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
 764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
 765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
 766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active
@@ -634,3 +635,5 @@ id,latitude,longitude,name,address,zip,city,state
 769,46.776884,7.139565,Bel-Air,Route de Bel-Air 17,1723,Marly,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,8830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
+772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
+773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active

@@ -208,7 +208,7 @@ id,latitude,longitude,name,address,zip,city,state
 252,46.9497908,7.4441278,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
-255,46.9526864,7.4299899,ACHTUNG: Die Station ist aufgrund Beschädigung durch ein Starssenfahrzeug bis voraussichtlich am Montag 4.4.2022 ausser Betrieb: Pauluskirche Bern,Freiestrasse 3,3012,Bern,Inactive
+255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
 256,46.9555118,7.4768856,Zentweg,Zentweg 25,3006,Bern,Active
 257,46.9480422,7.4502406,Simsonbrunnen,Kramgasse 40,3011,Bern,Active
 258,46.9475995,7.4473498,Theaterplatz,Theaterplatz 4,3011,Bern,Active
@@ -398,7 +398,6 @@ id,latitude,longitude,name,address,zip,city,state
 489,46.523333,6.625402,Chauderon,Place Chauderon 11,1003,Lausanne,Active
 490,46.534129,6.606292,Prilly-Centre,Route de Cossonay 28,1008,Prilly,Active
 491,46.9650342,7.4514649,Wylerbad,Scheibenstrasse 65c,3014,Bern,Active
-492,46.947825089118304,7.437944273944041,HIER KEINE PUBLIBIKES. Nur im Gebäude während der Öffnungszeiten,Bogenschützenstrasse 10,3011,Bern,Inactive
 494,45.970318,8.88374,Caslano Piazza Lago,Piazza Lago,6987,Caslano,Active
 497,46.9579458,7.4537747,Breitenrainplatz,Moserstrasse 33,3013,Bern,Active
 499,46.801805,7.136609,Hôpital Fribourgeois,Chemin des Pensionnats,1752,Villars-sur-Glâne,Active
@@ -637,3 +636,4 @@ id,latitude,longitude,name,address,zip,city,state
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
 772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
+774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active

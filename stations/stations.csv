@@ -37,7 +37,7 @@ id,latitude,longitude,name,address,zip,city,state
 46,46.021942,8.962901,Via Ciani,Via Giacomo E Filippo Ciani,6900,Lugano,Active
 47,46.02398,8.968292,Pregassona,Via Terzerina,6900,Lugano,Active
 48,46.0105808,8.95794,USI,Via Giuseppe Buffi 13,6900,Lugano,Active
-49,46.005413,8.952597,Piazza Mercato/Contrada di Verla,Via Pretorio / Piazza Mercato,6900,Lugano,Active
+49,46.005707,8.95184,Piazza Mercato/Contrada di Verla,Via Pretorio / Piazza Mercato,6900,Lugano,Active
 50,45.984764,8.932378,Fornaci,Via Pian Scairolo 9,6912,Pazzallo,Active
 51,45.991081,8.943799,Paradiso Centro,Via Franco Zorzi,6900,Lugano,Active
 52,46.232469,7.358425,Planta,Place de la Planta,1950,Sion,Active
@@ -318,7 +318,7 @@ id,latitude,longitude,name,address,zip,city,state
 391,47.401852,8.499265,Meierhofplatz,Limmattalstrasse 177,8049,Zürich,Active
 392,47.393309,8.528074,Röschibachplatz,Röschibachstrasse 73,8037,Zürich,Active
 393,47.415721,8.538067,Oerliker Park,Birchstrasse 191,8050,Zürich,Active
-395,47.3669233,8.5420304,ACHTUNG: Die Station ist bis auf Weiteres ausser Betrieb. Die nächste Station finden Sie auf der PubliBike-App: Bürkliplatz,Stadthausquai 1,8001,Zürich,Inactive
+395,47.3669233,8.5420304,ACHTUNG: Die Station ist bis auf Weiteres ausser Betrieb - Bürkliplatz,Stadthausquai 1,8001,Zürich,Inactive
 396,47.409881,8.535767,Holunderhof,Regensbergstrasse 195,8050,Zürich,Active
 411,46.9257473,7.3770699,Niederwangen Bahnhof,Freiburgstrasse 554a,3098,Köniz,Active
 412,46.9266467,7.4359484,Bellevuestrasse,Bellevuestrasse 75,3095,Köniz,Active
@@ -417,7 +417,7 @@ id,latitude,longitude,name,address,zip,city,state
 514,47.397885,8.596202,Bahnhof Stettbach,Bahnhof Stettbach,8051,Zürich,Active
 515,47.3690153,8.5543974,Hottingerplatz,Kasinostrasse 10,8032,Zürich,Active
 516,47.418472,8.561746,Sirius-Platz,Sirius-Platz,8152,Opfikon,Active
-517,47.43326,8.56635,Stadthaus Opfikon,Oberhauserstrasse 25,8152,Opfikon,Active
+517,47.43326,8.56635,ACHTUNG: Die Station wird am 28.4 bis Anfang Juli an die Oberhauserstrasse 29 verlegt: Stadthaus Opfikon,Oberhauserstrasse 25,8152,Opfikon,Active
 518,47.39572,8.62328,Oberdorf,Alte Oberdorfstrasse 15,8600,Dübendorf,Active
 519,47.430911,8.562033,Bahnhof Opfikon,Schaffhauserstrasse 64,8152,Opfikon,Active
 520,47.40245,8.62726,Flugplatz Dübendorf,Wangenstrasse 47-39,8600,Dübendorf,Active
@@ -533,7 +533,7 @@ id,latitude,longitude,name,address,zip,city,state
 647,46.80007,7.140663,Vignettaz - Daler,Route de Villars 22,1700,Fribourg,Active
 648,46.949233,7.436822,Open 07:00 - 18:00 In der Velostation Schanzenbrücke,Velostation Parkterrasse,3012,Bern,Active
 660,47.3525,8.527157,Muggenbühl,Mutschellenstrasse 36,8038,Zürich,Active
-661,47.36910680440694,8.541427242856333,Stadthaus,Kappelergasse,8001,Zürich,Active
+661,47.36910680440694,8.541427242856333,ACHTUNG: Die Station ist vom 21.4 - 26.4 aufgrund des Sechseläutens ausser Betrieb: Stadthaus,Kappelergasse,8001,Zürich,Active
 662,47.369181,8.505787,Heuried ZüriMobil Station,Wasserschöpfi,8055,Zürich,Active
 663,46.951897864484735,7.442042659901252,Kleeplatz / Bollwerk,Bollwerk 41,3011,Bern,Active
 664,46.011494,8.961011,Campus Est,Via la Santa,6962,Viganello,Active
@@ -637,3 +637,8 @@ id,latitude,longitude,name,address,zip,city,state
 772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
+775,46.33982789077853,6.171712814161744,"Founex, Ecole internationale",Chemin de la Ferme 2,1297,Founex,Active
+776,46.81936091435492,7.102468450680388,"Belfaux, Champ Bonjart",Champ Bonjart 1,1782,Belfaux,Active
+777,46.80799726436817,7.143350342709623,Route des Noisetiers,Route des Noisetiers,1700,Fribourg,Active
+778,46.81077819593714,7.139183090960676,P+R La Chassotte,Route du Jura,1700,Fribourg,Active
+779,46.82142609198569,7.10838613913462,Gare de Belfaux-Village,Place de la Gare GFM,1782,Belfaux,Active

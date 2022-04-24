@@ -1,6 +1,6 @@
 id,latitude,longitude,name,address,zip,city,state
 6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Lausanne,Active
-7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Lausanne,Active
+7,46.522591,6.584961,"Dorigny: Unilive, station fermée du 25.04, 12h au 02.05, 12h",UNIL Dorigny Bâtiment Extranef,1015,Lausanne,Active
 8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Lausanne,Active
 9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Lausanne,Active
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
@@ -533,7 +533,7 @@ id,latitude,longitude,name,address,zip,city,state
 647,46.80007,7.140663,Vignettaz - Daler,Route de Villars 22,1700,Fribourg,Active
 648,46.949233,7.436822,Open 07:00 - 18:00 In der Velostation Schanzenbrücke,Velostation Parkterrasse,3012,Bern,Active
 660,47.3525,8.527157,Muggenbühl,Mutschellenstrasse 36,8038,Zürich,Active
-661,47.36910680440694,8.541427242856333,ACHTUNG: Die Station ist vom 21.4 - 26.4 aufgrund des Sechseläutens ausser Betrieb: Stadthaus,Kappelergasse,8001,Zürich,Active
+661,47.36910680440694,8.541427242856333,ACHTUNG: Die Station ist bis am 26.4 aufgrund des Sechseläutens ausser Betrieb: Stadthaus,Kappelergasse,8001,Zürich,Inactive
 662,47.369181,8.505787,Heuried ZüriMobil Station,Wasserschöpfi,8055,Zürich,Active
 663,46.951897864484735,7.442042659901252,Kleeplatz / Bollwerk,Bollwerk 41,3011,Bern,Active
 664,46.011494,8.961011,Campus Est,Via la Santa,6962,Viganello,Active

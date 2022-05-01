@@ -1,6 +1,6 @@
 id,latitude,longitude,name,address,zip,city,state
 6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Lausanne,Active
-7,46.522591,6.584961,"Dorigny: Unilive, station fermée du 25.04, 12h au 02.05, 12h",UNIL Dorigny Bâtiment Extranef,1015,Lausanne,Active
+7,46.522591,6.584961,"Dorigny: Unilive, station fermée du 25.04, 12h au 02.05, 12h",UNIL Dorigny Bâtiment Extranef,1015,Lausanne,Inactive
 8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Lausanne,Active
 9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Lausanne,Active
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
@@ -26,7 +26,7 @@ id,latitude,longitude,name,address,zip,city,state
 35,46.510562,6.499863,Temple,Grand-Rue,1110,Morges,Active
 36,46.51856,6.50736,Gracieuse,Avenue de Lonay,1110,Morges,Active
 37,46.537813,6.581462,Place du Marché,Rue du Midi,1020,Renens,Active
-38,46.526347,6.603215,Halte de Malley: station déplacée à long terme,Avenue du Chablais,1008,Prilly,Active
+38,46.526347,6.603215,Halte de Malley,Avenue du Chablais,1008,Prilly,Active
 39,46.52804418,6.59119606,Longemalle,Avenue de Longemalle,1020,Renens,Active
 40,45.9242,8.9192,Morcote,Riva Dal Garavéll 8,6922,Morcote,Active
 41,45.953905,8.949715,Melide,Via alla Bola,6815,Melide,Active
@@ -128,7 +128,7 @@ id,latitude,longitude,name,address,zip,city,state
 167,46.39294,6.23856,"Nyon, Triangle de l'Etraz",Route de l'Etraz 70,1260,Nyon,Active
 168,46.417718,6.267441,"Gland, Swissquote",Chemin de la Crétaux 2,1196,Gland,Active
 169,46.4223802,6.2585274,"Gland, Les Tuillières",Rue des Tuillières 1,1196,Gland,Active
-170,46.42047298933135,6.270098874504789,"Gland, Gare Sud, travaux, déplacée de 40m a nord en mars-avril",Rue du Perron 2,1196,Gland,Active
+170,46.42047298933135,6.270098874504789,"Gland, Gare Sud",Rue du Perron 2,1196,Gland,Active
 171,46.41609,6.278163,"Gland, UICN",Rue Mauverney 28,1196,Gland,Active
 174,46.9436036,7.4071777,Europaplatz,Freiburgstrasse 130,3008,Bern,Active
 175,46.9393577,7.3863865,Statthalterstrasse,Freieckweg 2,3018,Bern,Active
@@ -417,7 +417,7 @@ id,latitude,longitude,name,address,zip,city,state
 514,47.397885,8.596202,Bahnhof Stettbach,Bahnhof Stettbach,8051,Zürich,Active
 515,47.3690153,8.5543974,Hottingerplatz,Kasinostrasse 10,8032,Zürich,Active
 516,47.418472,8.561746,Sirius-Platz,Sirius-Platz,8152,Opfikon,Active
-517,47.43326,8.56635,ACHTUNG: Die Station wird am 28.4 bis Anfang Juli an die Oberhauserstrasse 29 verlegt: Stadthaus Opfikon,Oberhauserstrasse 25,8152,Opfikon,Active
+517,47.431787,8.567171,ACHTUNG: Die Station befindet sich bis Anfang Juli an der Oberhauserstrasse 29: Stadthaus Opfikon,Oberhauserstrasse 29,8152,Opfikon,Active
 518,47.39572,8.62328,Oberdorf,Alte Oberdorfstrasse 15,8600,Dübendorf,Active
 519,47.430911,8.562033,Bahnhof Opfikon,Schaffhauserstrasse 64,8152,Opfikon,Active
 520,47.40245,8.62726,Flugplatz Dübendorf,Wangenstrasse 47-39,8600,Dübendorf,Active
@@ -533,7 +533,7 @@ id,latitude,longitude,name,address,zip,city,state
 647,46.80007,7.140663,Vignettaz - Daler,Route de Villars 22,1700,Fribourg,Active
 648,46.949233,7.436822,Open 07:00 - 18:00 In der Velostation Schanzenbrücke,Velostation Parkterrasse,3012,Bern,Active
 660,47.3525,8.527157,Muggenbühl,Mutschellenstrasse 36,8038,Zürich,Active
-661,47.36910680440694,8.541427242856333,ACHTUNG: Die Station ist bis am 26.4 aufgrund des Sechseläutens ausser Betrieb: Stadthaus,Kappelergasse,8001,Zürich,Inactive
+661,47.36910680440694,8.541427242856333,Stadthaus,Kappelergasse,8001,Zürich,Active
 662,47.369181,8.505787,Heuried ZüriMobil Station,Wasserschöpfi,8055,Zürich,Active
 663,46.951897864484735,7.442042659901252,Kleeplatz / Bollwerk,Bollwerk 41,3011,Bern,Active
 664,46.011494,8.961011,Campus Est,Via la Santa,6962,Viganello,Active
@@ -642,3 +642,6 @@ id,latitude,longitude,name,address,zip,city,state
 777,46.80799726436817,7.143350342709623,Route des Noisetiers,Route des Noisetiers,1700,Fribourg,Active
 778,46.81077819593714,7.139183090960676,P+R La Chassotte,Route du Jura,1700,Fribourg,Active
 779,46.82142609198569,7.10838613913462,Gare de Belfaux-Village,Place de la Gare GFM,1782,Belfaux,Active
+780,46.003948,8.961542,Foce,Via Foce,6900,Lugano,Active
+781,46.018784,8.962014,CSIA,Via Brentani,6900,Lugano,Active
+783,45.994723,8.943257,Casserina,Via Clemente Maraini 39,6900,Lugano,Active

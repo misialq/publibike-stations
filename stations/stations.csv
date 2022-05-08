@@ -1,12 +1,12 @@
 id,latitude,longitude,name,address,zip,city,state
-6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Lausanne,Active
-7,46.522591,6.584961,"Dorigny: Unilive, station fermée du 25.04, 12h au 02.05, 12h",UNIL Dorigny Bâtiment Extranef,1015,Lausanne,Inactive
-8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Lausanne,Active
+6,46.518108,6.564945,"BALELEC: station fermée du 12.05, 20h au 14.05, 15h! Colladon",Route J-D. Colladon,1015,Lausanne,Active
+7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Lausanne,Active
+8,46.518951,6.562162,"BALELEC: station fermée du 12.05, 20h au 14.05, 15h! Place Alan Turing",Chemin Alan Turing,1015,Lausanne,Active
 9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Lausanne,Active
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
-11,46.521978,6.564896,Rivier,Route de la Sorge,1015,Lausanne,Active
-12,46.520723,6.568276,Piccard,Avenue Piccard,1015,Lausanne,Active
-13,46.517153,6.561272,Quartier de l'innovation,Quartier Innovation EPFL Bât. G,1015,Lausanne,Active
+11,46.521978,6.564896,BALELEC: station fermée dès le 09.05 à 20h! Rivier,Route de la Sorge,1015,Lausanne,Active
+12,46.520723,6.568276,BALELEC: station fermée dès le 09.05 à 20h! Piccard,Avenue Piccard,1015,Lausanne,Active
+13,46.517153,6.561272,"BALELEC: station fermée du 12.05, 20h au 14.05, 15h! Quartier de l'innovation",Quartier Innovation EPFL Bât. G,1015,Lausanne,Active
 14,46.5224054,6.5655126,Quartier nord,Campus,1000,Campus,Active
 18,46.5367962297447,6.57834071739537,Gare de Renens,Place de la gare,1020,Renens,Active
 20,46.506896,6.626253,Ouchy,Place de la Navigation,1006,Lausanne,Active
@@ -207,13 +207,13 @@ id,latitude,longitude,name,address,zip,city,state
 251,46.94880605134163,7.4476088202522766,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
 252,46.9497908,7.4441278,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
-254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
+254,46.9486345,7.4567436,Nydegg: ACHTUNG Ab 13.05.2022 19:00 bis 14.05.2022 19:00 ist die Station nicht verfügbar,Nydeggasse 13,3011,Bern,Active
 255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
 256,46.9555118,7.4768856,Zentweg,Zentweg 25,3006,Bern,Active
 257,46.9480422,7.4502406,Simsonbrunnen,Kramgasse 40,3011,Bern,Active
 258,46.9475995,7.4473498,Theaterplatz,Theaterplatz 4,3011,Bern,Active
 259,46.9539295,7.4267524,Waldheim,Freiestrasse 43,3012,Bern,Active
-260,46.9486794,7.4532728,Postgasse,Postgasse 66,3011,Bern,Active
+260,46.9486794,7.4532728,Postgasse: ACHTUNG Ab 13.05.2022 19:00 bis 14.05.2022 19:00 ist die Station nicht verfügbar,Postgasse 66,3011,Bern,Active
 261,46.9366583,7.4679887,Ringoltingenstrasse,Ringoltingenstrasse 21,3006,Bern,Active
 262,46.9416249,7.4631929,Böcklinstrasse,Brunnadernstrasse 20,3006,Bern,Active
 263,47.359978,8.552717,Feldeggstrasse,Seefeldstrasse 96,8008,Zürich,Active
@@ -284,7 +284,7 @@ id,latitude,longitude,name,address,zip,city,state
 335,46.54873,6.57476,Mongevon,Chemin de Mongevon 4,1023,Crissier,Active
 347,46.941479,7.466444,Burgernziel,Muristrasse 64,3006,Bern,Active
 348,46.971987,7.445082,Rossfeld,Rossfeldstrasse 17,3004,Bern,Active
-352,46.9403,7.458608,Thunplatz,Thunplatz 52,3005,Bern,Active
+352,46.9403,7.458608,Thunplatz: ACHTUNG Ab 13.05.2022 19:00 bis 14.05.2022 19:00 ist die Station nicht verfügbar,Thunplatz 52,3005,Bern,Active
 353,46.94831,7.44035,Bahnhofplatz Mobile Station Bern 4,Spitalgasse 44,3011,Bern,Active
 356,47.380319,8.552615,Siriuswiese,Siriusstrasse 4,8044,Zürich,Active
 357,47.370141,8.527298,Hallwylstrasse,Hallwylstrasse 71,8004,Zürich,Active
@@ -553,7 +553,7 @@ id,latitude,longitude,name,address,zip,city,state
 680,46.946852812713296,7.483654624791477,Merzenacker,Obere Zollgasse 94,3006,Bern,Active
 681,46.93987160970557,7.425113039012359,Weberstrasse,Weberstrasse 25,3007,Bern,Active
 682,46.938845,7.4210796,Kirchbergerstrasse,Kirchbergerstrasse 41,3008,Bern,Active
-683,46.948471616973904,7.450529302235038,Rathausgasse,Rathausgasse 31,3000,Bern,Active
+683,46.948471616973904,7.450529302235038,Rathausgasse: ACHTUNG Ab 13.05.2022 19:00 bis 14.05.2022 19:00 ist die Station nicht verfügbar,Rathausgasse 31,3000,Bern,Active
 684,45.87125166693927,8.98675487202064,Mendrisio Municipio,Via Municipio,6850,Mendrisio,Active
 685,45.87216325637743,8.983528791038395,Mendrisio CPI,Via Franco Zorzi,6850,Mendrisio,Active
 686,45.8762029265714,8.981280464481735,Mendrisio Fox Town,Via Moree,6850,Mendrisio,Active
@@ -644,4 +644,6 @@ id,latitude,longitude,name,address,zip,city,state
 779,46.82142609198569,7.10838613913462,Gare de Belfaux-Village,Place de la Gare GFM,1782,Belfaux,Active
 780,46.003948,8.961542,Foce,Via Foce,6900,Lugano,Active
 781,46.018784,8.962014,CSIA,Via Brentani,6900,Lugano,Active
+782,46.029052,8.969857,Ecocentro Pregassona,Via Ruggì 46,6963,Pregassona,Active
 783,45.994723,8.943257,Casserina,Via Clemente Maraini 39,6900,Lugano,Active
+784,45.8474329,9.0342084,Vacallo Piazza,Via Giacomo Puccini,6838,Vacallo,Active

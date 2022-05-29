@@ -1,4 +1,5 @@
 id,latitude,longitude,name,address,zip,city,state
+3,46.003725,8.951603,Lugano Bike Emotion,Piazza della Riforma,6900,Lugano,Active
 6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Lausanne,Active
 7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Lausanne,Active
 8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Lausanne,Active
@@ -417,7 +418,7 @@ id,latitude,longitude,name,address,zip,city,state
 514,47.397885,8.596202,Bahnhof Stettbach,Bahnhof Stettbach,8051,Zürich,Active
 515,47.3690153,8.5543974,Hottingerplatz,Kasinostrasse 10,8032,Zürich,Active
 516,47.418472,8.561746,Sirius-Platz,Sirius-Platz,8152,Opfikon,Active
-517,47.431787,8.567171,ACHTUNG: Die Station befindet sich bis Anfang Juli an der Oberhauserstrasse 29: Stadthaus Opfikon,Oberhauserstrasse 29,8152,Opfikon,Active
+517,47.431787,8.567171,Stadthaus Opfikon,Oberhauserstrasse 29,8152,Opfikon,Active
 518,47.39572,8.62328,Oberdorf,Alte Oberdorfstrasse 15,8600,Dübendorf,Active
 519,47.430911,8.562033,Bahnhof Opfikon,Schaffhauserstrasse 64,8152,Opfikon,Active
 520,47.40245,8.62726,Flugplatz Dübendorf,Wangenstrasse 47-39,8600,Dübendorf,Active
@@ -512,7 +513,7 @@ id,latitude,longitude,name,address,zip,city,state
 625,46.03702,8.954823,Comano Centro Prospò,Parcheggio Chiesa Comano,6949,Comano,Active
 626,46.55095610567505,6.57306649851556,Oassis,Chemin des Lentillières 15,1023,Crissier,Active
 627,45.999094,8.945139,via Maraini,via Clemente Maraini 12,6900,Lugano,Active
-628,46.005726,8.942729,Besso,via Besso 23,6900,Lugano,Active
+628,46.00627672752066,8.942728890365924,Besso,via Besso 23,6900,Lugano,Active
 629,46.009397,8.931591,Centro Giovanile,Via Dott. Giov. Polar. 34,6932,Breganzona,Active
 630,46.225614,7.35462,Blancherie,Rue de la Piscine,1950,Sion,Active
 631,46.238416,7.364306,Platta,Rue de Loèche 32,1950,Sion,Active
@@ -559,7 +560,7 @@ id,latitude,longitude,name,address,zip,city,state
 685,45.87216325637743,8.983528791038395,Mendrisio CPI,Via Franco Zorzi,6850,Mendrisio,Active
 686,45.8762029265714,8.981280464481735,Mendrisio Fox Town,Via Moree,6850,Mendrisio,Active
 687,45.84024833885875,8.997598436485646,Incrocio via Torraccia - via Cereda,Via Torraccia 1,6883,Novazzano,Active
-688,45.86552127511925,8.977682352126578,Mendrisio Mercato Coperto,Via Campo Sportivo,6850,Mendrisio,Active
+688,45.86552127511925,8.977682352126578,Fuori servizio fino al 30 maggio: Mendrisio Mercato Coperto,Via Campo Sportivo,6850,Mendrisio,Inactive
 689,45.82606824449524,9.013036784694819,Pedrinate,Strade Regina 5,6832,Pedrinate,Active
 690,45.83031984322107,8.996931081752528,Seseglio,Via Campagna 4,6832,Pedrinate (località Seseglio),Active
 691,45.856501,8.988615,ColdreBike,Via San Gottardo,6877,Coldrerio,Active
@@ -568,7 +569,7 @@ id,latitude,longitude,name,address,zip,city,state
 694,45.849794,8.944964,Stabio Stazione FFS,Via Cantonale 11,6855,Stabio,Active
 695,45.848177,8.936794,Stabio via Mulino,Prati del Trevano,6855,Stabio,Active
 696,45.991069,8.936421,Gentilino,Via Nocc,6925,Collina d'Oro,Active
-697,46.29883640615767,7.540133582460179,Sierre Piscine de Guillamo,Chemin du Grand Lac,3960,Sierre,Active
+697,46.29883640615767,7.540133582460179,Station déplacée pour l'été: Bains de Géronde,Chemin du Grand Lac,3960,Sierre,Active
 698,46.22707219319727,7.362775883948622,Campus Energypolis,Rue de l'Industrie,1950,Sion,Active
 699,45.858612,8.940146,Stabio Via Segeno,Via Segeno,6855,Stabio,Active
 701,47.375748,8.548599,ETH Karl-Schmid-Strasse: Mobile Station Zürich 2,Karl-Schmid-Strasse 1,8006,Zürich,Active
@@ -638,7 +639,7 @@ id,latitude,longitude,name,address,zip,city,state
 772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
-775,46.33982789077853,6.171712814161744,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
+775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
 776,46.81936091435492,7.102468450680388,"Belfaux, Champ Bonjart",Champ Bonjart 1,1782,Belfaux,Active
 777,46.80799726436817,7.143350342709623,Route des Noisetiers,Route des Noisetiers,1700,Fribourg,Active
 778,46.81077819593714,7.139183090960676,P+R La Chassotte,Route du Jura,1700,Fribourg,Active
@@ -650,11 +651,11 @@ id,latitude,longitude,name,address,zip,city,state
 784,45.8474329,9.0342084,"Vacallo, Piazza Municipio",Via Giacomo Puccini,6838,Vacallo,Active
 786,46.5275155987152,6.5727380643235245,Café de Chavannes,Route de la Maladière 40,1022,Chavannes-près-Renens,Active
 787,46.53439438272029,6.5780125706014605,Chocolaterie,Avenue de la gare 22,1022,Chavanne-près-Renens,Active
-788,46.52277448808949,6.617672039301796,Sévelin,Avenue de Sévelin,1004,Lausanne,Active
+788,46.52285180329474,6.616691677562492,Sévelin,Avenue de Sévelin,1004,Lausanne,Active
 789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
-792,46.53317639350977,6.646243245874777,Sallaz,Place de la Sallaz,1010,Lausanne,Active
+792,46.53317639350977,6.646243245874777,Sallaz - temporairement hors service en raison de problèmes techniques Sallaz,Place de la Sallaz,1010,Lausanne,Active
 793,46.7915080285386,7.1389768164662275,Marteray,Route de Marteray 21,1752,Villars-sur-Glâne,Active
 794,46.7909443366818,7.127365724241438,Martinets,Route des Martinets,1752,Villars-sur-Glâne,Active
 795,46.80627599825691,7.175202933966421,Schönberg Chaley,Route Joseph-Chaley,1700,Fribourg,Active
@@ -662,3 +663,5 @@ id,latitude,longitude,name,address,zip,city,state
 797,46.81795070092267,7.126884943129607,Place des Osses,Route du Tir-Fédéral,1762,Givisiez,Active
 799,46.80778475721832,7.102945709463114,"Corminboeuf, Route du Centre",Route du Centre 13,1720,Corminboeuf,Active
 800,46.8124563613632,7.127767764590539,Place d'Affry,Place d'Affry,1762,Givisiez,Active
+801,45.844533,8.926253,Montanstahl Via Gerette,Via Gerette,6855,Stabio,Active
+803,46.51196729119777,6.4849846482546685,Eglantine,Promenade de l'Eglantine 1,1110,Morges,Active

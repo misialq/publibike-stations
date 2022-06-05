@@ -1,5 +1,5 @@
 id,latitude,longitude,name,address,zip,city,state
-3,46.003725,8.951603,Lugano Bike Emotion,Piazza della Riforma,6900,Lugano,Active
+3,46.01417176928767,8.965986487237465,Atelier Lugano,Piazza della Riforma,6900,Lugano,Active
 6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Lausanne,Active
 7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Lausanne,Active
 8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Lausanne,Active
@@ -7,7 +7,7 @@ id,latitude,longitude,name,address,zip,city,state
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
 11,46.521978,6.564896,Rivier,Route de la Sorge,1015,Lausanne,Active
 12,46.520723,6.568276,Piccard,Avenue Piccard,1015,Lausanne,Active
-13,46.517153,6.561272,EPLF Innovation Park,Quartier Innovation EPFL Bât. G,1015,Lausanne,Active
+13,46.517153,6.561272,EPFL Innovation Park,Quartier Innovation EPFL Bât. G,1015,Lausanne,Active
 14,46.5224054,6.5655126,Quartier nord,Campus,1000,Campus,Active
 18,46.5367962297447,6.57834071739537,Gare de Renens,Place de la gare,1020,Renens,Active
 20,46.506896,6.626253,Ouchy,Place de la Navigation,1006,Lausanne,Active
@@ -153,7 +153,7 @@ id,latitude,longitude,name,address,zip,city,state
 193,46.9552642,7.4593279,Kasernenstrasse HKB,Kasernenstrasse 13k,3014,Bern,Active
 194,46.95863750501819,7.45710501650628,Kasernenwiese,Militärstrasse 42,3014,Bern,Active
 195,46.9543451,7.4453536,Lorrainebrücke,Lorrainestrasse 1,3013,Bern,Active
-196,46.9665865,7.4639627,Wankdorf Bhf Süd,Wankdorffeldstrasse 2,3014,Bern,Active
+196,46.9665865,7.4639627,Wankdorf Bhf Süd: ACHTUNG: Betriebseinschränkung 09.06.2022 ab 13:00 - 10.06.2022 01:30 aufgrund Veranstaltung,Wankdorffeldstrasse 2,3014,Bern,Active
 197,46.9394841,7.3899968,Bachmätteli,Bottigenstrasse 9,3018,Bern,Active
 198,46.9439597,7.3746103,Westside,Riedbachstrasse 96,3027,Bern,Active
 199,46.945724,7.3899619,Bahnhof Bümpliz Nord,Mühledorfstrasse 20,3018,Bern,Active
@@ -560,7 +560,7 @@ id,latitude,longitude,name,address,zip,city,state
 685,45.87216325637743,8.983528791038395,Mendrisio CPI,Via Franco Zorzi,6850,Mendrisio,Active
 686,45.8762029265714,8.981280464481735,Mendrisio Fox Town,Via Moree,6850,Mendrisio,Active
 687,45.84024833885875,8.997598436485646,Incrocio via Torraccia - via Cereda,Via Torraccia 1,6883,Novazzano,Active
-688,45.86552127511925,8.977682352126578,Fuori servizio fino al 30 maggio: Mendrisio Mercato Coperto,Via Campo Sportivo,6850,Mendrisio,Inactive
+688,45.86552127511925,8.977682352126578,Mendrisio Mercato Coperto,Via Campo Sportivo,6850,Mendrisio,Active
 689,45.82606824449524,9.013036784694819,Pedrinate,Strade Regina 5,6832,Pedrinate,Active
 690,45.83031984322107,8.996931081752528,Seseglio,Via Campagna 4,6832,Pedrinate (località Seseglio),Active
 691,45.856501,8.988615,ColdreBike,Via San Gottardo,6877,Coldrerio,Active
@@ -569,7 +569,7 @@ id,latitude,longitude,name,address,zip,city,state
 694,45.849794,8.944964,Stabio Stazione FFS,Via Cantonale 11,6855,Stabio,Active
 695,45.848177,8.936794,Stabio via Mulino,Prati del Trevano,6855,Stabio,Active
 696,45.991069,8.936421,Gentilino,Via Nocc,6925,Collina d'Oro,Active
-697,46.29883640615767,7.540133582460179,Station déplacée pour l'été: Bains de Géronde,Chemin du Grand Lac,3960,Sierre,Active
+697,46.29013699904917,7.540881561583668,Bains de Géronde,Chemin du Grand Lac,3960,Sierre,Active
 698,46.22707219319727,7.362775883948622,Campus Energypolis,Rue de l'Industrie,1950,Sion,Active
 699,45.858612,8.940146,Stabio Via Segeno,Via Segeno,6855,Stabio,Active
 701,47.375748,8.548599,ETH Karl-Schmid-Strasse: Mobile Station Zürich 2,Karl-Schmid-Strasse 1,8006,Zürich,Active
@@ -627,7 +627,7 @@ id,latitude,longitude,name,address,zip,city,state
 758,46.547872289288286,6.671632436126663,"Epalinges, Croix-Blanche",Rte de la Croix-Blanche 25,1066,Epalinges,Active
 761,46.79633089439779,7.131816212475342,Le Domaine (Swiss Lodge),Chem. des Eaux-Vives 17,1752,Villars-sur-Glâne,Active
 762,46.23517,7.35027,Agasse,Chemin de l'Agasse,1950,Sion,Active
-763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
+763,46.51649685275541,6.550408183414197,Vallaire - fermé temporairement en raison de problèmes techniques,Champs-Courbes,1024,Ecublens,Active
 764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
 765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
 766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active
@@ -655,13 +655,16 @@ id,latitude,longitude,name,address,zip,city,state
 789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
-792,46.53317639350977,6.646243245874777,Sallaz - temporairement hors service en raison de problèmes techniques Sallaz,Place de la Sallaz,1010,Lausanne,Active
+792,46.53317639350977,6.646243245874777,Sallaz,Place de la Sallaz,1010,Lausanne,Active
 793,46.7915080285386,7.1389768164662275,Marteray,Route de Marteray 21,1752,Villars-sur-Glâne,Active
 794,46.7909443366818,7.127365724241438,Martinets,Route des Martinets,1752,Villars-sur-Glâne,Active
 795,46.80627599825691,7.175202933966421,Schönberg Chaley,Route Joseph-Chaley,1700,Fribourg,Active
 796,46.82482068793405,7.15174354915194,Forum Fribourg,Rte du Lac,1763,Granges-Paccot,Active
 797,46.81795070092267,7.126884943129607,Place des Osses,Route du Tir-Fédéral,1762,Givisiez,Active
+798,47.325159,8.647915,Forch,Kaltensteinstrasse 32,8127,Forch,Active
 799,46.80778475721832,7.102945709463114,"Corminboeuf, Route du Centre",Route du Centre 13,1720,Corminboeuf,Active
 800,46.8124563613632,7.127767764590539,Place d'Affry,Place d'Affry,1762,Givisiez,Active
 801,45.844533,8.926253,Montanstahl Via Gerette,Via Gerette,6855,Stabio,Active
+802,46.35898132141345,6.215491034251343,Caribana FestIval,Chemin de Varmey,1299,Crans-près-Céligny,Active
 803,46.51196729119777,6.4849846482546685,Eglantine,Promenade de l'Eglantine 1,1110,Morges,Active
+804,46.980565897710235,7.456706822978722,BikeToWork Juni 22 SBB Worblaufen,Worblaufenstrasse 200,3048,Ittigen,Active

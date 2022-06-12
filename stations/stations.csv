@@ -153,7 +153,7 @@ id,latitude,longitude,name,address,zip,city,state
 193,46.9552642,7.4593279,Kasernenstrasse HKB,Kasernenstrasse 13k,3014,Bern,Active
 194,46.95863750501819,7.45710501650628,Kasernenwiese,Militärstrasse 42,3014,Bern,Active
 195,46.9543451,7.4453536,Lorrainebrücke,Lorrainestrasse 1,3013,Bern,Active
-196,46.9665865,7.4639627,Wankdorf Bhf Süd: ACHTUNG: Betriebseinschränkung 09.06.2022 ab 13:00 - 10.06.2022 01:30 aufgrund Veranstaltung,Wankdorffeldstrasse 2,3014,Bern,Active
+196,46.9665865,7.4639627,Wankdorf Bhf Süd: ACHTUNG: Betriebseinschränkung 17.06.2022 ab 13:00 - 18.06.2022 01:30 aufgrund Veranstaltung,Wankdorffeldstrasse 2,3014,Bern,Active
 197,46.9394841,7.3899968,Bachmätteli,Bottigenstrasse 9,3018,Bern,Active
 198,46.9439597,7.3746103,Westside,Riedbachstrasse 96,3027,Bern,Active
 199,46.945724,7.3899619,Bahnhof Bümpliz Nord,Mühledorfstrasse 20,3018,Bern,Active
@@ -293,7 +293,7 @@ id,latitude,longitude,name,address,zip,city,state
 359,47.393409,8.512381,Fischerweg,Hardturmstrasse 161,8005,Zürich,Active
 360,47.3876979,8.5421457,Kirche Unterstrass,Turnerstrasse 47,8006,Zürich,Active
 361,47.394554,8.522117,Dorfstrasse,Dorfstrasse 40,8037,Zürich,Active
-362,47.37271,8.530437,Stauffachertor,Werdstrasse 25,8004,Zürich,Active
+362,47.37271,8.530437,ACHTUNG: Die Station ist aufgrund Bauarbeiten bis am 14.6.22 um 18:00 Uhr ausser Betrieb: Stauffachertor,Werdstrasse 25,8004,Zürich,Inactive
 363,47.416155,8.541712,Wahlenpark,Eggbühlstrasse 21,8050,Zürich,Active
 364,47.3708387,8.5595335,Kinderspital,Dolderstrasse 32,8032,Zürich,Active
 365,47.388689,8.536433,Kornhausstrasse,Kornhausstrasse 30,8006,Zürich,Active
@@ -447,7 +447,7 @@ id,latitude,longitude,name,address,zip,city,state
 545,46.943536,7.463293,Egelsee,Ensingerstrasse 3,3006,Bern,Active
 546,46.939462,7.46973,Elfenauweg,Elfenauweg 6a,3006,Bern,Active
 547,46.942351,7.452777,Luisenstrasse,Luisenstrasse 18,3005,Bern,Active
-548,46.944243,7.399437,Stöckacker Migros,Bethlehemstrasse 106,3018,Bern,Active
+548,46.944243,7.399437,Stöckacker Migros — ausser Betrieb wegen technischer Probleme,Bethlehemstrasse 106,3018,Bern,Active
 549,46.951735,7.416496,Forsthaus KVA / TBA,Murtenstrasse 98,3008,Bern,Active
 550,46.958014,7.444949,Quartiergasse,Quartiergasse 31,3013,Bern,Active
 551,46.957196,7.450895,Breitenrainstrasse,Optingenstrasse 53,3013,Bern,Active
@@ -464,7 +464,7 @@ id,latitude,longitude,name,address,zip,city,state
 562,47.370238,8.514841,Goldbrunnenplatz,Schrennengasse 37,8003,Zürich,Active
 563,47.360004,8.534227,Mythenschloss,Alfred Escher-Strasse 76,8002,Zürich,Active
 564,47.345248,8.535082,GZ Wollishofen,Bachstrasse 15,8038,Zürich,Active
-565,47.381355,8.532727,Zollstrasse,Klingenstrasse 9,8005,Zürich,Active
+565,47.381355,8.532727,ACHTUNG: Die Station wird am 30.6.22 wieder an den ursprünglichen Standort zurückverschoben: Zollstrasse,Klingenstrasse 9,8005,Zürich,Active
 566,47.396172,8.50373,Am Wasser,Hardeggstrasse 6,8049,Zürich,Active
 567,47.381447,8.497982,Dennlerstrasse,Dennlerstrasse 23,8047,Zürich,Active
 568,47.347701,8.528049,Jugendherberge,Mutschellenstrasse 114,8038,Zürich,Active
@@ -494,7 +494,7 @@ id,latitude,longitude,name,address,zip,city,state
 601,46.45543,6.336791,"Rolle, Débarcadère",Rue du Port,1180,Rolle,Active
 602,47.000176,7.461966,Zollikofen Bahnhof,Bernstrasse 189,3052,Zollikofen,Active
 603,47.409437,8.595937,Glattzentrum,Neue Winterthurerstrasse 82,8304,Wallisellen,Active
-604,47.381674,8.491932,Flurstrasse/Freilager ZüriMobil Station,Flurstrasse 90,8047,Zürich,Active
+604,47.381674,8.491932,ACHTUNG: Die Station wird am 30.6.2022 zurückgebaut und deaktiviert: Flurstrasse/Freilager ZüriMobil Station,Flurstrasse 90,8047,Zürich,Active
 605,46.46063,6.32262,"Rolle, by A-One",Z. A. La Pièce 4,1180,Rolle,Active
 606,46.31526,6.19271,"Coppet, Port",Place des Ormes,1296,Coppet,Active
 607,46.29934,6.16927,"Mies, Gare",Route de la gare,1295,Mies,Active
@@ -513,7 +513,7 @@ id,latitude,longitude,name,address,zip,city,state
 625,46.03702,8.954823,Comano Centro Prospò,Parcheggio Chiesa Comano,6949,Comano,Active
 626,46.55095610567505,6.57306649851556,Oassis,Chemin des Lentillières 15,1023,Crissier,Active
 627,45.999094,8.945139,via Maraini,via Clemente Maraini 12,6900,Lugano,Active
-628,46.00627672752066,8.942728890365924,Besso,via Besso 23,6900,Lugano,Active
+628,46.00627672,8.94272889,Besso,via Besso 23,6900,Lugano,Active
 629,46.009397,8.931591,Centro Giovanile,Via Dott. Giov. Polar. 34,6932,Breganzona,Active
 630,46.225614,7.35462,Blancherie,Rue de la Piscine,1950,Sion,Active
 631,46.238416,7.364306,Platta,Rue de Loèche 32,1950,Sion,Active
@@ -549,7 +549,7 @@ id,latitude,longitude,name,address,zip,city,state
 672,46.934993162587745,7.500064445143627,Volvo Gümligen,Worbstrasse 171,3073,Muri bei Bern,Active
 673,46.931588810237784,7.485518127326376,Sternen Muri,Thunstrasse 74a,3074,Muri,Active
 674,46.93357261917911,7.505070609131323,Bahnhof Gümligen,Worbstrasse 210,3074,Muri,Active
-675,46.95906857677808,7.4777577840839635,Burgfeld,Mittelholzerstrasse 30,3006,Bern,Active
+675,46.95906857,7.47775778,Burgfeld,Mittelholzerstrasse 30,3006,Bern,Active
 676,46.9461220614124,7.475815366515189,Schöngrün-Vermont,Weltistrasse 40,3006,Bern,Active
 677,46.949100687820106,7.433277786246504,Stadtbachstrasse,Pavillonweg 13,3012,Bern,Active
 680,46.946852812713296,7.483654624791477,Merzenacker,Obere Zollgasse 94,3006,Bern,Active
@@ -627,7 +627,7 @@ id,latitude,longitude,name,address,zip,city,state
 758,46.547872289288286,6.671632436126663,"Epalinges, Croix-Blanche",Rte de la Croix-Blanche 25,1066,Epalinges,Active
 761,46.79633089439779,7.131816212475342,Le Domaine (Swiss Lodge),Chem. des Eaux-Vives 17,1752,Villars-sur-Glâne,Active
 762,46.23517,7.35027,Agasse,Chemin de l'Agasse,1950,Sion,Active
-763,46.51649685275541,6.550408183414197,Vallaire - fermé temporairement en raison de problèmes techniques,Champs-Courbes,1024,Ecublens,Active
+763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
 764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
 765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
 766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active
@@ -652,7 +652,7 @@ id,latitude,longitude,name,address,zip,city,state
 786,46.5275155987152,6.5727380643235245,Café de Chavannes,Route de la Maladière 40,1022,Chavannes-près-Renens,Active
 787,46.53439438272029,6.5780125706014605,Chocolaterie,Avenue de la gare 22,1022,Chavanne-près-Renens,Active
 788,46.52285180329474,6.616691677562492,Sévelin,Avenue de Sévelin,1004,Lausanne,Active
-789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
+789,46.51966972197189,6.632556563027347,Saint-François — hors service pour des raisons techniques,Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
 792,46.53317639350977,6.646243245874777,Sallaz,Place de la Sallaz,1010,Lausanne,Active

@@ -153,7 +153,7 @@ id,latitude,longitude,name,address,zip,city,state
 193,46.9552642,7.4593279,Kasernenstrasse HKB,Kasernenstrasse 13k,3014,Bern,Active
 194,46.95863750501819,7.45710501650628,Kasernenwiese,Militärstrasse 42,3014,Bern,Active
 195,46.9543451,7.4453536,Lorrainebrücke,Lorrainestrasse 1,3013,Bern,Active
-196,46.9665865,7.4639627,Wankdorf Bhf Süd: ACHTUNG: Betriebseinschränkung 17.06.2022 ab 13:00 - 18.06.2022 01:30 aufgrund Veranstaltung,Wankdorffeldstrasse 2,3014,Bern,Active
+196,46.9665865,7.4639627,Wankdorf Bhf Süd,Wankdorffeldstrasse 2,3014,Bern,Active
 197,46.9394841,7.3899968,Bachmätteli,Bottigenstrasse 9,3018,Bern,Active
 198,46.9439597,7.3746103,Westside,Riedbachstrasse 96,3027,Bern,Active
 199,46.945724,7.3899619,Bahnhof Bümpliz Nord,Mühledorfstrasse 20,3018,Bern,Active
@@ -204,7 +204,7 @@ id,latitude,longitude,name,address,zip,city,state
 247,46.020356,8.916114,Bioggio Via Industria,Via Industria 31,6934,Bioggio,Active
 248,45.993326,8.924532,Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Active
 249,46.000482,8.912639,Muzzano Industria,Via Industria,6933,Muzzano,Active
-250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
+250,46.9490849,7.4444363,Waisenhausplatz: ACHTUNG Station aufgrund Stadtfest vom 23.06.2022 bis 28.06.2022 nicht in Betrieb,Waisenhausplatz 21,3011,Bern,Active
 251,46.94880605134163,7.4476088202522766,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
 252,46.9497908,7.4441278,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
@@ -212,7 +212,7 @@ id,latitude,longitude,name,address,zip,city,state
 255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
 256,46.9555118,7.4768856,Zentweg,Zentweg 25,3006,Bern,Active
 257,46.9480422,7.4502406,Simsonbrunnen,Kramgasse 40,3011,Bern,Active
-258,46.9475995,7.4473498,Theaterplatz,Theaterplatz 4,3011,Bern,Active
+258,46.9475995,7.4473498,Theaterplatz: ACHTUNG Station während Stadtfest vom 24.06.2022 bis 27.06.2022 nicht in Betrieb,Theaterplatz 4,3011,Bern,Active
 259,46.9539295,7.4267524,Waldheim,Freiestrasse 43,3012,Bern,Active
 260,46.9486794,7.4532728,Postgasse,Postgasse 66,3011,Bern,Active
 261,46.9366583,7.4679887,Ringoltingenstrasse,Ringoltingenstrasse 21,3006,Bern,Active
@@ -256,7 +256,7 @@ id,latitude,longitude,name,address,zip,city,state
 306,46.9400198,7.4317782,Eigerplatz Süd,Seftigenstrasse 1,3007,Bern,Active
 307,46.9480092,7.4218977,Friedbühlstrasse,Friedbühlstrasse 51,3008,Bern,Active
 308,46.9465416,7.4356627,Hallenbad Hirschengraben,Maulbeerstrasse 17,3011,Bern,Active
-309,46.9405957,7.418738,Fischermätteli,Könizstrasse 73,3008,Bern,Active
+309,46.9405957,7.418738,ausser Betrieb aus technischen Gründen: Fischermätteli,Könizstrasse 73,3008,Bern,Inactive
 310,46.9594104,7.4350187,Freies Gymnasium,Hochfeldstrasse 217,3012,Bern,Active
 311,46.9442197,7.4366739,Kapellenstrasse BFF,Kapellenstrasse 8,3011,Bern,Active
 312,46.9356089,7.4471426,Ka-We-De,Jubiläumsstrasse 101,3005,Bern,Active
@@ -293,7 +293,7 @@ id,latitude,longitude,name,address,zip,city,state
 359,47.393409,8.512381,Fischerweg,Hardturmstrasse 161,8005,Zürich,Active
 360,47.3876979,8.5421457,Kirche Unterstrass,Turnerstrasse 47,8006,Zürich,Active
 361,47.394554,8.522117,Dorfstrasse,Dorfstrasse 40,8037,Zürich,Active
-362,47.37271,8.530437,ACHTUNG: Die Station ist aufgrund Bauarbeiten bis am 14.6.22 um 18:00 Uhr ausser Betrieb: Stauffachertor,Werdstrasse 25,8004,Zürich,Inactive
+362,47.37271,8.530437,"ACHTUNG: Die Station ist aufgrund Bauarbeiten vom 21.6.22 bis 1.9.22 ausser Betrieb. Bitte benutzen Sie alternativ die Station Werdstrasse, TX Group AG: Stauffachertor",Werdstrasse 25,8004,Zürich,Active
 363,47.416155,8.541712,Wahlenpark,Eggbühlstrasse 21,8050,Zürich,Active
 364,47.3708387,8.5595335,Kinderspital,Dolderstrasse 32,8032,Zürich,Active
 365,47.388689,8.536433,Kornhausstrasse,Kornhausstrasse 30,8006,Zürich,Active
@@ -447,7 +447,7 @@ id,latitude,longitude,name,address,zip,city,state
 545,46.943536,7.463293,Egelsee,Ensingerstrasse 3,3006,Bern,Active
 546,46.939462,7.46973,Elfenauweg,Elfenauweg 6a,3006,Bern,Active
 547,46.942351,7.452777,Luisenstrasse,Luisenstrasse 18,3005,Bern,Active
-548,46.944243,7.399437,Stöckacker Migros — ausser Betrieb wegen technischer Probleme,Bethlehemstrasse 106,3018,Bern,Active
+548,46.944243,7.399437,Stöckacker Migros,Bethlehemstrasse 106,3018,Bern,Active
 549,46.951735,7.416496,Forsthaus KVA / TBA,Murtenstrasse 98,3008,Bern,Active
 550,46.958014,7.444949,Quartiergasse,Quartiergasse 31,3013,Bern,Active
 551,46.957196,7.450895,Breitenrainstrasse,Optingenstrasse 53,3013,Bern,Active
@@ -569,7 +569,7 @@ id,latitude,longitude,name,address,zip,city,state
 694,45.849794,8.944964,Stabio Stazione FFS,Via Cantonale 11,6855,Stabio,Active
 695,45.848177,8.936794,Stabio via Mulino,Prati del Trevano,6855,Stabio,Active
 696,45.991069,8.936421,Gentilino,Via Nocc,6925,Collina d'Oro,Active
-697,46.29013699904917,7.540881561583668,Bains de Géronde,Chemin du Grand Lac,3960,Sierre,Active
+697,46.29013699904917,7.540881561583668,Hors service pour des raisons techniques : Bains de Géronde,Chemin du Grand Lac,3960,Sierre,Inactive
 698,46.22707219319727,7.362775883948622,Campus Energypolis,Rue de l'Industrie,1950,Sion,Active
 699,45.858612,8.940146,Stabio Via Segeno,Via Segeno,6855,Stabio,Active
 701,47.375748,8.548599,ETH Karl-Schmid-Strasse: Mobile Station Zürich 2,Karl-Schmid-Strasse 1,8006,Zürich,Active
@@ -585,7 +585,7 @@ id,latitude,longitude,name,address,zip,city,state
 712,45.854808754188724,8.96080186040559,Genestrerio Nucleo,Piazza Baraini,6851,Genestrerio,Active
 713,45.87264624215591,8.953349054900483,Besazio Nucleo,Via Besazio,6863,Beazio,Active
 714,45.86245058491458,8.980687511646552,Mendrisio Comparto Scuole,Via Pier Francesco Mola,6850,Mendrisio,Active
-715,45.857763066531795,8.971519370914631,Mendrisio Adorna,Via Sant' Apollonia 66,6850,Mendrisio,Active
+715,45.857763066531795,8.971519370914631,Quartiere di Meride,Via Sant' Apollonia 66,6850,Mendrisio,Active
 716,45.86687922879933,8.983606564693778,Mendrisio Ospedale,Via Alfonso Turconi 25,6850,Mendrisio,Active
 717,45.87153897383477,8.968208417990107,Rancate Nucleo,Piazza S. Stefano,6862,Rancate,Active
 718,45.861449804710674,8.954692504152314,Ligornetto Nucleo,Via Eugenio Bernasconi 22,6853,Ligornetto,Active
@@ -652,7 +652,7 @@ id,latitude,longitude,name,address,zip,city,state
 786,46.5275155987152,6.5727380643235245,Café de Chavannes,Route de la Maladière 40,1022,Chavannes-près-Renens,Active
 787,46.53439438272029,6.5780125706014605,Chocolaterie,Avenue de la gare 22,1022,Chavanne-près-Renens,Active
 788,46.52285180329474,6.616691677562492,Sévelin,Avenue de Sévelin,1004,Lausanne,Active
-789,46.51966972197189,6.632556563027347,Saint-François — hors service pour des raisons techniques,Place Saint-François,1003,Lausanne,Active
+789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
 792,46.53317639350977,6.646243245874777,Sallaz,Place de la Sallaz,1010,Lausanne,Active

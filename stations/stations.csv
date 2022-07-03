@@ -133,7 +133,7 @@ id,latitude,longitude,name,address,zip,city,state
 171,46.41609,6.278163,"Gland, UICN",Rue Mauverney 28,1196,Gland,Active
 174,46.9436036,7.4071777,Europaplatz,Freiburgstrasse 130,3008,Bern,Active
 175,46.9393577,7.3863865,Statthalterstrasse,Freieckweg 2,3018,Bern,Active
-176,46.934694,7.3892135,Ausser Betrieb aus technischen Gründen: Technopark,Morgenstrasse 129,3018,Bern,Active
+176,46.934694,7.3892135,Technopark,Morgenstrasse 129,3018,Bern,Active
 177,46.9501011,7.3812327,Holenackerstrasse,Holenackerstrasse 32,3027,Bern,Active
 178,46.9372059,7.3872274,Kleefeld,Mädergutstrasse 5,3018,Bern,Active
 179,46.9454695,7.3928104,Schwabgut,Schwabstrasse 10,3018,Bern,Active
@@ -204,15 +204,15 @@ id,latitude,longitude,name,address,zip,city,state
 247,46.020356,8.916114,Bioggio Via Industria,Via Industria 31,6934,Bioggio,Active
 248,45.993326,8.924532,Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Active
 249,46.000482,8.912639,Muzzano Industria,Via Industria,6933,Muzzano,Active
-250,46.9490849,7.4444363,Station während Stadtfest nicht in Betrieb. Bitte benutzen sie die umliegenden Stationen gemäss Karte,Waisenhausplatz 21,3011,Bern,Inactive
-251,46.949213783343446,7.4473671978452565,Kornhausplatz Ersatzstation,Nägeligasse 1,3011,Bern,Active
+250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
+251,46.94881791083713,7.447595167416467,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
 252,46.9497908,7.4441278,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
 255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
 256,46.9555118,7.4768856,Zentweg,Zentweg 25,3006,Bern,Active
 257,46.9480422,7.4502406,Simsonbrunnen,Kramgasse 40,3011,Bern,Active
-258,46.9475995,7.4473498,NICHT IN BETRIEB während Stadtfest. Bitte benutzen sie die umliegenden Stationen gemäss Karte,Theaterplatz 4,3011,Bern,Inactive
+258,46.9475995,7.4473498,Theaterplatz,Theaterplatz 4,3011,Bern,Active
 259,46.9539295,7.4267524,Waldheim,Freiestrasse 43,3012,Bern,Active
 260,46.9486794,7.4532728,Postgasse,Postgasse 66,3011,Bern,Active
 261,46.9366583,7.4679887,Ringoltingenstrasse,Ringoltingenstrasse 21,3006,Bern,Active
@@ -223,7 +223,7 @@ id,latitude,longitude,name,address,zip,city,state
 268,46.292116,7.522262,Hôpital / ECAV,Rue de l'Hôpital 14,3960,Sierre,Active
 269,46.283387,7.53985,Technopôle,Route de Sous-Géronde 40-42,3960,Sierre,Active
 270,46.291525,7.533052,Sierre Gare,Chemin du Petit-Bois,3960,Sierre,Active
-271,46.947856328360984,7.436903989490435,PostParc Velostation - INSIDE the building!,Schanzenstrasse 5,3008,Bern,Active
+271,46.947856328360984,7.436903989490435,PostParc Velostation (06:00-22:00)- INSIDE the building!,Schanzenstrasse 5,3008,Bern,Active
 273,47.389862,8.514605,Westpark,Pfingstweidstrasse 60,8005,Zürich,Active
 274,47.375991201,8.541239126,Beatenplatz,Beatenplatz 1,8001,Zürich,Active
 275,47.394007,8.542036,Pauluskirche,Milchbuckstrasse 52,8057,Zürich,Active
@@ -425,7 +425,7 @@ id,latitude,longitude,name,address,zip,city,state
 521,47.39733,8.61865,Stadthaus Dübendorf,Usterstrasse 1,8600,Dübendorf,Active
 522,47.444516,8.582115,Schluefweg,Schluefweg 10,8302,Kloten,Active
 523,47.43117,8.55845,Bahnhof Glattbrugg,Bahnhofplatz 1,8152,Opfikon,Active
-524,47.450893,8.582374,Stadtplatz Kloten,Kirchgasse 7,8302,Kloten,Active
+524,47.450893,8.582374,Stadtplatz Kloten wegen Baustelle nicht zugänglich,Kirchgasse 7,8302,Kloten,Inactive
 525,47.400393,8.622367,Bahnhof Dübendorf,Bettlistrasse 1,8600,Dübendorf,Active
 526,47.395368,8.603989,Sonnental,Zürichstrasse 94,8600,Dübendorf,Active
 527,47.44173,8.56879,Bahnhof Balsberg,Kloten Balsberg,8302,Kloten,Active
@@ -464,17 +464,18 @@ id,latitude,longitude,name,address,zip,city,state
 562,47.370238,8.514841,Goldbrunnenplatz,Schrennengasse 37,8003,Zürich,Active
 563,47.360004,8.534227,Mythenschloss,Alfred Escher-Strasse 76,8002,Zürich,Active
 564,47.345248,8.535082,GZ Wollishofen,Bachstrasse 15,8038,Zürich,Active
-565,47.381355,8.532727,ACHTUNG: Die Station wird am 30.6.22 wieder an den ursprünglichen Standort zurückverschoben: Zollstrasse,Klingenstrasse 9,8005,Zürich,Active
+565,47.381149,8.532405,Zollstrasse,Neugasse 6,8005,Zürich,Active
 566,47.396172,8.50373,Am Wasser,Hardeggstrasse 6,8049,Zürich,Active
 567,47.381447,8.497982,Dennlerstrasse,Dennlerstrasse 23,8047,Zürich,Active
 568,47.347701,8.528049,Jugendherberge,Mutschellenstrasse 114,8038,Zürich,Active
 569,47.405751,8.539016,Freibad Allenmoos,Ringstrasse 82,8057,Zürich,Active
 571,47.375556,8.547901,ETH/Zoologisches Museum,Karl-Schmid-Strasse 4,8006,Zürich,Active
 572,47.402749,8.5355,Radiostudio,Wehntalerstrasse 98,8057,Zürich,Active
-573,46.9488260694896,7.44759411879496,Bitte die Ersatzstation in der Nägeligasse verwenden,Kornhauspl. 20,3011,Bern,Inactive
+573,46.979405440906326,7.457189997936046,Station Worblaufen ab 04.07.2022,Tiefenaustrasse 2,3048,Ittigen,Active
 574,47.45041071949902,8.563071583930034,Flughafen Kloten,Veloabstellplatz Parking 2,8058,Zürich Flughafen,Active
 580,46.800445,7.122294,Petit-Moncor,Route de Petit-Moncor,1752,Villars-sur-Glâne,Active
 581,46.514554,6.619263,Vaudoise Assurances,Avenue de Cour 43,1007,Lausanne,Active
+583,45.97765,8.926757,IBSA,Via del Piano 7,6926,Collina,Active
 584,46.006076,8.966775,Lanchetta,via delle Scuole,6900,Lugano,Active
 585,46.016524,8.955876,Via Vignola,Via Trevano,6900,Lugano,Active
 586,46.020198,8.97169,Via Loco,Via Loco,6900,Lugano,Active
@@ -495,7 +496,7 @@ id,latitude,longitude,name,address,zip,city,state
 601,46.45543,6.336791,"Rolle, Débarcadère",Rue du Port,1180,Rolle,Active
 602,47.000176,7.461966,Zollikofen Bahnhof,Bernstrasse 189,3052,Zollikofen,Active
 603,47.409437,8.595937,Glattzentrum,Neue Winterthurerstrasse 82,8304,Wallisellen,Active
-604,47.381674,8.491932,ACHTUNG: Die Station wird am 30.6.2022 zurückgebaut und deaktiviert: Flurstrasse/Freilager ZüriMobil Station,Flurstrasse 90,8047,Zürich,Active
+604,47.381674,8.491932,ACHTUNG: Diese Station wird im Verlauf 30.06.2022 zurückgebaut. Ab 14:00 nicht mehr in Betrieb.,Flurstrasse 90,8047,Zürich,Active
 605,46.46063,6.32262,"Rolle, by A-One",Z. A. La Pièce 4,1180,Rolle,Active
 606,46.31526,6.19271,"Coppet, Port",Place des Ormes,1296,Coppet,Active
 607,46.29934,6.16927,"Mies, Gare",Route de la gare,1295,Mies,Active
@@ -666,13 +667,14 @@ id,latitude,longitude,name,address,zip,city,state
 799,46.80778475,7.1029457,"Corminboeuf, Route du Centre",Route du Centre 13,1720,Corminboeuf,Active
 800,46.8124563613632,7.127767764590539,Place d'Affry,Place d'Affry,1762,Givisiez,Active
 801,45.844533,8.926253,Montanstahl Via Gerette,Via Gerette,6855,Stabio,Active
-802,46.35898132141345,6.215491034251343,Caribana FestIval,Chemin de Varmey,1299,Crans-près-Céligny,Active
+802,46.51306,6.527621,Festival Yadlo,Av. de la Plage 3,1028,Préverenges,Active
 803,46.51196729119777,6.4849846482546685,Eglantine,Promenade de l'Eglantine 1,1110,Morges,Active
-804,46.980565897710235,7.456706822978722,BikeToWork Juni 22 SBB Worblaufen,Worblaufenstrasse 200,3048,Ittigen,Active
+804,46.980565897710235,7.456706822978722,Worblaufen ab 04.07.2022 im Velounterstand beim RBS Bahnhof gegenüber,Worblaufenstrasse 200,3048,Ittigen,Active
 806,46.544314905605354,6.586897691005923,Baumettes (test 2022),Av. des Baumettes 9,1020,Renens,Active
 807,46.52654734920485,6.64111195901793,CHUV,Rue du Bugnon,1011,Lausanne,Active
 808,46.547024950077954,6.607627798721679,CHUV Cery,Route de Cery 60,1008,Prilly,Active
 809,46.530961547725724,6.570954143053104,Cèdres,Allée des Cèdres,1022,Chavannes-près-Renens,Active
-810,46.419162,6.282356,"Gland, Place Riant-Coteau",Rue du Riant-Coteau,1196,Gland,Active
+810,46.419162,6.282356,"HORS SERVICE Gland, Place Riant-Coteau",Rue du Riant-Coteau,1196,Gland,Active
 811,46.417503,6.271244,"Gland, le Midi",Rue du Midi,1196,Gland,Active
 812,46.79364606401284,7.150040893601194,Route des Cliniques,Route des Cliniques,1700,Fribourg,Active
+813,46.77578804990217,7.156581598521503,Marly Innovation Center II,Route du Moulin,1723,Marly,Active

@@ -471,7 +471,6 @@ id,latitude,longitude,name,address,zip,city,state
 569,47.405751,8.539016,Freibad Allenmoos,Ringstrasse 82,8057,Zürich,Active
 571,47.375556,8.547901,ETH/Zoologisches Museum,Karl-Schmid-Strasse 4,8006,Zürich,Active
 572,47.402749,8.5355,Radiostudio,Wehntalerstrasse 98,8057,Zürich,Active
-573,46.979405440906326,7.457189997936046,Station Worblaufen ab 04.07.2022,Tiefenaustrasse 2,3048,Ittigen,Active
 574,47.45041071949902,8.563071583930034,Flughafen Kloten,Veloabstellplatz Parking 2,8058,Zürich Flughafen,Active
 580,46.800445,7.122294,Petit-Moncor,Route de Petit-Moncor,1752,Villars-sur-Glâne,Active
 581,46.514554,6.619263,Vaudoise Assurances,Avenue de Cour 43,1007,Lausanne,Active
@@ -496,7 +495,7 @@ id,latitude,longitude,name,address,zip,city,state
 601,46.45543,6.336791,"Rolle, Débarcadère",Rue du Port,1180,Rolle,Active
 602,47.000176,7.461966,Zollikofen Bahnhof,Bernstrasse 189,3052,Zollikofen,Active
 603,47.409437,8.595937,Glattzentrum,Neue Winterthurerstrasse 82,8304,Wallisellen,Active
-604,47.381674,8.491932,ACHTUNG: Diese Station wird im Verlauf 30.06.2022 zurückgebaut. Ab 14:00 nicht mehr in Betrieb.,Flurstrasse 90,8047,Zürich,Active
+604,47.381674,8.491932,ACHTUNG: Die Station wurde zurückgebaut - Flurstrasse/Freilager ZüriMobil Station,Flurstrasse 90,8047,Zürich,Inactive
 605,46.46063,6.32262,"Rolle, by A-One",Z. A. La Pièce 4,1180,Rolle,Active
 606,46.31526,6.19271,"Coppet, Port",Place des Ormes,1296,Coppet,Active
 607,46.29934,6.16927,"Mies, Gare",Route de la gare,1295,Mies,Active
@@ -638,7 +637,7 @@ id,latitude,longitude,name,address,zip,city,state
 769,46.776884,7.139565,Bel-Air,Route de Bel-Air 17,1723,Marly,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,8830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
-772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
+772,46.9191591,7.4383865,ACHTUNG: Die Station Gurten Kulm ist vor und während dem Gurtenfestival vom 11.07.2022 bis 18.07.2022 nicht in Betrieb.,Gurten - Park im Grünen,3084,Köniz,Active
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
@@ -667,14 +666,17 @@ id,latitude,longitude,name,address,zip,city,state
 799,46.80778475,7.1029457,"Corminboeuf, Route du Centre",Route du Centre 13,1720,Corminboeuf,Active
 800,46.8124563613632,7.127767764590539,Place d'Affry,Place d'Affry,1762,Givisiez,Active
 801,45.844533,8.926253,Montanstahl Via Gerette,Via Gerette,6855,Stabio,Active
-802,46.51306,6.527621,Festival Yadlo,Av. de la Plage 3,1028,Préverenges,Active
 803,46.51196729119777,6.4849846482546685,Eglantine,Promenade de l'Eglantine 1,1110,Morges,Active
-804,46.980565897710235,7.456706822978722,Worblaufen ab 04.07.2022 im Velounterstand beim RBS Bahnhof gegenüber,Worblaufenstrasse 200,3048,Ittigen,Active
+804,46.979405440906326,7.457189997936046,Worblaufen RBS Bahnhof,Tiefenaustrasse 2,3048,Ittigen,Active
 806,46.544314905605354,6.586897691005923,Baumettes (test 2022),Av. des Baumettes 9,1020,Renens,Active
 807,46.52654734920485,6.64111195901793,CHUV,Rue du Bugnon,1011,Lausanne,Active
 808,46.547024950077954,6.607627798721679,CHUV Cery,Route de Cery 60,1008,Prilly,Active
 809,46.530961547725724,6.570954143053104,Cèdres,Allée des Cèdres,1022,Chavannes-près-Renens,Active
-810,46.419162,6.282356,"HORS SERVICE Gland, Place Riant-Coteau",Rue du Riant-Coteau,1196,Gland,Active
+810,46.419162,6.282356,"Gland, Place Riant-Coteau",Rue du Riant-Coteau,1196,Gland,Active
 811,46.417503,6.271244,"Gland, le Midi",Rue du Midi,1196,Gland,Active
 812,46.79364606401284,7.150040893601194,Route des Cliniques,Route des Cliniques,1700,Fribourg,Active
 813,46.77578804990217,7.156581598521503,Marly Innovation Center II,Route du Moulin,1723,Marly,Active
+814,46.96629170335004,7.48318298315503,UPD Restaurant,UPD Bern,3000,Bern,Active
+815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
+816,46.96949592123616,7.486667875639816,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
+817,46.51673942261787,6.566454652605652,Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active

@@ -290,7 +290,7 @@ id,latitude,longitude,name,address,zip,city,state
 356,47.380319,8.552615,Siriuswiese,Siriusstrasse 4,8044,Zürich,Active
 357,47.370141,8.527298,Hallwylstrasse,Hallwylstrasse 71,8004,Zürich,Active
 358,47.397293,8.541453,Milchbuck,Schaffhauserstrasse 137,8057,Zürich,Active
-359,47.393409,8.512381,Fischerweg,Hardturmstrasse 161,8005,Zürich,Active
+359,47.393365,8.512551,Fischerweg,Hardturmstrasse 161,8005,Zürich,Active
 360,47.3876979,8.5421457,Kirche Unterstrass,Turnerstrasse 47,8006,Zürich,Active
 361,47.394554,8.522117,Dorfstrasse,Dorfstrasse 40,8037,Zürich,Active
 362,47.37271,8.530437,"Die Station Stauffachertor ist bis am 1.9.22 ausser Betrieb. Bitte benutzen Sie alternativ die Station Werdstrasse, TX Group AG",Werdstrasse 25,8004,Zürich,Inactive
@@ -329,7 +329,7 @@ id,latitude,longitude,name,address,zip,city,state
 415,46.916092,7.418571,Entsorgungshof Werkhof,Muhlernstrasse 101,3098,Köniz,Active
 416,46.93046,7.428167,Steinhölzli,Kirchstrasse 6a,3097,Köniz,Active
 417,46.92903811738819,7.417226193945767,Neuhausplatz,Könizstrasse 249,3097,Köniz,Active
-418,46.928856,7.446403,Wabern Bahnhof: Nicht in Betrieb während Gurtenfestival. Benützen sie die Ersatzstation an der Kirchstrasse 152,Bahnhofstrasse 14,3084,Köniz,Inactive
+418,46.928856,7.446403,Wabern Bahnhof,Bahnhofstrasse 14,3084,Köniz,Active
 419,46.93036,7.41929,Liebefeld Bahnhof,Stationsstrasse 1,3097,Köniz,Active
 420,46.9356189,7.4165883,Vidmar,Könizstrasse 161,3097,Köniz,Active
 421,46.9229774,7.4141121,Köniz Zentrum,Bläuacker 10,3098,Köniz,Active
@@ -506,7 +506,7 @@ id,latitude,longitude,name,address,zip,city,state
 612,46.37679,6.23515,"Nyon, La Plage",Route de Genève 12,1260,Nyon,Active
 613,46.39236,6.23137,"Nyon, Hostel",Chemin des Plantaz 27,1260,Nyon,Active
 614,46.38356,6.23973,"Nyon, Petit Perdtemps",Petit-Perdtemps,1260,Nyon,Active
-616,46.975958,7.472646,Bundesamt für Energie,Mühlestrasse 4,3063,Ittigen,Active
+616,46.975958,7.472646,Bundesamt für Energie: Zugang zur Station ist von der Pulverstrasse her möglich (Baustelle),Mühlestrasse 4,3063,Ittigen,Active
 618,45.958424,8.917052,Barbengo,Via Soreso 6,6917,Lugano,Active
 619,46.016072,8.941042,Piscina Valgersa,Via Val Gersa,6942,Savosa,Active
 620,45.973369,8.927351,Centro Lugano Sud,Via Cantonale,6916,Grancia,Active
@@ -570,7 +570,7 @@ id,latitude,longitude,name,address,zip,city,state
 694,45.849794,8.944964,Stabio Stazione FFS,Via Cantonale 11,6855,Stabio,Active
 695,45.848177,8.936794,Stabio via Mulino,Prati del Trevano,6855,Stabio,Active
 696,45.991069,8.936421,Gentilino,Via Nocc,6925,Collina d'Oro,Active
-697,46.29013699904917,7.540881561583668,Bains de Géronde,Chemin du Grand Lac,3960,Sierre,Inactive
+697,46.29013699904917,7.540881561583668,Bains de Géronde,Chemin du Grand Lac,3960,Sierre,Active
 698,46.22707219319727,7.362775883948622,Campus Energypolis,Rue de l'Industrie,1950,Sion,Active
 699,45.858612,8.940146,Stabio Via Segeno,Via Segeno,6855,Stabio,Active
 701,47.375748,8.548599,ETH Karl-Schmid-Strasse: Mobile Station Zürich 2,Karl-Schmid-Strasse 1,8006,Zürich,Active
@@ -637,7 +637,7 @@ id,latitude,longitude,name,address,zip,city,state
 769,46.776884,7.139565,Bel-Air,Route de Bel-Air 17,1723,Marly,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,8830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
-772,46.9191591,7.4383865,Gurtenfestival: Die Station Gurten Kulm ist ab 18.07.2022 12:00 wieder verfügbar,Gurten - Park im Grünen,3084,Köniz,Inactive
+772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
@@ -652,7 +652,7 @@ id,latitude,longitude,name,address,zip,city,state
 784,45.8474329,9.0342084,"Vacallo, Piazza Municipio",Via Giacomo Puccini,6838,Vacallo,Active
 786,46.5275155987152,6.5727380643235245,Café de Chavannes,Route de la Maladière 40,1022,Chavannes-près-Renens,Active
 787,46.53439438272029,6.5780125706014605,Chocolaterie,Avenue de la gare 22,1022,Chavanne-près-Renens,Active
-788,46.52285180329474,6.616691677562492,Sévelin,Avenue de Sévelin,1004,Lausanne,Active
+788,46.52285180329474,6.616691677562492,SEVELIN.CH,Avenue de Sévelin,1004,Lausanne,Active
 789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
@@ -675,14 +675,11 @@ id,latitude,longitude,name,address,zip,city,state
 810,46.419162,6.282356,"Gland, Place Riant-Coteau",Rue du Riant-Coteau,1196,Gland,Active
 811,46.417503,6.271244,"Gland, le Midi",Rue du Midi,1196,Gland,Active
 812,46.79364606401284,7.150040893601194,Route des Cliniques,Route des Cliniques,1700,Fribourg,Active
-813,46.77578804990217,7.156581598521503,Marly Innovation Center II,Route du Moulin,1723,Marly,Active
+813,46.77578804990217,7.156581598521503,Ecoquartier Marly,Route du Moulin,1723,Marly,Active
 814,46.96629170335004,7.48318298315503,UPD Restaurant,UPD Bern,3000,Bern,Active
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
 816,46.96949592123616,7.486667875639816,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
 817,46.51673942261787,6.566454652605652,Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
-818,46.929834567412136,7.444962364976602,Gurtenfestival 1,Kirchstrasse 152,3084,Wabern bei Bern,Active
-819,46.929612328482335,7.445094435077926,Gurtenfestival 2,Kirchstrasse 152,3084,Wabern bei Bern,Active
-820,46.92929355350012,7.44496883952644,Gurtenfestival 3,Kirchstrasse 152,3084,Wabern bei Bern,Active
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
 822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active

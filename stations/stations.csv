@@ -412,7 +412,7 @@ id,latitude,longitude,name,address,zip,city,state
 506,46.803943,7.151989,Fribourg Gare Nord,Place de la Gare 15,1700,Freiburg,Active
 507,46.804568,7.155553,Place Georges Python,Square des Places 1,1700,Freiburg,Active
 508,46.80295,7.15966,La Motta,Petites-Rames 18,1700,Freiburg,Active
-509,46.79619,7.14288,Beaumont FR,Route de Beaumont 12,1700,Freiburg,Active
+509,46.796171649939694,7.143346608386447,27.07: station déplacée de 50m à l'est: Beaumont FR,Route de Beaumont 10,1700,Freiburg,Active
 510,46.808006,7.155941,Quartier d'Alt,Derrière-les-Remparts 12,1700,Freiburg,Active
 511,46.974841,7.453275,Spital Tiefenau,Tiefenaustrasse 110,3004,Bern,Active
 513,47.379719,8.537729,Sihlquai,Sihlquai/HB,8005,Zürich,Active
@@ -586,7 +586,7 @@ id,latitude,longitude,name,address,zip,city,state
 712,45.854808754188724,8.96080186040559,Genestrerio Nucleo,Piazza Baraini,6851,Genestrerio,Active
 713,45.87264624215591,8.953349054900483,Besazio Nucleo,Via Besazio,6863,Beazio,Active
 714,45.86245058491458,8.980687511646552,Mendrisio Comparto Scuole,Via Pier Francesco Mola,6850,Mendrisio,Active
-715,45.890055,8.950718,Quartiere di Meride,Via Sant' Apollonia 66,6850,Mendrisio,Active
+715,45.890055,8.950718,Quartiere di Meride,Ala Caraa,6866,Meride,Active
 716,45.86687922879933,8.983606564693778,Mendrisio Ospedale,Via Alfonso Turconi 25,6850,Mendrisio,Active
 717,45.87153897383477,8.968208417990107,Rancate Nucleo,Piazza S. Stefano,6862,Rancate,Active
 718,45.861449804710674,8.954692504152314,Ligornetto Nucleo,Via Eugenio Bernasconi 22,6853,Ligornetto,Active

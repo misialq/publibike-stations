@@ -54,7 +54,7 @@ id,latitude,longitude,name,address,zip,city,state
 77,46.234697,7.386034,Hôpital - CRR,Avenue du Grand-Champsec,1950,Sion,Active
 80,47.3795837,8.5156327,Bullingerplatz,Bullingerstrasse 5,8004,Zürich,Active
 81,47.3899342,8.5104051,Herdern,Pfingstweidstrasse 96e,8001,Zürich,Active
-82,47.359675,8.535718,Achtung: Die Station ist aufgrund der Streetparade vom 12.8 - 14.8 ausser Betrieb: Hafen Enge,Mythenquai 50,8002,Zürich,Active
+82,47.359675,8.535718,Hafen Enge,Mythenquai 50,8002,Zürich,Active
 83,47.358663827,8.520370505,Comerge,Bubenbergstrasse 1,8045,Zürich,Active
 84,47.3789825,8.5412505,Landesmuseum,Museumstrasse 2,8001,Zürich,Active
 85,47.3716661,8.5235479,Bahnhof Wiedikon,Birmensdorferstrasse 80,8003,Zürich,Active
@@ -72,8 +72,8 @@ id,latitude,longitude,name,address,zip,city,state
 97,47.3771535,8.5104883,Zurlindenstrasse,Zurlindenstrasse 291,8003,Zürich,Active
 98,47.3731102,8.5333139,Sihlstrasse,Sihlstrasse 81,8001,Zürich,Active
 99,47.37497,8.519782,Kalkbreite,Badenerstrasse 172,8004,Zürich,Active
-100,47.368064,8.539046,Achtung: Die Station ist aufgrund der Streetparade vom 12.8 - 14.8 ausser Betrieb: Zürcher Kantonalbank,Talstrasse 12,8001,Zürich,Active
-101,47.3625938,8.5348427,Achtung: Die Station ist aufgrund der Streetparade vom 12.8 - 14.8 ausser Betrieb: Rentenanstalt,Breitingerstrasse 5,8002,Zürich,Active
+100,47.368064,8.539046,Zürcher Kantonalbank,Talstrasse 12,8001,Zürich,Active
+101,47.3625938,8.5348427,Rentenanstalt,Breitingerstrasse 5,8002,Zürich,Active
 102,47.3897772,8.5166922,Turbinenplatz,Technoparkstrasse 4,8005,Zürich,Active
 104,47.373935,8.538633,Rennweg,Bahnhofstrasse 66,8001,Zürich,Active
 105,47.3775022,8.5360685,Sihlpost,Kasernenstrasse 101,8004,Zürich,Active
@@ -100,12 +100,12 @@ id,latitude,longitude,name,address,zip,city,state
 132,47.35594,8.549852,Blatterwiese,Höschgasse 3,8008,Zürich,Active
 133,47.36162,8.554501,Villa Bleuler,Feldeggstrasse 80,8008,Zürich,Active
 134,47.358557,8.557088,Mühlebachstrasse,Mühlebachstrasse 131,8008,Zürich,Active
-135,47.361335,8.547781,Achtung: Die Station ist aufgrund der Streetparade vom 12.8 - 14.8 ausser Betrieb: Seebad Utoquai,Utoquai 50,8008,Zürich,Active
+135,47.361335,8.547781,Seebad Utoquai,Utoquai 50,8008,Zürich,Active
 137,47.370869,8.548045,Kunsthaus,Heimplatz 1,8001,Zürich,Active
-138,47.375933,8.543447,Achtung: Die Station ist aufgrund der Streetparade vom 12.8 - 14.8 ausser Betrieb: Central,Limmatquai 138,8001,Zürich,Active
+138,47.375933,8.543447,Central,Limmatquai 138,8001,Zürich,Active
 139,47.410618,8.55189,Messe/Hallenstadion,Wallisellenstrasse 46,8050,Zürich,Active
 140,47.366904,8.533736,Bleicherweg,Bleicherweg 33,8002,Zürich,Active
-141,47.366752,8.544935,Achtung: Die Station ist aufgrund der Streetparade vom 12.8 - 14.8 ausser Betrieb: Bellevue,Bellevueplatz 2,8001,Zürich,Active
+141,47.366752,8.544935,Bellevue,Bellevueplatz 2,8001,Zürich,Active
 142,47.3742296,8.5285533,Stauffacher,Stauffacherstrasse 41,8004,Zürich,Active
 143,47.3899,8.523722,Escher-Wyss-Platz,Limmatstrasse 310,8005,Zürich,Active
 146,46.004469,8.947096,Stazione FFS,Via Clemente Maraini P+R,6900,Lugano,Active
@@ -211,7 +211,7 @@ id,latitude,longitude,name,address,zip,city,state
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
 255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
 256,46.9555118,7.4768856,Zentweg,Zentweg 25,3006,Bern,Active
-257,46.9480422,7.4502406,VORANKÜNDIGUNG: Station Simsonbrunnen vom 08.08 - 15.08 nicht in Betrieb,Kramgasse 40,3011,Bern,Active
+257,46.9480422,7.4502406,BUSKERS: Die Station Simsonbrunnen ist nicht in Betrieb,Kramgasse 40,3011,Bern,Inactive
 258,46.9475995,7.4473498,Theaterplatz,Theaterplatz 4,3011,Bern,Active
 259,46.9539295,7.4267524,Waldheim,Freiestrasse 43,3012,Bern,Active
 260,46.9486794,7.4532728,Postgasse,Postgasse 66,3011,Bern,Active
@@ -220,7 +220,7 @@ id,latitude,longitude,name,address,zip,city,state
 263,47.359978,8.552717,Feldeggstrasse,Seefeldstrasse 96,8008,Zürich,Active
 264,47.353198,8.553189,Lake Side,Bellerivestrasse 170,8008,Zürich,Active
 266,47.375819,8.516676,Lochergut,Badenerstrasse 246,8004,Zürich,Active
-268,46.292116,7.522262,Hôpital / ECAV,Rue de l'Hôpital 14,3960,Sierre,Active
+268,46.292116,7.522262,La station est hors service jusqu'à mardi: Hôpital / ECAV,Rue de l'Hôpital 14,3960,Sierre,Active
 269,46.283387,7.53985,Technopôle,Route de Sous-Géronde 40-42,3960,Sierre,Active
 270,46.291525,7.533052,Sierre Gare,Chemin du Petit-Bois,3960,Sierre,Active
 271,46.947856328360984,7.436903989490435,PostParc Velostation (06:00-22:00)- INSIDE the building!,Schanzenstrasse 5,3008,Bern,Active
@@ -293,7 +293,7 @@ id,latitude,longitude,name,address,zip,city,state
 359,47.393365,8.512551,Fischerweg,Hardturmstrasse 161,8005,Zürich,Active
 360,47.3876979,8.5421457,Kirche Unterstrass,Turnerstrasse 47,8006,Zürich,Active
 361,47.394554,8.522117,Dorfstrasse,Dorfstrasse 40,8037,Zürich,Active
-362,47.37271,8.530437,"Die Station Stauffachertor ist bis am 1.9.22 ausser Betrieb. Bitte benutzen Sie alternativ die Station Werdstrasse, TX Group AG",Werdstrasse 25,8004,Zürich,Inactive
+362,47.37271,8.530437,"Die Station Stauffachertor ist bis am 15.08.22 ausser Betrieb. Bitte benutzen Sie alternativ die Station Werdstrasse, TX Group AG",Werdstrasse 25,8004,Zürich,Inactive
 363,47.416155,8.541712,Wahlenpark,Eggbühlstrasse 21,8050,Zürich,Active
 364,47.3708387,8.5595335,Kinderspital,Dolderstrasse 32,8032,Zürich,Active
 365,47.388689,8.536433,Kornhausstrasse,Kornhausstrasse 30,8006,Zürich,Active
@@ -362,7 +362,7 @@ id,latitude,longitude,name,address,zip,city,state
 451,47.381915,8.515252,Hardplatz,Sihlfeldstrasse 175,8004,Zürich,Active
 452,47.356387,8.526158,Rieterplatz,Waffenplatzstrasse 89,8002,Zürich,Active
 453,47.3836391,8.4941268,Flurpark,Flurstrasse 62,8048,Zürich,Active
-454,47.364871,8.537971,Achtung: Die Station ist aufgrund der Streetparade vom 12.8 - 15.8 ausser Betrieb: General-Guisan-Quai,General-Guisan-Quai 17,8002,Zürich,Active
+454,47.364871,8.537971,ACHTUNG: Die Station ist aufgrund der Streetparade bis am 15.8 ausser Betrieb: General-Guisan-Quai,General-Guisan-Quai 17,8002,Zürich,Inactive
 455,47.385711,8.499287,Letzipark,Baslerstrasse 51,8048,Zürich,Active
 456,46.965031,7.4589906,Wankdorffeldstrasse,Wankdorffeldstrasse 97,3014,Bern,Active
 457,46.9525271,7.4498355,Kursaal,Sonnenbergstrasse 14,3013,Bern,Active
@@ -383,7 +383,7 @@ id,latitude,longitude,name,address,zip,city,state
 472,46.9477995,7.454056,Junkerngasse,Junkerngasse 30,3011,Bern,Active
 473,46.9491966,7.445947,Predigergasse,Predigergasse 6,3011,Bern,Active
 474,46.9501048,7.4283779,Depotstrasse,Depotstrasse 2,3012,Bern,Active
-475,46.9475304,7.4521275,VORANKÜNDIGUNG: Station Münster vom 08.08 - 15.08 nicht in Betrieb,Münstergasse 2,3011,Bern,Active
+475,46.9475304,7.4521275,BUSKERS: Die Station Münster ist nicht in Betrieb,Münstergasse 2,3011,Bern,Inactive
 476,46.9459831,7.4394178,Kleine Schanze,Schwanengasse 14,3011,Bern,Active
 477,46.9616862,7.4396136,Innere Enge,Engestrasse 54a,3012,Bern,Active
 478,46.9406928,7.4431488,Dampfzentrale,Marzilistrasse 45,3005,Bern,Active
@@ -463,7 +463,7 @@ id,latitude,longitude,name,address,zip,city,state
 560,47.376467,8.526609,Helvetiaplatz,Molkenstrasse 15,8004,Zürich,Active
 561,47.413733,8.541541,Center Eleven,Therese-Giehse-Strasse 11,8050,Zürich,Active
 562,47.370238,8.514841,Goldbrunnenplatz,Schrennengasse 37,8003,Zürich,Active
-563,47.360004,8.534227,Achtung: Die Station ist aufgrund der Streetparade vom 12.8 - 14.8 ausser Betrieb: Mythenschloss,Alfred Escher-Strasse 76,8002,Zürich,Active
+563,47.360004,8.534227,Mythenschloss,Alfred Escher-Strasse 76,8002,Zürich,Active
 564,47.345248,8.535082,GZ Wollishofen,Bachstrasse 15,8038,Zürich,Active
 565,47.381149,8.532405,Zollstrasse,Neugasse 6,8005,Zürich,Active
 566,47.396172,8.50373,Am Wasser,Hardeggstrasse 6,8049,Zürich,Active
@@ -510,7 +510,7 @@ id,latitude,longitude,name,address,zip,city,state
 618,45.958424,8.917052,Barbengo,Via Soreso 6,6917,Lugano,Active
 619,46.016072,8.941042,Piscina Valgersa,Via Val Gersa,6942,Savosa,Active
 620,45.973369,8.927351,Centro Lugano Sud,Via Cantonale,6916,Grancia,Active
-621,47.357867,8.548878,Klinik Pyramide am See,Bellerivestrasse 34,8034,Zürich,Active
+621,47.357867,8.548878,ACHTUNG: Die Station wurde zurückgebaut: Klinik Pyramide am See,Bellerivestrasse 34,8034,Zürich,Inactive
 625,46.03702,8.954823,Comano Centro Prospò,Parcheggio Chiesa Comano,6949,Comano,Active
 626,46.55095610567505,6.57306649851556,Oassis,Chemin des Lentillières 15,1023,Crissier,Active
 627,45.999094,8.945139,via Maraini,via Clemente Maraini 12,6900,Lugano,Active
@@ -536,7 +536,7 @@ id,latitude,longitude,name,address,zip,city,state
 647,46.80007,7.140663,Vignettaz - Daler,Route de Villars 22,1700,Fribourg,Active
 648,46.949233,7.436822,Open 07:00 - 18:00 In der Velostation Schanzenbrücke,Velostation Parkterrasse,3012,Bern,Active
 660,47.3525,8.527157,Muggenbühl,Mutschellenstrasse 36,8038,Zürich,Active
-661,47.36910680440694,8.541427242856333,Achtung: Die Station ist aufgrund der Streetparade vom 12.8 - 14.8 ausser Betrieb: Stadthaus,Kappelergasse,8001,Zürich,Active
+661,47.36910680440694,8.541427242856333,Stadthaus,Kappelergasse,8001,Zürich,Active
 662,47.369181,8.505787,Heuried ZüriMobil Station,Wasserschöpfi,8055,Zürich,Active
 663,46.951897864484735,7.442042659901252,Kleeplatz / Bollwerk,Bollwerk 41,3011,Bern,Active
 664,46.011494,8.961011,Campus Est,Via la Santa,6962,Viganello,Active
@@ -556,7 +556,7 @@ id,latitude,longitude,name,address,zip,city,state
 680,46.946852812713296,7.483654624791477,Merzenacker,Obere Zollgasse 94,3006,Bern,Active
 681,46.93987160970557,7.425113039012359,Weberstrasse,Weberstrasse 25,3007,Bern,Active
 682,46.938845,7.4210796,Kirchbergerstrasse,Kirchbergerstrasse 41,3008,Bern,Active
-683,46.948471616973904,7.450529302235038,VORANKÜNDIGUNG: Station Rathausgasse vom 08.08 - 15.08 nicht in Betrieb,Rathausgasse 31,3000,Bern,Active
+683,46.948471616973904,7.450529302235038,BUSKERS: Die Station Rathausgasse ist nicht in Betrieb,Rathausgasse 31,3000,Bern,Inactive
 684,45.87125166693927,8.98675487202064,Mendrisio Municipio,Via Municipio,6850,Mendrisio,Active
 685,45.87216325637743,8.983528791038395,Mendrisio CPI,Via Franco Zorzi,6850,Mendrisio,Active
 686,45.8762029265714,8.981280464481735,Mendrisio Fox Town,Via Moree,6850,Mendrisio,Active
@@ -570,7 +570,7 @@ id,latitude,longitude,name,address,zip,city,state
 694,45.849794,8.944964,Stabio Stazione FFS,Via Cantonale 11,6855,Stabio,Active
 695,45.848177,8.936794,Stabio via Mulino,Prati del Trevano,6855,Stabio,Active
 696,45.991069,8.936421,Gentilino,Via Nocc,6925,Collina d'Oro,Active
-697,46.29013699904917,7.540881561583668,Bains de Géronde,Chemin du Grand Lac,3960,Sierre,Active
+697,46.29013699904917,7.540881561583668,La station est hors service jusqu'à mardi: Bains de Géronde,Chemin du Grand Lac,3960,Sierre,Active
 698,46.22707219319727,7.362775883948622,Campus Energypolis,Rue de l'Industrie,1950,Sion,Active
 699,45.858612,8.940146,Stabio Via Segeno,Via Segeno,6855,Stabio,Active
 701,47.375748,8.548599,ETH Karl-Schmid-Strasse: Mobile Station Zürich 2,Karl-Schmid-Strasse 1,8006,Zürich,Active
@@ -673,16 +673,17 @@ id,latitude,longitude,name,address,zip,city,state
 808,46.547024950077954,6.607627798721679,CHUV Cery,Route de Cery 60,1008,Prilly,Active
 809,46.530961547725724,6.570954143053104,Cèdres,Allée des Cèdres,1022,Chavannes-près-Renens,Active
 810,46.419162,6.282356,"Gland, Place Riant-Coteau",Rue du Riant-Coteau,1196,Gland,Active
-811,46.417503,6.271244,"Gland, le Midi",Rue du Midi,1196,Gland,Active
+811,46.417503,6.271244,"Gland, Le Midi",Rue du Midi,1196,Gland,Active
 812,46.79364606401284,7.150040893601194,Route des Cliniques,Route des Cliniques,1700,Fribourg,Active
 813,46.77578804990217,7.156581598521503,Ecoquartier Marly,Route du Moulin,1723,Marly,Active
 814,46.96629170335004,7.48318298315503,UPD Restaurant,UPD Bern,3000,Bern,Active
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
-816,46.96949592123616,7.486667875639816,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
+816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
 817,46.51673942261787,6.566454652605652,Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
 822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active
 824,46.95626329415468,7.482893566913186,Ostermundigen Bahnhof,Poststrasse 1,3072,Ostermundigen,Active
 825,46.95123907638763,7.487040006612239,Waldheimstrasse,Bachstrasse 5-1,3072,Ostermundigen,Active
-826,46.988369990781095,7.463319968143853,INFORAMA Zollikofen,Rütti 5,3052,Zollikofen,Active
+826,46.988369990781095,7.463319968143853,INFORAMA Zollikofen,Rütti 10,3052,Zollikofen,Active
+827,47.405478,8.481071,Frankental,Frankentalerstrasse 10,8049,Zürich,Active

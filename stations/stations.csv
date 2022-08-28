@@ -14,7 +14,7 @@ id,latitude,longitude,name,address,zip,city,state
 21,46.521043,6.573253,Sorge,UNIL Sorge,1015,Lausanne,Active
 22,46.508486,6.499667,Casino,Place du Casino,1110,Morges,Active
 23,46.5175143,6.5261484,Préverenges,Route de Genève,1028,Préverenges,Active
-25,46.517121113314744,6.6312827206570955,Lausanne Gare CFF Nord,Avenue de la Gare,1003,Lausanne,Active
+25,46.51729603169255,6.630497103216617,Lausanne Gare CFF Nord,Avenue de la Gare,1003,Lausanne,Active
 26,46.521668,6.581345,Unil Centre,Unicentre,1015,Lausanne,Active
 27,46.50225151684113,6.48110823288,Medtronic,Route du Molliau 31,1131,Tolochenaz,Active
 28,46.515862,6.630461,Lausanne Gare CFF Sud,Passage des Saugettes 7,1003,Lausanne,Active
@@ -93,7 +93,7 @@ id,latitude,longitude,name,address,zip,city,state
 125,47.378521,8.496727,Utogrund,Albisriederstrasse 200,8047,Zürich,Active
 126,47.381356,8.510418,Hardau,Bullingerstrasse 73,8004,Zürich,Active
 127,47.361567,8.525525,Klopstockwiese,Klopstockstrasse 23,8002,Zürich,Active
-128,47.363875,8.517481,Binz,Haldenstrasse 69-27,8045,Zürich,Active
+128,47.363875,8.517481,VORANKÜNDIGUNG: Die Station wird am 30.8 an den neuen Standort  beim Bhf Binz verschoben: Binz,Haldenstrasse 69-27,8045,Zürich,Active
 129,47.379952,8.542726,Stampfenbachplatz,Walchestrasse 11,8006,Zürich,Active
 130,47.391366,8.488108,Bahnhof Altstetten,Altstetterplatz 1,8048,Zürich,Active
 131,47.365167,8.55405,Kreuzplatz,Kreuzplatz 2,8032,Zürich,Active
@@ -215,7 +215,7 @@ id,latitude,longitude,name,address,zip,city,state
 258,46.9475995,7.4473498,Theaterplatz,Theaterplatz 4,3011,Bern,Active
 259,46.9539295,7.4267524,Waldheim,Freiestrasse 43,3012,Bern,Active
 260,46.9486794,7.4532728,Postgasse,Postgasse 66,3011,Bern,Active
-261,46.9366583,7.4679887,Ringoltingenstrasse: ACHTUNG Station nicht verfügbar vom 27.08.2022 10:00 bis 28.08.2022 10:00,Ringoltingenstrasse 21,3006,Bern,Active
+261,46.9366583,7.4679887,Ringoltingenstrasse,Ringoltingenstrasse 21,3006,Bern,Active
 262,46.9416249,7.4631929,Böcklinstrasse,Brunnadernstrasse 20,3006,Bern,Active
 263,47.359978,8.552717,Feldeggstrasse,Seefeldstrasse 96,8008,Zürich,Active
 264,47.353198,8.553189,Lake Side,Bellerivestrasse 170,8008,Zürich,Active
@@ -232,7 +232,7 @@ id,latitude,longitude,name,address,zip,city,state
 278,47.417701,8.545602,Emil-Oberhänsli,Felsenrainstrasse 2,8050,Zürich,Active
 279,47.39808,8.533647,Bucheggplatz,Bucheggplatz 2,8057,Zürich,Active
 280,47.392347,8.523549,Wipkingerplatz,Wipkingerplatz 4,8037,Zürich,Active
-283,47.351525,8.534444,Theater Spektakel,Mythenquai 301,8038,Zürich,Active
+283,47.351525,8.534444,Theater Spektakel (Nur bis am 4.9 in Betrieb),Mythenquai 301,8038,Zürich,Active
 284,46.520469823395864,6.630836110862832,Place de l’Europe,Place Centrale,1003,Lausanne,Active
 285,47.36691,8.548562,Bahnhof Stadelhofen,Galerie über Gleis 3,8001,Zürich,Active
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
@@ -301,7 +301,7 @@ id,latitude,longitude,name,address,zip,city,state
 366,47.407098,8.55033,Dorflinde,Schwamendingenstrasse 41,8050,Zürich,Active
 367,47.368183,8.56155,Römerhof,Samariterstrasse 4,8032,Zürich,Active
 368,47.3619068,8.5609218,Hegibachplatz,Forchstrasse 99,8032,Zürich,Active
-370,47.4039985,8.5721264,Schwamendingerplatz,Winterthurerstrasse 519,8051,Zürich,Active
+370,47.4039985,8.5721264,VORANKÜNDIGUNG: Die Station befindet sich vom 30.8 - 5.9 beim Glattstegweg 2: Schwamendingerplatz,Winterthurerstrasse 519,8051,Zürich,Active
 371,46.933433,7.466467,Elfenau,Elfenauweg 92,3006,Bern,Active
 372,46.970948,7.472052,GVB,Papiermühlestrasse 130,3063,Ittigen,Active
 374,46.88922737105038,7.367057544825261,SwissBikePark Oberried,Oberriedgässli 6,3145,Niederscherli,Active
@@ -416,11 +416,11 @@ id,latitude,longitude,name,address,zip,city,state
 509,46.796171649939694,7.143346608386447,Beaumont FR,Route de Beaumont 10,1700,Freiburg,Active
 510,46.808006,7.155941,Quartier d'Alt,Derrière-les-Remparts 12,1700,Freiburg,Active
 511,46.974841,7.453275,Spital Tiefenau,Tiefenaustrasse 110,3004,Bern,Active
-513,47.379719,8.537729,Sihlquai,Sihlquai/HB,8005,Zürich,Active
+513,47.380337,8.537753,Sihlquai,Sihlquai 25,8005,Zürich,Active
 514,47.397885,8.596202,Bahnhof Stettbach,Bahnhof Stettbach,8051,Zürich,Active
 515,47.3690153,8.5543974,Hottingerplatz,Kasinostrasse 10,8032,Zürich,Active
 516,47.418472,8.561746,Sirius-Platz,Sirius-Platz,8152,Opfikon,Active
-517,47.431787,8.567171,Stadthaus Opfikon,Oberhauserstrasse 29,8152,Opfikon,Active
+517,47.431787,8.567171,VORANKÜNDIGUNG: Die Station wird am 5.9. neben die Oberhauserstrasse 3 verschoben: Stadthaus Opfikon,Oberhauserstrasse 29,8152,Opfikon,Active
 518,47.39572,8.62328,Oberdorf,Alte Oberdorfstrasse 15,8600,Dübendorf,Active
 519,47.430911,8.562033,Bahnhof Opfikon,Schaffhauserstrasse 64,8152,Opfikon,Active
 520,47.40245,8.62726,Flugplatz Dübendorf,Wangenstrasse 47-39,8600,Dübendorf,Active
@@ -459,7 +459,7 @@ id,latitude,longitude,name,address,zip,city,state
 555,46.946839,7.4556,Mühlenplatz,Schifflaube 1,3011,Bern,Active
 556,47.391289,8.537546,Schaffhauserplatz,Rotbuchstrasse 15,8006,Zürich,Active
 557,47.374206,8.514138,Idaplatz,Idaplatz 4,8003,Zürich,Active
-558,47.370018,8.518165,Schmiede Wiedikon,Zweierstrasse 166,8003,Zürich,Active
+558,47.370018,8.518165,VORANKÜNDIGUNG: Die Station befindet sich ab dem 5.9.22 wieder an der Brinerstrasse 2: Schmiede Wiedikon,Zweierstrasse 166,8003,Zürich,Active
 559,47.374241,8.525602,Bezirksgebäude,Badenerstrasse 90,8004,Zürich,Active
 560,47.376467,8.526609,Helvetiaplatz,Molkenstrasse 15,8004,Zürich,Active
 561,47.413733,8.541541,Center Eleven,Therese-Giehse-Strasse 11,8050,Zürich,Active
@@ -488,7 +488,7 @@ id,latitude,longitude,name,address,zip,city,state
 592,46.9371949,7.439401,Landoltstrasse,Landoltstrasse 1,3007,Bern,Active
 593,46.97293,7.450856,Tiefenau Bahnhof,Tiefenaustrasse 109,3004,Bern,Active
 594,46.9644796,7.466948,Wankdorf Sporthalle,Papiermühlestrasse 91,3014,Bern,Active
-595,46.940142,7.453501,Jubiläumsplatz,Jubiläumsplatz 2,3005,Bern,Active
+595,46.940180660348716,7.453043799962409,Jubiläumsplatz,Jubiläumsplatz 2,3005,Bern,Active
 596,46.9446088,7.4290739,Schwarztorstrasse,Schwarztorstrasse 71,3007,Bern,Active
 597,46.941383,7.448788,Museen Bernastrasse,Bernastrasse 23,3005,Bern,Active
 598,46.38065,6.20499,"Eysins, Vieux-Collège",Rue du Vieux-Collège 3-1,1262,Eysins,Active
@@ -548,7 +548,7 @@ id,latitude,longitude,name,address,zip,city,state
 669,46.99202428819717,7.457368930354201,Unterzollikofen Bahnhof,Lätternweg 6,3052,Zollikofen,Active
 670,46.9313589644514,7.446041234885444,Sandrain,Seftigenstrasse 186a,3098,Köniz,Active
 671,46.92898585565497,7.450277590824284,Wabern Zentrum,Waldblickstrasse 8,3084,Köniz,Active
-672,46.934993162587745,7.500064445143627,Volvo Gümligen ACHTUNG: Wird im Verlauf der nächsten Wochen aufgehoben,Worbstrasse 171,3073,Muri bei Bern,Active
+672,46.934993162587745,7.500064445143627,"Ausser Betrieb, bitte benützen sie die Station Gümligen Bahnhof",Worbstrasse 171,3073,Muri bei Bern,Inactive
 673,46.931588810237784,7.485518127326376,Sternen Muri,Thunstrasse 74a,3074,Muri,Active
 674,46.93357261917911,7.505070609131323,Bahnhof Gümligen,Worbstrasse 210,3074,Muri,Active
 675,46.95906857,7.47775778,Burgfeld,Mittelholzerstrasse 30,3006,Bern,Active
@@ -589,7 +589,7 @@ id,latitude,longitude,name,address,zip,city,state
 714,45.86245058491458,8.980687511646552,Mendrisio Comparto Scuole,Via Pier Francesco Mola,6850,Mendrisio,Active
 715,45.890055,8.950718,Quartiere di Meride,Ala Caraa,6866,Meride,Active
 716,45.86687922879933,8.983606564693778,Mendrisio Ospedale,Via Alfonso Turconi 25,6850,Mendrisio,Active
-717,45.87153897383477,8.968208417990107,Rancate Nucleo - Fuori servizio: manifestazione,Piazza S. Stefano,6862,Rancate,Active
+717,45.87153897383477,8.968208417990107,Rancate Nucleo,Piazza S. Stefano,6862,Rancate,Active
 718,45.861449804710674,8.954692504152314,Ligornetto Nucleo,Via Eugenio Bernasconi 22,6853,Ligornetto,Active
 719,45.845724,9.014909,Morbio Serfontana,Viale Serfontana 20,6834,Morbio Inferiore,Active
 720,45.855005125749834,9.002221444016275,Castel S. Pietro alle Zocche,Via alle Zocche 7-3,6874,Castel San Pietro,Active
@@ -688,3 +688,5 @@ id,latitude,longitude,name,address,zip,city,state
 825,46.95123907638763,7.487040006612239,Waldheimstrasse,Bachstrasse 5-1,3072,Ostermundigen,Active
 826,46.988369990781095,7.463319968143853,INFORAMA Zollikofen,Rütti 10,3052,Zollikofen,Active
 827,47.405478,8.481071,Frankental,Frankentalerstrasse 10,8049,Zürich,Active
+828,46.9416721,7.390662,Fussgängerzone Bümpliz,Bümplizstrasse 112,3000,Bern,Active
+829,46.8934148092464,7.3518540937205685,Thörishaus Dorf SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active

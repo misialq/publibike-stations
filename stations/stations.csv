@@ -1,5 +1,4 @@
 id,latitude,longitude,name,address,zip,city,state
-3,46.01417176928767,8.965986487237465,Atelier Lugano,Piazza della Riforma,6900,Lugano,Active
 6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Lausanne,Active
 7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Lausanne,Active
 8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Lausanne,Active
@@ -232,7 +231,6 @@ id,latitude,longitude,name,address,zip,city,state
 278,47.417701,8.545602,Emil-Oberhänsli,Felsenrainstrasse 2,8050,Zürich,Active
 279,47.39808,8.533647,Bucheggplatz,Bucheggplatz 2,8057,Zürich,Active
 280,47.392347,8.523549,Wipkingerplatz,Wipkingerplatz 4,8037,Zürich,Active
-283,47.351525,8.534444,Theater Spektakel (Nur bis am 4.9 in Betrieb),Mythenquai 301,8038,Zürich,Active
 284,46.520469823395864,6.630836110862832,Place de l’Europe,Place Centrale,1003,Lausanne,Active
 285,47.36691,8.548562,Bahnhof Stadelhofen,Galerie über Gleis 3,8001,Zürich,Active
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
@@ -301,7 +299,7 @@ id,latitude,longitude,name,address,zip,city,state
 366,47.407098,8.55033,Dorflinde,Schwamendingenstrasse 41,8050,Zürich,Active
 367,47.368183,8.56155,Römerhof,Samariterstrasse 4,8032,Zürich,Active
 368,47.3619068,8.5609218,Hegibachplatz,Forchstrasse 99,8032,Zürich,Active
-370,47.4039985,8.5721264,ACHTUNG: Die Station befindet sich vom 30.8 - 5.9 beim Glattstegweg 2: Schwamendingerplatz,Winterthurerstrasse 519,8051,Zürich,Inactive
+370,47.4039985,8.5721264,Schwamendingerplatz,Winterthurerstrasse 519,8051,Zürich,Active
 371,46.933433,7.466467,Elfenau,Elfenauweg 92,3006,Bern,Active
 372,46.970948,7.472052,GVB,Papiermühlestrasse 130,3063,Ittigen,Active
 374,46.88922737105038,7.367057544825261,SwissBikePark Oberried,Oberriedgässli 6,3145,Niederscherli,Active
@@ -350,7 +348,7 @@ id,latitude,longitude,name,address,zip,city,state
 435,46.009713,8.96008,Ospedale Italiano di Lugano,Via Pietro Cappelli,6900,Lugano,Active
 436,46.013865,8.958952,Casa Serena,Via Marco da Carona 10-12,6900,Lugano,Active
 437,46.01876,8.96429,Via Ceresio,Via Ceresio,6900,Lugano,Active
-438,46.0036519,8.9529036,Piazza Manzoni,Piazza Manzoni,6900,Lugano,Active
+438,46.0036519,8.9529036,Piazza Manzoni: stazione fuori servizio dal 06.09 al 13.09,Piazza Manzoni,6900,Lugano,Inactive
 440,46.0166117,8.9596513,Via Beltramina,Via Beltramina 16,6900,Lugano,Active
 441,45.989126,8.946661,Paradiso Stazione FFS,Via Carona,6900,Paradiso,Active
 444,47.375247,8.496511,Sackzelg,Letzigraben 139,8047,Zürich,Active
@@ -427,7 +425,7 @@ id,latitude,longitude,name,address,zip,city,state
 521,47.39733,8.61865,Stadthaus Dübendorf,Usterstrasse 1,8600,Dübendorf,Active
 522,47.444516,8.582115,Schluefweg,Schluefweg 10,8302,Kloten,Active
 523,47.43117,8.55845,Bahnhof Glattbrugg,Bahnhofplatz 1,8152,Opfikon,Active
-524,47.450893,8.582374,Stadtplatz Kloten wegen Baustelle nicht zugänglich,Kirchgasse 7,8302,Kloten,Inactive
+524,47.451336,8.58205,Die Station ist ab dem 12.9. an der Schaffhauserstrasse 126 wieder in Betrieb: Stadtplatz Kloten,Schaffhauserstrasse 126,8302,Kloten,Inactive
 525,47.400393,8.622367,Bahnhof Dübendorf,Bettlistrasse 1,8600,Dübendorf,Active
 526,47.395368,8.603989,Sonnental,Zürichstrasse 94,8600,Dübendorf,Active
 527,47.44173,8.56879,Bahnhof Balsberg,Kloten Balsberg,8302,Kloten,Active
@@ -459,7 +457,7 @@ id,latitude,longitude,name,address,zip,city,state
 555,46.946839,7.4556,Mühlenplatz,Schifflaube 1,3011,Bern,Active
 556,47.391289,8.537546,Schaffhauserplatz,Rotbuchstrasse 15,8006,Zürich,Active
 557,47.374206,8.514138,Idaplatz,Idaplatz 4,8003,Zürich,Active
-558,47.370018,8.518165,VORANKÜNDIGUNG: Die Station befindet sich ab dem 5.9.22 wieder an der Brinerstrasse 2: Schmiede Wiedikon,Zweierstrasse 166,8003,Zürich,Active
+558,47.369599,8.518488,Schmiede Wiedikon,Brinerstrasse 2,8003,Zürich,Active
 559,47.374241,8.525602,Bezirksgebäude,Badenerstrasse 90,8004,Zürich,Active
 560,47.376467,8.526609,Helvetiaplatz,Molkenstrasse 15,8004,Zürich,Active
 561,47.413733,8.541541,Center Eleven,Therese-Giehse-Strasse 11,8050,Zürich,Active
@@ -651,7 +649,6 @@ id,latitude,longitude,name,address,zip,city,state
 782,46.029052,8.969857,Ecocentro Pregassona,Via Ruggì 46,6963,Pregassona,Active
 783,45.994723,8.943257,Casserina,Via Clemente Maraini 39,6900,Lugano,Active
 784,45.8474329,9.0342084,"Vacallo, Piazza Municipio",Via Giacomo Puccini,6838,Vacallo,Active
-785,47.406095,8.573198,Schwamendingerplatz Ersatzstandort (Schwamendinger Chilbi),Glattstegweg 2,8051,Zürich,Active
 786,46.5275155987152,6.5727380643235245,Café de Chavannes,Route de la Maladière 40,1022,Chavannes-près-Renens,Active
 787,46.53439438272029,6.5780125706014605,Chocolaterie,Avenue de la gare 22,1022,Chavanne-près-Renens,Active
 788,46.52285180329474,6.616691677562492,SEVELIN.CH,Avenue de Sévelin,1004,Lausanne,Active

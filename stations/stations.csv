@@ -348,7 +348,7 @@ id,latitude,longitude,name,address,zip,city,state
 435,46.009713,8.96008,Ospedale Italiano di Lugano,Via Pietro Cappelli,6900,Lugano,Active
 436,46.013865,8.958952,Casa Serena,Via Marco da Carona 10-12,6900,Lugano,Active
 437,46.01876,8.96429,Via Ceresio,Via Ceresio,6900,Lugano,Active
-438,46.0036519,8.9529036,Piazza Manzoni: stazione fuori servizio dal 06.09 al 13.09,Piazza Manzoni,6900,Lugano,Inactive
+438,46.0036519,8.9529036,Piazza Manzoni,Piazza Manzoni,6900,Lugano,Active
 440,46.0166117,8.9596513,Via Beltramina,Via Beltramina 16,6900,Lugano,Active
 441,45.989126,8.946661,Paradiso Stazione FFS,Via Carona,6900,Paradiso,Active
 444,47.375247,8.496511,Sackzelg,Letzigraben 139,8047,Zürich,Active
@@ -425,7 +425,7 @@ id,latitude,longitude,name,address,zip,city,state
 521,47.39733,8.61865,Stadthaus Dübendorf,Usterstrasse 1,8600,Dübendorf,Active
 522,47.444516,8.582115,Schluefweg,Schluefweg 10,8302,Kloten,Active
 523,47.43117,8.55845,Bahnhof Glattbrugg,Bahnhofplatz 1,8152,Opfikon,Active
-524,47.451336,8.58205,Die Station ist ab dem 12.9. an der Schaffhauserstrasse 126 wieder in Betrieb: Stadtplatz Kloten,Schaffhauserstrasse 126,8302,Kloten,Inactive
+524,47.451336,8.58205,Stadtplatz Kloten,Bachstrasse 8,8302,Kloten,Active
 525,47.400393,8.622367,Bahnhof Dübendorf,Bettlistrasse 1,8600,Dübendorf,Active
 526,47.395368,8.603989,Sonnental,Zürichstrasse 94,8600,Dübendorf,Active
 527,47.44173,8.56879,Bahnhof Balsberg,Kloten Balsberg,8302,Kloten,Active
@@ -456,7 +456,7 @@ id,latitude,longitude,name,address,zip,city,state
 554,46.95251,7.467399,Ostermundigerstrasse,Ostermundigenstrasse 36,3006,Bern,Active
 555,46.946839,7.4556,Mühlenplatz,Schifflaube 1,3011,Bern,Active
 556,47.391289,8.537546,Schaffhauserplatz,Rotbuchstrasse 15,8006,Zürich,Active
-557,47.374206,8.514138,Idaplatz,Idaplatz 4,8003,Zürich,Active
+557,47.374206,8.514138,ACHTUNG: Die Station wird aufgrund Bauarbeiten am 22.9. an den Idaplatz 10 verschoben: Idaplatz,Idaplatz 4,8003,Zürich,Active
 558,47.369599,8.518488,Schmiede Wiedikon,Brinerstrasse 2,8003,Zürich,Active
 559,47.374241,8.525602,Bezirksgebäude,Badenerstrasse 90,8004,Zürich,Active
 560,47.376467,8.526609,Helvetiaplatz,Molkenstrasse 15,8004,Zürich,Active
@@ -546,7 +546,6 @@ id,latitude,longitude,name,address,zip,city,state
 669,46.99202428819717,7.457368930354201,Unterzollikofen Bahnhof,Lätternweg 6,3052,Zollikofen,Active
 670,46.9313589644514,7.446041234885444,Sandrain,Seftigenstrasse 186a,3098,Köniz,Active
 671,46.92898585565497,7.450277590824284,Wabern Zentrum,Waldblickstrasse 8,3084,Köniz,Active
-672,46.934993162587745,7.500064445143627,"Ausser Betrieb, bitte benützen sie die Station Gümligen Bahnhof",Worbstrasse 171,3073,Muri bei Bern,Inactive
 673,46.931588810237784,7.485518127326376,Sternen Muri,Thunstrasse 74a,3074,Muri,Active
 674,46.93357261917911,7.505070609131323,Bahnhof Gümligen,Worbstrasse 210,3074,Muri,Active
 675,46.95906857,7.47775778,Burgfeld,Mittelholzerstrasse 30,3006,Bern,Active
@@ -689,3 +688,5 @@ id,latitude,longitude,name,address,zip,city,state
 828,46.941794,7.390649,Fussgängerzone Bümpliz,Bümplizstrasse 112,3000,Bern,Active
 829,46.8934148092464,7.3518540937205685,Thörishaus Dorf SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active
 830,46.90080888317644,7.401061091966004,Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Active
+832,46.025237,8.963681,Cornèr Arena - HC Lugano,Via Sonvico di Porza,6900,Lugano,Active
+833,47.396806,8.507693,Ackersteinstrasse ZüriMobil Station,Ackersteinstrasse 86,8049,Zürich,Active

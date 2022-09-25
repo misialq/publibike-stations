@@ -319,7 +319,6 @@ id,latitude,longitude,name,address,zip,city,state
 391,47.401852,8.499265,Meierhofplatz,Limmattalstrasse 177,8049,Zürich,Active
 392,47.393309,8.528074,Röschibachplatz,Röschibachstrasse 73,8037,Zürich,Active
 393,47.415721,8.538067,Oerliker Park,Birchstrasse 191,8050,Zürich,Active
-395,47.3669233,8.5420304,ACHTUNG: Die Station ist bis auf Weiteres ausser Betrieb - Bürkliplatz,Stadthausquai 1,8001,Zürich,Inactive
 396,47.409881,8.535767,Holunderhof,Regensbergstrasse 195,8050,Zürich,Active
 411,46.9257473,7.3770699,Niederwangen Bahnhof,Freiburgstrasse 554a,3098,Köniz,Active
 412,46.9266467,7.4359484,Bellevuestrasse,Bellevuestrasse 75,3095,Köniz,Active
@@ -456,7 +455,7 @@ id,latitude,longitude,name,address,zip,city,state
 554,46.95251,7.467399,Ostermundigerstrasse,Ostermundigenstrasse 36,3006,Bern,Active
 555,46.946839,7.4556,Mühlenplatz,Schifflaube 1,3011,Bern,Active
 556,47.391289,8.537546,Schaffhauserplatz,Rotbuchstrasse 15,8006,Zürich,Active
-557,47.374206,8.514138,ACHTUNG: Die Station wird aufgrund Bauarbeiten am 22.9. an den Idaplatz 10 verschoben: Idaplatz,Idaplatz 4,8003,Zürich,Active
+557,47.374262,8.515091,Idaplatz,Idaplatz 10,8003,Zürich,Active
 558,47.369599,8.518488,Schmiede Wiedikon,Brinerstrasse 2,8003,Zürich,Active
 559,47.374241,8.525602,Bezirksgebäude,Badenerstrasse 90,8004,Zürich,Active
 560,47.376467,8.526609,Helvetiaplatz,Molkenstrasse 15,8004,Zürich,Active
@@ -509,7 +508,6 @@ id,latitude,longitude,name,address,zip,city,state
 618,45.958424,8.917052,Barbengo,Via Soreso 6,6917,Lugano,Active
 619,46.016072,8.941042,Piscina Valgersa,Via Val Gersa,6942,Savosa,Active
 620,45.973369,8.927351,Centro Lugano Sud,Via Cantonale,6916,Grancia,Active
-621,47.357867,8.548878,ACHTUNG: Die Station wurde zurückgebaut und ist nicht mehr in Betrieb: Klinik Pyramide am See,Bellerivestrasse 34,8034,Zürich,Inactive
 625,46.03702,8.954823,Comano Centro Prospò,Parcheggio Chiesa Comano,6949,Comano,Active
 626,46.55095610567505,6.57306649851556,Oassis,Chemin des Lentillières 15,1023,Crissier,Active
 627,45.999094,8.945139,via Maraini,via Clemente Maraini 12,6900,Lugano,Active
@@ -690,3 +688,5 @@ id,latitude,longitude,name,address,zip,city,state
 830,46.90080888317644,7.401061091966004,Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Active
 832,46.025237,8.963681,Cornèr Arena - HC Lugano,Via Sonvico di Porza,6900,Lugano,Active
 833,47.396806,8.507693,Ackersteinstrasse ZüriMobil Station,Ackersteinstrasse 86,8049,Zürich,Active
+834,46.947649789766224,7.416924289192128,Güterstrasse,Güterstrasse 18,3008,Bern,Active
+835,46.95884778357857,7.429204058387358,Gymnasium Neufeld,Bremgartenstrasse 133,3012,Bern,Active

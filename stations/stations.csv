@@ -345,7 +345,7 @@ id,latitude,longitude,name,address,zip,city,state
 433,46.226638,7.342806,P+R Potences,Rue de l'Envol 28,1950,Sion,Active
 434,46.0159412,8.9668282,Via Crocetta,Via Crocetta,6900,Lugano,Active
 435,46.009713,8.96008,Ospedale Italiano di Lugano,Via Pietro Cappelli,6900,Lugano,Active
-436,46.013865,8.958952,Casa Serena,Via Marco da Carona 10-12,6900,Lugano,Active
+436,46.014127,8.959087,Casa Serena,Via Marco da Carona 10-12,6900,Lugano,Active
 437,46.01876,8.96429,Via Ceresio,Via Ceresio,6900,Lugano,Active
 438,46.0036519,8.9529036,Piazza Manzoni,Piazza Manzoni,6900,Lugano,Active
 440,46.0166117,8.9596513,Via Beltramina,Via Beltramina 16,6900,Lugano,Active
@@ -408,7 +408,7 @@ id,latitude,longitude,name,address,zip,city,state
 504,46.799339,7.151984,Rue du Simplon,Rue du Simplon 3,1700,Freiburg,Active
 505,46.811754,7.150142,Bourgknecht,Avenue Jean-Bourgknecht,1700,Freiburg,Active
 506,46.803943,7.151989,Fribourg Gare Nord,Place de la Gare 15,1700,Freiburg,Active
-507,46.804568,7.155553,Place Georges Python,Square des Places 1,1700,Freiburg,Active
+507,46.804568,7.155553,Hors-service: Morat-Fribourg. Place Georges Python,Square des Places 1,1700,Freiburg,Inactive
 508,46.80295,7.15966,La Motta,Petites-Rames 18,1700,Freiburg,Active
 509,46.796171649939694,7.143346608386447,Beaumont FR,Route de Beaumont 10,1700,Freiburg,Active
 510,46.808006,7.155941,Quartier d'Alt,Derrière-les-Remparts 12,1700,Freiburg,Active

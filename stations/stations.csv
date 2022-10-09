@@ -128,7 +128,7 @@ id,latitude,longitude,name,address,zip,city,state
 167,46.39294,6.23856,"Nyon, Triangle de l'Etraz",Route de l'Etraz 70,1260,Nyon,Active
 168,46.417718,6.267441,"Gland, Swissquote",Chemin de la Crétaux 2,1196,Gland,Active
 169,46.4223802,6.2585274,"Gland, Les Tuillières",Rue des Tuillières 1,1196,Gland,Active
-170,46.42047298933135,6.270098874504789,"Gland, Gare Sud",Rue du Perron 2,1196,Gland,Active
+170,46.420278,6.270556,"Gland, Gare Sud",Rue du Perron 2,1196,Gland,Active
 171,46.41609,6.278163,"Gland, UICN",Rue Mauverney 28,1196,Gland,Active
 174,46.9436036,7.4071777,Europaplatz,Freiburgstrasse 130,3008,Bern,Active
 175,46.9393577,7.3863865,Statthalterstrasse,Freieckweg 2,3018,Bern,Active
@@ -408,7 +408,7 @@ id,latitude,longitude,name,address,zip,city,state
 504,46.799339,7.151984,Rue du Simplon,Rue du Simplon 3,1700,Freiburg,Active
 505,46.811754,7.150142,Bourgknecht,Avenue Jean-Bourgknecht,1700,Freiburg,Active
 506,46.803943,7.151989,Fribourg Gare Nord,Place de la Gare 15,1700,Freiburg,Active
-507,46.804568,7.155553,Hors-service: Morat-Fribourg. Place Georges Python,Square des Places 1,1700,Freiburg,Inactive
+507,46.804568,7.155553,Place Georges Python,Square des Places 1,1700,Freiburg,Active
 508,46.80295,7.15966,La Motta,Petites-Rames 18,1700,Freiburg,Active
 509,46.796171649939694,7.143346608386447,Beaumont FR,Route de Beaumont 10,1700,Freiburg,Active
 510,46.808006,7.155941,Quartier d'Alt,Derrière-les-Remparts 12,1700,Freiburg,Active

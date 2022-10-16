@@ -128,7 +128,7 @@ id,latitude,longitude,name,address,zip,city,state
 167,46.39294,6.23856,"Nyon, Triangle de l'Etraz",Route de l'Etraz 70,1260,Nyon,Active
 168,46.417718,6.267441,"Gland, Swissquote",Chemin de la Crétaux 2,1196,Gland,Active
 169,46.4223802,6.2585274,"Gland, Les Tuillières",Rue des Tuillières 1,1196,Gland,Active
-170,46.420278,6.270556,"Gland, Gare Sud",Rue du Perron 2,1196,Gland,Active
+170,46.420278,6.270556,"Station déplacée de quelques mètres: Gland, Gare Sud",Rue du Perron 2,1196,Gland,Active
 171,46.41609,6.278163,"Gland, UICN",Rue Mauverney 28,1196,Gland,Active
 174,46.9436036,7.4071777,Europaplatz,Freiburgstrasse 130,3008,Bern,Active
 175,46.9393577,7.3863865,Statthalterstrasse,Freieckweg 2,3018,Bern,Active
@@ -179,7 +179,7 @@ id,latitude,longitude,name,address,zip,city,state
 221,46.9519742,7.4227466,Fabrikstrasse Uni Bern,Fabrikstrasse 2,3012,Bern,Active
 222,46.9534366,7.4239308,Hochschulzentrum von Roll,Fabrikstrasse 14,3012,Bern,Active
 223,46.9506632,7.4370414,Hauptgebäude Uni Bern,Falkenplatz 4,3012,Bern,Active
-224,46.9541456,7.4307168,Unitobler West,Lerchenweg 37,3012,Bern,Active
+224,46.9541456,7.4307168,Unitobler West ACHTUNG: Betriebseinschränkung vom 21.10.2022  bis 23.10.2022 CAMPUS Festival,Lerchenweg 37,3012,Bern,Active
 225,46.95560612233403,7.428042090100739,Hochfeldstrasse,Länggassstrasse 74,3012,Bern,Active
 226,46.9557805,7.4352658,Uni Mittelstrasse,Mittelstrasse 38,3012,Bern,Active
 227,46.9545136,7.4294963,Unitobler Ost,Muesmattstrasse 45,3012,Bern,Active
@@ -377,7 +377,7 @@ id,latitude,longitude,name,address,zip,city,state
 468,46.9472511,7.3933013,Waldmannstrasse,Waldmannstrasse 1,3027,Bern,Active
 469,46.9450382,7.3791687,Riedbachstrasse Park,Riedbachstrasse 77,3027,Bern,Active
 470,46.9438169,7.3955825,Schwabstrasse Kreisel,Keltenstrasse 41,3018,Bern,Active
-471,46.9486981,7.4036103,Weyermannshaus Bad,Stöckackerstrasse 9,3027,Bern,Active
+471,46.94774434260293,7.40357158919319,Weyermannshaus Bad,Stöckackerstrasse 9,3027,Bern,Active
 472,46.9477995,7.454056,Junkerngasse,Junkerngasse 30,3011,Bern,Active
 473,46.9491966,7.445947,Predigergasse,Predigergasse 6,3011,Bern,Active
 474,46.9501048,7.4283779,Depotstrasse,Depotstrasse 2,3012,Bern,Active

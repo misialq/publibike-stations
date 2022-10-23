@@ -179,7 +179,7 @@ id,latitude,longitude,name,address,zip,city,state
 221,46.9519742,7.4227466,Fabrikstrasse Uni Bern,Fabrikstrasse 2,3012,Bern,Active
 222,46.9534366,7.4239308,Hochschulzentrum von Roll,Fabrikstrasse 14,3012,Bern,Active
 223,46.9506632,7.4370414,Hauptgebäude Uni Bern,Falkenplatz 4,3012,Bern,Active
-224,46.9541456,7.4307168,Unitobler West ACHTUNG: Betriebseinschränkung vom 21.10.2022  bis 23.10.2022 CAMPUS Festival,Lerchenweg 37,3012,Bern,Active
+224,46.9541456,7.4307168,Unitobler West,Lerchenweg 37,3012,Bern,Active
 225,46.95560612233403,7.428042090100739,Hochfeldstrasse,Länggassstrasse 74,3012,Bern,Active
 226,46.9557805,7.4352658,Uni Mittelstrasse,Mittelstrasse 38,3012,Bern,Active
 227,46.9545136,7.4294963,Unitobler Ost,Muesmattstrasse 45,3012,Bern,Active
@@ -686,7 +686,12 @@ id,latitude,longitude,name,address,zip,city,state
 828,46.941794,7.390649,Fussgängerzone Bümpliz,Bümplizstrasse 112,3000,Bern,Active
 829,46.8934148092464,7.3518540937205685,Thörishaus Dorf SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active
 830,46.90080888317644,7.401061091966004,Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Active
+831,47.396033,8.480843,ZSC Lions,Vulkanstrasse 130,8048,Zürich,Active
 832,46.025237,8.963681,Cornèr Arena - HC Lugano,Via Sonvico di Porza,6900,Lugano,Active
 833,47.396806,8.507693,Ackersteinstrasse ZüriMobil Station,Ackersteinstrasse 86,8049,Zürich,Active
 834,46.947649789766224,7.416924289192128,Güterstrasse,Güterstrasse 18,3008,Bern,Active
 835,46.95884778357857,7.429204058387358,Gymnasium Neufeld,Bremgartenstrasse 133,3012,Bern,Active
+836,46.510153,6.558052,Saint-Sulpice Administration,Chemin du Crêt,1025,Saint-Sulpice,Active
+837,46.387342,6.227582,"Nyon, La Levratte",Av. Alfred Cortot,1260,Nyon,Active
+838,46.506672472768464,6.6449860458694054,Tour Haldimand - TetraLaval TetraPak,Av. Général-Guisan 70,1009,Pully,Active
+839,46.52877795845398,6.614257776560184,Parc de Valency,Av. d'Echallens,1004,Lausanne,Active

@@ -128,12 +128,12 @@ id,latitude,longitude,name,address,zip,city,state
 167,46.39294,6.23856,"Nyon, Triangle de l'Etraz",Route de l'Etraz 70,1260,Nyon,Active
 168,46.417718,6.267441,"Gland, Swissquote",Chemin de la Crétaux 2,1196,Gland,Active
 169,46.4223802,6.2585274,"Gland, Les Tuillières",Rue des Tuillières 1,1196,Gland,Active
-170,46.420278,6.270556,"Station déplacée de quelques mètres: Gland, Gare Sud",Rue du Perron 2,1196,Gland,Active
+170,46.420278,6.270556,"Gland, Gare Sud",Rue du Perron 2,1196,Gland,Active
 171,46.41609,6.278163,"Gland, UICN",Rue Mauverney 28,1196,Gland,Active
 174,46.9436036,7.4071777,Europaplatz,Freiburgstrasse 130,3008,Bern,Active
 175,46.9393577,7.3863865,Statthalterstrasse,Freieckweg 2,3018,Bern,Active
 176,46.934694,7.3892135,Technopark,Morgenstrasse 129,3018,Bern,Active
-177,46.9501011,7.3812327,Holenackerstrasse,Holenackerstrasse 32,3027,Bern,Active
+177,46.94941743287729,7.381454366484235,Holenackerstrasse,Holenackerstrasse 24,3027,Bern,Active
 178,46.9372059,7.3872274,Kleefeld,Mädergutstrasse 5,3018,Bern,Active
 179,46.9454695,7.3928104,Schwabgut,Schwabstrasse 10,3018,Bern,Active
 180,46.9477116,7.3774722,Gäbelbach,Colombstrasse 11,3027,Bern,Active
@@ -144,7 +144,7 @@ id,latitude,longitude,name,address,zip,city,state
 185,46.9465343,7.4004614,Bahnhof Stöckacker,Untermattweg 36,3027,Bern,Active
 186,46.9493284,7.3939866,Bethlehem Kirche,Murtenstrasse 266,3027,Bern,Active
 187,46.947127654625206,7.46573539047808,Schule Laubegg,Schosshaldenstrasse 37,3006,Bern,Active
-188,46.955473,7.452205,Viktoriaplatz,Beundenfeldstrasse 5,3013,Bern,Active
+188,46.95518301852439,7.451799078591182,Viktoriaplatz,Beundenfeldstrasse 2,3013,Bern,Active
 189,46.9618565,7.4592662,Tellplatz,Tellstrasse 20,3014,Bern,Active
 190,46.9603316,7.4614522,Tellstrasse EJPD,Wankdorfstrasse 1,3014,Bern,Active
 191,46.959986921755785,7.454181504141534,Stauffacherplatz,Zielweg 1,3014,Bern,Active
@@ -243,7 +243,7 @@ id,latitude,longitude,name,address,zip,city,state
 294,46.95386,7.4365667,Hallerstrasse West,Zähringerstrasse 13,3012,Bern,Active
 295,46.9371056,7.4178248,Sporthalle Weissenstein,Hardeggerstrasse 1,3008,Bern,Active
 296,46.9439259,7.3853056,Stapfenacker,Brünnenstrasse 61,3018,Bern,Active
-297,46.9419202,7.3992444,Schulhaus Höhe,Burgunderstrasse 3,3018,Bern,Active
+297,46.9419202,7.3992444,Station wurde verschoben an die Bethlehemstrasse 118,Burgunderstrasse 3,3018,Bern,Inactive
 298,46.9427331,7.4595458,Seminar,Seminarstrasse 15,3006,Bern,Active
 299,46.9399346,7.3825121,Waldmeisterstrasse,Waldmeisterstrasse 36,3018,Bern,Active
 300,46.9371912,7.4360892,Wander,Weissenbühlweg 36,3007,Bern,Active
@@ -256,7 +256,7 @@ id,latitude,longitude,name,address,zip,city,state
 307,46.9480092,7.4218977,Friedbühlstrasse,Friedbühlstrasse 51,3008,Bern,Active
 308,46.9465416,7.4356627,Hallenbad Hirschengraben,Maulbeerstrasse 17,3011,Bern,Active
 309,46.9405957,7.418738,Fischermätteli,Könizstrasse 73,3008,Bern,Active
-310,46.9594104,7.4350187,Freies Gymnasium,Hochfeldstrasse 217,3012,Bern,Active
+310,46.95918182502934,7.435662384188294,Freies Gymnasium,Hochfeldstrasse 217,3012,Bern,Active
 311,46.9442197,7.4366739,Kapellenstrasse BFF,Kapellenstrasse 8,3011,Bern,Active
 312,46.9356089,7.4471426,Ka-We-De,Jubiläumsstrasse 101,3005,Bern,Active
 313,46.9415535,7.4708855,Jolimontstrasse,Jolimontstrasse 18,3006,Bern,Active
@@ -297,7 +297,7 @@ id,latitude,longitude,name,address,zip,city,state
 364,47.3708387,8.5595335,Kinderspital,Dolderstrasse 32,8032,Zürich,Active
 365,47.388689,8.536433,Kornhausstrasse,Kornhausstrasse 30,8006,Zürich,Active
 366,47.407098,8.55033,Dorflinde,Schwamendingenstrasse 41,8050,Zürich,Active
-367,47.368183,8.56155,Römerhof,Samariterstrasse 4,8032,Zürich,Active
+367,47.368474,8.559983,Römerhof,Ilgenstrasse 22,8032,Zürich,Active
 368,47.3619068,8.5609218,Hegibachplatz,Forchstrasse 99,8032,Zürich,Active
 370,47.4039985,8.5721264,Schwamendingerplatz,Winterthurerstrasse 519,8051,Zürich,Active
 371,46.933433,7.466467,Elfenau,Elfenauweg 92,3006,Bern,Active
@@ -493,7 +493,7 @@ id,latitude,longitude,name,address,zip,city,state
 600,46.45924,6.34011,"Rolle, Château",Place des Tilleuls,1180,Rolle,Active
 601,46.45543,6.336791,"Rolle, Débarcadère",Rue du Port,1180,Rolle,Active
 602,47.000176,7.461966,Zollikofen Bahnhof,Bernstrasse 189,3052,Zollikofen,Active
-603,47.409437,8.595937,Glattzentrum,Neue Winterthurerstrasse 82,8304,Wallisellen,Active
+603,47.409405,8.596064,Glattzentrum,Neue Winterthurerstrasse 82,8304,Wallisellen,Active
 605,46.46063,6.32262,"Rolle, by A-One",Z. A. La Pièce 4,1180,Rolle,Active
 606,46.31526,6.19271,"Coppet, Port",Place des Ormes,1296,Coppet,Active
 607,46.29934,6.16927,"Mies, Gare",Route de la gare,1295,Mies,Active
@@ -566,7 +566,7 @@ id,latitude,longitude,name,address,zip,city,state
 694,45.849794,8.944964,Stabio Stazione FFS,Via Cantonale 11,6855,Stabio,Active
 695,45.848177,8.936794,Stabio via Mulino,Prati del Trevano,6855,Stabio,Active
 696,45.991069,8.936421,Gentilino,Via Nocc,6925,Collina d'Oro,Active
-697,46.29013699904917,7.540881561583668,Bains de Géronde,Chemin du Grand Lac,3960,Sierre,Active
+697,46.29013699904917,7.540881561583668,Problèmes techniques Bains de Géronde,Chemin du Grand Lac,3960,Sierre,Inactive
 698,46.22707219319727,7.362775883948622,Campus Energypolis,Rue de l'Industrie,1950,Sion,Active
 699,45.858612,8.940146,Stabio Via Segeno,Via Segeno,6855,Stabio,Active
 701,47.375748,8.548599,ETH Karl-Schmid-Strasse: Mobile Station Zürich 2,Karl-Schmid-Strasse 1,8006,Zürich,Active
@@ -633,7 +633,7 @@ id,latitude,longitude,name,address,zip,city,state
 769,46.776884,7.139565,Bel-Air,Route de Bel-Air 17,1723,Marly,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,8830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
-772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
+772,46.9191591,7.4383865,WINTERPAUSE Station Gurten Kulm ist nicht in Betrieb,Gurten - Park im Grünen,3084,Köniz,Inactive
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
@@ -676,6 +676,7 @@ id,latitude,longitude,name,address,zip,city,state
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
 816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
 817,46.51673942261787,6.566454652605652,Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
+818,46.95012216558379,7.381226159088606,Holenackerstrasse verschoben an die Holenackerstrasse 24,Holenackerstrasse 32,3024,Bern,Inactive
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
 822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active
@@ -691,7 +692,11 @@ id,latitude,longitude,name,address,zip,city,state
 833,47.396806,8.507693,Ackersteinstrasse ZüriMobil Station,Ackersteinstrasse 86,8049,Zürich,Active
 834,46.947649789766224,7.416924289192128,Güterstrasse,Güterstrasse 18,3008,Bern,Active
 835,46.95884778357857,7.429204058387358,Gymnasium Neufeld,Bremgartenstrasse 133,3012,Bern,Active
-836,46.510153,6.558052,Saint-Sulpice Administration,Chemin du Crêt,1025,Saint-Sulpice,Active
+836,46.510153,6.558052,Saint-Sulpice-centre,Chemin du Crêt,1025,Saint-Sulpice,Active
 837,46.387342,6.227582,"Nyon, La Levratte",Av. Alfred Cortot,1260,Nyon,Active
-838,46.506672472768464,6.6449860458694054,Tour Haldimand - TetraLaval TetraPak,Av. Général-Guisan 70,1009,Pully,Active
+838,46.505009,6.641321,Tour Haldimand - TetraLaval TetraPak,Av. Général-Guisan 70,1009,Pully,Active
 839,46.52877795845398,6.614257776560184,Parc de Valency,Av. d'Echallens,1004,Lausanne,Active
+840,46.80036467702836,7.175555914805134,Bourguillon,Route de Bourguillon,1722,Fribourg,Active
+841,46.938446718314495,7.4808033698062095,Wittigkofen,Jupiterstrasse 1,3015,Bern,Active
+842,46.93658906078831,7.395474687081315,Weidmattweg,Weidmattweg 1,3018,Bern,Active
+843,46.94303954532779,7.4016277739719145,Stöckacker Süd,Bethlehemstrasse 118,3018,Bern,Active

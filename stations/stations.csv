@@ -48,7 +48,7 @@ id,latitude,longitude,name,address,zip,city,state
 57,46.226652301126975,7.359097847094511,Gare de Sion Sud,Rue des Entrepôts,1950,Sion,Active
 58,46.2278,7.3595,Gare de Sion Nord,Avenue de la Gare,1950,Sion,Active
 59,46.23055,7.373705,Bietschhorn,Avenue Bietschhorn,1950,Sion,Active
-60,47.374785,8.539882,Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
+60,47.37441,8.54023,Werdmühleplatz: Die Station befindet sich bis am 3.1 vor der Uraniastrasse 7,Werdmühleplatz 1,8001,Zürich,Active
 61,47.4099615,8.5452956,Marktplatz,Querstrasse 8,8050,Zürich,Active
 77,46.234697,7.386034,Hôpital - CRR,Avenue du Grand-Champsec,1950,Sion,Active
 80,47.3795837,8.5156327,Bullingerplatz,Bullingerstrasse 5,8004,Zürich,Active
@@ -74,7 +74,7 @@ id,latitude,longitude,name,address,zip,city,state
 100,47.368064,8.539046,Zürcher Kantonalbank,Talstrasse 12,8001,Zürich,Active
 101,47.3625938,8.5348427,Rentenanstalt,Breitingerstrasse 5,8002,Zürich,Active
 102,47.3897772,8.5166922,Turbinenplatz,Technoparkstrasse 4,8005,Zürich,Active
-104,47.373935,8.538633,Rennweg,Bahnhofstrasse 66,8001,Zürich,Active
+104,47.373935,8.538633,ACHTUNG: Am 24.11 ausser Betrieb aufgrund Inbetriebnahme Lucy: Rennweg,Bahnhofstrasse 66,8001,Zürich,Active
 105,47.377359,8.535855,Sihlpost,Kasernenstrasse 101,8004,Zürich,Active
 106,47.382798,8.53545,Museum für Gestaltung,Ausstellungsstrasse 44,8005,Zürich,Active
 107,47.365139,8.530916,Bederbrücke,Gutenbergstrasse 1,8002,Zürich,Active
@@ -147,7 +147,7 @@ id,latitude,longitude,name,address,zip,city,state
 188,46.95518301852439,7.451799078591182,Viktoriaplatz,Beundenfeldstrasse 2,3013,Bern,Active
 189,46.9618565,7.4592662,Tellplatz,Tellstrasse 20,3014,Bern,Active
 190,46.9603316,7.4614522,Tellstrasse EJPD,Wankdorfstrasse 1,3014,Bern,Active
-191,46.959986921755785,7.454362332435957,Stauffacherplatz,Zielweg 1,3014,Bern,Active
+191,46.96014593960245,7.454348687901889,Stauffacherplatz,Scheibenstrasse 15,3014,Bern,Active
 192,46.9677817,7.4646494,Wankdorf Bhf Nord,Gardistrasse 1,3014,Bern,Active
 193,46.9552642,7.4593279,Kasernenstrasse HKB,Kasernenstrasse 13k,3014,Bern,Active
 194,46.95863750501819,7.45710501650628,Kasernenwiese,Militärstrasse 42,3014,Bern,Active
@@ -626,13 +626,14 @@ id,latitude,longitude,name,address,zip,city,state
 762,46.23517,7.35027,Agasse,Chemin de l'Agasse,1950,Sion,Active
 763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
 764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
-765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
+765,46.345477,6.162667,"Pour des raisons techniques, hors service jusqu'à lundi: Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
 766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active
 767,46.459494,6.333472,"Rolle, Martinet",Route des Quarte-Communes 7,1180,Rolle,Active
 768,46.81983868693908,7.139736435254434,Chantemerle,Route de Chantemerle 60,1763,Granges-Paccot,Active
 769,46.776884,7.139565,Bel-Air,Route de Bel-Air 17,1723,Marly,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,8830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
+772,46.9191591,7.4383865,WINTERPAUSE Station Gurten Kulm ist nicht in Betrieb,Gurten - Park im Grünen,3084,Köniz,Inactive
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
@@ -684,7 +685,7 @@ id,latitude,longitude,name,address,zip,city,state
 827,47.405478,8.481071,Frankental,Frankentalerstrasse 10,8049,Zürich,Active
 828,46.941794,7.390649,Fussgängerzone Bümpliz,Bümplizstrasse 112,3000,Bern,Active
 829,46.8934148092464,7.3518540937205685,Thörishaus Dorf SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active
-830,46.90080888317644,7.401061091966004,TECHNISCHE PROBLEME Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Inactive
+830,46.90080888317644,7.401061091966004,Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Active
 831,47.396033,8.480843,ZSC Lions,Vulkanstrasse 130,8048,Zürich,Active
 832,46.025237,8.963681,Cornèr Arena - HC Lugano,Via Sonvico di Porza,6900,Lugano,Active
 833,47.396806,8.507693,Ackersteinstrasse ZüriMobil Station,Ackersteinstrasse 86,8049,Zürich,Active
@@ -698,3 +699,4 @@ id,latitude,longitude,name,address,zip,city,state
 841,46.938446718314495,7.4808033698062095,Wittigkofen,Jupiterstrasse 1,3015,Bern,Active
 842,46.93658906078831,7.395474687081315,Weidmattweg,Weidmattweg 1,3018,Bern,Active
 843,46.94303954532779,7.4016277739719145,Stöckacker Süd,Bethlehemstrasse 118,3018,Bern,Active
+845,45.9987921421312,8.93937873151315,"Sorengo, via Ponte Tresa",Via Ponte Tresa,6924,Sorengo,Active

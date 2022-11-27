@@ -74,7 +74,7 @@ id,latitude,longitude,name,address,zip,city,state
 100,47.368064,8.539046,Zürcher Kantonalbank,Talstrasse 12,8001,Zürich,Active
 101,47.3625938,8.5348427,Rentenanstalt,Breitingerstrasse 5,8002,Zürich,Active
 102,47.3897772,8.5166922,Turbinenplatz,Technoparkstrasse 4,8005,Zürich,Active
-104,47.373935,8.538633,ACHTUNG: Am 24.11 ausser Betrieb aufgrund Inbetriebnahme Lucy: Rennweg,Bahnhofstrasse 66,8001,Zürich,Active
+104,47.373935,8.538633,Rennweg,Bahnhofstrasse 66,8001,Zürich,Active
 105,47.377359,8.535855,Sihlpost,Kasernenstrasse 101,8004,Zürich,Active
 106,47.382798,8.53545,Museum für Gestaltung,Ausstellungsstrasse 44,8005,Zürich,Active
 107,47.365139,8.530916,Bederbrücke,Gutenbergstrasse 1,8002,Zürich,Active
@@ -626,7 +626,7 @@ id,latitude,longitude,name,address,zip,city,state
 762,46.23517,7.35027,Agasse,Chemin de l'Agasse,1950,Sion,Active
 763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
 764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
-765,46.345477,6.162667,"Pour des raisons techniques, hors service jusqu'à lundi: Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
+765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
 766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active
 767,46.459494,6.333472,"Rolle, Martinet",Route des Quarte-Communes 7,1180,Rolle,Active
 768,46.81983868693908,7.139736435254434,Chantemerle,Route de Chantemerle 60,1763,Granges-Paccot,Active

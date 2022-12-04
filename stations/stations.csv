@@ -201,7 +201,7 @@ id,latitude,longitude,name,address,zip,city,state
 245,46.012749,8.914699,Molinazzo,Via Longa,6934,Bioggio,Active
 246,46.040345,8.932433,Lamone - Cadempino FFS,Via Girella 49,6814,Lamone,Active
 247,46.020356,8.916114,Bioggio Via Industria,Via Industria 31,6934,Bioggio,Active
-248,45.993326,8.924532,Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Active
+248,45.993326,8.924532,fuori servizio per motivi tecnici: Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Inactive
 249,46.000482,8.912639,Muzzano Industria,Via Industria,6933,Muzzano,Active
 250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
 251,46.94934089178463,7.448006734381454,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
@@ -626,7 +626,7 @@ id,latitude,longitude,name,address,zip,city,state
 762,46.23517,7.35027,Agasse,Chemin de l'Agasse,1950,Sion,Active
 763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
 764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
-765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
+765,46.345477,6.162667,"Hors service pour des raisons techniques : Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Inactive
 766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active
 767,46.459494,6.333472,"Rolle, Martinet",Route des Quarte-Communes 7,1180,Rolle,Active
 768,46.81983868693908,7.139736435254434,Chantemerle,Route de Chantemerle 60,1763,Granges-Paccot,Active

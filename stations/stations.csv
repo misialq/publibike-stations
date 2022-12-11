@@ -201,7 +201,7 @@ id,latitude,longitude,name,address,zip,city,state
 245,46.012749,8.914699,Molinazzo,Via Longa,6934,Bioggio,Active
 246,46.040345,8.932433,Lamone - Cadempino FFS,Via Girella 49,6814,Lamone,Active
 247,46.020356,8.916114,Bioggio Via Industria,Via Industria 31,6934,Bioggio,Active
-248,45.993326,8.924532,fuori servizio per motivi tecnici: Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Inactive
+248,45.993326,8.924532,Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Active
 249,46.000482,8.912639,Muzzano Industria,Via Industria,6933,Muzzano,Active
 250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
 251,46.94934089178463,7.448006734381454,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
@@ -243,7 +243,6 @@ id,latitude,longitude,name,address,zip,city,state
 294,46.95386,7.4365667,Hallerstrasse West,Zähringerstrasse 13,3012,Bern,Active
 295,46.9371056,7.4178248,Sporthalle Weissenstein,Hardeggerstrasse 1,3008,Bern,Active
 296,46.9439259,7.3853056,Stapfenacker,Brünnenstrasse 61,3018,Bern,Active
-297,46.9419202,7.3992444,Station wurde verschoben an die Bethlehemstrasse 118,Burgunderstrasse 3,3018,Bern,Inactive
 298,46.9427331,7.4595458,Seminar,Seminarstrasse 15,3006,Bern,Active
 299,46.9399346,7.3825121,Waldmeisterstrasse,Waldmeisterstrasse 36,3018,Bern,Active
 300,46.9371912,7.4360892,Wander,Weissenbühlweg 36,3007,Bern,Active
@@ -533,7 +532,7 @@ id,latitude,longitude,name,address,zip,city,state
 647,46.80007,7.140663,Vignettaz - Daler,Route de Villars 22,1700,Fribourg,Active
 648,46.949233,7.436822,Open 07:00 - 18:00 In der Velostation Schanzenbrücke,Velostation Parkterrasse,3012,Bern,Active
 660,47.3525,8.527157,Muggenbühl,Mutschellenstrasse 36,8038,Zürich,Active
-661,47.36910680440694,8.541427242856333,Stadthaus,Kappelergasse,8001,Zürich,Active
+661,47.36910680440694,8.541427242856333,ACHTUNG: Die Station ist bis am 12.12. aufgrund Silvesterlaufs ausser Betrieb: Stadthaus,Kappelergasse,8001,Zürich,Inactive
 662,47.369181,8.505787,Heuried ZüriMobil Station,Wasserschöpfi,8055,Zürich,Active
 663,46.951897864484735,7.442042659901252,Kleeplatz / Bollwerk,Bollwerk 41,3011,Bern,Active
 664,46.011494,8.961011,Campus Est,Via la Santa,6962,Viganello,Active
@@ -626,14 +625,13 @@ id,latitude,longitude,name,address,zip,city,state
 762,46.23517,7.35027,Agasse,Chemin de l'Agasse,1950,Sion,Active
 763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
 764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
-765,46.345477,6.162667,"Hors service pour des raisons techniques : Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Inactive
+765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
 766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active
 767,46.459494,6.333472,"Rolle, Martinet",Route des Quarte-Communes 7,1180,Rolle,Active
 768,46.81983868693908,7.139736435254434,Chantemerle,Route de Chantemerle 60,1763,Granges-Paccot,Active
 769,46.776884,7.139565,Bel-Air,Route de Bel-Air 17,1723,Marly,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,8830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
-772,46.9191591,7.4383865,WINTERPAUSE Station Gurten Kulm ist nicht in Betrieb,Gurten - Park im Grünen,3084,Köniz,Inactive
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
@@ -686,7 +684,7 @@ id,latitude,longitude,name,address,zip,city,state
 828,46.941794,7.390649,Fussgängerzone Bümpliz,Bümplizstrasse 112,3000,Bern,Active
 829,46.8934148092464,7.3518540937205685,Thörishaus Dorf SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active
 830,46.90080888317644,7.401061091966004,Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Active
-831,47.396033,8.480843,ZSC Lions,Vulkanstrasse 130,8048,Zürich,Active
+831,47.396033,8.480843,ACHTUNG: Die Station wird am 12.12. an den neuen Standort an der Vulkanstrasse verschoben: ZSC Lions,Vulkanstrasse 130,8048,Zürich,Active
 832,46.025237,8.963681,Cornèr Arena - HC Lugano,Via Sonvico di Porza,6900,Lugano,Active
 833,47.396806,8.507693,Ackersteinstrasse ZüriMobil Station,Ackersteinstrasse 86,8049,Zürich,Active
 834,46.947649789766224,7.416924289192128,Güterstrasse,Güterstrasse 18,3008,Bern,Active

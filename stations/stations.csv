@@ -48,7 +48,7 @@ id,latitude,longitude,name,address,zip,city,state
 57,46.226652301126975,7.359097847094511,Gare de Sion Sud,Rue des Entrepôts,1950,Sion,Active
 58,46.2278,7.3595,Gare de Sion Nord,Avenue de la Gare,1950,Sion,Active
 59,46.23055,7.373705,Bietschhorn,Avenue Bietschhorn,1950,Sion,Active
-60,47.37441,8.54023,Werdmühleplatz: Die Station befindet sich bis am 3.1 vor der Uraniastrasse 7,Werdmühleplatz 1,8001,Zürich,Active
+60,47.37441,8.54023,Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
 61,47.4099615,8.5452956,Marktplatz,Querstrasse 8,8050,Zürich,Active
 77,46.234697,7.386034,Hôpital - CRR,Avenue du Grand-Champsec,1950,Sion,Active
 80,47.3795837,8.5156327,Bullingerplatz,Bullingerstrasse 5,8004,Zürich,Active
@@ -438,7 +438,7 @@ id,latitude,longitude,name,address,zip,city,state
 538,47.367656,8.516257,Kirche Bühl,Goldbrunnenstrasse 54,8055,Zürich,Active
 539,47.402801,8.58131,Glattwiesen,Altwiesenstrasse 104,8051,Zürich,Active
 540,47.403822,8.546464,Berninaplatz,Berninastrasse 45,8057,Zürich,Active
-541,46.292365,7.532595,Sierre Gare Nord,Place de la Gare,3960,Sierre,Active
+541,46.292399582996865,7.532593159220105,Sierre Gare Nord,Place de la Gare,3960,Sierre,Active
 542,46.231055,7.400189,UNIL/UNIGE Bramois,Chemin de l’Ecole 2,1967,Sion,Active
 543,46.517338,6.59775,Siège du CIO,Chemin du Camping 3,1007,Lausanne,Active
 544,46.52864,6.566695,Cerisaie,Avenue du Tir Fédéral 88,1024,Ecublens,Active
@@ -532,7 +532,7 @@ id,latitude,longitude,name,address,zip,city,state
 647,46.80007,7.140663,Vignettaz - Daler,Route de Villars 22,1700,Fribourg,Active
 648,46.949233,7.436822,Open 07:00 - 18:00 In der Velostation Schanzenbrücke,Velostation Parkterrasse,3012,Bern,Active
 660,47.3525,8.527157,Muggenbühl,Mutschellenstrasse 36,8038,Zürich,Active
-661,47.36910680440694,8.541427242856333,ACHTUNG: Die Station ist bis am 12.12. aufgrund Silvesterlaufs ausser Betrieb: Stadthaus,Kappelergasse,8001,Zürich,Inactive
+661,47.36910680440694,8.541427242856333,Stadthaus,Kappelergasse,8001,Zürich,Active
 662,47.369181,8.505787,Heuried ZüriMobil Station,Wasserschöpfi,8055,Zürich,Active
 663,46.951897864484735,7.442042659901252,Kleeplatz / Bollwerk,Bollwerk 41,3011,Bern,Active
 664,46.011494,8.961011,Campus Est,Via la Santa,6962,Viganello,Active
@@ -565,7 +565,7 @@ id,latitude,longitude,name,address,zip,city,state
 694,45.849794,8.944964,Stabio Stazione FFS,Via Cantonale 11,6855,Stabio,Active
 695,45.848177,8.936794,Stabio via Mulino,Prati del Trevano,6855,Stabio,Active
 696,45.991069,8.936421,Gentilino,Via Nocc,6925,Collina d'Oro,Active
-697,46.29013699904917,7.540881561583668,Bains de Géronde,Chemin du Grand Lac,3960,Sierre,Active
+697,46.298839518461975,7.540131331143625,Piscine de Guillamo,Chemin du Grand Lac,3960,Sierre,Active
 698,46.22707219319727,7.362775883948622,Campus Energypolis,Rue de l'Industrie,1950,Sion,Active
 699,45.858612,8.940146,Stabio Via Segeno,Via Segeno,6855,Stabio,Active
 701,47.375748,8.548599,ETH Karl-Schmid-Strasse: Mobile Station Zürich 2,Karl-Schmid-Strasse 1,8006,Zürich,Active
@@ -630,7 +630,7 @@ id,latitude,longitude,name,address,zip,city,state
 767,46.459494,6.333472,"Rolle, Martinet",Route des Quarte-Communes 7,1180,Rolle,Active
 768,46.81983868693908,7.139736435254434,Chantemerle,Route de Chantemerle 60,1763,Granges-Paccot,Active
 769,46.776884,7.139565,Bel-Air,Route de Bel-Air 17,1723,Marly,Active
-770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,8830,Chiasso,Active
+770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,6830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
@@ -664,7 +664,7 @@ id,latitude,longitude,name,address,zip,city,state
 804,46.979405440906326,7.457189997936046,Worblaufen RBS Bahnhof,Tiefenaustrasse 2,3048,Ittigen,Active
 806,46.544314905605354,6.586897691005923,Baumettes,Av. des Baumettes 9,1020,Renens,Active
 807,46.52654734920485,6.64111195901793,CHUV,Rue du Bugnon,1011,Lausanne,Active
-808,46.547024950077954,6.607627798721679,CHUV Cery,Route de Cery 60,1008,Prilly,Active
+808,46.547024950077954,6.607627798721679,hors service pour des raisons techniques : CHUV Cery,Route de Cery 60,1008,Prilly,Inactive
 809,46.530961547725724,6.570954143053104,Cèdres,Allée des Cèdres,1022,Chavannes-près-Renens,Active
 810,46.419162,6.282356,"Gland, Place Riant-Coteau",Rue du Riant-Coteau,1196,Gland,Active
 811,46.417503,6.271244,"Gland, Le Midi",Rue du Midi,1196,Gland,Active
@@ -684,7 +684,7 @@ id,latitude,longitude,name,address,zip,city,state
 828,46.941794,7.390649,Fussgängerzone Bümpliz,Bümplizstrasse 112,3000,Bern,Active
 829,46.8934148092464,7.3518540937205685,Thörishaus Dorf SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active
 830,46.90080888317644,7.401061091966004,Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Active
-831,47.396033,8.480843,ACHTUNG: Die Station wird am 12.12. an den neuen Standort an der Vulkanstrasse verschoben: ZSC Lions,Vulkanstrasse 130,8048,Zürich,Active
+831,47.394686,8.478455,ZSC Lions,Vulkanstrasse 130,8048,Zürich,Active
 832,46.025237,8.963681,Cornèr Arena - HC Lugano,Via Sonvico di Porza,6900,Lugano,Active
 833,47.396806,8.507693,Ackersteinstrasse ZüriMobil Station,Ackersteinstrasse 86,8049,Zürich,Active
 834,46.947649789766224,7.416924289192128,Güterstrasse,Güterstrasse 18,3008,Bern,Active

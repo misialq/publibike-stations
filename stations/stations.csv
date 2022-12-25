@@ -204,7 +204,7 @@ id,latitude,longitude,name,address,zip,city,state
 248,45.993326,8.924532,Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Active
 249,46.000482,8.912639,Muzzano Industria,Via Industria,6933,Muzzano,Active
 250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
-251,46.94934089178463,7.448006734381454,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
+251,46.9488054349985,7.447604396079377,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
 252,46.9497908,7.4441278,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
@@ -664,7 +664,7 @@ id,latitude,longitude,name,address,zip,city,state
 804,46.979405440906326,7.457189997936046,Worblaufen RBS Bahnhof,Tiefenaustrasse 2,3048,Ittigen,Active
 806,46.544314905605354,6.586897691005923,Baumettes,Av. des Baumettes 9,1020,Renens,Active
 807,46.52654734920485,6.64111195901793,CHUV,Rue du Bugnon,1011,Lausanne,Active
-808,46.547024950077954,6.607627798721679,hors service pour des raisons techniques : CHUV Cery,Route de Cery 60,1008,Prilly,Inactive
+808,46.547024950077954,6.607627798721679,CHUV Cery,Route de Cery 60,1008,Prilly,Active
 809,46.530961547725724,6.570954143053104,Cèdres,Allée des Cèdres,1022,Chavannes-près-Renens,Active
 810,46.419162,6.282356,"Gland, Place Riant-Coteau",Rue du Riant-Coteau,1196,Gland,Active
 811,46.417503,6.271244,"Gland, Le Midi",Rue du Midi,1196,Gland,Active

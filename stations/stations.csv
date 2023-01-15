@@ -1,20 +1,20 @@
 id,latitude,longitude,name,address,zip,city,state
-6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Lausanne,Active
-7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Lausanne,Active
-8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Lausanne,Active
-9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Lausanne,Active
+6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Ecublens,Active
+7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Ecublens,Active
+8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Ecublens,Active
+9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Ecublens,Active
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
-11,46.521978,6.564896,Rivier,Route de la Sorge,1015,Lausanne,Active
-12,46.520723,6.568276,Piccard,Avenue Piccard,1015,Lausanne,Active
-13,46.517153,6.561272,EPFL Innovation Park,Bâtiment G,1015,Lausanne,Active
-14,46.5224054,6.5655126,Quartier nord,Campus,1000,Campus,Active
+11,46.521978,6.564896,Rivier,Route de la Sorge,1015,Ecublens,Active
+12,46.520723,6.568276,Piccard,Avenue Piccard,1015,Ecublens,Active
+13,46.517153,6.561272,EPFL Innovation Park,Bâtiment G,1015,Ecublens,Active
+14,46.5224054,6.5655126,Quartier nord,Campus,1000,Ecublens,Active
 18,46.5367962297447,6.57834071739537,Gare de Renens,Place de la gare,1020,Renens,Active
 20,46.506896,6.626253,Ouchy,Place de la Navigation,1006,Lausanne,Active
-21,46.521043,6.573253,Sorge,UNIL Sorge,1015,Lausanne,Active
+21,46.521043,6.573253,Sorge,UNIL Sorge,1015,Ecublens,Active
 22,46.508486,6.499667,Casino,Place du Casino,1110,Morges,Active
 23,46.5175143,6.5261484,Préverenges,Route de Genève,1028,Préverenges,Active
 25,46.51729603169255,6.630497103216617,Lausanne Gare CFF Nord,Avenue de la Gare,1003,Lausanne,Active
-26,46.521668,6.581345,Unil Centre,Unicentre,1015,Lausanne,Active
+26,46.521668,6.581345,Unil Centre,Unicentre,1015,Ecublens,Active
 27,46.50225151684113,6.48110823288,Medtronic,Route du Molliau 31,1131,Tolochenaz,Active
 28,46.515862,6.630461,Lausanne Gare CFF Sud,Passage des Saugettes 7,1003,Lausanne,Active
 29,46.5058,6.6711,Paudex,Route du Lac,1094,Paudex,Active
@@ -48,7 +48,7 @@ id,latitude,longitude,name,address,zip,city,state
 57,46.226652301126975,7.359097847094511,Gare de Sion Sud,Rue des Entrepôts,1950,Sion,Active
 58,46.2278,7.3595,Gare de Sion Nord,Avenue de la Gare,1950,Sion,Active
 59,46.23055,7.373705,Bietschhorn,Avenue Bietschhorn,1950,Sion,Active
-60,47.374785,8.539882,Werdmühlestrasse,Werdmühleplatz 1,8001,Zürich,Active
+60,47.374785,8.539882,Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
 61,47.4099615,8.5452956,Marktplatz,Querstrasse 8,8050,Zürich,Active
 77,46.234697,7.386034,Hôpital - CRR,Avenue du Grand-Champsec,1950,Sion,Active
 80,47.3795837,8.5156327,Bullingerplatz,Bullingerstrasse 5,8004,Zürich,Active
@@ -132,7 +132,7 @@ id,latitude,longitude,name,address,zip,city,state
 171,46.41609,6.278163,"Gland, UICN",Rue Mauverney 28,1196,Gland,Active
 174,46.9436036,7.4071777,Europaplatz,Freiburgstrasse 130,3008,Bern,Active
 175,46.9393577,7.3863865,Statthalterstrasse,Freieckweg 2,3018,Bern,Active
-176,46.934694,7.3892135,Technopark,Morgenstrasse 129,3018,Bern,Active
+176,46.93507926769157,7.389787098013941,Technopark,Morgenstrasse 129,3018,Bern,Active
 177,46.94941743287729,7.381454366484235,Holenackerstrasse,Holenackerstrasse 24,3027,Bern,Active
 178,46.9372059,7.3872274,Kleefeld,Mädergutstrasse 5,3018,Bern,Active
 179,46.9454695,7.3928104,Schwabgut,Schwabstrasse 10,3018,Bern,Active
@@ -279,7 +279,7 @@ id,latitude,longitude,name,address,zip,city,state
 331,46.9458073,7.4270475,Brunnmattschulhaus,Brunnmattstrasse 16,3007,Bern,Active
 332,46.943804,7.4694264,Egelgasse-Ostring,Egelgasse 72,3006,Bern,Active
 333,46.9367315,7.475845,Egghölzli,Dunantstrasse 2,3006,Bern,Active
-334,46.520202,6.571784,Forel,Avenue Forel,1015,Lausanne,Active
+334,46.520202,6.571784,Forel,Avenue Forel,1015,Ecublens,Active
 335,46.54873,6.57476,Mongevon,Chemin de Mongevon 4,1023,Crissier,Active
 347,46.941479,7.466444,Burgernziel,Muristrasse 64,3006,Bern,Active
 348,46.97179532778565,7.44576189083437,Rossfeld,Rossfeldstrasse 7,3004,Bern,Active
@@ -416,7 +416,7 @@ id,latitude,longitude,name,address,zip,city,state
 514,47.397885,8.596202,Bahnhof Stettbach,Bahnhof Stettbach,8051,Zürich,Active
 515,47.3690153,8.5543974,Hottingerplatz,Kasinostrasse 10,8032,Zürich,Active
 516,47.418472,8.561746,Sirius-Platz,Sirius-Platz,8152,Opfikon,Active
-517,47.431787,8.567171,ACHTUNG: Stationsverschiebung vor die Oberhauserstrasse 25 am 9.1.23: Stadthaus Opfikon,Oberhauserstrasse 29,8152,Opfikon,Active
+517,47.432579,8.566851,Stadthaus Opfikon,Oberhauserstrasse 29,8152,Opfikon,Active
 518,47.39572,8.62328,Oberdorf,Alte Oberdorfstrasse 15,8600,Dübendorf,Active
 519,47.430911,8.562033,Bahnhof Opfikon,Schaffhauserstrasse 64,8152,Opfikon,Active
 520,47.40245,8.62726,Flugplatz Dübendorf,Wangenstrasse 47-39,8600,Dübendorf,Active
@@ -698,3 +698,6 @@ id,latitude,longitude,name,address,zip,city,state
 842,46.93658906078831,7.395474687081315,Weidmattweg,Weidmattweg 1,3018,Bern,Active
 843,46.94303954532779,7.4016277739719145,Stöckacker Süd,Bethlehemstrasse 118,3018,Bern,Active
 845,45.9987921421312,8.93937873151315,"Sorengo, via Ponte Tresa",Via Ponte Tresa,6924,Sorengo,Active
+846,46.090388,8.916652,Mezzovico Piazza Vira,Via la Cuntrada,6805,Mezzovico-Vira,Active
+847,46.094684,8.928136,FFS Mezzovico-Vira,Via alla stazione,6805,Mezzovico-Vira,Active
+848,46.088134,8.915069,Mezzovico Piaza du Buteghin,Via la Munda,6805,Mezzovico-Vira,Active

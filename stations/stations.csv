@@ -93,7 +93,7 @@ id,latitude,longitude,name,address,zip,city,state
 126,47.381356,8.510418,Hardau,Bullingerstrasse 73,8004,Zürich,Active
 127,47.361567,8.525525,Klopstockwiese,Klopstockstrasse 23,8002,Zürich,Active
 128,47.36309,8.51813,Binz,Haldenstrasse 7,8045,Zürich,Active
-129,47.379952,8.542726,ACHTUNG: DIE STATION BEFINDET SICH AM OBEREN RAND DES PLATZES: Stampfenbachplatz,Walchestrasse 11,8006,Zürich,Active
+129,47.379952,8.542726,Stampfenbachplatz,Walchestrasse 11,8006,Zürich,Active
 130,47.391366,8.488108,Bahnhof Altstetten,Altstetterplatz 1,8048,Zürich,Active
 131,47.365045,8.553922,Kreuzplatz,Kreuzplatz 1,8032,Zürich,Active
 132,47.35594,8.549852,Blatterwiese,Höschgasse 3,8008,Zürich,Active
@@ -165,7 +165,7 @@ id,latitude,longitude,name,address,zip,city,state
 207,46.001154,8.934162,Sorengo Parco Sportivo,Via al Laghetto 5,6924,Sorengo,Active
 208,45.977309,8.875447,Caslano FLP,Via Stazione 77,6987,Caslano,Active
 209,46.022676,8.917196,Manno Centro di Calcolo,Via Cantonale 16,6928,Manno,Active
-210,45.996253,8.900957,"Agno FLP: fuori servizio dal 11 al 13 febbraio, Fiera di San Provino",Via Stazione 2,6982,Agno,Inactive
+210,45.996253,8.900957,Agno FLP,Via Stazione 2,6982,Agno,Active
 211,46.383066,6.225766,"Nyon, Hôpital",Chemin de Monastier,1260,Nyon,Active
 212,46.958717,7.4646494,Guisanplatz Expo,Mingerstrasse 4,3006,Bern,Active
 213,46.9503428,7.435298,UniS,Schanzeneckstrasse 1,3012,Bern,Active
@@ -265,7 +265,7 @@ id,latitude,longitude,name,address,zip,city,state
 317,46.9460279,7.4332165,Kocherpark,Effingerstrasse 27,3008,Bern,Active
 318,46.9410334,7.4359176,Monbijoustrasse,Monbijoustrasse 61,3007,Bern,Active
 319,47.00268,7.44109,Post IT Zollikofen,Webergutstrasse 12,3052,Zollikofen,Active
-320,46.9464848,7.452507,Mattelift verschoben wegen Baustelle,Badgasse 23,3011,Bern,Active
+320,46.94650226646282,7.452796013542816,Mattelift verschoben wegen Baustelle,Badgasse 23,3011,Bern,Active
 321,46.93965162143165,7.440241261842887,Monbijoubrücke,Eigerstrasse 80,3007,Bern,Active
 322,46.9347023,7.4420357,Schöneggweg,Zinggstrasse 37,3007,Bern,Active
 323,46.933646280041835,7.448225744500959,Restaurant Dählhölzli,Tierparkweg 2,3005,Bern,Active
@@ -370,7 +370,7 @@ id,latitude,longitude,name,address,zip,city,state
 462,46.9558281,7.4529965,Spitalacker Schulhaus,Beundenfeldstrasse 13,3013,Bern,Active
 463,46.9593467,7.4518043,Allmendstrasse,Allmendstrasse 24,3014,Bern,Active
 464,46.9523752,7.3914921,Melchiorstrasse,Kasparstrasse 15a,3027,Bern,Active
-465,46.94679238335987,7.387550605636257,Fellerstrasse,Fellerstrasse 40,3027,Bern,Active
+465,46.94694772769555,7.388948353838325,Fellerstrasse,Fellerstrasse 30,3027,Bern,Active
 466,46.9486216,7.3827534,Holenacker Station,Bethlehem b. Bern Holenacker,3027,Bern,Active
 467,46.93992,7.3950333,Kirche St. Antonius,Morgenstrasse 56,3018,Bern,Active
 468,46.9472511,7.3933013,Waldmannstrasse,Waldmannstrasse 1,3027,Bern,Active
@@ -469,7 +469,7 @@ id,latitude,longitude,name,address,zip,city,state
 569,47.405751,8.539016,Freibad Allenmoos,Ringstrasse 82,8057,Zürich,Active
 571,47.375556,8.547901,ETH/Zoologisches Museum,Karl-Schmid-Strasse 4,8006,Zürich,Active
 572,47.402749,8.5355,Radiostudio,Wehntalerstrasse 98,8057,Zürich,Active
-574,47.45041071949902,8.563071583930034,Flughafen Kloten,Veloabstellplatz Parking 2,8058,Zürich Flughafen,Active
+574,47.45041071949902,8.563071583930034,Flughafen Kloten,Veloabstellplatz Parking 2,8302,Kloten,Active
 580,46.800445,7.122294,Petit-Moncor,Route de Petit-Moncor,1752,Villars-sur-Glâne,Active
 581,46.514554,6.619263,Vaudoise Assurances,Avenue de Cour 43,1007,Lausanne,Active
 583,45.97765,8.926757,IBSA,Via del Piano 7,6926,Collina,Active
@@ -572,7 +572,7 @@ id,latitude,longitude,name,address,zip,city,state
 702,47.377779,8.546183,ETH Zentrum Leonhardstrasse,Leonhardstrasse 25a,8001,Zürich,Active
 704,45.87254294486857,8.987224327562924,Mendrisio Museo,Via Vincenzo Vela,6850,Mendrisio,Active
 705,45.88354716154987,8.980175414992559,Mendrisio Piscine,Via S. Martino,6850,Mendrisio,Active
-706,45.902508020940914,8.978527062977733,Capolago Stazione FFS,Via Famiglia Carlo Scacchi,6825,Capolago,Active
+706,45.903314,8.979073,Capolago Stazione FFS,Via Famiglia Carlo Scacchi,6825,Capolago,Active
 707,45.86839596516475,8.97806954826163,Mendrisio Stazione FFS,Via Stefano Franscini,6850,Mendrisio,Active
 708,45.87023343314977,8.987408595931916,Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
 709,45.86959228856764,8.989624365925325,Mendrisio La Filanda,Largo Mario Soldini,6859,Mendrisio,Active
@@ -633,7 +633,7 @@ id,latitude,longitude,name,address,zip,city,state
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,6830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
-774,45.841265,8.98136,Novazzano Centro Paese: Fuori servizio dal 10 al 13 febbraio,Via alla Scuola,6883,Novazzano,Inactive
+774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
 776,46.81936091435492,7.102468450680388,"Belfaux, Champ Bonjart",Champ Bonjart 1,1782,Belfaux,Active
 777,46.80799726436817,7.143350342709623,Route des Noisetiers,Route des Noisetiers,1700,Fribourg,Active
@@ -700,6 +700,6 @@ id,latitude,longitude,name,address,zip,city,state
 845,45.9987921421312,8.93937873151315,"Sorengo, via Ponte Tresa",Via Ponte Tresa,6924,Sorengo,Active
 846,46.09704185231821,8.922324370246264,Mezzovico Piazza Vira,Via la Cuntrada,6805,Mezzovico-Vira,Active
 847,46.094684,8.928136,FFS Mezzovico-Vira,Via alla stazione,6805,Mezzovico-Vira,Active
-848,46.088134,8.915069,Piaza du Buteghin: fuori servico Fuori servizio dal 10 al 13 febbraio,Via la Munda,6805,Mezzovico-Vira,Inactive
+848,46.088134,8.915069,Piaza du Buteghin,Via la Munda,6805,Mezzovico-Vira,Active
 849,46.51569970026471,6.499234489270572,Beausobre,Avenue de Vertou 2,1110,Morges,Active
 850,46.428783178554085,6.249760378428628,"Vich, Poste",Place Marcel Ponce,1267,Vich,Active

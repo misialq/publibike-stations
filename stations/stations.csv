@@ -32,7 +32,7 @@ id,latitude,longitude,name,address,zip,city,state
 41,45.953905,8.949715,Melide,Via alla Bola,6815,Melide,Active
 42,45.998453,8.94848,Arte e Cultura LAC,Via Antonio Caccia,6900,Lugano,Active
 43,46.005849,8.961709,Campo Marzio,Viale Castagnola 4,6900,Lugano,Active
-44,46.065999,8.966679,Tesserete: fuori servizio dal 21 al 27 febbraio,Piazza Stazione,6950,Tesserete,Inactive
+44,46.065999,8.966679,Tesserete,Piazza Stazione,6950,Tesserete,Active
 45,46.023159,8.959919,Stadio,Via Trevano 100,6900,Lugano,Active
 46,46.021942,8.962901,Via Ciani,Via Giacomo E Filippo Ciani,6900,Lugano,Active
 47,46.02398,8.968292,Pregassona,Via Terzerina,6900,Lugano,Active
@@ -204,7 +204,7 @@ id,latitude,longitude,name,address,zip,city,state
 248,45.993326,8.924532,Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Active
 249,46.000482,8.912639,Muzzano Industria,Via Industria,6933,Muzzano,Active
 250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
-251,46.949344695909296,7.448002284928213,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
+251,46.94880984055474,7.4476057509678535,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
 252,46.9497908,7.4441278,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
@@ -393,7 +393,7 @@ id,latitude,longitude,name,address,zip,city,state
 485,46.9432858,7.4144036,Stämpflistrasse,Stoosstrasse 2,3008,Bern,Active
 486,46.9503044,7.4145806,Sanpol Bern,Murtenstrasse 111,3008,Bern,Active
 487,46.523762,6.632481,Riponne,Place de la Riponne 7,1005,Lausanne,Active
-488,46.517009,6.635237,"Avenue de la Gare, TX Group SA",Avenue de la Gare 12A,1003,Lausanne,Active
+488,46.517009,6.635237,"Avenue de la Gare, TX Group SA - fermé temporairement en raison de problèmes techniques",Avenue de la Gare 12A,1003,Lausanne,Active
 489,46.523333,6.625402,Chauderon,Place Chauderon 11,1003,Lausanne,Active
 490,46.534129,6.606292,Prilly-Centre,Route de Cossonay 28,1008,Prilly,Active
 491,46.9650342,7.4514649,Wylerbad,Scheibenstrasse 65c,3014,Bern,Active
@@ -615,7 +615,7 @@ id,latitude,longitude,name,address,zip,city,state
 750,45.95289,8.965247,Bissone,Via Collina,6816,Bissone,Active
 751,45.92991043850694,8.938161232544616,Brusino Arsizio – Debarcadero,Piazza Don F. Andreoletti 1,6827,Brusino Arsizio,Active
 752,46.027895,8.954881,Porza Sant'Elena,Via Cantonale,6948,Porza,Active
-753,46.3221235178547,6.187826521431379,"Coppet, Rojalets - fermé temporairement en raison d'un problème technique",Route de Founex,1296,Coppet,Active
+753,46.3221235178547,6.187826521431379,"Coppet, Rojalets",Route de Founex,1296,Coppet,Active
 754,46.304039,6.179519,"Mies, Plage",Route Suisse,1295,Mies,Active
 755,46.318532025495244,6.187802904461231,"Coppet, Gare",Route de Founex,1296,Coppet,Active
 756,46.370779,6.228414,"Nyon, Stade de Colovray",Route de Genève 37,1260,Nyon,Active

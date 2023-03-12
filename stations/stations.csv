@@ -147,7 +147,7 @@ id,latitude,longitude,name,address,zip,city,state
 188,46.95518301852439,7.451799078591182,Viktoriaplatz,Beundenfeldstrasse 2,3013,Bern,Active
 189,46.9618565,7.4592662,Tellplatz,Tellstrasse 20,3014,Bern,Active
 190,46.9603316,7.4614522,Tellstrasse EJPD,Wankdorfstrasse 1,3014,Bern,Active
-191,46.9599723889584,7.4541487598294145,Stauffacherplatz,Zielweg 5,3014,Bern,Active
+191,46.960116251597235,7.454334866797193,Stauffacherplatz,Scheibenstrasse 13,3014,Bern,Active
 192,46.9677817,7.4646494,Wankdorf Bhf Nord,Gardistrasse 1,3014,Bern,Active
 193,46.9552642,7.4593279,Kasernenstrasse HKB,Kasernenstrasse 13k,3014,Bern,Active
 194,46.95863750501819,7.45710501650628,Kasernenwiese,Militärstrasse 42,3014,Bern,Active
@@ -393,7 +393,7 @@ id,latitude,longitude,name,address,zip,city,state
 485,46.9432858,7.4144036,Stämpflistrasse,Stoosstrasse 2,3008,Bern,Active
 486,46.9503044,7.4145806,Sanpol Bern,Murtenstrasse 111,3008,Bern,Active
 487,46.523762,6.632481,Riponne,Place de la Riponne 7,1005,Lausanne,Active
-488,46.517009,6.635237,"Avenue de la Gare, TX Group SA - fermé temporairement en raison de problèmes techniques",Avenue de la Gare 12A,1003,Lausanne,Active
+488,46.517009,6.635237,"Avenue de la Gare, TX Group SA",Avenue de la Gare 12A,1003,Lausanne,Active
 489,46.523333,6.625402,Chauderon,Place Chauderon 11,1003,Lausanne,Active
 490,46.534129,6.606292,Prilly-Centre,Route de Cossonay 28,1008,Prilly,Active
 491,46.9650342,7.4514649,Wylerbad,Scheibenstrasse 65c,3014,Bern,Active

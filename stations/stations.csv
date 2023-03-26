@@ -41,7 +41,7 @@ id,latitude,longitude,name,address,zip,city,state
 50,45.984764,8.932378,Fornaci,Via Pian Scairolo 9,6912,Pazzallo,Active
 51,45.991081,8.943799,Paradiso Centro,Via Franco Zorzi,6900,Lugano,Active
 52,46.232469,7.358425,Planta,Place de la Planta,1950,Sion,Active
-53,46.232201,7.363252,Scex,Place du Scex,1950,Sion,Active
+53,46.232201,7.363252,Hors service pour des raisons techniques: Scex,Place du Scex,1950,Sion,Inactive
 54,46.2285,7.3507,Ancien Stand,Avenue de France,1950,Sion,Active
 55,46.224204,7.333028,Châteauneuf-Furet,Avenue Maurice-Troillet,1950,Sion,Active
 56,46.235671,7.359828,Cible,Avenue Ritz,1950,Sion,Active
@@ -373,7 +373,7 @@ id,latitude,longitude,name,address,zip,city,state
 465,46.94694772769555,7.388948353838325,Fellerstrasse,Fellerstrasse 30,3027,Bern,Active
 466,46.9486216,7.3827534,Holenacker Station,Bethlehem b. Bern Holenacker,3027,Bern,Active
 467,46.93992,7.3950333,Kirche St. Antonius,Morgenstrasse 56,3018,Bern,Active
-468,46.9472511,7.3933013,Waldmannstrasse,Waldmannstrasse 1,3027,Bern,Active
+468,46.94743154175472,7.391962232201346,"Verschoben, wegen Baustelle: Waldmannstrasse",Bümplizstrasse 58,3027,Bern,Active
 469,46.9450382,7.3791687,Riedbachstrasse Park,Riedbachstrasse 77,3027,Bern,Active
 470,46.9438169,7.3955825,Schwabstrasse Kreisel,Keltenstrasse 41,3018,Bern,Active
 471,46.94774434260293,7.40357158919319,Weyermannshaus Bad,Stöckackerstrasse 9,3027,Bern,Active
@@ -560,7 +560,7 @@ id,latitude,longitude,name,address,zip,city,state
 689,45.82606824449524,9.013036784694819,Pedrinate,Strade Regina 5,6832,Pedrinate,Active
 690,45.83031984322107,8.996931081752528,Seseglio,Via Campagna 4,6832,Pedrinate (località Seseglio),Active
 691,45.856501,8.988615,ColdreBike,Via San Gottardo,6877,Coldrerio,Active
-692,45.83248,9.033629,Chiasso Stazione FFS,Piazza Elvezia,6830,Chiasso,Active
+692,45.83239013287111,9.03375612565858,Chiasso Stazione FFS,Piazza Elvezia,6830,Chiasso,Active
 693,45.835102068444385,9.027882228092864,Chiasso Municipio,Piazza Col. C. Bernasconi 1,6830,Chiasso,Active
 694,45.849794,8.944964,Stabio Stazione FFS,Via Cantonale 11,6855,Stabio,Active
 695,45.848177,8.936794,Stabio via Mulino,Prati del Trevano,6855,Stabio,Active
@@ -647,7 +647,7 @@ id,latitude,longitude,name,address,zip,city,state
 786,46.5275155987152,6.5727380643235245,Café de Chavannes,Route de la Maladière 40,1022,Chavannes-près-Renens,Active
 787,46.53439438272029,6.5780125706014605,Chocolaterie,Avenue de la gare 22,1022,Chavanne-près-Renens,Active
 788,46.52285180329474,6.616691677562492,SEVELIN.CH,Avenue de Sévelin,1004,Lausanne,Active
-789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
+789,46.51966972197189,6.632556563027347,"Saint-François: travaux, station déplacée de quelques mètres entre le 27-29.03",Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
 792,46.53317639350977,6.646243245874777,Sallaz,Place de la Sallaz,1010,Lausanne,Active

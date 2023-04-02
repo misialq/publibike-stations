@@ -156,7 +156,7 @@ id,latitude,longitude,name,address,zip,city,state
 197,46.9394841,7.3899968,Bachmätteli,Bottigenstrasse 9,3018,Bern,Active
 198,46.9439597,7.3746103,Westside,Riedbachstrasse 96,3027,Bern,Active
 199,46.945724,7.3899619,Bahnhof Bümpliz Nord,Mühledorfstrasse 20,3018,Bern,Active
-201,46.956093,7.425518,Länggasse,Länggassstrasse 124,3012,Bern,Active
+201,46.9556992237474,7.42589120958378,Länggasse,Fabrikstrasse 43-45,3012,Bern,Active
 202,46.9565421,7.4317735,Neufeldstrasse,Neufeldstrasse 20,3012,Bern,Active
 203,46.9569128,7.4376583,Bierhübeli,Neubrückstrasse 70,3012,Bern,Active
 204,46.9515508,7.4345382,Falkenplatz,Länggassstrasse 7,3012,Bern,Active
@@ -252,7 +252,7 @@ id,latitude,longitude,name,address,zip,city,state
 304,46.9429736,7.4302386,Zieglerstrasse,Zieglerstrasse 62,3007,Bern,Active
 305,46.9413996,7.4316924,Eigerplatz,Mühlemattstrasse 59,3007,Bern,Active
 306,46.9400198,7.4317782,Eigerplatz Süd,Seftigenstrasse 1,3007,Bern,Active
-307,46.9480092,7.4218977,Friedbühlstrasse,Friedbühlstrasse 51,3008,Bern,Active
+307,46.9480092,7.4218977,Station ab 06.04.2023 verschoben,Friedbühlstrasse 51,3008,Bern,Active
 308,46.9465416,7.4356627,Hallenbad Hirschengraben,Maulbeerstrasse 17,3011,Bern,Active
 309,46.9405957,7.418738,Fischermätteli,Könizstrasse 73,3008,Bern,Active
 310,46.95918182502934,7.435662384188294,Freies Gymnasium,Hochfeldstrasse 217,3012,Bern,Active
@@ -479,7 +479,7 @@ id,latitude,longitude,name,address,zip,city,state
 587,46.005806,8.957374,Parco Ciani,via Lucchini,6900,Lugano,Active
 588,46.037002,8.979558,Davesco,Via Vecchio Tram,6964,Davesco-Soragno,Active
 589,46.9427868,7.3870759,Brünnenstrasse,Brünnenstrasse 80,3018,Bern,Active
-590,46.946569,7.420824,Insel West,Friedbühlstrasse 70,3008,Bern,Active
+590,46.946569,7.420824,Vom 06.04.2023 bis 30.04.2023 wegen Baustelle nicht in Betrieb: Insel West,Friedbühlstrasse 70,3008,Bern,Active
 591,46.9475569,7.4266947,Insel Haupteingang,Freiburgstrasse 15,3008,Bern,Active
 592,46.9371949,7.439401,Landoltstrasse,Landoltstrasse 1,3007,Bern,Active
 593,46.97293,7.450856,Tiefenau Bahnhof,Tiefenaustrasse 109,3004,Bern,Active
@@ -586,7 +586,7 @@ id,latitude,longitude,name,address,zip,city,state
 717,45.87153897383477,8.968208417990107,Rancate Nucleo,Piazza S. Stefano,6862,Rancate,Active
 718,45.861449804710674,8.954692504152314,Ligornetto Nucleo,Via Eugenio Bernasconi 22,6853,Ligornetto,Active
 719,45.845724,9.014909,Morbio Serfontana,Viale Serfontana 20,6834,Morbio Inferiore,Active
-720,45.855005125749834,9.002221444016275,Castel S. Pietro alle Zocche,Via alle Zocche 7-3,6874,Castel San Pietro,Active
+720,45.855005125749834,9.002221444016275,Fuori servizio per motivi tecnici: Castel S. Pietro alle Zocche,Via alle Zocche 7-3,6874,Castel San Pietro,Inactive
 721,45.85200343,9.016464562,Morbio Municipio,Via Giuseppe Cereghetti 8,6834,Morbio Inferiore,Active
 722,45.861628339008064,9.00898208387063,Castel S. Pietro Posta,Via Landamano G. B. Maggi 10,6874,Castel San Pietro,Active
 723,45.854907,8.943853,Stabio Via Luvee,Via Luvee,6855,Stabio,Active
@@ -647,7 +647,7 @@ id,latitude,longitude,name,address,zip,city,state
 786,46.5275155987152,6.5727380643235245,Café de Chavannes,Route de la Maladière 40,1022,Chavannes-près-Renens,Active
 787,46.53439438272029,6.5780125706014605,Chocolaterie,Avenue de la gare 22,1022,Chavanne-près-Renens,Active
 788,46.52285180329474,6.616691677562492,SEVELIN.CH,Avenue de Sévelin,1004,Lausanne,Active
-789,46.51966972197189,6.632556563027347,"Saint-François: travaux, station déplacée de quelques mètres entre le 27-29.03",Place Saint-François,1003,Lausanne,Active
+789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
 792,46.53317639350977,6.646243245874777,Sallaz,Place de la Sallaz,1010,Lausanne,Active

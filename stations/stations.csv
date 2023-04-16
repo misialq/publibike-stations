@@ -95,7 +95,7 @@ id,latitude,longitude,name,address,zip,city,state
 138,47.375933,8.543447,Central,Limmatquai 138,8001,Zürich,Active
 139,47.410618,8.55189,Messe/Hallenstadion,Wallisellenstrasse 46,8050,Zürich,Active
 140,47.366904,8.533736,Bleicherweg,Bleicherweg 33,8002,Zürich,Active
-141,47.366752,8.544935,ACHTUNG: Ausser Betrieb vom 15.4 - 18.4 aufgrund Sechseläuten,Bellevueplatz 2,8001,Zürich,Active
+141,47.366752,8.544935,AUSSER BETRIEB bis am 18.4. aufgrund Sechseläuten,Bellevueplatz 2,8001,Zürich,Inactive
 142,47.3742296,8.5285533,Stauffacher,Stauffacherstrasse 41,8004,Zürich,Active
 143,47.3899,8.523722,Escher-Wyss-Platz,Limmatstrasse 310,8005,Zürich,Active
 146,46.004469,8.947096,Stazione FFS,Via Clemente Maraini P+R,6900,Lugano,Active
@@ -146,7 +146,7 @@ id,latitude,longitude,name,address,zip,city,state
 196,46.9665865,7.4639627,Wankdorf Bhf Süd,Wankdorffeldstrasse 2,3014,Bern,Active
 197,46.9394841,7.3899968,Bachmätteli,Bottigenstrasse 9,3018,Bern,Active
 198,46.9439597,7.3746103,Westside,Riedbachstrasse 96,3027,Bern,Active
-199,46.945724,7.3899619,Bahnhof Bümpliz Nord,Mühledorfstrasse 20,3018,Bern,Active
+199,46.9456501,7.3901001,Bahnhof Bümpliz Nord,Mühledorfstrasse 20,3018,Bern,Active
 201,46.9556992237474,7.42589120958378,Länggasse,Fabrikstrasse 43-45,3012,Bern,Active
 202,46.9565421,7.4317735,Neufeldstrasse,Neufeldstrasse 20,3012,Bern,Active
 203,46.9569128,7.4376583,Bierhübeli,Neubrückstrasse 70,3012,Bern,Active
@@ -463,7 +463,7 @@ id,latitude,longitude,name,address,zip,city,state
 587,46.005806,8.957374,Parco Ciani,via Lucchini,6900,Lugano,Active
 588,46.037002,8.979558,Davesco,Via Vecchio Tram,6964,Davesco-Soragno,Active
 589,46.9427868,7.3870759,Brünnenstrasse,Brünnenstrasse 80,3018,Bern,Active
-590,46.9465431946262,7.420290300661435,Station bis 30.04.2023 nicht in Betrieb: Insel West,Weyermannsstrasse 44,3008,Bern,Inactive
+590,46.9465431946262,7.420290300661435,Insel West,Weyermannsstrasse 44,3008,Bern,Active
 591,46.9475569,7.4266947,Insel Haupteingang,Freiburgstrasse 15,3008,Bern,Active
 592,46.9371949,7.439401,Landoltstrasse,Landoltstrasse 1,3007,Bern,Active
 593,46.97293,7.450856,Tiefenau Bahnhof,Tiefenaustrasse 109,3004,Bern,Active
@@ -548,6 +548,7 @@ id,latitude,longitude,name,address,zip,city,state
 695,45.848177,8.936794,Stabio via Mulino,Prati del Trevano,6855,Stabio,Active
 696,45.991069,8.936421,Gentilino,Via Nocc,6925,Collina d'Oro,Active
 699,45.858612,8.940146,Stabio Via Segeno,Via Segeno,6855,Stabio,Active
+700,46.53125489706996,6.601886023564116,Sicpa,Route des Flumeaux 40,1008,Prilly,Active
 701,47.375748,8.548599,ETH Karl-Schmid-Strasse: Mobile Station Zürich 2,Karl-Schmid-Strasse 1,8006,Zürich,Active
 702,47.377779,8.546183,ETH Zentrum Leonhardstrasse,Leonhardstrasse 25a,8001,Zürich,Active
 704,45.87254294486857,8.987224327562924,Mendrisio Museo,Via Vincenzo Vela,6850,Mendrisio,Active
@@ -611,6 +612,7 @@ id,latitude,longitude,name,address,zip,city,state
 769,46.776884,7.139565,Bel-Air,Route de Bel-Air 17,1723,Marly,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,6830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
+772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
@@ -682,3 +684,8 @@ id,latitude,longitude,name,address,zip,city,state
 848,46.088134,8.915069,Piaza du Buteghin,Via la Munda,6805,Mezzovico-Vira,Active
 849,46.51569970026471,6.499234489270572,Beausobre,Avenue de Vertou 2,1110,Morges,Active
 850,46.428783178554085,6.249760378428628,"Vich, Poste",Place Marcel Ponce,1267,Vich,Active
+852,46.5183879308213,6.4569022616279925,Denens village,Rue de la Cité 2,1135,Denens,Active
+853,46.51061054877812,6.659367730704223,Gare de Pully sud,Place de la Gare 1,1009,Pully,Active
+854,46.514863230694175,6.658812113086054,Gare de Pully nord,Chem. du Montillier 9,1009,Pully,Active
+855,46.54644014068801,6.54913196924048,Qoqa Bike2work,Rte de la Chaux 4,1030,Bussigny,Active
+856,46.399965,6.203576,"Grens, Allée des Moulins",Chemin du Nant,1274,Grens,Active

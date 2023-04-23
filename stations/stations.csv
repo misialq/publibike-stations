@@ -1,6 +1,6 @@
 id,latitude,longitude,name,address,zip,city,state
 6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Ecublens,Active
-7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Ecublens,Active
+7,46.522591,6.584961,Dorigny - Unilive: station fermé du 24 au 28.04,UNIL Dorigny Bâtiment Extranef,1015,Ecublens,Active
 8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Ecublens,Active
 9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Ecublens,Active
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
@@ -95,7 +95,7 @@ id,latitude,longitude,name,address,zip,city,state
 138,47.375933,8.543447,Central,Limmatquai 138,8001,Zürich,Active
 139,47.410618,8.55189,Messe/Hallenstadion,Wallisellenstrasse 46,8050,Zürich,Active
 140,47.366904,8.533736,Bleicherweg,Bleicherweg 33,8002,Zürich,Active
-141,47.366752,8.544935,AUSSER BETRIEB bis am 18.4. aufgrund Sechseläuten,Bellevueplatz 2,8001,Zürich,Inactive
+141,47.366752,8.544935,Bellevue,Bellevueplatz 2,8001,Zürich,Active
 142,47.3742296,8.5285533,Stauffacher,Stauffacherstrasse 41,8004,Zürich,Active
 143,47.3899,8.523722,Escher-Wyss-Platz,Limmatstrasse 310,8005,Zürich,Active
 146,46.004469,8.947096,Stazione FFS,Via Clemente Maraini P+R,6900,Lugano,Active
@@ -214,7 +214,7 @@ id,latitude,longitude,name,address,zip,city,state
 273,47.389862,8.514605,Westpark,Pfingstweidstrasse 60,8005,Zürich,Active
 274,47.375991201,8.541239126,Beatenplatz,Beatenplatz 1,8001,Zürich,Active
 275,47.394007,8.542036,Pauluskirche,Milchbuckstrasse 52,8057,Zürich,Active
-276,47.414558,8.5528182,Airgate,Hagenholzstrasse 51,8050,Zürich,Active
+276,47.415172,8.553395,Airgate,Hagenholzstrasse 51,8050,Zürich,Active
 277,47.413514,8.537816,Lamprechtweg,Birchstrasse 183,8050,Zürich,Active
 278,47.417701,8.545602,Emil-Oberhänsli,Felsenrainstrasse 2,8050,Zürich,Active
 279,47.39808,8.533647,Bucheggplatz,Bucheggplatz 2,8057,Zürich,Active
@@ -439,7 +439,7 @@ id,latitude,longitude,name,address,zip,city,state
 555,46.946839,7.4556,Mühlenplatz,Schifflaube 1,3011,Bern,Active
 556,47.391289,8.537546,Schaffhauserplatz,Rotbuchstrasse 15,8006,Zürich,Active
 557,47.374192,8.514116,Idaplatz,Idaplatz 4,8003,Zürich,Active
-558,47.369599,8.518488,Schmiede Wiedikon,Brinerstrasse 2,8003,Zürich,Active
+558,47.370037,8.518185,Schmiede Wiedikon,Brinerstrasse 2,8003,Zürich,Active
 559,47.374241,8.525602,Bezirksgebäude,Badenerstrasse 90,8004,Zürich,Active
 560,47.376467,8.526609,Helvetiaplatz,Molkenstrasse 15,8004,Zürich,Active
 561,47.413733,8.541541,Center Eleven,Therese-Giehse-Strasse 11,8050,Zürich,Active
@@ -689,3 +689,4 @@ id,latitude,longitude,name,address,zip,city,state
 854,46.514863230694175,6.658812113086054,Gare de Pully nord,Chem. du Montillier 9,1009,Pully,Active
 855,46.54644014068801,6.54913196924048,Qoqa Bike2work,Rte de la Chaux 4,1030,Bussigny,Active
 856,46.399965,6.203576,"Grens, Allée des Moulins",Chemin du Nant,1274,Grens,Active
+857,46.52638543768136,6.562150476472972,Ecublens Motty Test,Place du Motty,1024,Ecublens,Active

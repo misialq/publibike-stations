@@ -1,6 +1,6 @@
 id,latitude,longitude,name,address,zip,city,state
 6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Ecublens,Active
-7,46.522591,6.584961,Dorigny - Unilive: station fermé du 24 au 28.04,UNIL Dorigny Bâtiment Extranef,1015,Ecublens,Active
+7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Ecublens,Active
 8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Ecublens,Active
 9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Ecublens,Active
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
@@ -224,7 +224,7 @@ id,latitude,longitude,name,address,zip,city,state
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
 288,45.982056,8.918121,Montagnola Piazza Brocchi,Piazza Brocchi,6926,Montagnola,Active
 289,46.012555,8.943487,Massagno,"via dei Platani,",6908,Massagno,Active
-290,46.946888089472424,7.445830418186601,Nationalbank,Inselgasse 1,3011,Bern,Active
+290,46.946888089472424,7.445830418186601,Station nicht in Betrieb. Benutzen sie die umliegenden Stationen: Nationalbank,Inselgasse 1,3011,Bern,Inactive
 291,46.9635131,7.4555218,Markuskirche,Winkelriedstrasse 56,3014,Bern,Active
 292,46.946604,7.441624,Bundesgasse,Bundesgasse 3,3011,Bern,Active
 293,46.9465196,7.4481457,Casinoplatz,Casinoplatz 3,3011,Bern,Active

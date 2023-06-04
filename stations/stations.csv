@@ -33,7 +33,7 @@ id,latitude,longitude,name,address,zip,city,state
 42,45.998453,8.94848,Arte e Cultura LAC,Via Antonio Caccia,6900,Lugano,Active
 43,46.005849,8.961709,Campo Marzio,Viale Castagnola 4,6900,Lugano,Active
 44,46.065999,8.966679,Tesserete,Piazza Stazione,6950,Tesserete,Active
-45,46.023159,8.959919,Stadio,Via Trevano 100,6900,Lugano,Active
+45,46.023159,8.959919,Stabio,Via Trevano 100,6900,Lugano,Active
 46,46.021942,8.962901,Via Ciani,Via Giacomo E Filippo Ciani,6900,Lugano,Active
 47,46.02398,8.968292,Pregassona,Via Terzerina,6900,Lugano,Active
 48,46.0105808,8.95794,USI,Via Giuseppe Buffi 13,6900,Lugano,Active
@@ -466,7 +466,7 @@ id,latitude,longitude,name,address,zip,city,state
 589,46.9427868,7.3870759,Brünnenstrasse,Brünnenstrasse 80,3018,Bern,Active
 590,46.94653088033273,7.420762725110743,Insel West,Freiburgstrasse 46,3010,Bern,Active
 591,46.9475569,7.4266947,Insel Haupteingang,Freiburgstrasse 15,3008,Bern,Active
-592,46.9375338601052,7.439405749301011,Landoltstrasse: verschoben wegen Baustelle,Bürenstrasse 1,3007,Bern,Active
+592,46.93718143594243,7.4393978740610605,Landoltstrasse,Bürenstrasse 1,3007,Bern,Active
 593,46.97293,7.450856,Tiefenau Bahnhof,Tiefenaustrasse 109,3004,Bern,Active
 594,46.9644796,7.466948,Wankdorf Sporthalle,Papiermühlestrasse 91,3014,Bern,Active
 595,46.940180660348716,7.453043799962409,Jubiläumsplatz,Jubiläumsplatz 2,3005,Bern,Active
@@ -488,7 +488,7 @@ id,latitude,longitude,name,address,zip,city,state
 612,46.37679,6.23515,"Nyon, La Plage",Route de Genève 12,1260,Nyon,Active
 613,46.39236,6.23137,"Nyon, Hostel",Chemin des Plantaz 27,1260,Nyon,Active
 614,46.38356,6.23973,"Nyon, Petit Perdtemps",Petit-Perdtemps,1260,Nyon,Active
-616,46.975958,7.472646,Bundesamt für Energie: Zugang zur Station ist von der Pulverstrasse her möglich (Baustelle),Mühlestrasse 4,3063,Ittigen,Active
+616,46.975958,7.472646,Bundesamt für Energie,Mühlestrasse 4,3063,Ittigen,Active
 618,45.958424,8.917052,Barbengo,Via Soreso 6,6917,Lugano,Active
 619,46.016072,8.941042,Piscina Valgersa,Via Val Gersa,6942,Savosa,Active
 620,45.973369,8.927351,Centro Lugano Sud,Via Cantonale,6916,Grancia,Active
@@ -579,7 +579,7 @@ id,latitude,longitude,name,address,zip,city,state
 731,46.380297084312886,6.240987669660989,"Nyon, Place de Savoie","Nyon, Place de Savoie",1260,Nyon,Active
 732,46.388983510293066,6.223670386094328,"Nyon, Piscine du Cossy",Route de Signy 21,1260,Nyon,Active
 733,46.461609,6.346166,"Rolle, Camping",Chemin de la Plage 4,1180,Rolle,Active
-734,46.381728,6.240371,"Nyon, Château",Rue Maupertuis 2,1260,Nyon,Active
+734,46.381576302180214,6.240310145601514,"Nyon, Château: travaux, station déplacée de 25m",Rue Maupertuis 2,1260,Nyon,Active
 735,46.30442257745524,6.169752668043726,"Mies, Administration",Route de Veytey,1295,Mies,Active
 736,46.452185194140014,6.2910599793253486,"Bursins, Place du Soleil",Place du Soleil,1183,Bursins,Active
 737,46.42708,6.26574,"Gland, Eikenott",Allée du Communet,1196,Gland,Active
@@ -597,7 +597,7 @@ id,latitude,longitude,name,address,zip,city,state
 750,45.95289,8.965247,Bissone,Via Collina,6816,Bissone,Active
 751,45.92991043850694,8.938161232544616,Brusino Arsizio – Debarcadero,Piazza Don F. Andreoletti 1,6827,Brusino Arsizio,Active
 752,46.027895,8.954881,Porza Sant'Elena,Via Cantonale,6948,Porza,Active
-753,46.3221235178547,6.187826521431379,"hors service pour des raisons techniques : Coppet, Rojalets",Route de Founex,1296,Coppet,Active
+753,46.3221235178547,6.187826521431379,"Coppet, Rojalets",Route de Founex,1296,Coppet,Active
 754,46.304039,6.179519,"Mies, Plage",Route Suisse,1295,Mies,Active
 755,46.318532025495244,6.187802904461231,"Coppet, Gare",Route de Founex,1296,Coppet,Active
 756,46.370779,6.228414,"Nyon, Stade de Colovray",Route de Genève 37,1260,Nyon,Active
@@ -632,7 +632,7 @@ id,latitude,longitude,name,address,zip,city,state
 789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
-792,46.53317639350977,6.646243245874777,Sallaz,Place de la Sallaz,1010,Lausanne,Active
+792,46.53317639350977,6.646243245874777,Sallaz. Travaux: station hors-service dès le 06.06.2023!,Place de la Sallaz,1010,Lausanne,Active
 793,46.7915080285386,7.1389768164662275,Marteray,Route de Marteray 21,1752,Villars-sur-Glâne,Active
 794,46.7909443366818,7.127365724241438,Martinets,Route des Martinets,1752,Villars-sur-Glâne,Active
 795,46.80627599825691,7.175202933966421,Schönberg Chaley,Route Joseph-Chaley,1700,Fribourg,Active
@@ -655,7 +655,7 @@ id,latitude,longitude,name,address,zip,city,state
 814,46.96629170335004,7.48318298315503,UPD Restaurant,UPD Bern,3000,Bern,Active
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
 816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
-817,46.51673942261787,6.566454652605652,Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
+817,46.51673942261787,6.566454652605652,Hors service en raison de problèmes techniques: Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Inactive
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
 822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active

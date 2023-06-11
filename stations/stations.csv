@@ -360,7 +360,7 @@ id,latitude,longitude,name,address,zip,city,state
 465,46.94694772769555,7.388948353838325,Fellerstrasse,Fellerstrasse 30,3027,Bern,Active
 466,46.9486216,7.3827534,Holenacker Station,Bethlehem b. Bern Holenacker,3027,Bern,Active
 467,46.93992,7.3950333,Kirche St. Antonius,Morgenstrasse 56,3018,Bern,Active
-468,46.94743154175472,7.391962232201346,"Verschoben, wegen Baustelle: Waldmannstrasse",Bümplizstrasse 58,3027,Bern,Active
+468,46.94730845562206,7.393210711796317,"Verschoben, wegen Baustelle: Waldmannstrasse",Waldmannstrasse 5,3027,Bern,Active
 469,46.9450382,7.3791687,Riedbachstrasse Park,Riedbachstrasse 77,3027,Bern,Active
 470,46.9438169,7.3955825,Schwabstrasse Kreisel,Keltenstrasse 41,3018,Bern,Active
 471,46.94774434260293,7.40357158919319,Weyermannshaus Bad,Stöckackerstrasse 9,3027,Bern,Active
@@ -632,7 +632,6 @@ id,latitude,longitude,name,address,zip,city,state
 789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
-792,46.53317639350977,6.646243245874777,Sallaz. Travaux: station hors-service dès le 06.06.2023!,Place de la Sallaz,1010,Lausanne,Active
 793,46.7915080285386,7.1389768164662275,Marteray,Route de Marteray 21,1752,Villars-sur-Glâne,Active
 794,46.7909443366818,7.127365724241438,Martinets,Route des Martinets,1752,Villars-sur-Glâne,Active
 795,46.80627599825691,7.175202933966421,Schönberg Chaley,Route Joseph-Chaley,1700,Fribourg,Active
@@ -655,7 +654,7 @@ id,latitude,longitude,name,address,zip,city,state
 814,46.96629170335004,7.48318298315503,UPD Restaurant,UPD Bern,3000,Bern,Active
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
 816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
-817,46.51673942261787,6.566454652605652,Hors service en raison de problèmes techniques: Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Inactive
+817,46.51673942261787,6.566454652605652,Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
 822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active

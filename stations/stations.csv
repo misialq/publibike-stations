@@ -143,7 +143,7 @@ id,latitude,longitude,name,address,zip,city,state
 193,46.9552642,7.4593279,Kasernenstrasse HKB,Kasernenstrasse 13k,3014,Bern,Active
 194,46.95860113643669,7.456935120256138,Kasernenwiese,Militärstrasse 42,3014,Bern,Active
 195,46.9543451,7.4453536,Lorrainebrücke,Lorrainestrasse 1,3013,Bern,Active
-196,46.9665865,7.4639627,Wankdorf Bhf Süd,Wankdorffeldstrasse 2,3014,Bern,Active
+196,46.9665865,7.4639627,Aufgrund Konzert ausser Betrieb: Wankdorf Bhf Süd,Wankdorffeldstrasse 2,3014,Bern,Inactive
 197,46.9394841,7.3899968,Bachmätteli,Bottigenstrasse 9,3018,Bern,Active
 198,46.9439597,7.3746103,Westside,Riedbachstrasse 96,3027,Bern,Active
 199,46.9456501,7.3901001,Bahnhof Bümpliz Nord,Mühledorfstrasse 20,3018,Bern,Active
@@ -579,7 +579,7 @@ id,latitude,longitude,name,address,zip,city,state
 731,46.380297084312886,6.240987669660989,"Nyon, Place de Savoie","Nyon, Place de Savoie",1260,Nyon,Active
 732,46.388983510293066,6.223670386094328,"Nyon, Piscine du Cossy",Route de Signy 21,1260,Nyon,Active
 733,46.461609,6.346166,"Rolle, Camping",Chemin de la Plage 4,1180,Rolle,Active
-734,46.381576302180214,6.240310145601514,"Nyon, Château: travaux, station déplacée de 25m",Rue Maupertuis 2,1260,Nyon,Active
+734,46.381576302180214,6.240310145601514,"Nyon, Château",Rue Maupertuis 2,1260,Nyon,Active
 735,46.30442257745524,6.169752668043726,"Mies, Administration",Route de Veytey,1295,Mies,Active
 736,46.452185194140014,6.2910599793253486,"Bursins, Place du Soleil",Place du Soleil,1183,Bursins,Active
 737,46.42708,6.26574,"Gland, Eikenott",Allée du Communet,1196,Gland,Active
@@ -689,9 +689,8 @@ id,latitude,longitude,name,address,zip,city,state
 854,46.514863230694175,6.658812113086054,Gare de Pully nord,Chem. du Montillier 9,1009,Pully,Active
 855,46.54644014068801,6.54913196924048,Qoqa Bike2work,Rte de la Chaux 4,1030,Bussigny,Active
 856,46.399965,6.203576,"Grens, Allée des Moulins",Chemin du Nant,1274,Grens,Active
-857,46.52638543768136,6.562150476472972,Ecublens Motty Test,Place du Motty,1024,Ecublens,Active
+857,46.52785589336738,6.560535663689192,Ecublens Brulée Test,"Rte de la Brûlée, 1024 Ecublens",1024,Ecublens,Active
 858,46.7914257740733,7.143123381434577,Bike2work UFT,Rte de la Glâne 107,1752,Villars-sur-Glâne,Active
 859,46.54405624882997,6.6034499977507615,Piscine de Fleur-de-Lys,Sentier de la Fleur-de-Lys 2,1008,Prilly,Active
 860,45.998476,8.923755,Muzzano paese,Via Alla Selva,6933,Muzzano,Active
 861,46.550158964229546,6.551611161028173,Administration de Bussigny,Pl. de l'Hôtel de Ville 1,1030,Bussigny,Active
-862,46.35898132141345,6.215491034251343,Caribana Festival,Ch. de Varmey,1299,Crans-près-Céligny,Active

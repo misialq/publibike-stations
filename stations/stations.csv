@@ -143,7 +143,7 @@ id,latitude,longitude,name,address,zip,city,state
 193,46.9552642,7.4593279,Kasernenstrasse HKB,Kasernenstrasse 13k,3014,Bern,Active
 194,46.95860113643669,7.456935120256138,Kasernenwiese,Militärstrasse 42,3014,Bern,Active
 195,46.9543451,7.4453536,Lorrainebrücke,Lorrainestrasse 1,3013,Bern,Active
-196,46.9665865,7.4639627,Aufgrund Konzert ausser Betrieb: Wankdorf Bhf Süd,Wankdorffeldstrasse 2,3014,Bern,Inactive
+196,46.9665865,7.4639627,Wankdorf Bhf Süd,Wankdorffeldstrasse 2,3014,Bern,Active
 197,46.9394841,7.3899968,Bachmätteli,Bottigenstrasse 9,3018,Bern,Active
 198,46.9439597,7.3746103,Westside,Riedbachstrasse 96,3027,Bern,Active
 199,46.9456501,7.3901001,Bahnhof Bümpliz Nord,Mühledorfstrasse 20,3018,Bern,Active
@@ -266,7 +266,7 @@ id,latitude,longitude,name,address,zip,city,state
 330,46.9427163,7.4410406,Brückenstrasse BFH,Brückenstrasse 73,3005,Bern,Active
 331,46.9458073,7.4270475,Brunnmattschulhaus,Brunnmattstrasse 16,3007,Bern,Active
 332,46.943804,7.4694264,Egelgasse-Ostring,Egelgasse 72,3006,Bern,Active
-333,46.9367315,7.475845,Egghölzli,Dunantstrasse 2,3006,Bern,Active
+333,46.936592307995426,7.475039323967741,Egghölzli: Verschoben wegen Baustelle,Egghölzlistrasse 3A,3006,Bern,Active
 334,46.520202,6.571784,Forel,Avenue Forel,1015,Ecublens,Active
 335,46.54873,6.57476,Mongevon,Chemin de Mongevon 4,1023,Crissier,Active
 347,46.941479,7.466444,Burgernziel,Muristrasse 64,3006,Bern,Active
@@ -694,3 +694,5 @@ id,latitude,longitude,name,address,zip,city,state
 859,46.54405624882997,6.6034499977507615,Piscine de Fleur-de-Lys,Sentier de la Fleur-de-Lys 2,1008,Prilly,Active
 860,45.998476,8.923755,Muzzano paese,Via Alla Selva,6933,Muzzano,Active
 861,46.550158964229546,6.551611161028173,Administration de Bussigny,Pl. de l'Hôtel de Ville 1,1030,Bussigny,Active
+863,46.038841,8.946213,Cureglia,Incrocio Via San Giuseppe / Via Cantonale,6944,Cureglia,Active
+864,46.008146,8.969007,Cassarate Via del Tiglio,Via del Tiglio,6900,Lugano,Active

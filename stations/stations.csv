@@ -224,7 +224,7 @@ id,latitude,longitude,name,address,zip,city,state
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
 288,45.982056,8.918121,Montagnola Piazza Brocchi,Piazza Brocchi,6926,Montagnola,Active
 289,46.012555,8.943487,Massagno,"via dei Platani,",6908,Massagno,Active
-290,46.946888089472424,7.445830418186601,Nationalbank,Inselgasse 1,3011,Bern,Active
+290,46.946888089472424,7.445830418186601,Station nicht in Betrieb: Nationalbank,Inselgasse 1,3011,Bern,Inactive
 291,46.9635131,7.4555218,Markuskirche,Winkelriedstrasse 56,3014,Bern,Active
 292,46.946604,7.441624,Bundesgasse,Bundesgasse 3,3011,Bern,Active
 293,46.9465196,7.4481457,Casinoplatz,Casinoplatz 3,3011,Bern,Active
@@ -266,7 +266,7 @@ id,latitude,longitude,name,address,zip,city,state
 330,46.9427163,7.4410406,Brückenstrasse BFH,Brückenstrasse 73,3005,Bern,Active
 331,46.9458073,7.4270475,Brunnmattschulhaus,Brunnmattstrasse 16,3007,Bern,Active
 332,46.943804,7.4694264,Egelgasse-Ostring,Egelgasse 72,3006,Bern,Active
-333,46.936592307995426,7.475039323967741,Egghölzli: Verschoben wegen Baustelle,Egghölzlistrasse 3A,3006,Bern,Active
+333,46.93660921,7.4750766637,Egghülzli: Aufgrund Baustelle verschoben,Egghölzlistrasse 3A,3006,Bern,Active
 334,46.520202,6.571784,Forel,Avenue Forel,1015,Ecublens,Active
 335,46.54873,6.57476,Mongevon,Chemin de Mongevon 4,1023,Crissier,Active
 347,46.941479,7.466444,Burgernziel,Muristrasse 64,3006,Bern,Active
@@ -654,7 +654,7 @@ id,latitude,longitude,name,address,zip,city,state
 814,46.96629170335004,7.48318298315503,UPD Restaurant,UPD Bern,3000,Bern,Active
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
 816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
-817,46.51673942261787,6.566454652605652,Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
+817,46.51673942261787,6.566454652605652,hors servce pour des raisons techniques -- Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
 822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active
@@ -696,3 +696,4 @@ id,latitude,longitude,name,address,zip,city,state
 861,46.550158964229546,6.551611161028173,Administration de Bussigny,Pl. de l'Hôtel de Ville 1,1030,Bussigny,Active
 863,46.038841,8.946213,Cureglia,Incrocio Via San Giuseppe / Via Cantonale,6944,Cureglia,Active
 864,46.008146,8.969007,Cassarate Via del Tiglio,Via del Tiglio,6900,Lugano,Active
+865,45.838047,9.026857,Chiasso Piscine,Via Rinaldo Simen,6830,Chiasso,Active

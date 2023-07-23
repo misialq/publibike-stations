@@ -315,7 +315,7 @@ id,latitude,longitude,name,address,zip,city,state
 415,46.916092,7.418571,Entsorgungshof Werkhof,Muhlernstrasse 101,3098,Köniz,Active
 416,46.93046,7.428167,Steinhölzli,Kirchstrasse 6a,3097,Köniz,Active
 417,46.92903811738819,7.417226193945767,Neuhausplatz,Könizstrasse 249,3097,Köniz,Active
-418,46.928856,7.446403,AUSSER BETRIEB GURTENFESTIVAL: Wabern Bahnhof,Bahnhofstrasse 14,3084,Köniz,Inactive
+418,46.92878928487582,7.446378819509219,Wabern Bahnhof,Bahnhofstrasse 14,3084,Köniz,Active
 419,46.93036,7.41929,Liebefeld Bahnhof,Stationsstrasse 1,3097,Köniz,Active
 420,46.9356189,7.4165883,Vidmar,Könizstrasse 161,3097,Köniz,Active
 421,46.9229774,7.4141121,Köniz Zentrum,Bläuacker 10,3098,Köniz,Active
@@ -329,7 +329,7 @@ id,latitude,longitude,name,address,zip,city,state
 429,47.4080095,8.5777038,Luegisland,Luegislandstrasse 412,8051,Zürich,Active
 430,47.382577,8.546903,Stapferstube,Stapferstrasse 7,8006,Zürich,Active
 431,47.362209,8.510788,Binz Center,Grubenstrasse 52,8045,Zürich,Active
-434,46.0159412,8.9668282,Via Crocetta,Via Crocetta,6900,Lugano,Active
+434,46.0159412,8.9668282,Via Crocetta,Via Crocetta,6900,Lugano,Inactive
 435,46.009713,8.96008,Ospedale Italiano di Lugano,Via Pietro Cappelli,6900,Lugano,Active
 436,46.014127,8.959087,Casa Serena,Via Marco da Carona 10-12,6900,Lugano,Active
 437,46.01876,8.96429,Via Ceresio,Via Ceresio,6900,Lugano,Active
@@ -399,7 +399,7 @@ id,latitude,longitude,name,address,zip,city,state
 509,46.796171649939694,7.143346608386447,Beaumont FR,Route de Beaumont 10,1700,Fribourg,Active
 510,46.808006,7.155941,Quartier d'Alt,Derrière-les-Remparts 12,1700,Fribourg,Active
 511,46.974841,7.453275,Spital Tiefenau,Tiefenaustrasse 110,3004,Bern,Active
-513,47.380337,8.537753,ACHTUNG: Ersatzstandort vom 21.7-24.7 an der Ecke Sihlquai / Ausstellungsstrasse: Sihlquai,Sihlquai 25,8005,Zürich,Active
+513,47.380898,8.53797,Sihlquai,Sihlquai 25,8005,Zürich,Active
 514,47.397885,8.596202,Bahnhof Stettbach,Bahnhof Stettbach,8051,Zürich,Active
 515,47.3690153,8.5543974,Hottingerplatz,Kasinostrasse 10,8032,Zürich,Active
 516,47.418472,8.561746,Sirius-Platz,Sirius-Platz,8152,Opfikon,Active
@@ -613,7 +613,7 @@ id,latitude,longitude,name,address,zip,city,state
 769,46.776884,7.139565,Bel-Air,Route de Bel-Air 17,1723,Marly,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,6830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
-772,46.9191591,7.4383865,"Gurtenfestival, Station nicht in Betrieb: Gurten Kulm",Gurten - Park im Grünen,3084,Köniz,Inactive
+772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
@@ -655,9 +655,6 @@ id,latitude,longitude,name,address,zip,city,state
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
 816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
 817,46.51673942261787,6.566454652605652,Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
-818,46.929841160255535,7.4449715588729735,Gurtenfestival 1,Kirchstrasse 152,3084,Köniz,Active
-819,46.929612328482335,7.445094435077926,Gurtenfestival 2,Kirchstrasse 152,3084,Wabern bei Bern,Active
-820,46.92929355350012,7.44496883952644,Gurtenfestival 3,Kirchstrasse 152,3084,Wabern bei Bern,Active
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
 822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active

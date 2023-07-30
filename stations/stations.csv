@@ -329,7 +329,7 @@ id,latitude,longitude,name,address,zip,city,state
 429,47.4080095,8.5777038,Luegisland,Luegislandstrasse 412,8051,Zürich,Active
 430,47.382577,8.546903,Stapferstube,Stapferstrasse 7,8006,Zürich,Active
 431,47.362209,8.510788,Binz Center,Grubenstrasse 52,8045,Zürich,Active
-434,46.0159412,8.9668282,Via Crocetta,Via Crocetta,6900,Lugano,Inactive
+434,46.0159412,8.9668282,Via Crocetta,Via Crocetta,6900,Lugano,Active
 435,46.009713,8.96008,Ospedale Italiano di Lugano,Via Pietro Cappelli,6900,Lugano,Active
 436,46.014127,8.959087,Casa Serena,Via Marco da Carona 10-12,6900,Lugano,Active
 437,46.01876,8.96429,Via Ceresio,Via Ceresio,6900,Lugano,Active
@@ -600,7 +600,7 @@ id,latitude,longitude,name,address,zip,city,state
 753,46.3221235178547,6.187826521431379,"Coppet, Rojalets",Route de Founex,1296,Coppet,Active
 754,46.304039,6.179519,"Mies, Plage",Route Suisse,1295,Mies,Active
 755,46.318532025495244,6.187802904461231,"Coppet, Gare",Route de Founex,1296,Coppet,Active
-756,46.370779,6.228414,"Nyon, Stade de Colovray",Route de Genève 37,1260,Nyon,Active
+756,46.370779,6.228414,"Station fermée du 4 au 6 août: triathlon de Nyon, Stade de Colovray",Route de Genève 37,1260,Nyon,Active
 757,46.543261033642686,6.661545646440144,Croisettes-Biopôle,Route de la Corniche 2,1066,Epalinges,Active
 758,46.547872289288286,6.671632436126663,"Epalinges, Croix-Blanche",Rte de la Croix-Blanche 25,1066,Epalinges,Active
 761,46.79633089439779,7.131816212475342,Le Domaine (Swiss Lodge),Chem. des Eaux-Vives 17,1752,Villars-sur-Glâne,Active

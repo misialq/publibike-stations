@@ -17,7 +17,7 @@ id,latitude,longitude,name,address,zip,city,state
 26,46.521668,6.581345,Unil Centre,Unicentre,1015,Ecublens,Active
 27,46.50225151684113,6.48110823288,Medtronic,Route du Molliau 31,1131,Tolochenaz,Active
 28,46.515862,6.630461,Lausanne Gare CFF Sud,Passage des Saugettes 7,1003,Lausanne,Active
-29,46.5058,6.6711,Station fermée! Paudex,Route du Lac,1094,Paudex,Inactive
+29,46.5058,6.6711,Paudex,Route du Lac,1094,Paudex,Active
 30,46.511048,6.492569,Moulin,Gare de Morges,1110,Morges,Active
 31,46.50737,6.495352,Dufour,Place Dufour,1110,Morges,Active
 32,46.510581,6.496026,Sablon,Rue Centrale,1110,Morges,Active
@@ -26,7 +26,7 @@ id,latitude,longitude,name,address,zip,city,state
 35,46.510562,6.499863,Temple,Grand-Rue,1110,Morges,Active
 36,46.51856,6.50736,Gracieuse,Avenue de Lonay,1110,Morges,Active
 37,46.537813,6.581462,Place du Marché,Rue du Midi,1020,Renens,Active
-38,46.526347,6.603215,Station fermée! Halte de Malley,Avenue du Chablais,1008,Prilly,Inactive
+38,46.526347,6.603215,Halte de Malley,Avenue du Chablais,1008,Prilly,Active
 39,46.52804418,6.59119606,Longemalle,Avenue de Longemalle,1020,Renens,Active
 40,45.9242,8.9192,Morcote,Riva Dal Garavéll 8,6922,Morcote,Active
 41,45.953905,8.949715,Melide,Via alla Bola,6815,Melide,Active
@@ -286,8 +286,8 @@ id,latitude,longitude,name,address,zip,city,state
 365,47.388689,8.536433,Kornhausstrasse,Kornhausstrasse 30,8006,Zürich,Active
 366,47.407098,8.55033,Dorflinde,Schwamendingenstrasse 41,8050,Zürich,Active
 367,47.368474,8.559983,Römerhof,Ilgenstrasse 22,8032,Zürich,Active
-368,47.361655,8.560579,ERSATZSTANDORT auf dem Platz gegenüber bis am 4.9: Hegibachplatz,Forchstrasse 99,8032,Zürich,Active
-370,47.4039985,8.5721264,ACHTUNG: Ersatzstandort vom 31.8 - 5.9 an der Ecke Herzogenmühlestrasse / Heerenwiesen,Winterthurerstrasse 519,8051,Zürich,Inactive
+368,47.3619068,8.5609218,Hegibachplatz,Forchstrasse 99,8032,Zürich,Active
+370,47.4039985,8.5721264,Schwamendingerplatz,Winterthurerstrasse 519,8051,Zürich,Active
 371,46.933433,7.466467,Elfenau,Elfenauweg 92,3006,Bern,Active
 372,46.970948,7.472052,GVB,Papiermühlestrasse 130,3063,Ittigen,Active
 374,46.88922737105038,7.367057544825261,SwissBikePark Oberried,Oberriedgässli 6,3145,Niederscherli,Active
@@ -379,9 +379,9 @@ id,latitude,longitude,name,address,zip,city,state
 484,46.9456022,7.434734,Seilerstrasse,Seilerstrasse 22,3011,Bern,Active
 485,46.9432858,7.4144036,Stämpflistrasse,Stoosstrasse 2,3008,Bern,Active
 486,46.9503044,7.4145806,Sanpol Bern,Murtenstrasse 111,3008,Bern,Active
-487,46.523858,6.6329296,Station fermée! Riponne,Place de la Riponne 7,1005,Lausanne,Inactive
+487,46.523858,6.6329296,Riponne,Place de la Riponne 7,1005,Lausanne,Active
 488,46.517009,6.635237,"Avenue de la Gare, TX Group SA",Avenue de la Gare 12A,1003,Lausanne,Active
-489,46.523333,6.625402,Station fermée! Chauderon,Place Chauderon 11,1003,Lausanne,Inactive
+489,46.523333,6.625402,Chauderon,Place Chauderon 11,1003,Lausanne,Active
 490,46.534129,6.606292,Prilly-Centre,Route de Cossonay 28,1008,Prilly,Active
 491,46.9650342,7.4514649,Wylerbad,Scheibenstrasse 65c,3014,Bern,Active
 494,45.970318,8.88374,Caslano Piazza Lago,Piazza Lago,6987,Caslano,Active
@@ -452,7 +452,7 @@ id,latitude,longitude,name,address,zip,city,state
 567,47.381447,8.497982,Dennlerstrasse,Dennlerstrasse 23,8047,Zürich,Active
 568,47.347701,8.528049,Jugendherberge,Mutschellenstrasse 114,8038,Zürich,Active
 569,47.405751,8.539016,Freibad Allenmoos,Ringstrasse 82,8057,Zürich,Active
-571,47.375556,8.547901,STATION AUSSER BETRIEB bis am 4.9 aufgrund Scientifica - ETH/Zoologisches Museum,Karl-Schmid-Strasse 4,8006,Zürich,Inactive
+571,47.375556,8.547901,ETH/Zoologisches Museum,Karl-Schmid-Strasse 4,8006,Zürich,Active
 572,47.402749,8.5355,Radiostudio,Wehntalerstrasse 98,8057,Zürich,Active
 574,47.45041071949902,8.563071583930034,Flughafen Kloten,Veloabstellplatz Parking 2,8302,Kloten,Active
 580,46.800445,7.122294,Petit-Moncor,Route de Petit-Moncor,1752,Villars-sur-Glâne,Active
@@ -626,7 +626,6 @@ id,latitude,longitude,name,address,zip,city,state
 782,46.029052,8.969857,Ecocentro Pregassona,Via Ruggì 46,6963,Pregassona,Active
 783,45.994723,8.943257,Casserina,Via Clemente Maraini 39,6900,Lugano,Active
 784,45.8474329,9.0342084,"Vacallo, Piazza Municipio",Via Giacomo Puccini,6838,Vacallo,Active
-785,47.406095,8.573198,Schwamendingerplatz Ersatzstandort (Schwamendinger Chilbi),Glattstegweg 2,8051,Zürich,Active
 786,46.5275155987152,6.5727380643235245,Café de Chavannes,Route de la Maladière 40,1022,Chavannes-près-Renens,Active
 787,46.53439438272029,6.5780125706014605,Chocolaterie,Avenue de la gare 22,1022,Chavanne-près-Renens,Active
 788,46.52285180329474,6.616691677562492,SEVELIN.CH,Avenue de Sévelin,1004,Lausanne,Active
@@ -697,3 +696,14 @@ id,latitude,longitude,name,address,zip,city,state
 865,45.838047,9.026857,Chiasso Piscine,Via Rinaldo Simen,6830,Chiasso,Active
 866,47.407433,8.639147,Skyguide,Flugsicherungsstrasse 2,8602,Wangen,Active
 867,46.9477816,7.4365087,Welle 7 Velostation (06:00-22:00)- INSIDE the building!,Merkurgässli,3008,Bern,Active
+868,46.86694,9.53723,COMING SOON - Ab dem 18.9.23 verfügbar: Pädagogische Hochschule Graubünden,Scalärastrasse 17,7000,Chur,Inactive
+869,46.847347,9.509044,COMING SOON - Ab dem 18.9.23 verfügbar: Fachhochschule Graubünden Comercialstrasse,Comercialstrasse 28,7000,Chur,Inactive
+870,46.85309,9.51228,COMING SOON - Ab dem 18.9.23 verfügbar: Fachhochschule Graubünden Pulvermühlestrasse,Pulvermühlestrasse 57,7000,Chur,Inactive
+871,46.851702,9.534199,COMING SOON - Ab dem 18.9.23 verfügbar: Stadthaus Chur,Masanserstrasse 2,7000,Chur,Inactive
+872,46.85311,9.52903,COMING SOON - Ab dem 18.9.23 verfügbar: Bahnhofplatz Chur,Bahnhofplatz 2,7000,Chur,Inactive
+873,46.85417,9.52839,COMING SOON - Ab dem 18.9.23 verfügbar: Bahnhof/Gürtelstrasse,Gürtelstrasse 39,7000,Chur,Inactive
+874,46.86924,9.54073,COMING SOON - Ab dem 18.9.23 verfügbar: Klinik Waldhaus,Loestrasse 220,7000,Chur,Inactive
+875,46.86357,9.53866,COMING SOON - Ab dem 18.9.23 verfügbar: Kantonsspital,Loestrasse 170,7000,Chur,Inactive
+876,46.84647,9.53609,COMING SOON - Ab dem 18.9.23 verfügbar: Kantonsschule Plessur,Münzweg 3,7000,Chur,Inactive
+877,46.97422346344607,7.476819763848439,Papiermühle Bahnhof,Papiermühlestrasse 172,3063,Ittigen,Active
+879,46.84898,9.5145,COMING SOON - Ab dem 18.9.23 verfügbar: Sinergia,Ringstrasse 10,7000,Chur,Inactive

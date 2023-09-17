@@ -79,7 +79,7 @@ id,latitude,longitude,name,address,zip,city,state
 119,46.95752776631194,7.440576239521807,PostAuto Engehalde,Engehaldenstrasse 37,3012,Bern,Active
 121,46.956956,7.48287,SBB Poststrasse,Poststrasse 5,3072,Ostermundigen,Active
 122,46.9613082,7.4466679,SBB Wylerpark,Wylerstrasse 123,3014,Bern,Active
-124,47.37209,8.520482,Weststrasse,Weststrasse 115,8003,Zürich,Active
+124,47.37209,8.520482,ACHTUNG: Vom 20.9 bis am 25.9 befindet sich die Station am Ersatzstandort vor der Weststrasse 96,Weststrasse 115,8003,Zürich,Active
 125,47.378521,8.496727,Utogrund,Albisriederstrasse 200,8047,Zürich,Active
 126,47.381356,8.510418,Hardau,Bullingerstrasse 73,8004,Zürich,Active
 127,47.361567,8.525525,Klopstockwiese,Klopstockstrasse 23,8002,Zürich,Active
@@ -240,7 +240,7 @@ id,latitude,longitude,name,address,zip,city,state
 304,46.9429736,7.4302386,Zieglerstrasse,Zieglerstrasse 62,3007,Bern,Active
 305,46.9413996,7.4316924,Eigerplatz,Mühlemattstrasse 59,3007,Bern,Active
 306,46.9400198,7.4317782,Eigerplatz Süd,Seftigenstrasse 1,3007,Bern,Active
-307,46.948011846616254,7.421892556487192,Friedbühlstrasse,Friedbühlstrasse 36,3008,Bern,Active
+307,46.94905189410797,7.4228753597919885,Station bis 10.12.2023 verschoben: Friedbühlstrasse,Friedbühlstrasse 36,3008,Bern,Active
 308,46.9465416,7.4356627,Hallenbad Hirschengraben,Maulbeerstrasse 17,3011,Bern,Active
 309,46.9405957,7.418738,Fischermätteli,Könizstrasse 73,3008,Bern,Active
 310,46.959334038741154,7.434909268498735,Freies Gymnasium,Hochfeldstrasse 115,3012,Bern,Active
@@ -360,7 +360,7 @@ id,latitude,longitude,name,address,zip,city,state
 465,46.94694772769555,7.388948353838325,Fellerstrasse,Fellerstrasse 30,3027,Bern,Active
 466,46.9486216,7.3827534,Holenacker Station,Bethlehem b. Bern Holenacker,3027,Bern,Active
 467,46.93992,7.3950333,Kirche St. Antonius,Morgenstrasse 56,3018,Bern,Active
-468,46.94730845562206,7.393210711796317,"Verschoben, wegen Baustelle: Waldmannstrasse",Waldmannstrasse 5,3027,Bern,Active
+468,46.94730845562206,7.393210711796317,Waldmannstrasse,Waldmannstrasse 5,3027,Bern,Active
 469,46.9450382,7.3791687,Riedbachstrasse Park,Riedbachstrasse 77,3027,Bern,Active
 470,46.9438169,7.3955825,Schwabstrasse Kreisel,Keltenstrasse 41,3018,Bern,Active
 471,46.94774434260293,7.40357158919319,Weyermannshaus Bad,Stöckackerstrasse 9,3027,Bern,Active
@@ -403,7 +403,7 @@ id,latitude,longitude,name,address,zip,city,state
 514,47.397885,8.596202,Bahnhof Stettbach,Bahnhof Stettbach,8051,Zürich,Active
 515,47.3690153,8.5543974,Hottingerplatz,Kasinostrasse 10,8032,Zürich,Active
 516,47.418472,8.561746,Sirius-Platz,Sirius-Platz,8152,Opfikon,Active
-517,47.431782,8.567165,Stadthaus Opfikon,Oberhauserstrasse 29,8152,Opfikon,Active
+517,47.43281,8.566564,Stadthaus Opfikon,Oberhauserstrasse 25,8152,Opfikon,Active
 518,47.39572,8.62328,Oberdorf,Alte Oberdorfstrasse 15,8600,Dübendorf,Active
 519,47.430911,8.562033,Bahnhof Opfikon,Schaffhauserstrasse 64,8152,Opfikon,Active
 520,47.40245,8.62726,Flugplatz Dübendorf,Wangenstrasse 47-39,8600,Dübendorf,Active
@@ -464,7 +464,7 @@ id,latitude,longitude,name,address,zip,city,state
 587,46.005806,8.957374,Parco Ciani,via Lucchini,6900,Lugano,Active
 588,46.037002,8.979558,Davesco,Via Vecchio Tram,6964,Davesco-Soragno,Active
 589,46.9427868,7.3870759,Brünnenstrasse,Brünnenstrasse 80,3018,Bern,Active
-590,46.94653088033273,7.420762725110743,Insel West,Freiburgstrasse 46,3010,Bern,Active
+590,46.94656869037823,7.420258885907312,Station bis 10.12.2023 verschoben: Insel West,Freiburgstrasse 46,3010,Bern,Active
 591,46.9475569,7.4266947,Insel Haupteingang,Freiburgstrasse 15,3008,Bern,Active
 592,46.93718143594243,7.4393978740610605,Landoltstrasse,Bürenstrasse 1,3007,Bern,Active
 593,46.97293,7.450856,Tiefenau Bahnhof,Tiefenaustrasse 109,3004,Bern,Active
@@ -667,7 +667,7 @@ id,latitude,longitude,name,address,zip,city,state
 830,46.90080888317644,7.401061091966004,Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Active
 831,47.394686,8.478455,ZSC Lions,Vulkanstrasse 130,8048,Zürich,Active
 832,46.025237,8.963681,Cornèr Arena - HC Lugano,Via Sonvico di Porza,6900,Lugano,Active
-833,47.396806,8.507693,Ackersteinstrasse ZüriMobil Station,Ackersteinstrasse 86,8049,Zürich,Active
+833,47.396806,8.507693,STATION WURDE ZURÜCKGEBAUT: Ackersteinstrasse ZüriMobil Station,Ackersteinstrasse 86,8049,Zürich,Inactive
 834,46.947649789766224,7.416924289192128,Güterstrasse,Güterstrasse 18,3008,Bern,Active
 835,46.95884778357857,7.429204058387358,Gymnasium Neufeld,Bremgartenstrasse 133,3012,Bern,Active
 836,46.510153,6.558052,Saint-Sulpice-centre,Chemin du Crêt,1025,Saint-Sulpice,Active
@@ -706,4 +706,6 @@ id,latitude,longitude,name,address,zip,city,state
 875,46.86357,9.53866,COMING SOON - Ab dem 18.9.23 verfügbar: Kantonsspital,Loestrasse 170,7000,Chur,Inactive
 876,46.84647,9.53609,COMING SOON - Ab dem 18.9.23 verfügbar: Kantonsschule Plessur,Münzweg 3,7000,Chur,Inactive
 877,46.97422346344607,7.476819763848439,Papiermühle Bahnhof,Papiermühlestrasse 172,3063,Ittigen,Active
+878,46.948670967854916,7.408147339558864,Los Lorentes Residences,Murtenstrasse 147,3008,Bern,Active
 879,46.84898,9.5145,COMING SOON - Ab dem 18.9.23 verfügbar: Sinergia,Ringstrasse 10,7000,Chur,Inactive
+882,46.927744881476436,7.370069357719424,Bodelenweg,Bodelenweg 100,3172,Köniz,Active

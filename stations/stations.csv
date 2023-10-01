@@ -79,7 +79,7 @@ id,latitude,longitude,name,address,zip,city,state
 119,46.95752776631194,7.440576239521807,PostAuto Engehalde,Engehaldenstrasse 37,3012,Bern,Active
 121,46.956956,7.48287,SBB Poststrasse,Poststrasse 5,3072,Ostermundigen,Active
 122,46.9613082,7.4466679,SBB Wylerpark,Wylerstrasse 123,3014,Bern,Active
-124,47.371886,8.520729,ERSATZSTANDORT vor der Weststrasse 96: Weststrasse,Weststrasse 115,8003,Zürich,Active
+124,47.37209,8.520482,Weststrasse,Weststrasse 115,8003,Zürich,Active
 125,47.378521,8.496727,Utogrund,Albisriederstrasse 200,8047,Zürich,Active
 126,47.381356,8.510418,Hardau,Bullingerstrasse 73,8004,Zürich,Active
 127,47.361567,8.525525,Klopstockwiese,Klopstockstrasse 23,8002,Zürich,Active
@@ -333,7 +333,7 @@ id,latitude,longitude,name,address,zip,city,state
 435,46.009713,8.96008,Ospedale Italiano di Lugano,Via Pietro Cappelli,6900,Lugano,Active
 436,46.014127,8.959087,Casa Serena,Via Marco da Carona 10-12,6900,Lugano,Active
 437,46.01876,8.96429,Via Ceresio,Via Ceresio,6900,Lugano,Active
-438,46.0036519,8.9529036,CHIUSO per maratona fino al 25.09.2023: Piazza Manzoni,Piazza Manzoni,6900,Lugano,Inactive
+438,46.0036519,8.9529036,Piazza Manzoni,Piazza Manzoni,6900,Lugano,Active
 440,46.0166117,8.9596513,Via Beltramina,Via Beltramina 16,6900,Lugano,Active
 441,45.989126,8.946661,Paradiso Stazione FFS,Via Carona,6900,Paradiso,Active
 444,47.375247,8.496511,Sackzelg,Letzigraben 139,8047,Zürich,Active
@@ -394,7 +394,7 @@ id,latitude,longitude,name,address,zip,city,state
 504,46.799339,7.151984,Rue du Simplon,Rue du Simplon 3,1700,Fribourg,Active
 505,46.811754,7.150142,Bourgknecht,Avenue Jean-Bourgknecht,1700,Fribourg,Active
 506,46.803943,7.151989,Fribourg Gare Nord,Place de la Gare 15,1700,Fribourg,Active
-507,46.804568,7.155553,Place Georges Python,Square des Places 1,1700,Fribourg,Active
+507,46.804568,7.155553,"Place Georges Python: 29.09, 16h - 01.10 23h, station fermée, Morat-Fribourg",Square des Places 1,1700,Fribourg,Inactive
 508,46.80295,7.15966,La Motta,Petites-Rames 18,1700,Fribourg,Active
 509,46.796171649939694,7.143346608386447,Beaumont FR,Route de Beaumont 10,1700,Fribourg,Active
 510,46.808006,7.155941,Quartier d'Alt,Derrière-les-Remparts 12,1700,Fribourg,Active
@@ -508,7 +508,7 @@ id,latitude,longitude,name,address,zip,city,state
 640,46.795871,7.156473,Faucigny,Rue P.-A.-de- Faucigny 5,1700,Fribourg,Active
 641,46.81288,7.11461,Les Fluides,Route des Fluides 1,1762,Givisiez,Active
 642,46.816013,7.12996,Gare de Givisiez Sud,Route des Taconnets 3,1762,Givisiez,Active
-643,46.796242,7.151055,Arsenaux,Route des Arsenaux 6a,1700,Fribourg,Active
+643,46.796242,7.151055,Arsenaux: station déplacée de l'autre côté du bâtiment le 03.10,Route des Arsenaux 6a,1700,Fribourg,Active
 644,46.776964,7.16038,Marly-Cité,Route de Fribourg,1723,Marly,Active
 645,46.77173,7.162033,Marly Gérine,Route de la Gruyère,1723,Marly,Active
 646,46.798038,7.119618,Bois de Moncor,Route de Petit-Moncor 1A,1752,Villars-sur-Glâne,Active

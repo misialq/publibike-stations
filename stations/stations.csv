@@ -84,7 +84,7 @@ id,latitude,longitude,name,address,zip,city,state
 126,47.381356,8.510418,Hardau,Bullingerstrasse 73,8004,Zürich,Active
 127,47.361567,8.525525,Klopstockwiese,Klopstockstrasse 23,8002,Zürich,Active
 128,47.36309,8.51813,Binz,Haldenstrasse 7,8045,Zürich,Active
-129,47.379952,8.542726,Stampfenbachplatz,Walchestrasse 11,8006,Zürich,Active
+129,47.380109,8.542981,ACHTUNG: DIE STATION BEFINDET SICH AM OBEREN RAND DES PLATZES: Stampfenbachplatz,Walchestrasse 11,8006,Zürich,Active
 130,47.391366,8.488108,Bahnhof Altstetten,Altstetterplatz 1,8048,Zürich,Active
 131,47.365045,8.553922,Kreuzplatz,Kreuzplatz 1,8032,Zürich,Active
 132,47.35594,8.549852,Blatterwiese,Höschgasse 3,8008,Zürich,Active
@@ -123,7 +123,7 @@ id,latitude,longitude,name,address,zip,city,state
 171,46.41609,6.278163,"Gland, UICN",Rue Mauverney 28,1196,Gland,Active
 174,46.9436036,7.4071777,Europaplatz,Freiburgstrasse 130,3008,Bern,Active
 175,46.9393577,7.3863865,Statthalterstrasse,Freieckweg 2,3018,Bern,Active
-176,46.935853071517315,7.390354333129826,Technopark: Verschoben zu Weidgasse 2 aufgrund Baustelle,Weidgasse 2,3018,Bern,Active
+176,46.935853071517315,7.390354333129826,Technopark,Weidgasse 2,3018,Bern,Active
 177,46.94941743287729,7.381454366484235,Holenackerstrasse,Holenackerstrasse 24,3027,Bern,Active
 178,46.9372059,7.3872274,Kleefeld,Mädergutstrasse 5,3018,Bern,Active
 179,46.9454695,7.3928104,Schwabgut,Schwabstrasse 10,3018,Bern,Active
@@ -170,7 +170,7 @@ id,latitude,longitude,name,address,zip,city,state
 221,46.9519742,7.4227466,Fabrikstrasse Uni Bern,Fabrikstrasse 2,3012,Bern,Active
 222,46.9534366,7.4239308,Hochschulzentrum von Roll,Fabrikstrasse 14,3012,Bern,Active
 223,46.9506632,7.4370414,Hauptgebäude Uni Bern,Falkenplatz 4,3012,Bern,Active
-224,46.9541456,7.4307168,Unitobler West ACHTUNG: Betriebseinschränkung CAMPUS Festival,Lerchenweg 37,3012,Bern,Active
+224,46.9541456,7.4307168,Unitobler West,Lerchenweg 37,3012,Bern,Active
 225,46.95560612233403,7.428042090100739,Hochfeldstrasse,Länggassstrasse 74,3012,Bern,Active
 226,46.9557805,7.4352658,Uni Mittelstrasse,Mittelstrasse 38,3012,Bern,Active
 227,46.9545136,7.4294963,Unitobler Ost,Muesmattstrasse 45,3012,Bern,Active
@@ -315,7 +315,7 @@ id,latitude,longitude,name,address,zip,city,state
 415,46.916092,7.418571,Entsorgungshof Werkhof,Muhlernstrasse 101,3098,Köniz,Active
 416,46.93046,7.428167,Steinhölzli,Kirchstrasse 6a,3097,Köniz,Active
 417,46.92903811738819,7.417226193945767,Neuhausplatz,Könizstrasse 249,3097,Köniz,Active
-418,46.92878928487582,7.446378819509219,Wabern Bahnhof,Bahnhofstrasse 14,3084,Köniz,Active
+418,46.92878380186514,7.44610102408428,Wabern Bahnhof,Bahnhofstrasse 14,3084,Köniz,Active
 419,46.93036,7.41929,Liebefeld Bahnhof,Stationsstrasse 1,3097,Köniz,Active
 420,46.9356189,7.4165883,Vidmar,Könizstrasse 161,3097,Köniz,Active
 421,46.9229774,7.4141121,Köniz Zentrum,Bläuacker 10,3098,Köniz,Active
@@ -458,7 +458,7 @@ id,latitude,longitude,name,address,zip,city,state
 580,46.800445,7.122294,Petit-Moncor,Route de Petit-Moncor,1752,Villars-sur-Glâne,Active
 581,46.514554,6.619263,Vaudoise Assurances,Avenue de Cour 43,1007,Lausanne,Active
 583,45.97765,8.926757,IBSA,Via del Piano 7,6926,Collina,Active
-584,46.006076,8.966775,"Lanchetta: fuori servizio dal 16.10, ore 10:00",via delle Scuole,6900,Lugano,Inactive
+584,46.006076,8.966775,Lanchetta,via delle Scuole,6900,Lugano,Active
 585,46.016524,8.955876,Via Vignola,Via Trevano,6900,Lugano,Active
 586,46.020198,8.97169,Via Loco,Via Loco,6900,Lugano,Active
 587,46.005806,8.957374,Parco Ciani,via Lucchini,6900,Lugano,Active
@@ -667,7 +667,6 @@ id,latitude,longitude,name,address,zip,city,state
 830,46.90080888317644,7.401061091966004,Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Active
 831,47.394686,8.478455,ZSC Lions,Vulkanstrasse 130,8048,Zürich,Active
 832,46.025237,8.963681,Cornèr Arena - HC Lugano,Via Sonvico di Porza,6900,Lugano,Active
-833,47.396806,8.507693,STATION WURDE ZURÜCKGEBAUT: Ackersteinstrasse ZüriMobil Station,Ackersteinstrasse 86,8049,Zürich,Inactive
 834,46.947649789766224,7.416924289192128,Güterstrasse,Güterstrasse 18,3008,Bern,Active
 835,46.95884778357857,7.429204058387358,Gymnasium Neufeld,Bremgartenstrasse 133,3012,Bern,Active
 836,46.510153,6.558052,Saint-Sulpice-centre,Chemin du Crêt,1025,Saint-Sulpice,Active

@@ -84,7 +84,7 @@ id,latitude,longitude,name,address,zip,city,state
 126,47.381356,8.510418,Hardau,Bullingerstrasse 73,8004,Zürich,Active
 127,47.361567,8.525525,Klopstockwiese,Klopstockstrasse 23,8002,Zürich,Active
 128,47.36309,8.51813,Binz,Haldenstrasse 7,8045,Zürich,Active
-129,47.380109,8.542981,ACHTUNG: DIE STATION BEFINDET SICH AM OBEREN RAND DES PLATZES: Stampfenbachplatz,Walchestrasse 11,8006,Zürich,Active
+129,47.379952,8.542726,Stampfenbachplatz,Walchestrasse 11,8006,Zürich,Active
 130,47.391366,8.488108,Bahnhof Altstetten,Altstetterplatz 1,8048,Zürich,Active
 131,47.365045,8.553922,Kreuzplatz,Kreuzplatz 1,8032,Zürich,Active
 132,47.35594,8.549852,Blatterwiese,Höschgasse 3,8008,Zürich,Active
@@ -613,7 +613,7 @@ id,latitude,longitude,name,address,zip,city,state
 769,46.776884,7.139565,Bel-Air,Route de Bel-Air 17,1723,Marly,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,6830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
-772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
+772,46.9191591,7.4383865,ACHTUNG WINTERPAUSE AB 02.11.2023 Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Inactive
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active

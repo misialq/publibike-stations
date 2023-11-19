@@ -8,7 +8,7 @@ id,latitude,longitude,name,address,zip,city,state
 12,46.520723,6.568276,Piccard,Avenue Piccard,1015,Ecublens,Active
 13,46.517153,6.561272,EPFL Innovation Park,Bâtiment G,1015,Ecublens,Active
 14,46.5224054,6.5655126,Quartier nord,Campus,1000,Ecublens,Active
-18,46.5367962297447,6.57834071739537,Gare de Renens: station déplacée de 50m le 16.11 de 9h à 16h (manifesation),Place de la gare,1020,Renens,Active
+18,46.5367962297447,6.57834071739537,Gare de Renens,Place de la gare,1020,Renens,Active
 20,46.506896,6.626253,Ouchy,Place de la Navigation,1006,Lausanne,Active
 21,46.521043,6.573253,Sorge,UNIL Sorge,1015,Ecublens,Active
 22,46.508486,6.499667,Casino,Place du Casino,1110,Morges,Active
@@ -224,9 +224,9 @@ id,latitude,longitude,name,address,zip,city,state
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
 288,45.982056,8.918121,Montagnola Piazza Brocchi,Piazza Brocchi,6926,Montagnola,Active
 289,46.012555,8.943487,Massagno,"via dei Platani,",6908,Massagno,Active
-290,46.946888089472424,7.445830418186601,Station vom 14.11.23 bis am 16.11.23 wegen Staatsbesuch nicht in Betrieb,Inselgasse 1,3011,Bern,Active
+290,46.946888089472424,7.445830418186601,Nationalbank,Inselgasse 1,3011,Bern,Active
 291,46.9635131,7.4555218,Markuskirche,Winkelriedstrasse 56,3014,Bern,Active
-292,46.946604,7.441624,Station vom 14.11.23 bis am 16.11.23 wegen Staatsbesuch nicht in Betrieb,Bundesgasse 3,3011,Bern,Active
+292,46.946604,7.441624,Bundesgasse,Bundesgasse 3,3011,Bern,Active
 293,46.9465196,7.4481457,Casinoplatz,Casinoplatz 3,3011,Bern,Active
 294,46.95386,7.4365667,Hallerstrasse West,Zähringerstrasse 13,3012,Bern,Active
 295,46.9371056,7.4178248,Sporthalle Weissenstein,Hardeggerstrasse 1,3008,Bern,Active

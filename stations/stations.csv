@@ -183,7 +183,7 @@ id,latitude,longitude,name,address,zip,city,state
 234,46.815219,7.155715,Fribourg-Gottéron,Rue de Morat,1700,Fribourg,Active
 235,46.793372,7.1584206,Uni Pérolles,Boulevard de Pérolles 95,1700,Fribourg,Active
 236,46.8104076,7.1730614,Schönberg,Route de la Heitera 3,1700,Fribourg,Active
-237,46.806661,7.1620248,Bourg,Place de Notre-Dame,1700,Fribourg,Active
+237,46.806661,7.1620248,fermé pour Saint-Nicolas : Bourg,Place de Notre-Dame,1700,Fribourg,Inactive
 238,46.7804953,7.1505764,Marly - La Jonction,Route de Fribourg 15,1723,Marly,Active
 239,46.7931454,7.1322764,Cormanon,Route de la Berra 2,1752,Villars-sur-Glâne,Active
 240,46.7899747,7.1160135,Gare de Villars-sur-Glâne,Route des Préalpes 1,1752,Villars-sur-Glâne,Active
@@ -253,7 +253,7 @@ id,latitude,longitude,name,address,zip,city,state
 317,46.9460279,7.4332165,Kocherpark,Effingerstrasse 27,3008,Bern,Active
 318,46.9410334,7.4359176,Monbijoustrasse,Monbijoustrasse 61,3007,Bern,Active
 319,47.00268,7.44109,Post IT Zollikofen,Webergutstrasse 12,3052,Zollikofen,Active
-320,46.94650226646282,7.452796013542816,Mattelift verschoben wegen Baustelle,Badgasse 23,3011,Bern,Active
+320,46.946466,7.452518,Mattelift,Badgasse 21,3011,Bern,Active
 321,46.93965162143165,7.440241261842887,Monbijoubrücke,Eigerstrasse 80,3007,Bern,Active
 322,46.9347023,7.4420357,Schöneggweg,Zinggstrasse 37,3007,Bern,Active
 323,46.933646280041835,7.448225744500959,Restaurant Dählhölzli,Tierparkweg 2,3005,Bern,Active
@@ -465,7 +465,7 @@ id,latitude,longitude,name,address,zip,city,state
 587,46.005806,8.957374,Parco Ciani,via Lucchini,6900,Lugano,Active
 588,46.037002,8.979558,Davesco,Via Vecchio Tram,6964,Davesco-Soragno,Active
 589,46.9427868,7.3870759,Brünnenstrasse,Brünnenstrasse 80,3018,Bern,Active
-590,46.94656869037823,7.420258885907312,Station bis 10.12.2023 verschoben: Insel West,Freiburgstrasse 46,3010,Bern,Active
+590,46.946593,7.420788,Insel West,Friedbühlstrasse 52,3008,Bern,Active
 591,46.9475569,7.4266947,Insel Haupteingang,Freiburgstrasse 15,3008,Bern,Active
 592,46.93718143594243,7.4393978740610605,Landoltstrasse,Bürenstrasse 1,3007,Bern,Active
 593,46.97293,7.450856,Tiefenau Bahnhof,Tiefenaustrasse 109,3004,Bern,Active
@@ -498,7 +498,7 @@ id,latitude,longitude,name,address,zip,city,state
 627,45.999094,8.945139,via Maraini,via Clemente Maraini 12,6900,Lugano,Active
 628,46.00627672,8.94272889,Besso,via Besso 23,6900,Lugano,Active
 629,46.009397,8.931591,Centro Giovanile,Via Dott. Giov. Polar. 34,6932,Breganzona,Active
-632,46.79816,7.147493,Passage du Cardinal,Passage du Cardinal,1700,Fribourg,Active
+632,46.79816,7.147493,bluefactory,Passage du Cardinal,1700,Fribourg,Active
 633,46.77787,7.15074,Marly Innovation Center,Route Ancienne Papeterie 550,1723,Marly,Active
 634,46.805413,7.165191,Pont de Zähringen,Route de Zähringen 2,1700,Fribourg,Active
 635,46.802118,7.146355,Avenue Beauregard,Avenue de Beauregard 11,1700,Fribourg,Active
@@ -516,7 +516,7 @@ id,latitude,longitude,name,address,zip,city,state
 647,46.80007,7.140663,Vignettaz - Daler,Route de Villars 22,1700,Fribourg,Active
 648,46.949233,7.436822,Open 07:00 - 18:00 In der Velostation Schanzenbrücke,Velostation Parkterrasse,3012,Bern,Active
 660,47.3525,8.527157,Muggenbühl,Mutschellenstrasse 36,8038,Zürich,Active
-661,47.36910680440694,8.541427242856333,Stadthaus,Kappelergasse,8001,Zürich,Active
+661,47.36910680440694,8.541427242856333,ACHTUNG: Station ist aufgrund des Silvesterlaufs vom 8.12 - 11.12 ausser Betrieb: Stadthaus,Kappelergasse,8001,Zürich,Active
 662,47.369181,8.505787,Heuried ZüriMobil Station,Wasserschöpfi,8055,Zürich,Active
 663,46.951897864484735,7.442042659901252,Kleeplatz / Bollwerk,Bollwerk 41,3011,Bern,Active
 664,46.011494,8.961011,Campus Est,Via la Santa,6962,Viganello,Active
@@ -710,3 +710,4 @@ id,latitude,longitude,name,address,zip,city,state
 879,46.84898,9.5145,Sinergia,Ringstrasse 10,7000,Chur,Active
 882,46.927744881476436,7.370069357719424,Bodelenweg,Bodelenweg 100,3172,Köniz,Active
 883,46.96079848478852,7.433964120753491,Schwimmhalle Neufeld,Neubrückstrasse 133,3012,Bern,Active
+884,46.973323,7.484832,Ittigen Bahnhof,Worblentalstrasse 86,3063,Ittigen,Active

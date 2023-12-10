@@ -183,7 +183,7 @@ id,latitude,longitude,name,address,zip,city,state
 234,46.815219,7.155715,Fribourg-Gottéron,Rue de Morat,1700,Fribourg,Active
 235,46.793372,7.1584206,Uni Pérolles,Boulevard de Pérolles 95,1700,Fribourg,Active
 236,46.8104076,7.1730614,Schönberg,Route de la Heitera 3,1700,Fribourg,Active
-237,46.806661,7.1620248,fermé pour Saint-Nicolas : Bourg,Place de Notre-Dame,1700,Fribourg,Inactive
+237,46.806661,7.1620248,Bourg,Place de Notre-Dame,1700,Fribourg,Active
 238,46.7804953,7.1505764,Marly - La Jonction,Route de Fribourg 15,1723,Marly,Active
 239,46.7931454,7.1322764,Cormanon,Route de la Berra 2,1752,Villars-sur-Glâne,Active
 240,46.7899747,7.1160135,Gare de Villars-sur-Glâne,Route des Préalpes 1,1752,Villars-sur-Glâne,Active
@@ -240,7 +240,7 @@ id,latitude,longitude,name,address,zip,city,state
 304,46.9429736,7.4302386,Zieglerstrasse,Zieglerstrasse 62,3007,Bern,Active
 305,46.9413996,7.4316924,Eigerplatz,Mühlemattstrasse 59,3007,Bern,Active
 306,46.9400198,7.4317782,Eigerplatz Süd,Seftigenstrasse 1,3007,Bern,Active
-307,46.94905189410797,7.4228753597919885,Station bis 10.12.2023 verschoben: Friedbühlstrasse,Friedbühlstrasse 36,3008,Bern,Active
+307,46.948011846616254,7.421892556487192,Friedbühlstrasse,Friedbühlstrasse 51,3008,Bern,Active
 308,46.9465416,7.4356627,Hallenbad Hirschengraben,Maulbeerstrasse 17,3011,Bern,Active
 309,46.9405957,7.418738,Fischermätteli,Könizstrasse 73,3008,Bern,Active
 310,46.959334038741154,7.434909268498735,Freies Gymnasium,Hochfeldstrasse 115,3012,Bern,Active
@@ -419,7 +419,7 @@ id,latitude,longitude,name,address,zip,city,state
 530,47.40462,8.60465,Zwicky-Areal,Seidenplatz 3,8304,Wallisellen,Active
 531,47.417668,8.593612,Schwimmbad Wallisellen,Alte Winterthurerstrasse 64,8304,Wallisellen,Active
 532,47.412103,8.592144,Bahnhof Wallisellen,Signum-Platz,8304,Wallisellen,Active
-535,46.802937,7.167527,Auge,Place du Petit-Saint-Jean 13a,1700,Fribourg,Active
+535,46.802937,7.167527,Hors service pour des raisons techniques : Auge,Place du Petit-Saint-Jean 13a,1700,Fribourg,Inactive
 536,47.381591,8.49038,Freilager,Rautistrasse 60,8048,Zürich,Active
 537,47.416873,8.555639,Leutschenpark,Leutschenbachstrasse 50,8050,Zürich,Active
 538,47.367656,8.516257,Kirche Bühl,Goldbrunnenstrasse 54,8055,Zürich,Active
@@ -465,7 +465,7 @@ id,latitude,longitude,name,address,zip,city,state
 587,46.005806,8.957374,Parco Ciani,via Lucchini,6900,Lugano,Active
 588,46.037002,8.979558,Davesco,Via Vecchio Tram,6964,Davesco-Soragno,Active
 589,46.9427868,7.3870759,Brünnenstrasse,Brünnenstrasse 80,3018,Bern,Active
-590,46.946593,7.420788,Insel West,Friedbühlstrasse 52,3008,Bern,Active
+590,46.946544688600916,7.4207811103582495,Insel West,Friedbühlstrasse 52,3008,Bern,Active
 591,46.9475569,7.4266947,Insel Haupteingang,Freiburgstrasse 15,3008,Bern,Active
 592,46.93718143594243,7.4393978740610605,Landoltstrasse,Bürenstrasse 1,3007,Bern,Active
 593,46.97293,7.450856,Tiefenau Bahnhof,Tiefenaustrasse 109,3004,Bern,Active
@@ -516,7 +516,7 @@ id,latitude,longitude,name,address,zip,city,state
 647,46.80007,7.140663,Vignettaz - Daler,Route de Villars 22,1700,Fribourg,Active
 648,46.949233,7.436822,Open 07:00 - 18:00 In der Velostation Schanzenbrücke,Velostation Parkterrasse,3012,Bern,Active
 660,47.3525,8.527157,Muggenbühl,Mutschellenstrasse 36,8038,Zürich,Active
-661,47.36910680440694,8.541427242856333,ACHTUNG: Station ist aufgrund des Silvesterlaufs vom 8.12 - 11.12 ausser Betrieb: Stadthaus,Kappelergasse,8001,Zürich,Active
+661,47.36910680440694,8.541427242856333,AUSSER BETRIEB bis am 11.12 ca. 6:00 Uhr aufgrund Silvesterlauf: Stadthaus,Kappelergasse,8001,Zürich,Inactive
 662,47.369181,8.505787,Heuried ZüriMobil Station,Wasserschöpfi,8055,Zürich,Active
 663,46.951897864484735,7.442042659901252,Kleeplatz / Bollwerk,Bollwerk 41,3011,Bern,Active
 664,46.011494,8.961011,Campus Est,Via la Santa,6962,Viganello,Active
@@ -687,7 +687,7 @@ id,latitude,longitude,name,address,zip,city,state
 852,46.5183879308213,6.4569022616279925,Denens village,Rue de la Cité 2,1135,Denens,Active
 853,46.51061054877812,6.659367730704223,Gare de Pully sud,Place de la Gare 1,1009,Pully,Active
 854,46.514863230694175,6.658812113086054,Gare de Pully nord,Chem. du Montillier 9,1009,Pully,Active
-855,46.54644014068801,6.54913196924048,Qoqa Bike2work,Rte de la Chaux 4,1030,Bussigny,Active
+855,46.52785589336738,6.560535663689192,Brûlée,"Rte de la Brûlée, 1024 Ecublens",1024,Ecublens,Active
 856,46.399965,6.203576,"Grens, Allée des Moulins",Chemin du Nant,1274,Grens,Active
 859,46.54405624882997,6.6034499977507615,Piscine de Fleur-de-Lys,Sentier de la Fleur-de-Lys 2,1008,Prilly,Active
 860,45.998476,8.923755,Muzzano paese,Via Alla Selva,6933,Muzzano,Active
@@ -711,3 +711,4 @@ id,latitude,longitude,name,address,zip,city,state
 882,46.927744881476436,7.370069357719424,Bodelenweg,Bodelenweg 100,3172,Köniz,Active
 883,46.96079848478852,7.433964120753491,Schwimmhalle Neufeld,Neubrückstrasse 133,3012,Bern,Active
 884,46.973323,7.484832,Ittigen Bahnhof,Worblentalstrasse 86,3063,Ittigen,Active
+886,47.395257,8.469131,Briefzentrum Zürich-Mülligen,Zürcherstrasse 161,8952,Schlieren,Active

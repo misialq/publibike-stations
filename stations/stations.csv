@@ -139,7 +139,7 @@ id,latitude,longitude,name,address,zip,city,state
 189,46.9618565,7.4592662,Tellplatz,Tellstrasse 20,3014,Bern,Active
 190,46.9603316,7.4614522,Tellstrasse EJPD,Wankdorfstrasse 1,3014,Bern,Active
 191,46.960116251597235,7.454334866797193,Stauffacherplatz,Scheibenstrasse 13,3014,Bern,Active
-192,46.9677817,7.4646494,Wankdorf Bhf Nord,Gardistrasse 1,3014,Bern,Active
+192,46.9677817,7.4646494,Wankdorf Bhf Nord,Trüsselstrasse,3014,Bern,Active
 193,46.9552642,7.4593279,Kasernenstrasse HKB,Kasernenstrasse 13k,3014,Bern,Active
 194,46.95860113643669,7.456935120256138,Kasernenwiese,Militärstrasse 42,3014,Bern,Active
 195,46.9543451,7.4453536,Lorrainebrücke,Lorrainestrasse 1,3013,Bern,Active
@@ -195,7 +195,7 @@ id,latitude,longitude,name,address,zip,city,state
 248,45.993326,8.924532,Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Active
 249,46.000482,8.912639,Muzzano Industria,Via Industria,6933,Muzzano,Active
 250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
-251,46.949345,7.448004,Kornhausplatz Ersatzstandort,Kornhausplatz,3011,Bern,Active
+251,46.9487682,7.4475691,Kornhausplatz,Kornhausplatz 18,3011,Bern,Active
 252,46.9497908,7.4441278,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
@@ -419,7 +419,7 @@ id,latitude,longitude,name,address,zip,city,state
 530,47.40462,8.60465,Zwicky-Areal,Seidenplatz 3,8304,Wallisellen,Active
 531,47.417668,8.593612,Schwimmbad Wallisellen,Alte Winterthurerstrasse 64,8304,Wallisellen,Active
 532,47.412103,8.592144,Bahnhof Wallisellen,Signum-Platz,8304,Wallisellen,Active
-535,46.802937,7.167527,Hors service pour des raisons techniques : Auge,Place du Petit-Saint-Jean 13a,1700,Fribourg,Inactive
+535,46.802937,7.167527,Auge,Place du Petit-Saint-Jean 13a,1700,Fribourg,Active
 536,47.381591,8.49038,Freilager,Rautistrasse 60,8048,Zürich,Active
 537,47.416873,8.555639,Leutschenpark,Leutschenbachstrasse 50,8050,Zürich,Active
 538,47.367656,8.516257,Kirche Bühl,Goldbrunnenstrasse 54,8055,Zürich,Active
@@ -454,7 +454,6 @@ id,latitude,longitude,name,address,zip,city,state
 569,47.405751,8.539016,Freibad Allenmoos,Ringstrasse 82,8057,Zürich,Active
 571,47.375556,8.547901,ETH/Zoologisches Museum,Karl-Schmid-Strasse 4,8006,Zürich,Active
 572,47.402749,8.5355,Radiostudio,Wehntalerstrasse 98,8057,Zürich,Active
-573,46.9487682,7.4475691,Alpenland: Station nicht in Betrieb - Temporäre Station vis à vis beim Ringgepark,Kornhausplatz,3011,Bern,Inactive
 574,47.45041071949902,8.563071583930034,Flughafen Kloten,Veloabstellplatz Parking 2,8302,Kloten,Active
 580,46.800445,7.122294,Petit-Moncor,Route de Petit-Moncor,1752,Villars-sur-Glâne,Active
 581,46.514554,6.619263,Vaudoise Assurances,Avenue de Cour 43,1007,Lausanne,Active
@@ -516,7 +515,7 @@ id,latitude,longitude,name,address,zip,city,state
 647,46.80007,7.140663,Vignettaz - Daler,Route de Villars 22,1700,Fribourg,Active
 648,46.949233,7.436822,Open 07:00 - 18:00 In der Velostation Schanzenbrücke,Velostation Parkterrasse,3012,Bern,Active
 660,47.3525,8.527157,Muggenbühl,Mutschellenstrasse 36,8038,Zürich,Active
-661,47.36910680440694,8.541427242856333,AUSSER BETRIEB bis am 11.12 ca. 6:00 Uhr aufgrund Silvesterlauf: Stadthaus,Kappelergasse,8001,Zürich,Inactive
+661,47.36910680440694,8.541427242856333,Stadthaus,Kappelergasse,8001,Zürich,Active
 662,47.369181,8.505787,Heuried ZüriMobil Station,Wasserschöpfi,8055,Zürich,Active
 663,46.951897864484735,7.442042659901252,Kleeplatz / Bollwerk,Bollwerk 41,3011,Bern,Active
 664,46.011494,8.961011,Campus Est,Via la Santa,6962,Viganello,Active
@@ -655,7 +654,7 @@ id,latitude,longitude,name,address,zip,city,state
 814,46.96629170335004,7.48318298315503,UPD Restaurant,UPD Bern,3000,Bern,Active
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
 816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
-817,46.51673942261787,6.566454652605652,Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
+817,46.51673942261787,6.566454652605652,Hors service pour des raisons techniques : Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
 822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active

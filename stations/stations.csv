@@ -40,7 +40,7 @@ id,latitude,longitude,name,address,zip,city,state
 49,46.005707,8.95184,Piazza Mercato/Contrada di Verla,Via Pretorio / Piazza Mercato,6900,Lugano,Active
 50,45.984764,8.932378,Fornaci,Via Pian Scairolo 9,6912,Pazzallo,Active
 51,45.991081,8.943799,Paradiso Centro,Via Franco Zorzi,6900,Lugano,Active
-60,47.374413,8.540246,Die Station befindet sich bis am 4.1.24 vor der Uraniastrasse 7: Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
+60,47.374785,8.539882,Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
 61,47.4099615,8.5452956,Marktplatz,Querstrasse 8,8050,Zürich,Active
 80,47.3795837,8.5156327,Bullingerplatz,Bullingerstrasse 5,8004,Zürich,Active
 81,47.3899342,8.5104051,Herdern,Pfingstweidstrasse 96e,8001,Zürich,Active
@@ -654,7 +654,7 @@ id,latitude,longitude,name,address,zip,city,state
 814,46.96629170335004,7.48318298315503,UPD Restaurant,UPD Bern,3000,Bern,Active
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
 816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
-817,46.51673942261787,6.566454652605652,Hors service pour des raisons techniques : Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Inactive
+817,46.51673942261787,6.566454652605652,Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
 822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active

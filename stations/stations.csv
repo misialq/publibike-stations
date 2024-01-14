@@ -159,7 +159,7 @@ id,latitude,longitude,name,address,zip,city,state
 210,45.996253,8.900957,Agno FLP,Via Stazione 2,6982,Agno,Active
 211,46.383066,6.225766,"Nyon, Hôpital",Chemin de Monastier,1260,Nyon,Active
 212,46.958717,7.4646494,Guisanplatz Expo,Mingerstrasse 4,3006,Bern,Active
-213,46.9503428,7.435298,UniS,Schanzeneckstrasse 1,3012,Bern,Active
+213,46.9503428,7.435298,ausser Betrieb aus technischen Gründen: UniS,Schanzeneckstrasse 1,3012,Bern,Inactive
 214,46.94626,7.43804,Wallgasse,Wallgasse 3,3011,Bern,Active
 215,46.9520639,7.4615809,Rosengarten Ost,Reiterstrasse 19,3006,Bern,Active
 216,46.9538192,7.4581813,Schönburg,Spitalackerstrasse 12,3013,Bern,Active
@@ -224,7 +224,7 @@ id,latitude,longitude,name,address,zip,city,state
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
 288,45.982056,8.918121,Montagnola Piazza Brocchi,Piazza Brocchi,6926,Montagnola,Active
 289,46.012555,8.943487,Massagno,"via dei Platani,",6908,Massagno,Active
-290,46.946888089472424,7.445830418186601,Nationalbank,Inselgasse 1,3011,Bern,Active
+290,46.946888089472424,7.445830418186601,Station Nationalbank bis am 16.01.24 ausser Betrieb aufgrund Anlass,Inselgasse 1,3011,Bern,Inactive
 291,46.9635131,7.4555218,Markuskirche,Winkelriedstrasse 56,3014,Bern,Active
 292,46.946604,7.441624,Bundesgasse,Bundesgasse 3,3011,Bern,Active
 293,46.9465196,7.4481457,Casinoplatz,Casinoplatz 3,3011,Bern,Active
@@ -452,7 +452,7 @@ id,latitude,longitude,name,address,zip,city,state
 567,47.381447,8.497982,Dennlerstrasse,Dennlerstrasse 23,8047,Zürich,Active
 568,47.347701,8.528049,Jugendherberge,Mutschellenstrasse 114,8038,Zürich,Active
 569,47.405751,8.539016,Freibad Allenmoos,Ringstrasse 82,8057,Zürich,Active
-571,47.375556,8.547901,ETH/Zoologisches Museum,Karl-Schmid-Strasse 4,8006,Zürich,Active
+571,47.375556,8.547901,ACHTUNG: Die Station wird am 15.1.24 zurückgebaut und deaktiviert,Karl-Schmid-Strasse 4,8006,Zürich,Active
 572,47.402749,8.5355,Radiostudio,Wehntalerstrasse 98,8057,Zürich,Active
 574,47.45041071949902,8.563071583930034,Flughafen Kloten,Veloabstellplatz Parking 2,8302,Kloten,Active
 580,46.800445,7.122294,Petit-Moncor,Route de Petit-Moncor,1752,Villars-sur-Glâne,Active
@@ -550,7 +550,7 @@ id,latitude,longitude,name,address,zip,city,state
 696,45.991069,8.936421,Gentilino,Via Nocc,6925,Collina d'Oro,Active
 699,45.858612,8.940146,Stabio Via Segeno,Via Segeno,6855,Stabio,Active
 700,46.53125489706996,6.601886023564116,Sicpa,Route des Flumeaux 40,1008,Prilly,Active
-701,47.375748,8.548599,ETH Karl-Schmid-Strasse: Mobile Station Zürich 2,Karl-Schmid-Strasse 1,8006,Zürich,Active
+701,47.375748,8.548599,ACHTUNG: Die Station befindet sich ab dem 18.1 abends am neuen Standort an der Ecke Leonhardstrasse / Karl-Schmid-Strasse,Karl-Schmid-Strasse 1,8006,Zürich,Active
 702,47.377779,8.546183,ETH Zentrum Leonhardstrasse,Leonhardstrasse 25a,8001,Zürich,Active
 704,45.87254294486857,8.987224327562924,Mendrisio Museo,Via Vincenzo Vela,6850,Mendrisio,Active
 705,45.88354716154987,8.980175414992559,Mendrisio Piscine,Via S. Martino,6850,Mendrisio,Active
@@ -711,3 +711,4 @@ id,latitude,longitude,name,address,zip,city,state
 883,46.96079848478852,7.433964120753491,Schwimmhalle Neufeld,Neubrückstrasse 133,3012,Bern,Active
 884,46.973323,7.484832,Ittigen Bahnhof,Worblentalstrasse 86,3063,Ittigen,Active
 886,47.395257,8.469131,Briefzentrum Zürich-Mülligen,Zürcherstrasse 161,8952,Schlieren,Active
+888,46.464141,6.348945,"Mont-sur-Rolle, Bellefontaine",Chem. du Levant 1,1185,Mont-sur-Rolle,Active

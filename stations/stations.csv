@@ -385,7 +385,7 @@ id,latitude,longitude,name,address,zip,city,state
 489,46.523333,6.625402,Chauderon,Place Chauderon 11,1003,Lausanne,Active
 490,46.534129,6.606292,Prilly-Centre,Route de Cossonay 28,1008,Prilly,Active
 491,46.9650342,7.4514649,Wylerbad,Scheibenstrasse 65c,3014,Bern,Active
-494,45.970318,8.88374,Caslano Piazza Lago,Piazza Lago,6987,Caslano,Active
+494,45.970197,8.883746,Caslano Piazza Lago,Piazza Lago,6987,Caslano,Active
 497,46.9579458,7.4537747,Breitenrainplatz,Moserstrasse 33,3013,Bern,Active
 499,46.801805,7.136609,Hôpital Fribourgeois,Chemin des Pensionnats,1752,Villars-sur-Glâne,Active
 500,46.794595,7.132707,MediaParc,Rue du Centre 7,1752,Villars-sur-Glâne,Active
@@ -553,7 +553,7 @@ id,latitude,longitude,name,address,zip,city,state
 701,47.375522,8.547696,ETH/Zoologisches Museum,Karl-Schmid-Strasse 1,8006,Zürich,Active
 702,47.377779,8.546183,ETH Zentrum Leonhardstrasse,Leonhardstrasse 25a,8001,Zürich,Active
 704,45.87254294486857,8.987224327562924,Mendrisio Museo,Via Vincenzo Vela,6850,Mendrisio,Active
-705,45.88354716154987,8.980175414992559,Mendrisio Piscine,Via S. Martino,6850,Mendrisio,Active
+705,45.88354716154987,8.980175414992559,fuori servizio per lavori di costruzione : Mendrisio Piscine,Via S. Martino,6850,Mendrisio,Inactive
 706,45.903314,8.979073,Capolago Stazione FFS,Via Famiglia Carlo Scacchi,6825,Capolago,Active
 707,45.86839596516475,8.97806954826163,Mendrisio Stazione FFS,Via Stefano Franscini,6850,Mendrisio,Active
 708,45.87023343314977,8.987408595931916,Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
@@ -615,7 +615,7 @@ id,latitude,longitude,name,address,zip,city,state
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
 772,46.9191591,7.4383865,WINTERPAUSE: Station Gurten Kulm ist nicht in Betrieb,Gurten - Park im Grünen,3084,Köniz,Inactive
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
-774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
+774,45.841265,8.98136,Chiuso per carnevale: Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Inactive
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
 776,46.81936091435492,7.102468450680388,"Belfaux, Champ Bonjart",Champ Bonjart 1,1782,Belfaux,Active
 777,46.80799726436817,7.143350342709623,Route des Noisetiers,Route des Noisetiers,1700,Fribourg,Active

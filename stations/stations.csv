@@ -32,7 +32,7 @@ id,latitude,longitude,name,address,zip,city,state
 41,45.953905,8.949715,Melide,Via alla Bola,6815,Melide,Active
 42,45.998453,8.94848,Arte e Cultura LAC,Via Antonio Caccia,6900,Lugano,Active
 43,46.005849,8.961709,Campo Marzio,Viale Castagnola 4,6900,Lugano,Active
-44,46.065999,8.966679,Chiuso al 19.02: Tesserete,Piazza Stazione,6950,Tesserete,Inactive
+44,46.065999,8.966679,Tesserete,Piazza Stazione,6950,Tesserete,Active
 45,46.023159,8.959919,Stadio,Via Trevano 100,6900,Lugano,Active
 46,46.021942,8.962901,Via Ciani,Via Giacomo E Filippo Ciani,6900,Lugano,Active
 47,46.02398,8.968292,Pregassona,Via Terzerina,6900,Lugano,Active
@@ -195,7 +195,7 @@ id,latitude,longitude,name,address,zip,city,state
 248,45.993326,8.924532,Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Active
 249,46.000482,8.912639,Muzzano Industria,Via Industria,6933,Muzzano,Active
 250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
-251,46.949344,7.448,Ersatzstation Kornhausplatz,Kornhausplatz 18,3011,Bern,Active
+251,46.9487682,7.4475691,Kornhausplatz,Kornhausplatz 18,3011,Bern,Active
 252,46.9497908,7.4441278,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
@@ -615,7 +615,7 @@ id,latitude,longitude,name,address,zip,city,state
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
 772,46.9191591,7.4383865,WINTERPAUSE: Station Gurten Kulm ist nicht in Betrieb,Gurten - Park im Grünen,3084,Köniz,Inactive
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
-774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
+774,45.841265,8.98136,Fuori servizio per motivi technici : Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Inactive
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
 776,46.81936091435492,7.102468450680388,"Belfaux, Champ Bonjart",Champ Bonjart 1,1782,Belfaux,Active
 777,46.80799726436817,7.143350342709623,Route des Noisetiers,Route des Noisetiers,1700,Fribourg,Active

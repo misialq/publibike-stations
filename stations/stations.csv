@@ -583,7 +583,7 @@ id,latitude,longitude,name,address,zip,city,state
 735,46.30442257745524,6.169752668043726,"Mies, Administration",Route de Veytey,1295,Mies,Active
 736,46.452185194140014,6.2910599793253486,"Bursins, Place du Soleil",Place du Soleil,1183,Bursins,Active
 737,46.42708,6.26574,"Gland, Eikenott",Allée du Communet,1196,Gland,Active
-738,46.41916420448668,6.288709722973113,"Gland, La Falaise",Chemin de la Falaise,1196,Gland,Active
+738,46.41916420448668,6.288709722973113,"Hors service pour des raisons techniques : Gland, La Falaise",Chemin de la Falaise,1196,Gland,Active
 739,46.42782864376307,6.276592047529303,"Gland, En Bord",Chemin du Lavasson,1196,Gland,Active
 740,46.99128453561965,7.46742522413544,HAFL Zollikofen,Länggasse 85,3052,Zollikofen,Active
 742,45.87595168951277,8.987138816048143,Mendrisio Cantine,Viale alle Cantine,6850,Mendrisio,Active
@@ -615,7 +615,7 @@ id,latitude,longitude,name,address,zip,city,state
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
 772,46.9191591,7.4383865,WINTERPAUSE: Station Gurten Kulm ist nicht in Betrieb,Gurten - Park im Grünen,3084,Köniz,Inactive
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
-774,45.841265,8.98136,Fuori servizio per motivi technici : Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Inactive
+774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
 776,46.81936091435492,7.102468450680388,"Belfaux, Champ Bonjart",Champ Bonjart 1,1782,Belfaux,Active
 777,46.80799726436817,7.143350342709623,Route des Noisetiers,Route des Noisetiers,1700,Fribourg,Active
@@ -684,7 +684,7 @@ id,latitude,longitude,name,address,zip,city,state
 849,46.51569970026471,6.499234489270572,Beausobre,Avenue de Vertou 2,1110,Morges,Active
 850,46.428783178554085,6.249760378428628,"Vich, Poste",Place Marcel Ponce,1267,Vich,Active
 852,46.5183879308213,6.4569022616279925,Denens village,Rue de la Cité 2,1135,Denens,Active
-853,46.51061054877812,6.659367730704223,Gare de Pully sud,Place de la Gare 1,1009,Pully,Active
+853,46.51061054877812,6.659367730704223,Hors service pour des raisons techniques : Gare de Pully sud,Place de la Gare 1,1009,Pully,Active
 854,46.514863230694175,6.658812113086054,Gare de Pully nord,Chem. du Montillier 9,1009,Pully,Active
 855,46.52785589336738,6.560535663689192,Brûlée,"Rte de la Brûlée, 1024 Ecublens",1024,Ecublens,Active
 856,46.399965,6.203576,"Grens, Allée des Moulins",Chemin du Nant,1274,Grens,Active
@@ -712,5 +712,5 @@ id,latitude,longitude,name,address,zip,city,state
 884,46.973323,7.484832,Ittigen Bahnhof,Worblentalstrasse 86,3063,Ittigen,Active
 886,47.395257,8.469131,Briefzentrum Zürich-Mülligen,Zürcherstrasse 161,8952,Schlieren,Active
 888,46.464141,6.348945,"Mont-sur-Rolle, Bellefontaine",Chem. du Levant 1,1185,Mont-sur-Rolle,Active
-889,47.015385,7.48331,Coming soon: RBS Moosseedorf,Sandstrasse 9,3302,Moosseedorf,Inactive
+889,47.015385,7.48331,RBS Moosseedorf,Sandstrasse 9,3302,Moosseedorf,Active
 890,47.012883,7.469947,Lochacker Moosseedorf,Lochackerweg 5,3302,Moosseedorf,Active

@@ -156,7 +156,7 @@ id,latitude,longitude,name,address,zip,city,state
 207,46.001154,8.934162,Sorengo Parco Sportivo,Via al Laghetto 5,6924,Sorengo,Active
 208,45.977309,8.875447,Caslano FLP,Via Stazione 77,6987,Caslano,Active
 209,46.022676,8.917196,Manno Centro di Calcolo,Via Cantonale 16,6928,Manno,Active
-210,45.996253,8.900957,Agno FLP,Via Stazione 2,6982,Agno,Active
+210,45.996253,8.900957,chiusura provvisoria fino al 12.3. : Agno FLP,Via Stazione 2,6982,Agno,Inactive
 211,46.383066,6.225766,"Nyon, Hôpital",Chemin de Monastier,1260,Nyon,Active
 212,46.958717,7.4646494,Guisanplatz Expo,Mingerstrasse 4,3006,Bern,Active
 213,46.9503428,7.435298,UniS,Schanzeneckstrasse 1,3012,Bern,Active
@@ -583,7 +583,7 @@ id,latitude,longitude,name,address,zip,city,state
 735,46.30442257745524,6.169752668043726,"Mies, Administration",Route de Veytey,1295,Mies,Active
 736,46.452185194140014,6.2910599793253486,"Bursins, Place du Soleil",Place du Soleil,1183,Bursins,Active
 737,46.42708,6.26574,"Gland, Eikenott",Allée du Communet,1196,Gland,Active
-738,46.41916420448668,6.288709722973113,"Hors service pour des raisons techniques : Gland, La Falaise",Chemin de la Falaise,1196,Gland,Active
+738,46.41916420448668,6.288709722973113,"Gland, La Falaise",Chemin de la Falaise,1196,Gland,Active
 739,46.42782864376307,6.276592047529303,"Gland, En Bord",Chemin du Lavasson,1196,Gland,Active
 740,46.99128453561965,7.46742522413544,HAFL Zollikofen,Länggasse 85,3052,Zollikofen,Active
 742,45.87595168951277,8.987138816048143,Mendrisio Cantine,Viale alle Cantine,6850,Mendrisio,Active
@@ -684,7 +684,7 @@ id,latitude,longitude,name,address,zip,city,state
 849,46.51569970026471,6.499234489270572,Beausobre,Avenue de Vertou 2,1110,Morges,Active
 850,46.428783178554085,6.249760378428628,"Vich, Poste",Place Marcel Ponce,1267,Vich,Active
 852,46.5183879308213,6.4569022616279925,Denens village,Rue de la Cité 2,1135,Denens,Active
-853,46.51061054877812,6.659367730704223,Hors service pour des raisons techniques : Gare de Pully sud,Place de la Gare 1,1009,Pully,Active
+853,46.51061054877812,6.659367730704223,Gare de Pully sud,Place de la Gare 1,1009,Pully,Active
 854,46.514863230694175,6.658812113086054,Gare de Pully nord,Chem. du Montillier 9,1009,Pully,Active
 855,46.52785589336738,6.560535663689192,Brûlée,"Rte de la Brûlée, 1024 Ecublens",1024,Ecublens,Active
 856,46.399965,6.203576,"Grens, Allée des Moulins",Chemin du Nant,1274,Grens,Active

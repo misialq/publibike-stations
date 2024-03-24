@@ -380,7 +380,7 @@ id,latitude,longitude,name,address,zip,city,state
 484,46.9456022,7.434734,Seilerstrasse,Seilerstrasse 22,3011,Bern,Active
 485,46.9432858,7.4144036,Stämpflistrasse,Stoosstrasse 2,3008,Bern,Active
 486,46.9503044,7.4145806,Sanpol Bern,Murtenstrasse 111,3008,Bern,Active
-487,46.523858,6.6329296,Riponne,Place de la Riponne 7,1005,Lausanne,Active
+487,46.523954,6.632626,Riponne,Place de la Riponne 7,1005,Lausanne,Active
 488,46.517009,6.635237,"Avenue de la Gare, TX Group SA",Avenue de la Gare 12A,1003,Lausanne,Active
 489,46.523333,6.625402,Chauderon,Place Chauderon 11,1003,Lausanne,Active
 490,46.534129,6.606292,Prilly-Centre,Route de Cossonay 28,1008,Prilly,Active
@@ -550,7 +550,7 @@ id,latitude,longitude,name,address,zip,city,state
 696,45.991069,8.936421,Gentilino,Via Nocc,6925,Collina d'Oro,Active
 699,45.858612,8.940146,Stabio Via Segeno,Via Segeno,6855,Stabio,Active
 700,46.53125489706996,6.601886023564116,Sicpa,Route des Flumeaux 40,1008,Prilly,Active
-701,47.375522,8.547696,ETH/Zoologisches Museum,Karl-Schmid-Strasse 1,8006,Zürich,Active
+701,47.375522,8.547696,ETH / Naturhistorisches Museum UZH,Karl-Schmid-Strasse 1,8006,Zürich,Active
 702,47.377779,8.546183,ETH Zentrum Leonhardstrasse,Leonhardstrasse 25a,8001,Zürich,Active
 704,45.87254294486857,8.987224327562924,Mendrisio Museo,Via Vincenzo Vela,6850,Mendrisio,Active
 705,45.88354716154987,8.980175414992559,fuori servizio per lavori di costruzione : Mendrisio Piscine,Via S. Martino,6850,Mendrisio,Inactive

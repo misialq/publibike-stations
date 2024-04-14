@@ -95,7 +95,7 @@ id,latitude,longitude,name,address,zip,city,state
 138,47.375933,8.543447,Central,Limmatquai 138,8001,Zürich,Active
 139,47.410618,8.55189,Messe/Hallenstadion,Wallisellenstrasse 46,8050,Zürich,Active
 140,47.366904,8.533736,Bleicherweg,Bleicherweg 33,8002,Zürich,Active
-141,47.366752,8.544935,Bellevue,Bellevueplatz 2,8001,Zürich,Active
+141,47.366752,8.544935,Bellevue - Ausser Betrieb wegen Event,Bellevueplatz 2,8001,Zürich,Inactive
 142,47.3742296,8.5285533,Stauffacher,Stauffacherstrasse 41,8004,Zürich,Active
 143,47.3899,8.523722,Escher-Wyss-Platz,Limmatstrasse 310,8005,Zürich,Active
 146,46.004469,8.947096,Stazione FFS,Via Clemente Maraini P+R,6900,Lugano,Active
@@ -515,7 +515,7 @@ id,latitude,longitude,name,address,zip,city,state
 647,46.80007,7.140663,Vignettaz - Daler,Route de Villars 22,1700,Fribourg,Active
 648,46.949233,7.436822,Open 07:00 - 18:00 In der Velostation Schanzenbrücke,Velostation Parkterrasse,3012,Bern,Active
 660,47.3525,8.527157,Muggenbühl,Mutschellenstrasse 36,8038,Zürich,Active
-661,47.36910680440694,8.541427242856333,Stadthaus,Kappelergasse,8001,Zürich,Active
+661,47.36910680440694,8.541427242856333,Stadthaus - Ausser Betrieb wegen Event,Kappelergasse,8001,Zürich,Inactive
 662,47.369181,8.505787,Heuried ZüriMobil Station,Wasserschöpfi,8055,Zürich,Active
 663,46.951897864484735,7.442042659901252,Kleeplatz / Bollwerk,Bollwerk 41,3011,Bern,Active
 664,46.011494,8.961011,Campus Est,Via la Santa,6962,Viganello,Active
@@ -523,7 +523,7 @@ id,latitude,longitude,name,address,zip,city,state
 666,46.997311304908294,7.458796441962296,Ziegelei Märit,Märitgasse 1,3052,Zollikofen,Active
 667,46.99996912619948,7.442087059202756,Geisshubel Zollikofen,Im Kläyhof 2,3052,Zollikofen,Active
 668,46.93369386095887,7.423407106637636,Jägerweg,Schwarzenburgstrasse 105,3097,Köniz,Active
-669,46.99202428819717,7.457368930354201,Ausser Betrieb aus technischen Gründen: Unterzollikofen Bahnhof,Lätternweg 6,3052,Zollikofen,Inactive
+669,46.99202428819717,7.457368930354201,Unterzollikofen Bahnhof,Lätternweg 6,3052,Zollikofen,Active
 670,46.9313589644514,7.446041234885444,Sandrain,Seftigenstrasse 186a,3098,Köniz,Active
 671,46.92898585565497,7.450277590824284,Wabern Zentrum,Waldblickstrasse 8,3084,Köniz,Active
 673,46.931588810237784,7.485518127326376,Sternen Muri,Thunstrasse 74a,3074,Muri,Active
@@ -714,3 +714,4 @@ id,latitude,longitude,name,address,zip,city,state
 888,46.464141,6.348945,"Mont-sur-Rolle, Bellefontaine",Chem. du Levant 1,1185,Mont-sur-Rolle,Active
 889,47.015385,7.48331,RBS Moosseedorf,Sandstrasse 9,3302,Moosseedorf,Active
 890,47.012883,7.469947,Lochacker Moosseedorf,Lochackerweg 5,3302,Moosseedorf,Active
+891,46.001191,8.985164,Lugano Cortivo,Via Cortivo,6900,Lugano,Active

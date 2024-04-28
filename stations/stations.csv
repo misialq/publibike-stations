@@ -1,13 +1,13 @@
 id,latitude,longitude,name,address,zip,city,state
 6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Ecublens,Active
-7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Ecublens,Active
+7,46.522591,6.584961,"Dorigny : Unilive, station fermée jusqu’au 29.04 à 12h !",UNIL Dorigny Bâtiment Extranef,1015,Ecublens,Inactive
 8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Ecublens,Active
 9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Ecublens,Active
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
-11,46.521978,6.564896,Rivier,Route de la Sorge,1015,Ecublens,Active
-12,46.520723,6.568276,Piccard,Avenue Piccard,1015,Ecublens,Active
+11,46.521978,6.564896,"Rivier: Balélec, station fermée jusqu’au 06.05 à 12h !",Route de la Sorge,1015,Ecublens,Inactive
+12,46.520723,6.568276,"Piccard: Balélec, station fermée jusqu’au 06.05 à 12h !",Avenue Piccard,1015,Ecublens,Inactive
 13,46.517153,6.561272,EPFL Innovation Park,Bâtiment G,1015,Ecublens,Active
-14,46.5224054,6.5655126,Quartier nord,Campus,1000,Ecublens,Active
+14,46.5224054,6.5655126,"Quartier nord: Balélec, station fermée jusqu’au 06.05 à 12h !",Campus,1000,Ecublens,Inactive
 18,46.5367962297447,6.57834071739537,Gare de Renens,Place de la gare,1020,Renens,Active
 20,46.506896,6.626253,Ouchy,Place de la Navigation,1006,Lausanne,Active
 21,46.521043,6.573253,Sorge,UNIL Sorge,1015,Ecublens,Active
@@ -597,7 +597,7 @@ id,latitude,longitude,name,address,zip,city,state
 750,45.95289,8.965247,Bissone,Via Collina,6816,Bissone,Active
 751,45.92991043850694,8.938161232544616,Brusino Arsizio – Debarcadero,Piazza Don F. Andreoletti 1,6827,Brusino Arsizio,Active
 752,46.027895,8.954881,Porza Sant'Elena,Via Cantonale,6948,Porza,Active
-753,46.3221235178547,6.187826521431379,"Hors service, erreur technique - Coppet, Rojalets",Route de Founex,1296,Coppet,Inactive
+753,46.3221235178547,6.187826521431379,"Coppet, Rojalets",Route de Founex,1296,Coppet,Active
 754,46.304039,6.179519,"Mies, Plage",Route Suisse,1295,Mies,Active
 755,46.3176389,6.188055555555556,"Coppet, Gare",Place de la Gare 1,1296,Coppet,Active
 756,46.370779,6.228414,"Nyon, Stade de Colovray",Route de Genève 37,1260,Nyon,Active
@@ -670,7 +670,7 @@ id,latitude,longitude,name,address,zip,city,state
 834,46.947649789766224,7.416924289192128,Güterstrasse,Güterstrasse 18,3008,Bern,Active
 835,46.95884778357857,7.429204058387358,Gymnasium Neufeld,Bremgartenstrasse 133,3012,Bern,Active
 836,46.510153,6.558052,Saint-Sulpice-centre,Chemin du Crêt,1025,Saint-Sulpice,Active
-837,46.387342,6.227582,"Hors service, erreur technique - Nyon, La Levratte",Av. Alfred Cortot,1260,Nyon,Inactive
+837,46.387342,6.227582,"Nyon, La Levratte",Av. Alfred Cortot,1260,Nyon,Active
 838,46.505009,6.641321,Tour Haldimand - TetraLaval TetraPak,Av. Général-Guisan 70,1009,Pully,Active
 839,46.52877795845398,6.614257776560184,Parc de Valency,Av. d'Echallens,1004,Lausanne,Active
 840,46.80036467702836,7.175555914805134,Bourguillon,Route de Bourguillon,1722,Fribourg,Active
@@ -684,7 +684,7 @@ id,latitude,longitude,name,address,zip,city,state
 849,46.51569970026471,6.499234489270572,Beausobre,Avenue de Vertou 2,1110,Morges,Active
 850,46.428783178554085,6.249760378428628,"Vich, Poste",Place Marcel Ponce,1267,Vich,Active
 852,46.5183879308213,6.4569022616279925,Denens village,Rue de la Cité 2,1135,Denens,Active
-853,46.51061054877812,6.659367730704223,"Hors service, erreur technique - Gare de Pully sud",Place de la Gare 1,1009,Pully,Inactive
+853,46.51061054877812,6.659367730704223,Gare de Pully sud,Place de la Gare 1,1009,Pully,Active
 854,46.514863230694175,6.658812113086054,Gare de Pully nord,Chem. du Montillier 9,1009,Pully,Active
 855,46.52785589336738,6.560535663689192,Brûlée,"Rte de la Brûlée, 1024 Ecublens",1024,Ecublens,Active
 856,46.399965,6.203576,"Grens, Allée des Moulins",Chemin du Nant,1274,Grens,Active

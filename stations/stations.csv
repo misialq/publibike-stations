@@ -1,6 +1,6 @@
 id,latitude,longitude,name,address,zip,city,state
 6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Ecublens,Active
-7,46.522591,6.584961,"Dorigny : Unilive, station fermée jusqu’au 29.04 à 12h !",UNIL Dorigny Bâtiment Extranef,1015,Ecublens,Inactive
+7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Ecublens,Active
 8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Ecublens,Active
 9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Ecublens,Active
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
@@ -615,7 +615,7 @@ id,latitude,longitude,name,address,zip,city,state
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
 772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
-774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
+774,45.841265,8.98136,Fuori servizio per motivi technici: Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Inactive
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
 776,46.81936091435492,7.102468450680388,"Belfaux, Champ Bonjart",Champ Bonjart 1,1782,Belfaux,Active
 777,46.80799726436817,7.143350342709623,Route des Noisetiers,Route des Noisetiers,1700,Fribourg,Active

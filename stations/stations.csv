@@ -4,10 +4,10 @@ id,latitude,longitude,name,address,zip,city,state
 8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Ecublens,Active
 9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Ecublens,Active
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
-11,46.521978,6.564896,"Rivier: Balélec, station fermée jusqu’au 06.05 à 12h !",Route de la Sorge,1015,Ecublens,Inactive
-12,46.520723,6.568276,"Piccard: Balélec, station fermée jusqu’au 06.05 à 12h !",Avenue Piccard,1015,Ecublens,Inactive
+11,46.521978,6.564896,Rivier,Route de la Sorge,1015,Ecublens,Active
+12,46.520723,6.568276,Piccard,Avenue Piccard,1015,Ecublens,Active
 13,46.517153,6.561272,EPFL Innovation Park,Bâtiment G,1015,Ecublens,Active
-14,46.5224054,6.5655126,"Quartier nord: Balélec, station fermée jusqu’au 06.05 à 12h !",Campus,1000,Ecublens,Inactive
+14,46.5224054,6.5655126,Quartier nord,Campus,1000,Ecublens,Active
 18,46.5367962297447,6.57834071739537,Gare de Renens,Place de la gare,1020,Renens,Active
 20,46.506896,6.626253,Ouchy,Place de la Navigation,1006,Lausanne,Active
 21,46.521043,6.573253,Sorge,UNIL Sorge,1015,Ecublens,Active
@@ -553,7 +553,7 @@ id,latitude,longitude,name,address,zip,city,state
 701,47.375522,8.547696,ETH / Naturhistorisches Museum UZH,Karl-Schmid-Strasse 1,8006,Zürich,Active
 702,47.377779,8.546183,ETH Zentrum Leonhardstrasse,Leonhardstrasse 25a,8001,Zürich,Active
 704,45.87254294486857,8.987224327562924,Mendrisio Museo,Via Vincenzo Vela,6850,Mendrisio,Active
-705,45.88354716154987,8.980175414992559,fuori servizio per lavori di costruzione : Mendrisio Piscine,Via S. Martino,6850,Mendrisio,Inactive
+705,45.88354716154987,8.980175414992559,Mendrisio Piscine,Via S. Martino,6850,Mendrisio,Active
 706,45.903314,8.979073,Capolago Stazione FFS,Via Famiglia Carlo Scacchi,6825,Capolago,Active
 707,45.86839596516475,8.97806954826163,Mendrisio Stazione FFS,Via Stefano Franscini,6850,Mendrisio,Active
 708,45.87023343314977,8.987408595931916,Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
@@ -615,7 +615,7 @@ id,latitude,longitude,name,address,zip,city,state
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
 772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
 773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
-774,45.841265,8.98136,Fuori servizio per motivi technici: Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Inactive
+774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
 776,46.81936091435492,7.102468450680388,"Belfaux, Champ Bonjart",Champ Bonjart 1,1782,Belfaux,Active
 777,46.80799726436817,7.143350342709623,Route des Noisetiers,Route des Noisetiers,1700,Fribourg,Active

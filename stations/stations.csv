@@ -129,7 +129,7 @@ id,latitude,longitude,name,address,zip,city,state
 179,46.9454695,7.3928104,Schwabgut,Schwabstrasse 10,3018,Bern,Active
 180,46.9477116,7.3774722,Gäbelbach,Colombstrasse 11,3027,Bern,Active
 181,46.9378963,7.3954739,Bahnhof Bümpliz Süd,Bümplizstrasse 187,3018,Bern,Active
-182,46.96274,7.46276,Stadion Wankdorf,Morgartenstrasse 1,3014,Bern,Active
+182,46.96274,7.46276,Station Stadion Wankdorf: ausser Betrieb vom 01.06.24 (18.00 Uhr) bis 03.06.24 (06.00 Uhr),Morgartenstrasse 1,3014,Bern,Active
 183,46.9432034,7.4735436,Sonnenhofspital,Buchserstrasse 26,3006,Bern,Active
 184,46.9489732,7.3882333,Tscharnergut,Waldmannstrasse 31,3027,Bern,Active
 185,46.946664,7.400752,Bahnhof Stöckacker,Untermattweg 36,3027,Bern,Active
@@ -439,7 +439,7 @@ id,latitude,longitude,name,address,zip,city,state
 553,46.944672,7.422308,Loryplatz,Könizstrasse 6,3008,Bern,Active
 554,46.95251,7.467399,Ostermundigerstrasse,Ostermundigenstrasse 36,3006,Bern,Active
 555,46.946839,7.4556,Mühlenplatz,Schifflaube 1,3011,Bern,Active
-556,47.391289,8.537546,Schaffhauserplatz,Rotbuchstrasse 15,8006,Zürich,Active
+556,47.391286,8.5371,Schaffhauserplatz,Rotbuchstrasse 19,8006,Zürich,Active
 557,47.374192,8.514116,Idaplatz,Idaplatz 4,8003,Zürich,Active
 558,47.370037,8.518185,Schmiede Wiedikon,Brinerstrasse 2,8003,Zürich,Active
 559,47.374241,8.525602,Bezirksgebäude,Badenerstrasse 90,8004,Zürich,Active
@@ -592,12 +592,12 @@ id,latitude,longitude,name,address,zip,city,state
 745,45.844602,9.030907,Scuole Via Franscini,Via Stefano Franscini,6833,Vacallo,Active
 746,45.841894,8.916675,Stabio - Gaggiolo,Via Gaggiolo,6855,Stabio,Active
 747,45.92241761420432,8.98598929175441,Piazzale Filanda,Via Capeleta,6818,Melano,Active
-748,45.932192,8.974225,fuori servizio per motivi technici : Maroggia Stazione,Viale Stazione,6817,Maroggia,Inactive
+748,45.932192,8.974225,Maroggia Stazione,Viale Stazione,6817,Maroggia,Active
 749,46.01839064983639,8.952667134728758,Ospedale Civico,Via Tesserete 46,6900,Lugano,Active
 750,45.95289,8.965247,Bissone,Via Collina,6816,Bissone,Active
 751,45.92991043850694,8.938161232544616,Brusino Arsizio – Debarcadero,Piazza Don F. Andreoletti 1,6827,Brusino Arsizio,Active
 752,46.027895,8.954881,Porza Sant'Elena,Via Cantonale,6948,Porza,Active
-753,46.3221235178547,6.187826521431379,"Coppet, Rojalets",Route de Founex,1296,Coppet,Active
+753,46.3221235178547,6.187826521431379,"Station hors service pour des raisons techniques - Coppet, Rojalets",Route de Founex,1296,Coppet,Inactive
 754,46.304039,6.179519,"Mies, Plage",Route Suisse,1295,Mies,Active
 755,46.3176389,6.188055555555556,"Coppet, Gare",Place de la Gare 1,1296,Coppet,Active
 756,46.370779,6.228414,"Nyon, Stade de Colovray",Route de Genève 37,1260,Nyon,Active
@@ -696,7 +696,7 @@ id,latitude,longitude,name,address,zip,city,state
 866,47.407433,8.639147,Skyguide,Flugsicherungsstrasse 2,8602,Wangen,Active
 867,46.9477816,7.4365087,Welle 7 Velostation (06:00-22:00)- INSIDE the building!,Merkurgässli,3008,Bern,Active
 868,46.86694,9.53723,Pädagogische Hochschule Graubünden,Scalärastrasse 17,7000,Chur,Active
-869,46.847347,9.509044,Fachhochschule Graubünden Comercialstrasse,Comercialstrasse 28,7000,Chur,Active
+869,46.847347,9.509044,Station aus technischen Gründen außer Betrieb - Fachhochschule Graubünden Comercialstrasse,Comercialstrasse 28,7000,Chur,Inactive
 870,46.85309,9.51228,Fachhochschule Graubünden Pulvermühlestrasse,Pulvermühlestrasse 57,7000,Chur,Active
 871,46.851702,9.534199,Stadthaus Chur,Masanserstrasse 2,7000,Chur,Active
 872,46.85311,9.52903,Bahnhofplatz Chur,Bahnhofplatz 2,7000,Chur,Active

@@ -129,7 +129,7 @@ id,latitude,longitude,name,address,zip,city,state
 179,46.9454695,7.3928104,Schwabgut,Schwabstrasse 10,3018,Bern,Active
 180,46.9477116,7.3774722,Gäbelbach,Colombstrasse 11,3027,Bern,Active
 181,46.9378963,7.3954739,Bahnhof Bümpliz Süd,Bümplizstrasse 187,3018,Bern,Active
-182,46.96274,7.46276,Station ausser Betrieb bis 03.06.24 (06.00 Uhr),Morgartenstrasse 1,3014,Bern,Inactive
+182,46.96274,7.46276,Stadion Wankdorf,Morgartenstrasse 1,3014,Bern,Active
 183,46.9432034,7.4735436,Sonnenhofspital,Buchserstrasse 26,3006,Bern,Active
 184,46.9489732,7.3882333,Tscharnergut,Waldmannstrasse 31,3027,Bern,Active
 185,46.946664,7.400752,Bahnhof Stöckacker,Untermattweg 36,3027,Bern,Active
@@ -138,7 +138,7 @@ id,latitude,longitude,name,address,zip,city,state
 188,46.95518301852439,7.451799078591182,Viktoriaplatz,Beundenfeldstrasse 2,3013,Bern,Active
 189,46.9618565,7.4592662,Tellplatz,Tellstrasse 20,3014,Bern,Active
 190,46.9603316,7.4614522,Tellstrasse EJPD,Wankdorfstrasse 1,3014,Bern,Active
-191,46.960116251597235,7.454334866797193,Stauffacherplatz,Scheibenstrasse 13,3014,Bern,Active
+191,46.960116251597235,7.454334866797193,"Stauffacherplatz: vom 15.06.24 bis 16.06.24 ausser Betrieb wegen ""Breitsch Märit""",Scheibenstrasse 13,3014,Bern,Active
 192,46.9677817,7.4646494,Wankdorf Bhf Nord,Trüsselstrasse,3014,Bern,Active
 193,46.9552642,7.4593279,Kasernenstrasse HKB,Kasernenstrasse 13k,3014,Bern,Active
 194,46.95860113643669,7.456935120256138,Kasernenwiese,Militärstrasse 42,3014,Bern,Active
@@ -147,7 +147,7 @@ id,latitude,longitude,name,address,zip,city,state
 197,46.9394841,7.3899968,Bachmätteli,Bottigenstrasse 9,3018,Bern,Active
 198,46.9439597,7.3746103,Westside,Riedbachstrasse 96,3027,Bern,Active
 199,46.9456501,7.3901001,Bahnhof Bümpliz Nord,Mühledorfstrasse 20,3018,Bern,Active
-201,46.95602789210635,7.425797884262834,Länggasse,Länggasstrasse 124,3012,Bern,Active
+201,46.955766,7.425955,Fabrikstrasse,Fabrikstrasse 43-45,3012,Bern,Active
 202,46.9565421,7.4317735,Neufeldstrasse,Neufeldstrasse 20,3012,Bern,Active
 203,46.9569128,7.4376583,Bierhübeli,Neubrückstrasse 70,3012,Bern,Active
 204,46.9515508,7.4345382,Falkenplatz,Länggassstrasse 7,3012,Bern,Active
@@ -224,7 +224,7 @@ id,latitude,longitude,name,address,zip,city,state
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
 288,45.982056,8.918121,Montagnola Piazza Brocchi,Piazza Brocchi,6926,Montagnola,Active
 289,46.012555,8.943487,Massagno,"via dei Platani,",6908,Massagno,Active
-290,46.946888089472424,7.445830418186601,Nationalbank,Inselgasse 1,3011,Bern,Active
+290,46.946888089472424,7.445830418186601,Nationalbank: vom 11.06.24 (11.00) bis 13.06.24 (13.00) ausser Betrieb,Inselgasse 1,3011,Bern,Active
 291,46.9635131,7.4555218,Markuskirche,Winkelriedstrasse 56,3014,Bern,Active
 292,46.946604,7.441624,Bundesgasse,Bundesgasse 3,3011,Bern,Active
 293,46.9465196,7.4481457,Casinoplatz,Casinoplatz 3,3011,Bern,Active
@@ -244,14 +244,14 @@ id,latitude,longitude,name,address,zip,city,state
 308,46.9465416,7.4356627,Hallenbad Hirschengraben,Maulbeerstrasse 17,3011,Bern,Active
 309,46.9405957,7.418738,Fischermätteli,Könizstrasse 73,3008,Bern,Active
 310,46.959334038741154,7.434909268498735,Freies Gymnasium,Hochfeldstrasse 115,3012,Bern,Active
-311,46.9442197,7.4366739,Kapellenstrasse BFF,Kapellenstrasse 8,3011,Bern,Active
+311,46.9442197,7.4366739,FRAUENLAUF: Station ausser Betrieb bis 09.06.24 (23.00),Kapellenstrasse 8,3011,Bern,Inactive
 312,46.9356089,7.4471426,Ka-We-De,Jubiläumsstrasse 101,3005,Bern,Active
 313,46.9415535,7.4708855,Jolimontstrasse,Jolimontstrasse 18,3006,Bern,Active
 314,46.9450822,7.4324521,Haslerstrasse,Haslerstrasse 4,3008,Bern,Active
 315,46.9424453,7.4431193,Marzilibad,Marzilistrasse 29,3005,Bern,Active
 316,46.9446775,7.4432641,Marzilibahn,Brückenstrasse 20,3005,Bern,Active
-317,46.9460279,7.4332165,Station wird vom 03.06.24 bis am 11.08.24 um 5 Meter nach Links verschoben,Effingerstrasse 27,3008,Bern,Active
-318,46.9410334,7.4359176,Monbijoustrasse,Monbijoustrasse 61,3007,Bern,Active
+317,46.9460279,7.4332165,Station bis am 11.08.24 um 5 Meter nach Links verschoben,Effingerstrasse 27,3008,Bern,Active
+318,46.9410334,7.4359176,FRAUENLAUF: Station ausser Betrieb bis 09.06.24 (23.00),Monbijoustrasse 61,3007,Bern,Inactive
 319,47.00268,7.44109,Post IT Zollikofen,Webergutstrasse 12,3052,Zollikofen,Active
 320,46.946466,7.452518,Mattelift,Badgasse 21,3011,Bern,Active
 321,46.93965162143165,7.440241261842887,Monbijoubrücke,Eigerstrasse 80,3007,Bern,Active
@@ -525,7 +525,7 @@ id,latitude,longitude,name,address,zip,city,state
 668,46.93369386095887,7.423407106637636,Jägerweg,Schwarzenburgstrasse 105,3097,Köniz,Active
 669,46.99202428819717,7.457368930354201,Unterzollikofen Bahnhof,Lätternweg 6,3052,Zollikofen,Active
 670,46.9313589644514,7.446041234885444,Sandrain,Seftigenstrasse 186a,3098,Köniz,Active
-671,46.92898585565497,7.450277590824284,Wabern Zentrum,Waldblickstrasse 8,3084,Köniz,Active
+671,46.92898585565497,7.450277590824284,Ausser Betrieb aus technischen Gründen: Wabern Zentrum,Waldblickstrasse 8,3084,Köniz,Active
 673,46.931588810237784,7.485518127326376,Sternen Muri,Thunstrasse 74a,3074,Muri,Active
 674,46.93357261917911,7.505070609131323,Bahnhof Gümligen,Worbstrasse 210,3074,Muri,Active
 675,46.95906857,7.47775778,Burgfeld,Mittelholzerstrasse 30,3006,Bern,Active
@@ -604,7 +604,7 @@ id,latitude,longitude,name,address,zip,city,state
 757,46.543261033642686,6.661545646440144,Croisettes-Biopôle,Route de la Corniche 2,1066,Epalinges,Active
 758,46.547872289288286,6.671632436126663,"Epalinges, Croix-Blanche",Rte de la Croix-Blanche 25,1066,Epalinges,Active
 761,46.79633089439779,7.131816212475342,Le Domaine (Swiss Lodge),Chem. des Eaux-Vives 17,1752,Villars-sur-Glâne,Active
-763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
+763,46.51649685275541,6.550408183414197,Hors service pour des raisons techniques : Vallaire,Champs-Courbes,1024,Ecublens,Active
 764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
 765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
 766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active
@@ -660,7 +660,7 @@ id,latitude,longitude,name,address,zip,city,state
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active
 824,46.95626329415468,7.482893566913186,Ostermundigen Bahnhof,Poststrasse 1,3072,Ostermundigen,Active
 825,46.95123907638763,7.487040006612239,Waldheimstrasse,Bachstrasse 5-1,3072,Ostermundigen,Active
-826,46.988369990781095,7.463319968143853,INFORAMA Zollikofen,Rütti 10,3052,Zollikofen,Active
+826,46.988369990781095,7.463319968143853,Ausser Betrieb aus technischen Gründen: INFORAMA Zollikofen,Rütti 10,3052,Zollikofen,Active
 827,47.405478,8.481071,Frankental,Frankentalerstrasse 10,8049,Zürich,Active
 828,46.941794,7.390649,Fussgängerzone Bümpliz,Bümplizstrasse 112,3000,Bern,Active
 829,46.8934148092464,7.3518540937205685,Thörishaus Dorf SBB SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active

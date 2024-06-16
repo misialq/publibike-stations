@@ -138,7 +138,7 @@ id,latitude,longitude,name,address,zip,city,state
 188,46.95518301852439,7.451799078591182,Viktoriaplatz,Beundenfeldstrasse 2,3013,Bern,Active
 189,46.9618565,7.4592662,Tellplatz,Tellstrasse 20,3014,Bern,Active
 190,46.9603316,7.4614522,Tellstrasse EJPD,Wankdorfstrasse 1,3014,Bern,Active
-191,46.960116251597235,7.454334866797193,"Stauffacherplatz: vom 15.06.24 bis 16.06.24 ausser Betrieb wegen ""Breitsch Märit""",Scheibenstrasse 13,3014,Bern,Active
+191,46.960116251597235,7.454334866797193,Stauffacherplatz,Scheibenstrasse 13,3014,Bern,Active
 192,46.9677817,7.4646494,Wankdorf Bhf Nord,Trüsselstrasse,3014,Bern,Active
 193,46.9552642,7.4593279,Kasernenstrasse HKB,Kasernenstrasse 13k,3014,Bern,Active
 194,46.95860113643669,7.456935120256138,Kasernenwiese,Militärstrasse 42,3014,Bern,Active
@@ -179,15 +179,6 @@ id,latitude,longitude,name,address,zip,city,state
 230,46.9547361,7.4333909,Sattler-Gelateria,Mittelstrasse 18,3012,Bern,Active
 231,46.9524539,7.4354213,Hallerstrasse,Hallerstrasse 9,3012,Bern,Active
 232,46.9441328,7.449692,Helvetiaplatz,Helvetiaplatz 1,3005,Bern,Active
-233,46.802604,7.1509925,Gare de Fribourg,Avenue de la Gare 1,1700,Fribourg,Active
-234,46.815219,7.155715,Fribourg-Gottéron,Rue de Morat,1700,Fribourg,Active
-235,46.793372,7.1584206,Uni Pérolles,Boulevard de Pérolles 95,1700,Fribourg,Active
-236,46.8104076,7.1730614,Schönberg,Route de la Heitera 3,1700,Fribourg,Active
-237,46.806661,7.1620248,Bourg,Place de Notre-Dame,1700,Fribourg,Active
-238,46.7804953,7.1505764,Marly - La Jonction,Route de Fribourg 15,1723,Marly,Active
-239,46.7931454,7.1322764,Cormanon,Route de la Berra 2,1752,Villars-sur-Glâne,Active
-240,46.7899747,7.1160135,Gare de Villars-sur-Glâne,Route des Préalpes 1,1752,Villars-sur-Glâne,Active
-241,46.794798,7.114034,Les Dailles,Route du Bugnon 38,1752,Villars-sur-Glâne,Active
 244,46.9603536,7.4485856,Wyleregg,Wylerstrasse 51,3014,Bern,Active
 245,46.012749,8.914699,Molinazzo,Via Longa,6934,Bioggio,Active
 246,46.040345,8.932433,Lamone - Cadempino FFS,Via Girella 49,6814,Lamone,Active
@@ -224,7 +215,7 @@ id,latitude,longitude,name,address,zip,city,state
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
 288,45.982056,8.918121,Montagnola Piazza Brocchi,Piazza Brocchi,6926,Montagnola,Active
 289,46.012555,8.943487,Massagno,"via dei Platani,",6908,Massagno,Active
-290,46.946888089472424,7.445830418186601,Nationalbank: vom 11.06.24 (11.00) bis 13.06.24 (13.00) ausser Betrieb,Inselgasse 1,3011,Bern,Active
+290,46.946888089472424,7.445830418186601,Nationalbank,Inselgasse 1,3011,Bern,Active
 291,46.9635131,7.4555218,Markuskirche,Winkelriedstrasse 56,3014,Bern,Active
 292,46.946604,7.441624,Bundesgasse,Bundesgasse 3,3011,Bern,Active
 293,46.9465196,7.4481457,Casinoplatz,Casinoplatz 3,3011,Bern,Active
@@ -244,14 +235,14 @@ id,latitude,longitude,name,address,zip,city,state
 308,46.9465416,7.4356627,Hallenbad Hirschengraben,Maulbeerstrasse 17,3011,Bern,Active
 309,46.9405957,7.418738,Fischermätteli,Könizstrasse 73,3008,Bern,Active
 310,46.959334038741154,7.434909268498735,Freies Gymnasium,Hochfeldstrasse 115,3012,Bern,Active
-311,46.9442197,7.4366739,FRAUENLAUF: Station ausser Betrieb bis 09.06.24 (23.00),Kapellenstrasse 8,3011,Bern,Inactive
+311,46.9442197,7.4366739,Kapellenstrasse BFF,Kapellenstrasse 8,3011,Bern,Active
 312,46.9356089,7.4471426,Ka-We-De,Jubiläumsstrasse 101,3005,Bern,Active
 313,46.9415535,7.4708855,Jolimontstrasse,Jolimontstrasse 18,3006,Bern,Active
 314,46.9450822,7.4324521,Haslerstrasse,Haslerstrasse 4,3008,Bern,Active
 315,46.9424453,7.4431193,Marzilibad,Marzilistrasse 29,3005,Bern,Active
 316,46.9446775,7.4432641,Marzilibahn,Brückenstrasse 20,3005,Bern,Active
-317,46.9460279,7.4332165,Station bis am 11.08.24 um 5 Meter nach Links verschoben,Effingerstrasse 27,3008,Bern,Active
-318,46.9410334,7.4359176,FRAUENLAUF: Station ausser Betrieb bis 09.06.24 (23.00),Monbijoustrasse 61,3007,Bern,Inactive
+317,46.9460279,7.4332165,Station bis am 11.08.24 um 5 Meter nach Links verschoben - Kocherpark,Effingerstrasse 27,3008,Bern,Active
+318,46.9410334,7.4359176,Monbijoustrasse,Monbijoustrasse 61,3007,Bern,Active
 319,47.00268,7.44109,Post IT Zollikofen,Webergutstrasse 12,3052,Zollikofen,Active
 320,46.946466,7.452518,Mattelift,Badgasse 21,3011,Bern,Active
 321,46.93965162143165,7.440241261842887,Monbijoubrücke,Eigerstrasse 80,3007,Bern,Active
@@ -387,18 +378,6 @@ id,latitude,longitude,name,address,zip,city,state
 491,46.9650342,7.4514649,Wylerbad,Scheibenstrasse 65c,3014,Bern,Active
 494,45.970197,8.883746,Caslano Piazza Lago,Piazza Lago,6987,Caslano,Active
 497,46.9579458,7.4537747,Breitenrainplatz,Moserstrasse 33,3013,Bern,Active
-499,46.801805,7.136609,Hôpital Fribourgeois,Chemin des Pensionnats,1752,Villars-sur-Glâne,Active
-500,46.794595,7.132707,MediaParc,Rue du Centre 7,1752,Villars-sur-Glâne,Active
-501,46.803797,7.161559,La Neuveville,Rue de la Neuveville 37,1700,Fribourg,Active
-502,46.79435,7.14049,Champriond,Route de la Veveyse 26,1700,Fribourg,Active
-503,46.809589,7.14687,Softcom,Route du Jura 41,1700,Fribourg,Active
-504,46.799339,7.151984,Rue du Simplon,Rue du Simplon 3,1700,Fribourg,Active
-505,46.811754,7.150142,Bourgknecht,Avenue Jean-Bourgknecht,1700,Fribourg,Active
-506,46.803943,7.151989,Fribourg Gare Nord,Place de la Gare 15,1700,Fribourg,Active
-507,46.804568,7.155553,Place Georges Python,Square des Places 1,1700,Fribourg,Active
-508,46.80295,7.15966,La Motta,Petites-Rames 18,1700,Fribourg,Active
-509,46.796171649939694,7.143346608386447,Beaumont FR,Route de Beaumont 10,1700,Fribourg,Active
-510,46.808006,7.155941,Quartier d'Alt,Derrière-les-Remparts 12,1700,Fribourg,Active
 511,46.974841,7.453275,Spital Tiefenau,Tiefenaustrasse 110,3004,Bern,Active
 513,47.380338,8.537684,Sihlquai,Sihlquai 25,8005,Zürich,Active
 514,47.397885,8.596202,Bahnhof Stettbach,Bahnhof Stettbach,8051,Zürich,Active
@@ -420,7 +399,6 @@ id,latitude,longitude,name,address,zip,city,state
 530,47.40462,8.60465,Zwicky-Areal,Seidenplatz 3,8304,Wallisellen,Active
 531,47.417668,8.593612,Schwimmbad Wallisellen,Alte Winterthurerstrasse 64,8304,Wallisellen,Active
 532,47.412103,8.592144,Bahnhof Wallisellen,Signum-Platz,8304,Wallisellen,Active
-535,46.802937,7.167527,Auge,Place du Petit-Saint-Jean 13a,1700,Fribourg,Active
 536,47.381591,8.49038,Freilager,Rautistrasse 60,8048,Zürich,Active
 537,47.416873,8.555639,Leutschenpark,Leutschenbachstrasse 50,8050,Zürich,Active
 538,47.367656,8.516257,Kirche Bühl,Goldbrunnenstrasse 54,8055,Zürich,Active
@@ -455,7 +433,6 @@ id,latitude,longitude,name,address,zip,city,state
 569,47.405751,8.539016,Freibad Allenmoos,Ringstrasse 82,8057,Zürich,Active
 572,47.402749,8.5355,Radiostudio,Wehntalerstrasse 98,8057,Zürich,Active
 574,47.45041071949902,8.563071583930034,Flughafen Kloten,Veloabstellplatz Parking 2,8302,Kloten,Active
-580,46.800445,7.122294,Petit-Moncor,Route de Petit-Moncor,1752,Villars-sur-Glâne,Active
 581,46.514554,6.619263,Vaudoise Assurances,Avenue de Cour 43,1007,Lausanne,Active
 583,45.97765,8.926757,IBSA,Via del Piano 7,6926,Collina,Active
 584,46.006076,8.966775,Lanchetta,via delle Scuole,6900,Lugano,Active
@@ -497,22 +474,8 @@ id,latitude,longitude,name,address,zip,city,state
 627,45.999094,8.945139,via Maraini,via Clemente Maraini 12,6900,Lugano,Active
 628,46.00627672,8.94272889,Besso,via Besso 23,6900,Lugano,Active
 629,46.009397,8.931591,Centro Giovanile,Via Dott. Giov. Polar. 34,6932,Breganzona,Active
-632,46.79816,7.147493,bluefactory,Passage du Cardinal,1700,Fribourg,Active
-633,46.77787,7.15074,Marly Innovation Center,Route Ancienne Papeterie 550,1723,Marly,Active
-634,46.805413,7.165191,Pont de Zähringen,Route de Zähringen 2,1700,Fribourg,Active
-635,46.802118,7.146355,Avenue Beauregard,Avenue de Beauregard 11,1700,Fribourg,Active
-636,46.806876,7.15297,Uni Miséricorde,Avenue de l'Europe 20,1700,Fribourg,Active
-637,46.79427,7.155003,Route Albert-Gockel,Route Albert-Gockel,1700,Fribourg,Active
 638,47.421914,8.549832,Seebach ZüriMobil Station,Schaffhauserstrasse 509,8052,Zürich,Active
 639,46.015758,8.971604,San Siro,Via al Campanile 1,6962,Viganello,Active
-640,46.795871,7.156473,Faucigny,Rue P.-A.-de- Faucigny 5,1700,Fribourg,Active
-641,46.81288,7.11461,Les Fluides,Route des Fluides 1,1762,Givisiez,Active
-642,46.816013,7.12996,Gare de Givisiez Sud,Route des Taconnets 3,1762,Givisiez,Active
-643,46.79704596417351,7.150607035291654,Arsenaux,Route des Arsenaux 6a,1700,Fribourg,Active
-644,46.776964,7.16038,Marly-Cité,Route de Fribourg,1723,Marly,Active
-645,46.77173,7.162033,Marly Gérine,Route de la Gruyère,1723,Marly,Active
-646,46.798038,7.119618,Bois de Moncor,Route de Petit-Moncor 1A,1752,Villars-sur-Glâne,Active
-647,46.80007,7.140663,Vignettaz - Daler,Route de Villars 22,1700,Fribourg,Active
 648,46.949233,7.436822,Open 07:00 - 18:00 In der Velostation Schanzenbrücke,Velostation Parkterrasse,3012,Bern,Active
 660,47.3525,8.527157,Muggenbühl,Mutschellenstrasse 36,8038,Zürich,Active
 661,47.36910680440694,8.541427242856333,Stadthaus,Kappelergasse,8001,Zürich,Active
@@ -525,7 +488,7 @@ id,latitude,longitude,name,address,zip,city,state
 668,46.93369386095887,7.423407106637636,Jägerweg,Schwarzenburgstrasse 105,3097,Köniz,Active
 669,46.99202428819717,7.457368930354201,Unterzollikofen Bahnhof,Lätternweg 6,3052,Zollikofen,Active
 670,46.9313589644514,7.446041234885444,Sandrain,Seftigenstrasse 186a,3098,Köniz,Active
-671,46.92898585565497,7.450277590824284,Ausser Betrieb aus technischen Gründen: Wabern Zentrum,Waldblickstrasse 8,3084,Köniz,Active
+671,46.92898585565497,7.450277590824284,Wabern Zentrum,Waldblickstrasse 8,3084,Köniz,Active
 673,46.931588810237784,7.485518127326376,Sternen Muri,Thunstrasse 74a,3074,Muri,Active
 674,46.93357261917911,7.505070609131323,Bahnhof Gümligen,Worbstrasse 210,3074,Muri,Active
 675,46.95906857,7.47775778,Burgfeld,Mittelholzerstrasse 30,3006,Bern,Active
@@ -592,7 +555,7 @@ id,latitude,longitude,name,address,zip,city,state
 745,45.844602,9.030907,Scuole Via Franscini,Via Stefano Franscini,6833,Vacallo,Active
 746,45.841894,8.916675,Stabio - Gaggiolo,Via Gaggiolo,6855,Stabio,Active
 747,45.92241761420432,8.98598929175441,Piazzale Filanda,Via Capeleta,6818,Melano,Active
-748,45.932192,8.974225,Maroggia Stazione,Viale Stazione,6817,Maroggia,Active
+748,45.932192,8.974225,fuori servizio per problemi tecnici - Maroggia Stazione,Viale Stazione,6817,Maroggia,Active
 749,46.01839064983639,8.952667134728758,Ospedale Civico,Via Tesserete 46,6900,Lugano,Active
 750,45.95289,8.965247,Bissone,Via Collina,6816,Bissone,Active
 751,45.92991043850694,8.938161232544616,Brusino Arsizio – Debarcadero,Piazza Don F. Andreoletti 1,6827,Brusino Arsizio,Active
@@ -603,24 +566,16 @@ id,latitude,longitude,name,address,zip,city,state
 756,46.370779,6.228414,"Nyon, Stade de Colovray",Route de Genève 37,1260,Nyon,Active
 757,46.543261033642686,6.661545646440144,Croisettes-Biopôle,Route de la Corniche 2,1066,Epalinges,Active
 758,46.547872289288286,6.671632436126663,"Epalinges, Croix-Blanche",Rte de la Croix-Blanche 25,1066,Epalinges,Active
-761,46.79633089439779,7.131816212475342,Le Domaine (Swiss Lodge),Chem. des Eaux-Vives 17,1752,Villars-sur-Glâne,Active
-763,46.51649685275541,6.550408183414197,Hors service pour des raisons techniques : Vallaire,Champs-Courbes,1024,Ecublens,Active
+763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
 764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
 765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
 766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active
 767,46.459494,6.333472,"Rolle, Martinet",Route des Quarte-Communes 7,1180,Rolle,Active
-768,46.81983868693908,7.139736435254434,Chantemerle,Route de Chantemerle 60,1763,Granges-Paccot,Active
-769,46.776884,7.139565,Bel-Air,Route de Bel-Air 17,1723,Marly,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,6830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
 772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
-773,46.783152,7.155408,"Marly, chemin du Pont",Chemin du Pont,1723,Marly,Active
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
-776,46.81936091435492,7.102468450680388,"Belfaux, Champ Bonjart",Champ Bonjart 1,1782,Belfaux,Active
-777,46.80799726436817,7.143350342709623,Route des Noisetiers,Route des Noisetiers,1700,Fribourg,Active
-778,46.81077819593714,7.139183090960676,P+R La Chassotte,Route du Jura,1700,Fribourg,Active
-779,46.82142609198569,7.10838613913462,Gare de Belfaux-Village,Place de la Gare GFM,1782,Belfaux,Active
 780,46.003948,8.961542,Foce,Via Foce,6900,Lugano,Active
 781,46.018784,8.962014,CSIA,Via Brentani,6900,Lugano,Active
 782,46.029052,8.969857,Ecocentro Pregassona,Via Ruggì 46,6963,Pregassona,Active
@@ -632,14 +587,7 @@ id,latitude,longitude,name,address,zip,city,state
 789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
-793,46.7915080285386,7.1389768164662275,Marteray,Route de Marteray 21,1752,Villars-sur-Glâne,Active
-794,46.7909443366818,7.127365724241438,Martinets,Route des Martinets,1752,Villars-sur-Glâne,Active
-795,46.80627599825691,7.175202933966421,Schönberg Chaley,Route Joseph-Chaley,1700,Fribourg,Active
-796,46.82482068793405,7.15174354915194,Forum Fribourg,Rte du Lac,1763,Granges-Paccot,Active
-797,46.81795070092267,7.126884943129607,Place des Osses,Route du Tir-Fédéral,1762,Givisiez,Active
 798,47.325159,8.647915,Forch,Kaltensteinstrasse 32,8127,Forch,Active
-799,46.80778475,7.1029457,"Corminboeuf, Route du Centre",Route du Centre 13,1720,Corminboeuf,Active
-800,46.8124563613632,7.127767764590539,Place d'Affry,Place d'Affry,1762,Givisiez,Active
 801,45.844533,8.926253,Montanstahl Via Gerette,Via Gerette,6855,Stabio,Active
 803,46.51196729119777,6.4849846482546685,Eglantine,Promenade de l'Eglantine 1,1110,Morges,Active
 804,46.979405440906326,7.457189997936046,Worblaufen RBS Bahnhof,Tiefenaustrasse 2,3048,Ittigen,Active
@@ -649,8 +597,6 @@ id,latitude,longitude,name,address,zip,city,state
 809,46.530961547725724,6.570954143053104,Cèdres,Allée des Cèdres,1022,Chavannes-près-Renens,Active
 810,46.419162,6.282356,"Gland, Place Riant-Coteau",Rue du Riant-Coteau,1196,Gland,Active
 811,46.417503,6.271244,"Gland, Le Midi",Rue du Midi,1196,Gland,Active
-812,46.79364606401284,7.150040893601194,Route des Cliniques,Route des Cliniques,1700,Fribourg,Active
-813,46.77578804990217,7.156581598521503,Ecoquartier Marly,Route du Moulin,1723,Marly,Active
 814,46.96629170335004,7.48318298315503,UPD Restaurant,UPD Bern,3000,Bern,Active
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
 816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
@@ -660,7 +606,7 @@ id,latitude,longitude,name,address,zip,city,state
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active
 824,46.95626329415468,7.482893566913186,Ostermundigen Bahnhof,Poststrasse 1,3072,Ostermundigen,Active
 825,46.95123907638763,7.487040006612239,Waldheimstrasse,Bachstrasse 5-1,3072,Ostermundigen,Active
-826,46.988369990781095,7.463319968143853,Ausser Betrieb aus technischen Gründen: INFORAMA Zollikofen,Rütti 10,3052,Zollikofen,Active
+826,46.988369990781095,7.463319968143853,INFORAMA Zollikofen,Rütti 10,3052,Zollikofen,Active
 827,47.405478,8.481071,Frankental,Frankentalerstrasse 10,8049,Zürich,Active
 828,46.941794,7.390649,Fussgängerzone Bümpliz,Bümplizstrasse 112,3000,Bern,Active
 829,46.8934148092464,7.3518540937205685,Thörishaus Dorf SBB SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active
@@ -673,7 +619,6 @@ id,latitude,longitude,name,address,zip,city,state
 837,46.387342,6.227582,"Nyon, La Levratte",Av. Alfred Cortot,1260,Nyon,Active
 838,46.505009,6.641321,Tour Haldimand - TetraLaval TetraPak,Av. Général-Guisan 70,1009,Pully,Active
 839,46.52877795845398,6.614257776560184,Parc de Valency,Av. d'Echallens,1004,Lausanne,Active
-840,46.80036467702836,7.175555914805134,Bourguillon,Route de Bourguillon,1722,Fribourg,Active
 841,46.938446718314495,7.4808033698062095,Wittigkofen,Jupiterstrasse 1,3015,Bern,Active
 842,46.93658906078831,7.395474687081315,Weidmattweg,Weidmattweg 1,3018,Bern,Active
 843,46.94303954532779,7.4016277739719145,Stöckacker Süd,Bethlehemstrasse 118,3018,Bern,Active
@@ -716,3 +661,10 @@ id,latitude,longitude,name,address,zip,city,state
 890,47.012883,7.469947,Lochacker Moosseedorf,Lochackerweg 5,3302,Moosseedorf,Active
 891,46.001191,8.985164,Lugano Cortivo,Via Cortivo,6900,Lugano,Active
 892,45.83778,9.02214,Chiasso Boffalora,Piazza Boffalora,6830,Chiasso,Active
+893,46.97551090002302,7.441680989240398,Fährstrasse,Fährstrasse 43,3004,Bern,Active
+894,46.97251813179933,7.441408311220162,Felsenaustrasse,Felsenaustrasse 17,3004,Bern,Active
+895,46.9353829,7.3500931,Oberbottigen,Hausmattweg 291,3019,Bern,Active
+896,46.9412774,7.3351513,Riedbach Bahnhof,Bottigenstrasse 397b,3020,Bern,Active
+897,46.953849946675895,7.446921728056858,Wyttenbachstrasse,Schänzlihalde 30,3013,Bern,Active
+898,46.950486,7.455069,Altenbergstrasse,Altenbergstrasse 39,3013,Bern,Active
+899,46.96593389019524,7.44160952607623,Studerstrasse,Studerstrasse 62,3004,Bern,Active

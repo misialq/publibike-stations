@@ -65,7 +65,7 @@ id,latitude,longitude,name,address,zip,city,state
 100,47.368064,8.539046,Zürcher Kantonalbank,Talstrasse 12,8001,Zürich,Active
 101,47.3625938,8.5348427,Rentenanstalt,Breitingerstrasse 5,8002,Zürich,Active
 102,47.3897772,8.5166922,Turbinenplatz,Technoparkstrasse 4,8005,Zürich,Active
-104,47.373935,8.538633,Rennweg,Bahnhofstrasse 66,8001,Zürich,Inactive
+104,47.373935,8.538633,Rennweg,Bahnhofstrasse 66,8001,Zürich,Active
 105,47.377359,8.535855,Sihlpost,Kasernenstrasse 101,8004,Zürich,Active
 106,47.382798,8.53545,Museum für Gestaltung,Ausstellungsstrasse 44,8005,Zürich,Active
 107,47.365139,8.530916,Bederbrücke,Gutenbergstrasse 1,8002,Zürich,Active
@@ -143,7 +143,7 @@ id,latitude,longitude,name,address,zip,city,state
 193,46.9552642,7.4593279,Kasernenstrasse HKB,Kasernenstrasse 13k,3014,Bern,Active
 194,46.95860113643669,7.456935120256138,Kasernenwiese,Militärstrasse 42,3014,Bern,Active
 195,46.9543451,7.4453536,Lorrainebrücke,Lorrainestrasse 1,3013,Bern,Active
-196,46.9665865,7.4639627,Wankdorf Bhf Süd: Aufgrund Konzert am 03.07.24 von 12.00 bis 00.00 Uhr ausser Betrieb,Wankdorffeldstrasse 2,3014,Bern,Active
+196,46.9665865,7.4639627,Wankdorf Bhf Süd,Wankdorffeldstrasse 2,3014,Bern,Active
 197,46.9394841,7.3899968,Bachmätteli,Bottigenstrasse 9,3018,Bern,Active
 198,46.9439597,7.3746103,Westside,Riedbachstrasse 96,3027,Bern,Active
 199,46.9456501,7.3901001,Bahnhof Bümpliz Nord,Mühledorfstrasse 20,3018,Bern,Active
@@ -191,7 +191,7 @@ id,latitude,longitude,name,address,zip,city,state
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
 255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
-256,46.9555118,7.4768856,Station Zentweg: wird vom 04.07.24 bis Ende November in den Breitenweg verschoben.,Zentweg 25,3006,Bern,Active
+256,46.955784,7.477027,Zentweg,Breiteweg 2-10,3006,Bern,Active
 257,46.9480422,7.4502406,Simsonbrunnen,Kramgasse 40,3011,Bern,Active
 258,46.9475995,7.4473498,Theaterplatz,Theaterplatz 4,3011,Bern,Active
 259,46.9539295,7.4267524,Waldheim,Freiestrasse 43,3012,Bern,Active
@@ -298,7 +298,7 @@ id,latitude,longitude,name,address,zip,city,state
 391,47.401852,8.499265,Meierhofplatz,Limmattalstrasse 177,8049,Zürich,Active
 392,47.393309,8.528074,Röschibachplatz,Röschibachstrasse 73,8037,Zürich,Active
 393,47.415721,8.538067,Oerliker Park,Birchstrasse 191,8050,Zürich,Active
-395,47.367055,8.541683,Bürkliplatz,Stadthausquai 1,8001,Zürich,Inactive
+395,47.367055,8.541683,Bürkliplatz,Stadthausquai 1,8001,Zürich,Active
 396,47.409881,8.535767,Holunderhof,Regensbergstrasse 195,8050,Zürich,Active
 411,46.9257473,7.3770699,Niederwangen Bahnhof,Freiburgstrasse 554a,3098,Köniz,Active
 412,46.9266467,7.4359484,Bellevuestrasse,Bellevuestrasse 75,3095,Köniz,Active
@@ -637,7 +637,7 @@ id,latitude,longitude,name,address,zip,city,state
 860,45.998476,8.923755,Muzzano paese,Via Alla Selva,6933,Muzzano,Active
 863,46.038841,8.946213,Cureglia,Incrocio Via San Giuseppe / Via Cantonale,6944,Cureglia,Active
 864,46.008146,8.969007,Cassarate Via del Tiglio,Via del Tiglio,6900,Lugano,Active
-865,45.838047,9.026857,fuori servizio per motivi technici : Chiasso Piscine,Via Rinaldo Simen,6830,Chiasso,Active
+865,45.838047,9.026857,Chiasso Piscine,Via Rinaldo Simen,6830,Chiasso,Active
 866,47.407433,8.639147,Skyguide,Flugsicherungsstrasse 2,8602,Wangen,Active
 867,46.9477816,7.4365087,Welle 7 Velostation (06:00-22:00)- INSIDE the building!,Merkurgässli,3008,Bern,Active
 877,46.97422346344607,7.476819763848439,Papiermühle Bahnhof,Papiermühlestrasse 172,3063,Ittigen,Active

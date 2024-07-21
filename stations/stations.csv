@@ -40,7 +40,7 @@ id,latitude,longitude,name,address,zip,city,state
 49,46.005707,8.95184,Piazza Mercato/Contrada di Verla,Via Pretorio / Piazza Mercato,6900,Lugano,Active
 50,45.984764,8.932378,Fornaci,Via Pian Scairolo 9,6912,Pazzallo,Active
 51,45.991081,8.943799,Paradiso Centro,Via Franco Zorzi,6900,Lugano,Active
-60,47.374785,8.539882,Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Inactive
+60,47.374785,8.539882,Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
 61,47.4099615,8.5452956,Marktplatz,Querstrasse 8,8050,Zürich,Active
 80,47.3795837,8.5156327,Bullingerplatz,Bullingerstrasse 5,8004,Zürich,Active
 81,47.3899342,8.5104051,Herdern,Pfingstweidstrasse 96e,8001,Zürich,Active
@@ -160,7 +160,7 @@ id,latitude,longitude,name,address,zip,city,state
 211,46.383066,6.225766,"Nyon, Hôpital",Chemin de Monastier,1260,Nyon,Active
 212,46.958717,7.4646494,Guisanplatz Expo,Mingerstrasse 4,3006,Bern,Active
 213,46.9503428,7.435298,UniS,Schanzeneckstrasse 1,3012,Bern,Active
-214,46.94626,7.43804,Wallgasse,Wallgasse 3,3011,Bern,Active
+214,46.94626,7.43804,Station Wallgasse: Prakfeld aufgrund Baustelle eingeschränkt (16.07.24 - 16.09.24),Wallgasse 3,3011,Bern,Active
 215,46.9520639,7.4615809,Rosengarten Ost,Reiterstrasse 19,3006,Bern,Active
 216,46.9538192,7.4581813,Schönburg,Spitalackerstrasse 12,3013,Bern,Active
 217,46.9483305,7.44079,Bahnhofplatz,Spitalgasse 44,3011,Bern,Active
@@ -202,8 +202,8 @@ id,latitude,longitude,name,address,zip,city,state
 264,47.353198,8.553189,Lake Side,Bellerivestrasse 170,8008,Zürich,Active
 266,47.375819,8.516676,Lochergut,Badenerstrasse 246,8004,Zürich,Active
 271,46.947856328360984,7.436903989490435,PostParc Velostation (06:00-22:00)- INSIDE the building!,Schanzenstrasse 5,3008,Bern,Active
-273,47.389862,8.514605,Westpark,Pfingstweidstrasse 60,8005,Zürich,Active
-274,47.375991201,8.541239126,Beatenplatz,Beatenplatz 1,8001,Zürich,Inactive
+273,47.389862,8.514605,Westpark,Pfingstweidstrasse 60,8005,Zürich,Inactive
+274,47.375991201,8.541239126,Beatenplatz,Beatenplatz 1,8001,Zürich,Active
 275,47.394007,8.542036,Pauluskirche,Milchbuckstrasse 52,8057,Zürich,Active
 276,47.414545,8.552747,Airgate,Hagenholzstrasse 51,8050,Zürich,Active
 277,47.413514,8.537816,Lamprechtweg,Birchstrasse 183,8050,Zürich,Active
@@ -307,7 +307,7 @@ id,latitude,longitude,name,address,zip,city,state
 415,46.916092,7.418571,Entsorgungshof Werkhof,Muhlernstrasse 101,3098,Köniz,Active
 416,46.93046,7.428167,Steinhölzli,Kirchstrasse 6a,3097,Köniz,Active
 417,46.92903811738819,7.417226193945767,Neuhausplatz,Könizstrasse 249,3097,Köniz,Active
-418,46.92878380186514,7.44610102408428,Station ausser Betrieb vom 15.07.24 bis 22.07.24,Bahnhofstrasse 14,3084,Köniz,Active
+418,46.929822,7.445017,Gurtenfestival 3,Kirchstrasse,3084,Köniz,Active
 419,46.93036,7.41929,Liebefeld Bahnhof,Stationsstrasse 1,3097,Köniz,Active
 420,46.9356189,7.4165883,Vidmar,Könizstrasse 161,3097,Köniz,Active
 421,46.9229774,7.4141121,Köniz Zentrum,Bläuacker 10,3098,Köniz,Active
@@ -486,9 +486,9 @@ id,latitude,longitude,name,address,zip,city,state
 666,46.997311304908294,7.458796441962296,Ziegelei Märit,Märitgasse 1,3052,Zollikofen,Active
 667,46.99996912619948,7.442087059202756,Geisshubel Zollikofen,Im Kläyhof 2,3052,Zollikofen,Active
 668,46.93369386095887,7.423407106637636,Jägerweg,Schwarzenburgstrasse 105,3097,Köniz,Active
-669,46.99202428819717,7.457368930354201,Unterzollikofen Bahnhof,Lätternweg 6,3052,Zollikofen,Inactive
+669,46.99202428819717,7.457368930354201,Unterzollikofen Bahnhof,Lätternweg 6,3052,Zollikofen,Active
 670,46.9313589644514,7.446041234885444,Sandrain,Seftigenstrasse 186a,3098,Köniz,Active
-671,46.92898585565497,7.450277590824284,Wabern Zentrum:  ausser Betrieb vom 15.07.24 bis 22.07.24,Waldblickstrasse 8,3084,Köniz,Active
+671,46.92898585565497,7.450277590824284,Wabern Zentrum: Station ausser Betrieb bis am 22.07.24 aufgrund Gurtenfestival,Waldblickstrasse 8,3084,Köniz,Inactive
 673,46.931588810237784,7.485518127326376,Sternen Muri,Thunstrasse 74a,3074,Muri,Active
 674,46.93357261917911,7.505070609131323,Bahnhof Gümligen,Worbstrasse 210,3074,Muri,Active
 675,46.95906857,7.47775778,Burgfeld,Mittelholzerstrasse 30,3006,Bern,Active
@@ -572,7 +572,7 @@ id,latitude,longitude,name,address,zip,city,state
 766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active
 767,46.459494,6.333472,"Rolle, Martinet",Route des Quarte-Communes 7,1180,Rolle,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,6830,Chiasso,Active
-771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
+771,47.403145,8.609221,Vorübergehend wegen eines technischen Problems geschlossen - Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
 772,46.9191591,7.4383865,Station ausser Betrieb bis am 22.07.24 aufgrund Gurtenfestival,Gurten - Park im Grünen,3084,Köniz,Inactive
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
@@ -601,10 +601,12 @@ id,latitude,longitude,name,address,zip,city,state
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
 816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
 817,46.51673942261787,6.566454652605652,Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
+818,46.929742,7.44506,Gurtenfestival 1,Kirchstrasse 152,3084,Köniz,Active
+819,46.929612328482335,7.445094435077926,Gurtenfestival 2,Kirchstrasse 152,3084,Wabern bei Bern,Active
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
 822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active
-824,46.95626329415468,7.482893566913186,Ostermundigen Bahnhof,Poststrasse 1,3072,Ostermundigen,Active
+824,46.956504,7.482886,Ostermundigen Bahnhof: provisorischer Standort bis Ende 2024,Poststrasse 31,3072,Ostermundigen,Active
 825,46.95123907638763,7.487040006612239,Waldheimstrasse,Bachstrasse 5-1,3072,Ostermundigen,Active
 826,46.988369990781095,7.463319968143853,INFORAMA Zollikofen,Rütti 10,3052,Zollikofen,Active
 827,47.405478,8.481071,Frankental,Frankentalerstrasse 10,8049,Zürich,Active

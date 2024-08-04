@@ -154,13 +154,13 @@ id,latitude,longitude,name,address,zip,city,state
 205,46.032852,8.921806,Manno Parco Giova,Via Norello 4,6928,Manno,Active
 206,45.982042,8.883593,Magliaso FLP,Via Stazione  18,6983,Magliaso,Active
 207,46.001154,8.934162,Sorengo Parco Sportivo,Via al Laghetto 5,6924,Sorengo,Active
-208,45.977309,8.875447,Caslano FLP,Via Stazione 77,6987,Caslano,Active
+208,45.977309,8.875447,Caslano FLP - fuori servizio per lavori di costruzione,Via Stazione 77,6987,Caslano,Inactive
 209,46.022676,8.917196,Manno Centro di Calcolo,Via Cantonale 16,6928,Manno,Active
 210,45.996253,8.900957,Agno FLP,Via Stazione 2,6982,Agno,Active
 211,46.383066,6.225766,"Nyon, Hôpital",Chemin de Monastier,1260,Nyon,Active
 212,46.958717,7.4646494,Guisanplatz Expo,Mingerstrasse 4,3006,Bern,Active
 213,46.9503428,7.435298,UniS,Schanzeneckstrasse 1,3012,Bern,Active
-214,46.94626,7.43804,Station Wallgasse: Prakfeld aufgrund Baustelle eingeschränkt (16.07.24 - 16.09.24),Wallgasse 3,3011,Bern,Active
+214,46.94626,7.43804,Station Wallgasse: aufgrund Baustelle eingeschränkt (16.07.24 - 16.09.24),Wallgasse 3,3011,Bern,Active
 215,46.9520639,7.4615809,Rosengarten Ost,Reiterstrasse 19,3006,Bern,Active
 216,46.9538192,7.4581813,Schönburg,Spitalackerstrasse 12,3013,Bern,Active
 217,46.9483305,7.44079,Bahnhofplatz,Spitalgasse 44,3011,Bern,Active
@@ -186,23 +186,23 @@ id,latitude,longitude,name,address,zip,city,state
 248,45.993326,8.924532,Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Active
 249,46.000482,8.912639,Muzzano Industria,Via Industria,6933,Muzzano,Active
 250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
-251,46.9487682,7.4475691,Kornhausplatz,Kornhausplatz 18,3011,Bern,Active
+251,46.9487682,7.4475691,Kornhausplatz: vom 05.-12.08.24 ausser Betrieb aufgrund Buskers,Kornhausplatz 18,3011,Bern,Active
 252,46.9497908,7.4441278,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
 255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
 256,46.955784,7.477027,Zentweg,Breiteweg 2-10,3006,Bern,Active
-257,46.9480422,7.4502406,Simsonbrunnen,Kramgasse 40,3011,Bern,Active
+257,46.9480422,7.4502406,Simsonbrunnen: vom 05.-12.08.24 ausser Betrieb aufgrund Buskers,Kramgasse 40,3011,Bern,Active
 258,46.9475995,7.4473498,Theaterplatz,Theaterplatz 4,3011,Bern,Active
 259,46.9539295,7.4267524,Waldheim,Freiestrasse 43,3012,Bern,Active
-260,46.9486794,7.4532728,Postgasse,Postgasse 66,3011,Bern,Active
+260,46.9486794,7.4532728,Postgasse: vom 05.-12.08.24 ausser Betrieb aufgrund Buskers,Postgasse 66,3011,Bern,Active
 261,46.9366583,7.4679887,Ringoltingenstrasse,Ringoltingenstrasse 21,3006,Bern,Active
 262,46.9416249,7.4631929,Böcklinstrasse,Brunnadernstrasse 20,3006,Bern,Active
 263,47.359978,8.552717,Feldeggstrasse,Seefeldstrasse 96,8008,Zürich,Active
 264,47.353198,8.553189,Lake Side,Bellerivestrasse 170,8008,Zürich,Active
 266,47.375819,8.516676,Lochergut,Badenerstrasse 246,8004,Zürich,Active
 271,46.947856328360984,7.436903989490435,PostParc Velostation (06:00-22:00)- INSIDE the building!,Schanzenstrasse 5,3008,Bern,Active
-273,47.389862,8.514605,Westpark,Pfingstweidstrasse 60,8005,Zürich,Inactive
+273,47.389862,8.514605,Westpark,Pfingstweidstrasse 60,8005,Zürich,Active
 274,47.375991201,8.541239126,Beatenplatz,Beatenplatz 1,8001,Zürich,Active
 275,47.394007,8.542036,Pauluskirche,Milchbuckstrasse 52,8057,Zürich,Active
 276,47.414545,8.552747,Airgate,Hagenholzstrasse 51,8050,Zürich,Active
@@ -359,7 +359,7 @@ id,latitude,longitude,name,address,zip,city,state
 472,46.9477995,7.454056,Junkerngasse,Junkerngasse 30,3011,Bern,Active
 473,46.9491966,7.445947,Predigergasse,Predigergasse 6,3011,Bern,Active
 474,46.9501048,7.4283779,Depotstrasse,Depotstrasse 2,3012,Bern,Active
-475,46.9475304,7.4521275,Münster,Münstergasse 2,3011,Bern,Active
+475,46.9475304,7.4521275,Münster: vom 05.-12.08.24 ausser Betrieb aufgrund Buskers,Münstergasse 2,3011,Bern,Active
 476,46.9459831,7.4394178,Kleine Schanze,Schwanengasse 14,3011,Bern,Active
 477,46.9616862,7.4396136,Innere Enge,Engestrasse 54a,3012,Bern,Active
 478,46.9406928,7.4431488,Dampfzentrale,Marzilistrasse 45,3005,Bern,Active
@@ -497,7 +497,7 @@ id,latitude,longitude,name,address,zip,city,state
 680,46.946852812713296,7.483654624791477,Merzenacker,Obere Zollgasse 94,3006,Bern,Active
 681,46.93987160970557,7.425113039012359,Weberstrasse,Weberstrasse 25,3007,Bern,Active
 682,46.938845,7.4210796,Kirchbergerstrasse,Kirchbergerstrasse 41,3008,Bern,Active
-683,46.948471616973904,7.450529302235038,Rathausgasse,Rathausgasse 31,3000,Bern,Active
+683,46.948471616973904,7.450529302235038,Rathausgasse: vom 05.-12.08.24 ausser Betrieb aufgrund Buskers,Rathausgasse 31,3000,Bern,Active
 684,45.87125166693927,8.98675487202064,Mendrisio Municipio,Via Municipio,6850,Mendrisio,Active
 685,45.87216325637743,8.983528791038395,Mendrisio CPI,Via Franco Zorzi,6850,Mendrisio,Active
 686,45.8762029265714,8.981280464481735,Mendrisio Fox Town,Via Moree,6850,Mendrisio,Active

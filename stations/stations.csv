@@ -196,7 +196,7 @@ id,latitude,longitude,name,address,zip,city,state
 258,46.9475995,7.4473498,Theaterplatz,Theaterplatz 4,3011,Bern,Active
 259,46.9539295,7.4267524,Waldheim,Freiestrasse 43,3012,Bern,Active
 260,46.9486794,7.4532728,Postgasse,Postgasse 66,3011,Bern,Active
-261,46.9366583,7.4679887,Ringoltingenstrasse,Ringoltingenstrasse 21,3006,Bern,Active
+261,46.9366583,7.4679887,Ringoltingenstrasse: am 31.08.24 ausser Betrieb (10.00 - 23.45),Ringoltingenstrasse 21,3006,Bern,Active
 262,46.9416249,7.4631929,Böcklinstrasse,Brunnadernstrasse 20,3006,Bern,Active
 263,47.359978,8.552717,Feldeggstrasse,Seefeldstrasse 96,8008,Zürich,Active
 264,47.353198,8.553189,Lake Side,Bellerivestrasse 170,8008,Zürich,Active
@@ -216,7 +216,7 @@ id,latitude,longitude,name,address,zip,city,state
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
 288,45.982056,8.918121,Montagnola Piazza Brocchi,Piazza Brocchi,6926,Montagnola,Active
 289,46.012555,8.943487,Massagno,"via dei Platani,",6908,Massagno,Active
-290,46.946888089472424,7.445830418186601,Nationalbank: vom 16.08.24 - 19.08.24 ausser Betrieb aufgrund Event,Inselgasse 1,3011,Bern,Inactive
+290,46.946888089472424,7.445830418186601,Nationalbank,Inselgasse 1,3011,Bern,Active
 291,46.9635131,7.4555218,Markuskirche,Winkelriedstrasse 56,3014,Bern,Active
 292,46.946604,7.441624,Bundesgasse,Bundesgasse 3,3011,Bern,Active
 293,46.9465196,7.4481457,Casinoplatz,Casinoplatz 3,3011,Bern,Active
@@ -240,8 +240,8 @@ id,latitude,longitude,name,address,zip,city,state
 312,46.9356089,7.4471426,Ka-We-De,Jubiläumsstrasse 101,3005,Bern,Active
 313,46.9415535,7.4708855,Jolimontstrasse,Jolimontstrasse 18,3006,Bern,Active
 314,46.9450822,7.4324521,Haslerstrasse,Haslerstrasse 4,3008,Bern,Active
-315,46.9424453,7.4431193,Marzilibad: vom 16.08.24 - 19.08.24 ausser Betrieb aufgrund Event,Marzilistrasse 29,3005,Bern,Inactive
-316,46.9446775,7.4432641,Marzilibahn: vom 16.08.24 - 19.08.24 ausser Betrieb aufgrund Event,Brückenstrasse 20,3005,Bern,Inactive
+315,46.9424453,7.4431193,Marzilibad,Marzilistrasse 29,3005,Bern,Active
+316,46.9446775,7.4432641,Marzilibahn,Brückenstrasse 20,3005,Bern,Active
 317,46.9460279,7.4332165,Kocherpark,Effingerstrasse 27,3008,Bern,Active
 318,46.9410334,7.4359176,Monbijoustrasse,Monbijoustrasse 61,3007,Bern,Active
 319,47.00268,7.44109,Post IT Zollikofen,Webergutstrasse 12,3052,Zollikofen,Active
@@ -361,7 +361,7 @@ id,latitude,longitude,name,address,zip,city,state
 473,46.9491966,7.445947,Predigergasse,Predigergasse 6,3011,Bern,Active
 474,46.9501048,7.4283779,Depotstrasse,Depotstrasse 2,3012,Bern,Active
 475,46.9475304,7.4521275,Münster,Münstergasse 2,3011,Bern,Active
-476,46.9459831,7.4394178,Kleine Schanze: vom 16.08.24 - 19.08.24 ausser Betrieb aufgrund Event,Schwanengasse 14,3011,Bern,Inactive
+476,46.9459831,7.4394178,Kleine Schanze,Schwanengasse 14,3011,Bern,Active
 477,46.9616862,7.4396136,Innere Enge,Engestrasse 54a,3012,Bern,Active
 478,46.9406928,7.4431488,Dampfzentrale,Marzilistrasse 45,3005,Bern,Active
 479,46.9581458,7.4349895,Neufeldstrasse Ost,Neufeldstrasse 129,3012,Bern,Active
@@ -371,7 +371,7 @@ id,latitude,longitude,name,address,zip,city,state
 483,46.9390885,7.4286407,Beaumontweg,Schwarzenburgstrasse 21,3007,Bern,Active
 484,46.9456022,7.434734,Seilerstrasse,Seilerstrasse 22,3011,Bern,Active
 485,46.9432858,7.4144036,Stämpflistrasse,Stoosstrasse 2,3008,Bern,Active
-486,46.9503044,7.4145806,Sanpol Bern: ausser Betrieb vom 23.08.24 (20.00) bis 24.08.24 (18.00),Murtenstrasse 111,3008,Bern,Active
+486,46.9503044,7.4145806,Sanpol Bern,Murtenstrasse 111,3008,Bern,Active
 487,46.524105,6.632782,Station temporairement fermée,Place de la Riponne 7,1005,Lausanne,Inactive
 488,46.517009,6.635237,"Avenue de la Gare, TX Group SA",Avenue de la Gare 12A,1003,Lausanne,Active
 489,46.523333,6.625402,Station temporairement fermée,Place Chauderon 11,1003,Lausanne,Inactive
@@ -388,7 +388,7 @@ id,latitude,longitude,name,address,zip,city,state
 518,47.39572,8.62328,Oberdorf,Alte Oberdorfstrasse 15,8600,Dübendorf,Active
 519,47.430911,8.562033,Bahnhof Opfikon,Schaffhauserstrasse 64,8152,Opfikon,Active
 520,47.40245,8.62726,Flugplatz Dübendorf,Wangenstrasse 47-39,8600,Dübendorf,Active
-521,47.39733,8.61865,Stadthaus Dübendorf,Usterstrasse 1,8600,Dübendorf,Active
+521,47.39733,8.61865,Außer Betrieb wegen Event -Stadthaus Dübendorf,Usterstrasse 1,8600,Dübendorf,Inactive
 522,47.444516,8.582115,Schluefweg,Schluefweg 10,8302,Kloten,Active
 523,47.43117,8.55845,Bahnhof Glattbrugg,Bahnhofplatz 1,8152,Opfikon,Active
 524,47.451336,8.58205,Stadtplatz Kloten,Bachstrasse 8,8302,Kloten,Active
@@ -411,9 +411,9 @@ id,latitude,longitude,name,address,zip,city,state
 546,46.939462,7.46973,Elfenauweg,Elfenauweg 6a,3006,Bern,Active
 547,46.942351,7.452777,Luisenstrasse,Luisenstrasse 18,3005,Bern,Active
 548,46.944243,7.399437,Stöckacker Migros,Bethlehemstrasse 106,3018,Bern,Active
-549,46.951735,7.416496,Forsthaus KVA / TBA: ausser Betrieb vom 23.08.24 (20.00) bis 24.08.24 (18.00),Murtenstrasse 98,3008,Bern,Active
+549,46.951735,7.416496,Forsthaus KVA / TBA,Murtenstrasse 98,3008,Bern,Active
 550,46.958014,7.444949,Quartiergasse,Quartiergasse 31,3013,Bern,Active
-551,46.957196,7.450895,Breitenrainstrasse,Optingenstrasse 53,3013,Bern,Active
+551,46.957592,7.451454,Breitenrainstrasse,Breitenrainstrasse 27,3013,Bern,Active
 552,46.952701,7.454585,Salem-Spital,Schänzlistrasse 33,3013,Bern,Active
 553,46.944672,7.422308,Loryplatz,Könizstrasse 6,3008,Bern,Active
 554,46.95251,7.467399,Ostermundigerstrasse,Ostermundigenstrasse 36,3006,Bern,Active

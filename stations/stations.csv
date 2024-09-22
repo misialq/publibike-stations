@@ -1,6 +1,6 @@
 id,latitude,longitude,name,address,zip,city,state
 6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Ecublens,Active
-7,46.522591,6.584961,HORS SERVICE: Digital Dreams Festival - Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Ecublens,Inactive
+7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Ecublens,Active
 8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Ecublens,Active
 9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Ecublens,Active
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
@@ -91,7 +91,7 @@ id,latitude,longitude,name,address,zip,city,state
 133,47.36162,8.554501,Villa Bleuler,Feldeggstrasse 80,8008,Zürich,Active
 134,47.358557,8.557088,Mühlebachstrasse,Mühlebachstrasse 131,8008,Zürich,Active
 135,47.361335,8.547781,Seebad Utoquai,Utoquai 50,8008,Zürich,Active
-137,47.370869,8.548045,Kunsthaus,Heimplatz 1,8001,Zürich,Active
+137,47.370305,8.548429,EVENT Station - Kunsthaus,Heimplatz 1,8001,Zürich,Active
 138,47.375933,8.543447,Central,Limmatquai 138,8001,Zürich,Active
 139,47.410618,8.55189,Messe/Hallenstadion,Wallisellenstrasse 46,8050,Zürich,Active
 140,47.366904,8.533736,Bleicherweg,Bleicherweg 33,8002,Zürich,Active
@@ -160,7 +160,7 @@ id,latitude,longitude,name,address,zip,city,state
 211,46.383066,6.225766,"Nyon, Hôpital",Chemin de Monastier,1260,Nyon,Active
 212,46.958717,7.4646494,Guisanplatz Expo,Mingerstrasse 4,3006,Bern,Active
 213,46.9503428,7.435298,UniS,Schanzeneckstrasse 1,3012,Bern,Active
-214,46.94626,7.43804,Station Wallgasse: aufgrund Baustelle eingeschränkt (16.07.24 - 16.09.24),Wallgasse 3,3011,Bern,Active
+214,46.94626,7.43804,Wallgasse,Wallgasse 3,3011,Bern,Active
 215,46.9520639,7.4615809,Rosengarten Ost,Reiterstrasse 19,3006,Bern,Active
 216,46.9538192,7.4581813,Schönburg,Spitalackerstrasse 12,3013,Bern,Active
 217,46.9483305,7.44079,Bahnhofplatz,Spitalgasse 44,3011,Bern,Active
@@ -205,11 +205,13 @@ id,latitude,longitude,name,address,zip,city,state
 273,47.389862,8.514605,Westpark,Pfingstweidstrasse 60,8005,Zürich,Active
 274,47.375991201,8.541239126,Beatenplatz,Beatenplatz 1,8001,Zürich,Active
 275,47.394007,8.542036,Pauluskirche,Milchbuckstrasse 52,8057,Zürich,Active
-276,47.414545,8.552747,Airgate,Hagenholzstrasse 51,8050,Zürich,Active
+276,47.413318,8.553279,EVENT Station - Parkhaus Messe Zürich,Hagenholzstrasse 51,8050,Zürich,Active
 277,47.413514,8.537816,Lamprechtweg,Birchstrasse 183,8050,Zürich,Active
 278,47.417701,8.545602,Emil-Oberhänsli,Felsenrainstrasse 2,8050,Zürich,Active
 279,47.39808,8.533647,Bucheggplatz,Bucheggplatz 2,8057,Zürich,Active
 280,47.392347,8.523549,Wipkingerplatz,Wipkingerplatz 4,8037,Zürich,Active
+282,47.358176,8.583796,Event Station - Witikon 1,Drusbergstrasse 135,8053,Zürich,Active
+283,47.355144,8.600699,Event Station - Witikon 2,Trichtenhausenstrasse 121,8053,Zürich,Active
 284,46.520469823395864,6.630836110862832,Place de l’Europe,Place Centrale,1003,Lausanne,Active
 285,47.36691,8.548562,Bahnhof Stadelhofen,Galerie über Gleis 3,8001,Zürich,Active
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
@@ -298,7 +300,7 @@ id,latitude,longitude,name,address,zip,city,state
 391,47.401852,8.499265,Meierhofplatz,Limmattalstrasse 177,8049,Zürich,Active
 392,47.393309,8.528074,Röschibachplatz,Röschibachstrasse 73,8037,Zürich,Active
 393,47.415721,8.538067,Oerliker Park,Birchstrasse 191,8050,Zürich,Active
-395,47.367055,8.541683,Bürkliplatz,Stadthausquai 1,8001,Zürich,Active
+395,47.367055,8.541683,Ausser Betrieb wegen Event - Bürkliplatz,Stadthausquai 1,8001,Zürich,Inactive
 396,47.409881,8.535767,Holunderhof,Regensbergstrasse 195,8050,Zürich,Active
 411,46.9257473,7.3770699,Niederwangen Bahnhof,Freiburgstrasse 554a,3098,Köniz,Active
 412,46.9266467,7.4359484,Bellevuestrasse,Bellevuestrasse 75,3095,Köniz,Active
@@ -660,3 +662,4 @@ id,latitude,longitude,name,address,zip,city,state
 900,46.545388,6.588019,Arbora,En baumettaz 5,1023,Renens,Active
 901,46.006757,8.936176,Sorengo Gemmo,Via gemmo 6,6924,Sorengo,Active
 902,45.996331,8.935102,Sorengo San Grato,Via Ponte Tresa 35,6924,Sorengo,Active
+903,46.92692,7.503482,Cinedome Muri,Feldstrasse 32,3073,Muri bei Bern,Active

@@ -327,7 +327,7 @@ id,latitude,longitude,name,address,zip,city,state
 435,46.009713,8.96008,Ospedale Italiano di Lugano,Via Pietro Cappelli,6900,Lugano,Active
 436,46.014127,8.959087,Casa Serena,Via Marco da Carona 10-12,6900,Lugano,Active
 437,46.01876,8.96429,Via Ceresio,Via Ceresio,6900,Lugano,Active
-438,46.0036519,8.9529036,Piazza Manzoni,Piazza Manzoni,6900,Lugano,Active
+438,46.0036519,8.9529036,fuori servizio per evento: Piazza Manzoni,Piazza Manzoni,6900,Lugano,Inactive
 440,46.0166117,8.9596513,Via Beltramina,Via Beltramina 16,6900,Lugano,Active
 441,45.989126,8.946661,Paradiso Stazione FFS,Via Carona,6900,Paradiso,Active
 444,47.375247,8.496511,Sackzelg,Letzigraben 139,8047,Zürich,Active
@@ -663,3 +663,6 @@ id,latitude,longitude,name,address,zip,city,state
 901,46.006757,8.936176,Sorengo Gemmo,Via gemmo 6,6924,Sorengo,Active
 902,45.996331,8.935102,Sorengo San Grato,Via Ponte Tresa 35,6924,Sorengo,Active
 903,46.92692,7.503482,Cinedome Muri,Feldstrasse 32,3073,Muri bei Bern,Active
+904,46.557488,6.579244,Casard - Plan-Soleil,Chem. de Plan-Soleil 3,1023,Crissier,Active
+905,46.55951,6.573065,Crésentine,Chemin de la Pierre 2,1023,Crissier,Active
+906,46.549139,6.579048,Place Centrale,Rue des Alpes 6,1023,Crissier,Active

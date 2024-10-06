@@ -91,7 +91,7 @@ id,latitude,longitude,name,address,zip,city,state
 133,47.36162,8.554501,Villa Bleuler,Feldeggstrasse 80,8008,Zürich,Active
 134,47.358557,8.557088,Mühlebachstrasse,Mühlebachstrasse 131,8008,Zürich,Active
 135,47.361335,8.547781,Seebad Utoquai,Utoquai 50,8008,Zürich,Active
-137,47.370305,8.548429,EVENT Station - Kunsthaus,Heimplatz 1,8001,Zürich,Active
+137,47.370869,8.548045,Kunsthaus,Heimplatz 1,8001,Zürich,Active
 138,47.375933,8.543447,Central,Limmatquai 138,8001,Zürich,Active
 139,47.410618,8.55189,Messe/Hallenstadion,Wallisellenstrasse 46,8050,Zürich,Active
 140,47.366904,8.533736,Bleicherweg,Bleicherweg 33,8002,Zürich,Active
@@ -205,13 +205,11 @@ id,latitude,longitude,name,address,zip,city,state
 273,47.389862,8.514605,Westpark,Pfingstweidstrasse 60,8005,Zürich,Active
 274,47.375991201,8.541239126,Beatenplatz,Beatenplatz 1,8001,Zürich,Active
 275,47.394007,8.542036,Pauluskirche,Milchbuckstrasse 52,8057,Zürich,Active
-276,47.413318,8.553279,EVENT Station - Parkhaus Messe Zürich,Hagenholzstrasse 51,8050,Zürich,Active
+276,47.414545,8.552747,Airgate,Hagenholzstrasse 51,8050,Zürich,Active
 277,47.413514,8.537816,Lamprechtweg,Birchstrasse 183,8050,Zürich,Active
 278,47.417701,8.545602,Emil-Oberhänsli,Felsenrainstrasse 2,8050,Zürich,Active
 279,47.39808,8.533647,Bucheggplatz,Bucheggplatz 2,8057,Zürich,Active
 280,47.392347,8.523549,Wipkingerplatz,Wipkingerplatz 4,8037,Zürich,Active
-282,47.358176,8.583796,Event Station - Witikon 1,Drusbergstrasse 135,8053,Zürich,Active
-283,47.355144,8.600699,Event Station - Witikon 2,Trichtenhausenstrasse 121,8053,Zürich,Active
 284,46.520469823395864,6.630836110862832,Place de l’Europe,Place Centrale,1003,Lausanne,Active
 285,47.36691,8.548562,Bahnhof Stadelhofen,Galerie über Gleis 3,8001,Zürich,Active
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
@@ -300,7 +298,7 @@ id,latitude,longitude,name,address,zip,city,state
 391,47.401852,8.499265,Meierhofplatz,Limmattalstrasse 177,8049,Zürich,Active
 392,47.393309,8.528074,Röschibachplatz,Röschibachstrasse 73,8037,Zürich,Active
 393,47.415721,8.538067,Oerliker Park,Birchstrasse 191,8050,Zürich,Active
-395,47.367055,8.541683,Ausser Betrieb wegen Event - Bürkliplatz,Stadthausquai 1,8001,Zürich,Inactive
+395,47.367055,8.541683,Bürkliplatz,Stadthausquai 1,8001,Zürich,Active
 396,47.409881,8.535767,Holunderhof,Regensbergstrasse 195,8050,Zürich,Active
 411,46.9257473,7.3770699,Niederwangen Bahnhof,Freiburgstrasse 554a,3098,Köniz,Active
 412,46.9266467,7.4359484,Bellevuestrasse,Bellevuestrasse 75,3095,Köniz,Active
@@ -327,7 +325,7 @@ id,latitude,longitude,name,address,zip,city,state
 435,46.009713,8.96008,Ospedale Italiano di Lugano,Via Pietro Cappelli,6900,Lugano,Active
 436,46.014127,8.959087,Casa Serena,Via Marco da Carona 10-12,6900,Lugano,Active
 437,46.01876,8.96429,Via Ceresio,Via Ceresio,6900,Lugano,Active
-438,46.0036519,8.9529036,fuori servizio per evento: Piazza Manzoni,Piazza Manzoni,6900,Lugano,Inactive
+438,46.0036519,8.9529036,Piazza Manzoni,Piazza Manzoni,6900,Lugano,Active
 440,46.0166117,8.9596513,Via Beltramina,Via Beltramina 16,6900,Lugano,Active
 441,45.989126,8.946661,Paradiso Stazione FFS,Via Carona,6900,Paradiso,Active
 444,47.375247,8.496511,Sackzelg,Letzigraben 139,8047,Zürich,Active
@@ -464,7 +462,7 @@ id,latitude,longitude,name,address,zip,city,state
 609,46.42391,6.26546,"Gland, Grand'Rue",Grand-Rue 38,1196,Gland,Active
 610,46.42329,6.27557,"Gland, Montoly",Chemin de Montoly 1,1196,Gland,Active
 611,46.38362,6.23574,"Nyon, Gare Sud",Rue de la gare 38,1260,Nyon,Active
-612,46.37679,6.23515,"Nyon, La Plage",Route de Genève 12,1260,Nyon,Active
+612,46.37679,6.23515,"station temporairement hors service - Nyon, La Plage",Route de Genève 12,1260,Nyon,Inactive
 613,46.39236,6.23137,"Nyon, Hostel",Chemin des Plantaz 27,1260,Nyon,Active
 614,46.38356,6.23973,"Nyon, Petit Perdtemps",Petit-Perdtemps,1260,Nyon,Active
 616,46.975958,7.472646,Bundesamt für Energie,Mühlestrasse 4,3063,Ittigen,Active
@@ -555,7 +553,7 @@ id,latitude,longitude,name,address,zip,city,state
 743,45.84700376233985,9.005261994529603,Balerna Stazione FFS,Via Stazione,6828,Balerna,Active
 744,45.849737477082186,9.008044185318527,Balerna Ossario,Via Carlo Silva 2,6828,Balerna,Active
 745,45.844602,9.030907,Scuole Via Franscini,Via Stefano Franscini,6833,Vacallo,Active
-746,45.841894,8.916675,Stabio - Gaggiolo,Via Gaggiolo,6855,Stabio,Active
+746,45.841894,8.916675,Fuori servizio per motivi technici: Stabio - Gaggiolo,Via Gaggiolo,6855,Stabio,Active
 747,45.92241761420432,8.98598929175441,Piazzale Filanda,Via Capeleta,6818,Melano,Active
 748,45.932192,8.974225,Maroggia Stazione,Viale Stazione,6817,Maroggia,Active
 749,46.01839064983639,8.952667134728758,Ospedale Civico,Via Tesserete 46,6900,Lugano,Active

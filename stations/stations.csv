@@ -217,7 +217,7 @@ id,latitude,longitude,name,address,zip,city,state
 289,46.012555,8.943487,Massagno,"via dei Platani,",6908,Massagno,Active
 290,46.946888089472424,7.445830418186601,Nationalbank,Inselgasse 1,3011,Bern,Active
 291,46.9635131,7.4555218,Markuskirche,Winkelriedstrasse 56,3014,Bern,Active
-292,46.946604,7.441624,Bundesgasse,Bundesgasse 3,3011,Bern,Active
+292,46.946604,7.441624,Station Bundesgasse: ausser Betrieb am 16.10.24 (09:00 - 20.00),Bundesgasse 3,3011,Bern,Active
 293,46.9465196,7.4481457,Casinoplatz,Casinoplatz 3,3011,Bern,Active
 294,46.95386,7.4365667,Hallerstrasse West,Zähringerstrasse 13,3012,Bern,Active
 295,46.9371056,7.4178248,Sporthalle Weissenstein,Hardeggerstrasse 1,3008,Bern,Active
@@ -462,7 +462,7 @@ id,latitude,longitude,name,address,zip,city,state
 609,46.42391,6.26546,"Gland, Grand'Rue",Grand-Rue 38,1196,Gland,Active
 610,46.42329,6.27557,"Gland, Montoly",Chemin de Montoly 1,1196,Gland,Active
 611,46.38362,6.23574,"Nyon, Gare Sud",Rue de la gare 38,1260,Nyon,Active
-612,46.37679,6.23515,"station temporairement hors service - Nyon, La Plage",Route de Genève 12,1260,Nyon,Inactive
+612,46.37679,6.23515,"Nyon, La Plage",Route de Genève 12,1260,Nyon,Active
 613,46.39236,6.23137,"Nyon, Hostel",Chemin des Plantaz 27,1260,Nyon,Active
 614,46.38356,6.23973,"Nyon, Petit Perdtemps",Petit-Perdtemps,1260,Nyon,Active
 616,46.975958,7.472646,Bundesamt für Energie,Mühlestrasse 4,3063,Ittigen,Active
@@ -553,7 +553,7 @@ id,latitude,longitude,name,address,zip,city,state
 743,45.84700376233985,9.005261994529603,Balerna Stazione FFS,Via Stazione,6828,Balerna,Active
 744,45.849737477082186,9.008044185318527,Balerna Ossario,Via Carlo Silva 2,6828,Balerna,Active
 745,45.844602,9.030907,Scuole Via Franscini,Via Stefano Franscini,6833,Vacallo,Active
-746,45.841894,8.916675,Fuori servizio per motivi technici: Stabio - Gaggiolo,Via Gaggiolo,6855,Stabio,Active
+746,45.841894,8.916675,Stabio - Gaggiolo,Via Gaggiolo,6855,Stabio,Active
 747,45.92241761420432,8.98598929175441,Piazzale Filanda,Via Capeleta,6818,Melano,Active
 748,45.932192,8.974225,Maroggia Stazione,Viale Stazione,6817,Maroggia,Active
 749,46.01839064983639,8.952667134728758,Ospedale Civico,Via Tesserete 46,6900,Lugano,Active

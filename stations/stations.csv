@@ -40,7 +40,7 @@ id,latitude,longitude,name,address,zip,city,state
 49,46.005707,8.95184,Piazza Mercato/Contrada di Verla,Via Pretorio / Piazza Mercato,6900,Lugano,Active
 50,45.984764,8.932378,Fornaci,Via Pian Scairolo 9,6912,Pazzallo,Active
 51,45.991081,8.943799,Paradiso Centro,Via Franco Zorzi,6900,Lugano,Active
-60,47.374785,8.539882,Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
+60,47.374405,8.540113,Werdmühleplatz,Werdmühleplatz 1,8001,Zürich,Active
 61,47.4099615,8.5452956,Marktplatz,Querstrasse 8,8050,Zürich,Active
 80,47.3795837,8.5156327,Bullingerplatz,Bullingerstrasse 5,8004,Zürich,Active
 81,47.3899342,8.5104051,Herdern,Pfingstweidstrasse 96e,8001,Zürich,Active
@@ -215,9 +215,9 @@ id,latitude,longitude,name,address,zip,city,state
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
 288,45.982056,8.918121,Montagnola Piazza Brocchi,Piazza Brocchi,6926,Montagnola,Active
 289,46.012555,8.943487,Massagno,"via dei Platani,",6908,Massagno,Active
-290,46.946888089472424,7.445830418186601,Station Nationalbank: ausser Betrieb vom 05. - 07.11.24,Inselgasse 1,3011,Bern,Active
+290,46.946888089472424,7.445830418186601,Nationalbank,Inselgasse 1,3011,Bern,Active
 291,46.9635131,7.4555218,Markuskirche,Winkelriedstrasse 56,3014,Bern,Active
-292,46.946604,7.441624,Station Bundesgasse: ausser Bertrieb vom 05. - 07.11.24,Bundesgasse 3,3011,Bern,Active
+292,46.946604,7.441624,Bundesgasse,Bundesgasse 3,3011,Bern,Active
 293,46.9465196,7.4481457,Casinoplatz,Casinoplatz 3,3011,Bern,Active
 294,46.95386,7.4365667,Hallerstrasse West,Zähringerstrasse 13,3012,Bern,Active
 295,46.9371056,7.4178248,Sporthalle Weissenstein,Hardeggerstrasse 1,3008,Bern,Active
@@ -283,11 +283,11 @@ id,latitude,longitude,name,address,zip,city,state
 372,46.970948,7.472052,GVB,Papiermühlestrasse 130,3063,Ittigen,Active
 374,46.88922737105038,7.367057544825261,SwissBikePark Oberried,Oberriedgässli 6,3145,Niederscherli,Active
 377,46.0121344,8.9657021,Viganello,Via la Santa,6900,Lugano,Active
-378,46.0082843,8.9512745,Via Ginevra,via Ginevra,6900,Lugnao,Active
+378,46.0082843,8.9512745,Via Ginevra,via Ginevra,6900,Lugano,Active
 379,46.008095,8.957432,Lambertenghi,Via Bertaro Lambertenghi,6900,Lugano,Active
 380,46.0090116,8.9638054,Via Dei Faggi,Viale dei Faggi,6900,Lugano,Active
 381,46.012252,8.955118,Piazza Molino Nuovo,Piazza Molino Nuovo,6900,Lugano,Active
-382,45.972202,8.915525,Bigogno - Campo sportivo,Via Collina d'Oro,6926,Colina d'Oro,Active
+382,45.972202,8.915525,Bigogno - Campo sportivo,Via Collina d'Oro,6926,Collina d'Oro,Active
 384,47.378556,8.520168,Hermann-Greulich-Strasse,Herman-Greulich-Strasse 56,8004,Zürich,Active
 385,47.368939,8.523306,Aegerten,Erlachstrasse 3,8003,Zürich,Active
 386,47.384902,8.547904,Rigiplatz,Culmannstrasse 100,8006,Zürich,Active
@@ -434,7 +434,7 @@ id,latitude,longitude,name,address,zip,city,state
 572,47.402749,8.5355,Radiostudio,Wehntalerstrasse 98,8057,Zürich,Active
 574,47.45041071949902,8.563071583930034,Flughafen Kloten,Veloabstellplatz Parking 2,8302,Kloten,Active
 581,46.514554,6.619263,Vaudoise Assurances,Avenue de Cour 43,1007,Lausanne,Active
-583,45.97765,8.926757,IBSA,Via del Piano 7,6926,Collina,Active
+583,45.97765,8.926757,IBSA,Via del Piano 7,6926,Collina d'Oro,Active
 584,46.006076,8.966775,Lanchetta,via delle Scuole,6900,Lugano,Active
 585,46.016524,8.955876,Via Vignola,Via Trevano,6900,Lugano,Active
 586,46.020198,8.97169,Via Loco,Via Loco,6900,Lugano,Active
@@ -486,7 +486,7 @@ id,latitude,longitude,name,address,zip,city,state
 666,46.997311304908294,7.458796441962296,Ziegelei Märit,Märitgasse 1,3052,Zollikofen,Active
 667,46.99996912619948,7.442087059202756,Geisshubel Zollikofen,Im Kläyhof 2,3052,Zollikofen,Active
 668,46.93369386095887,7.423407106637636,Jägerweg,Schwarzenburgstrasse 105,3097,Köniz,Active
-669,46.99202428819717,7.457368930354201,Unterzollikofen Bahnhof: Station wird vorübergehend verschoben  (08.11. - 18.12.) prov. Standort: Feuerwehr Zollikofen,Lätternweg 6,3052,Zollikofen,Active
+669,46.991923,7.458236,Unterzollikofen Bahnhof (prov. Standort bis 18.12.24),Lätternweg 6,3052,Zollikofen,Active
 670,46.9313589644514,7.446041234885444,Sandrain,Seftigenstrasse 186a,3098,Köniz,Active
 671,46.92898585565497,7.450277590824284,Wabern Zentrum,Waldblickstrasse 8,3084,Köniz,Active
 673,46.931588810237784,7.485518127326376,Sternen Muri,Thunstrasse 74a,3074,Muri,Active
@@ -504,7 +504,7 @@ id,latitude,longitude,name,address,zip,city,state
 687,45.84024833885875,8.997598436485646,Incrocio via Torraccia - via Cereda,Via Torraccia 1,6883,Novazzano,Active
 688,45.86552127511925,8.977682352126578,Mendrisio Mercato Coperto,Via Campo Sportivo,6850,Mendrisio,Active
 689,45.82606824449524,9.013036784694819,Pedrinate,Strade Regina 5,6832,Pedrinate,Active
-690,45.83031984322107,8.996931081752528,Fuori servizio per motivi technici: Seseglio,Via Campagna 4,6832,Pedrinate (località Seseglio),Active
+690,45.83031984322107,8.996931081752528,Seseglio,Via Campagna 4,6832,Pedrinate (località Seseglio),Active
 691,45.856501,8.988615,ColdreBike,Via San Gottardo,6877,Coldrerio,Active
 692,45.831757,9.032651,Chiasso Stazione FFS,Via Giuseppe Motta,6830,Chiasso,Active
 693,45.835102068444385,9.027882228092864,Chiasso Municipio,Piazza Col. C. Bernasconi 1,6830,Chiasso,Active
@@ -524,7 +524,7 @@ id,latitude,longitude,name,address,zip,city,state
 710,45.87483787298627,8.937745151961444,Arzo Scuole,Via Onorio Longhi 2,6864,Mendrisio,Active
 711,45.871996543772816,8.994334187178147,Salorino Nucleo,Via S. Rocco 16,6872,Mendrisio,Active
 712,45.854808754188724,8.96080186040559,Genestrerio Nucleo,Piazza Baraini,6851,Genestrerio,Active
-713,45.87264624215591,8.953349054900483,Besazio Nucleo,Via Besazio,6863,Beazio,Active
+713,45.87264624215591,8.953349054900483,Besazio Nucleo,Via Besazio,6863,Besazio,Active
 714,45.86245058491458,8.980687511646552,Mendrisio Comparto Scuole,Via Pier Francesco Mola,6850,Mendrisio,Active
 715,45.890055,8.950718,Quartiere di Meride,Ala Caraa,6866,Meride,Active
 716,45.86687922879933,8.983606564693778,Mendrisio Ospedale,Via Alfonso Turconi 25,6850,Mendrisio,Active
@@ -553,7 +553,7 @@ id,latitude,longitude,name,address,zip,city,state
 743,45.84700376233985,9.005261994529603,Balerna Stazione FFS,Via Stazione,6828,Balerna,Active
 744,45.849737477082186,9.008044185318527,Balerna Ossario,Via Carlo Silva 2,6828,Balerna,Active
 745,45.844602,9.030907,Scuole Via Franscini,Via Stefano Franscini,6833,Vacallo,Active
-746,45.841894,8.916675,Stabio - Gaggiolo,Via Gaggiolo,6855,Stabio,Active
+746,45.841894,8.916675,Stazione fuori servizio per motivi tecnici - Stabio - Gaggiolo,Via Gaggiolo,6855,Stabio,Active
 747,45.92241761420432,8.98598929175441,Piazzale Filanda,Via Capeleta,6818,Melano,Active
 748,45.932192,8.974225,Maroggia Stazione,Viale Stazione,6817,Maroggia,Active
 749,46.01839064983639,8.952667134728758,Ospedale Civico,Via Tesserete 46,6900,Lugano,Active
@@ -609,7 +609,7 @@ id,latitude,longitude,name,address,zip,city,state
 826,46.988369990781095,7.463319968143853,INFORAMA Zollikofen,Rütti 10,3052,Zollikofen,Active
 827,47.405478,8.481071,Frankental,Frankentalerstrasse 10,8049,Zürich,Active
 828,46.941794,7.390649,Fussgängerzone Bümpliz,Bümplizstrasse 112,3000,Bern,Active
-829,46.8934148092464,7.3518540937205685,Thörishaus Dorf SBB SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active
+829,46.8934148092464,7.3518540937205685,Station aus technischen Gründen ausser Betrieb - Thörishaus Dorf SBB SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active
 830,46.90080888317644,7.401061091966004,Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Active
 831,47.394686,8.478455,ZSC Lions,Vulkanstrasse 130,8048,Zürich,Active
 832,46.025237,8.963681,Cornèr Arena - HC Lugano,Via Sonvico di Porza,6900,Lugano,Active

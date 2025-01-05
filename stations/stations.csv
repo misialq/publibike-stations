@@ -2,7 +2,7 @@ id,latitude,longitude,name,address,zip,city,state
 6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Ecublens,Active
 7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Ecublens,Active
 8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Ecublens,Active
-9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Ecublens,Active
+9,46.519805,6.579676,Hors service pour des raisons techniques : Centre Sportif UNIL EPFL,Route Cantonale,1015,Ecublens,Active
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
 11,46.521978,6.564896,Rivier,Route de la Sorge,1015,Ecublens,Active
 12,46.520723,6.568276,Piccard,Avenue Piccard,1015,Ecublens,Active
@@ -110,7 +110,7 @@ id,latitude,longitude,name,address,zip,city,state
 158,47.373675,8.545505,Predigerplatz,Predigerpatz 21,8001,Zürich,Active
 159,47.371868,8.515558,Zwinglihaus,Aemtlerstrasse 23,8003,Zürich,Active
 160,47.385718,8.524762,Josefwiese,Otto-Str. 25,8005,Zürich,Active
-161,46.38278,6.24357,"Hors service pour des raisons techniques : Nyon, Débarcadère",Rue de Rive 24-28,1260,Nyon,Active
+161,46.38278,6.24357,"Nyon, Débarcadère",Rue de Rive 24-28,1260,Nyon,Active
 162,46.38347,6.2137814,"Eysins, Terre Bonne Park",Route de Crassier 13,1262,Eysins,Active
 163,46.3995398,6.2321083,"Nyon, Changins",Domaine de Changins,1260,Duillier,Active
 164,47.387531,8.527138,Markthalle,Röntgenstrasse 87,8005,Zürich,Active
@@ -452,7 +452,7 @@ id,latitude,longitude,name,address,zip,city,state
 598,46.38065,6.20499,"Eysins, Vieux-Collège",Rue du Vieux-Collège 3-1,1262,Eysins,Active
 599,46.33296,6.19293,"Founex, village",Grand-Rue 29,1297,Founex,Active
 600,46.45924,6.34011,"Rolle, Château",Place des Tilleuls,1180,Rolle,Active
-601,46.45543,6.336791,"Rolle, Débarcadère",Rue du Port,1180,Rolle,Active
+601,46.45543,6.336791,"Hors service pour des raisons techniques : Rolle, Débarcadère",Rue du Port,1180,Rolle,Active
 602,47.000176,7.461966,Zollikofen Bahnhof,Bernstrasse 189,3052,Zollikofen,Active
 603,47.409405,8.596064,Glattzentrum,Neue Winterthurerstrasse 82,8304,Wallisellen,Active
 605,46.46063,6.32262,"Rolle, by A-One",Z. A. La Pièce 4,1180,Rolle,Active
@@ -486,7 +486,7 @@ id,latitude,longitude,name,address,zip,city,state
 666,46.997311304908294,7.458796441962296,Ziegelei Märit,Märitgasse 1,3052,Zollikofen,Active
 667,46.99996912619948,7.442087059202756,Geisshubel Zollikofen,Im Kläyhof 2,3052,Zollikofen,Active
 668,46.93369386095887,7.423407106637636,Jägerweg,Schwarzenburgstrasse 105,3097,Köniz,Active
-669,46.991923,7.458236,Unterzollikofen Bahnhof (prov. Standort bis 23.12.24),Lätternweg 6,3052,Zollikofen,Active
+669,46.99209094019186,7.457337793897621,Unterzollikofen Bahnhof,Bernstrasse 90d,3052,Zollikofen,Active
 670,46.9313589644514,7.446041234885444,Sandrain,Seftigenstrasse 186a,3098,Köniz,Active
 671,46.92898585565497,7.450277590824284,Wabern Zentrum,Waldblickstrasse 8,3084,Köniz,Active
 673,46.931588810237784,7.485518127326376,Sternen Muri,Thunstrasse 74a,3074,Muri,Active
@@ -522,7 +522,7 @@ id,latitude,longitude,name,address,zip,city,state
 708,45.87023343314977,8.987408595931916,Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
 709,45.86959228856764,8.989624365925325,Mendrisio La Filanda,Largo Mario Soldini,6859,Mendrisio,Active
 710,45.87483787298627,8.937745151961444,Arzo Scuole,Via Onorio Longhi 2,6864,Mendrisio,Active
-711,45.871996543772816,8.994334187178147,Salorino Nucleo,Via S. Rocco 16,6872,Mendrisio,Active
+711,45.871996543772816,8.994334187178147,Fuori servizio per motivi tecnici - Salorino Nucleo,Via S. Rocco 16,6872,Mendrisio,Active
 712,45.854808754188724,8.96080186040559,Genestrerio Nucleo,Piazza Baraini,6851,Genestrerio,Active
 713,45.87264624215591,8.953349054900483,Besazio Nucleo,Via Besazio,6863,Besazio,Active
 714,45.86245058491458,8.980687511646552,Mendrisio Comparto Scuole,Via Pier Francesco Mola,6850,Mendrisio,Active
@@ -538,13 +538,13 @@ id,latitude,longitude,name,address,zip,city,state
 724,45.85527,8.93759,Stabio Via Arca,Via Arca,6855,Stabio,Active
 725,45.90587981635428,8.972694428589046,Riva San Vitale - Posteggio Piazzale a Lago,Via al Lido,6826,Riva San Vitale,Active
 726,46.9647833374251,7.4484037810233445,Wylergut,Dändlikerweg 48,3013,Bern,Active
-730,46.46264,6.33681,"Rolle, Gare",Avenue de la gare 29,1180,Rolle,Active
+730,46.46264,6.33681,"Hors service pour des raisons techniques : Rolle, Gare",Avenue de la gare 29,1180,Rolle,Active
 731,46.380297084312886,6.240987669660989,"Nyon, Place de Savoie","Nyon, Place de Savoie",1260,Nyon,Active
 732,46.388983510293066,6.223670386094328,"Nyon, Piscine du Cossy",Route de Signy 21,1260,Nyon,Active
-733,46.461609,6.346166,"Rolle, Camping",Chemin de la Plage 4,1180,Rolle,Active
+733,46.461609,6.346166,"hors service pour des raisons techniques : Rolle, Camping",Chemin de la Plage 4,1180,Rolle,Active
 734,46.381576302180214,6.240310145601514,"Nyon, Château",Rue Maupertuis 2,1260,Nyon,Active
 735,46.30442257745524,6.169752668043726,"Mies, Administration",Route de Veytey,1295,Mies,Active
-736,46.452185194140014,6.2910599793253486,"Bursins, Place du Soleil",Place du Soleil,1183,Bursins,Active
+736,46.452185194140014,6.2910599793253486,"hors service pour des raisons techniques : Bursins, Place du Soleil",Place du Soleil,1183,Bursins,Active
 737,46.42708,6.26574,"Gland, Eikenott",Allée du Communet,1196,Gland,Active
 738,46.41916420448668,6.288709722973113,"Gland, La Falaise",Chemin de la Falaise,1196,Gland,Active
 739,46.42782864376307,6.276592047529303,"Gland, En Bord",Chemin du Lavasson,1196,Gland,Active
@@ -561,7 +561,7 @@ id,latitude,longitude,name,address,zip,city,state
 751,45.92991043850694,8.938161232544616,Brusino Arsizio – Debarcadero,Piazza Don F. Andreoletti 1,6827,Brusino Arsizio,Active
 752,46.027895,8.954881,Porza Sant'Elena,Via Cantonale,6948,Porza,Active
 753,46.3221235178547,6.187826521431379,"Coppet, Rojalets",Route de Founex,1296,Coppet,Active
-754,46.304039,6.179519,"Mies, Plage",Route Suisse,1295,Mies,Active
+754,46.304039,6.179519,"Hors service pour des raisons techniques : Mies, Plage",Route Suisse,1295,Mies,Active
 755,46.3176389,6.188055555555556,"Coppet, Gare",Place de la Gare 1,1296,Coppet,Active
 756,46.370779,6.228414,"Nyon, Stade de Colovray",Route de Genève 37,1260,Nyon,Active
 757,46.543261033642686,6.661545646440144,Croisettes-Biopôle,Route de la Corniche 2,1066,Epalinges,Active
@@ -609,7 +609,7 @@ id,latitude,longitude,name,address,zip,city,state
 826,46.988369990781095,7.463319968143853,INFORAMA Zollikofen,Rütti 10,3052,Zollikofen,Active
 827,47.405478,8.481071,Frankental,Frankentalerstrasse 10,8049,Zürich,Active
 828,46.941794,7.390649,Fussgängerzone Bümpliz,Bümplizstrasse 112,3000,Bern,Active
-829,46.8934148092464,7.3518540937205685,Thörishaus Dorf SBB SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active
+829,46.8934148092464,7.3518540937205685,Aus technischen Gründen ausser Betrieb - Thörishaus Dorf SBB SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active
 830,46.90080888317644,7.401061091966004,Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Active
 831,47.394686,8.478455,ZSC Lions,Vulkanstrasse 130,8048,Zürich,Active
 832,46.025237,8.963681,Cornèr Arena - HC Lugano,Via Sonvico di Porza,6900,Lugano,Active

@@ -16,13 +16,13 @@ id,latitude,longitude,name,address,zip,city,state
 25,46.51729603169255,6.630497103216617,Lausanne Gare CFF Nord,Avenue de la Gare,1003,Lausanne,Active
 26,46.521668,6.581345,Unil Centre,Unicentre,1015,Ecublens,Active
 27,46.50225151684113,6.48110823288,Medtronic,Route du Molliau 31,1131,Tolochenaz,Active
-28,46.515862,6.630461,Lausanne Gare CFF Sud,Passage des Saugettes 7,1003,Lausanne,Active
+28,46.515862,6.630461,fermé temporairement pour des raisons techniques - Lausanne Gare CFF Sud,Passage des Saugettes 7,1003,Lausanne,Active
 29,46.5058,6.6711,Paudex,Route du Lac,1094,Paudex,Active
-30,46.511048,6.492569,Moulin,Gare de Morges,1110,Morges,Active
+30,46.511048,6.492569,fermé temporairement pour des raisons techniques - Moulin,Gare de Morges,1110,Morges,Active
 31,46.50737,6.495352,Dufour,Place Dufour,1110,Morges,Active
 32,46.510581,6.496026,Sablon,Rue Centrale,1110,Morges,Active
 33,46.512991,6.614122,Station temporairement fermée,Avenue de Rhodanie 40,1007,Lausanne,Inactive
-34,46.532879,6.566487,Croset,Route du Bois 29a,1024,Ecublens,Active
+34,46.532879,6.566487,fermé temporairement pour des raisons techniques - Croset,Route du Bois 29a,1024,Ecublens,Active
 35,46.510562,6.499863,Temple,Grand-Rue,1110,Morges,Active
 36,46.51856,6.50736,Gracieuse,Avenue de Lonay,1110,Morges,Active
 37,46.538908,6.581072,Place du Marché,Av. du Quatorze-Avril 12,1020,Renens,Active
@@ -125,7 +125,7 @@ id,latitude,longitude,name,address,zip,city,state
 175,46.9393577,7.3863865,Statthalterstrasse,Freieckweg 2,3018,Bern,Active
 176,46.935853071517315,7.390354333129826,Technopark,Weidgasse 2,3018,Bern,Active
 177,46.94941743287729,7.381454366484235,Holenackerstrasse,Holenackerstrasse 24,3027,Bern,Active
-178,46.9372059,7.3872274,Kleefeld,Mädergutstrasse 5,3018,Bern,Active
+178,46.937354294265226,7.387354188494794,Kleefeld,Rehhagstrasse 37-31,3018,Bern,Active
 179,46.9454695,7.3928104,Schwabgut,Schwabstrasse 10,3018,Bern,Active
 180,46.9477116,7.3774722,Gäbelbach,Colombstrasse 11,3027,Bern,Active
 181,46.9378963,7.3954739,Bahnhof Bümpliz Süd,Bümplizstrasse 187,3018,Bern,Active
@@ -183,11 +183,11 @@ id,latitude,longitude,name,address,zip,city,state
 245,46.012749,8.914699,Molinazzo,Via Longa,6934,Bioggio,Active
 246,46.040345,8.932433,Lamone - Cadempino FFS,Via Girella 49,6814,Lamone,Active
 247,46.020356,8.916114,Bioggio Via Industria,Via Industria 31,6934,Bioggio,Active
-248,45.993326,8.924532,Temporaneamente chiuso per problemi tecnici - Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Active
+248,45.993326,8.924532,Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Active
 249,46.000482,8.912639,Muzzano Industria,Via Industria,6933,Muzzano,Active
 250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
 251,46.9487682,7.4475691,Kornhausplatz,Kornhausplatz 18,3011,Bern,Active
-252,46.9497908,7.4441278,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
+252,46.94970199819606,7.44441499979321,Speichergasse PROGR - verschoben aufgrund Baustelle,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
 255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
@@ -316,7 +316,7 @@ id,latitude,longitude,name,address,zip,city,state
 424,47.406988,8.532464,Birchdörfli,Künzlistrasse 41,8057,Zürich,Active
 425,47.420757,8.508131,Bahnhof Affoltern,S-Bahnhof 1,8046,Zürich,Active
 426,47.4039845,8.5787183,Kronwiesen,Kronwiesenstrasse 35,8051,Zürich,Active
-427,47.4188324,8.5064743,Zehntenhausplatz,Wehntalerstrasse 541,8046,Zürich,Active
+427,47.4188324,8.5064743,Ausser Betrieb wegen Baustelle - Zehntenhausplatz,Wehntalerstrasse 541,8046,Zürich,Inactive
 428,47.40158,8.58841,Hirzenbachstrasse,Hirzenbachstrasse 2-4,8051,Zürich,Active
 429,47.4080095,8.5777038,Luegisland,Luegislandstrasse 412,8051,Zürich,Active
 430,47.382577,8.546903,Stapferstube,Stapferstrasse 7,8006,Zürich,Active
@@ -401,7 +401,7 @@ id,latitude,longitude,name,address,zip,city,state
 532,47.412103,8.592144,Bahnhof Wallisellen,Signum-Platz,8304,Wallisellen,Active
 536,47.381591,8.49038,Freilager,Rautistrasse 60,8048,Zürich,Active
 537,47.416873,8.555639,Leutschenpark,Leutschenbachstrasse 50,8050,Zürich,Active
-538,47.367656,8.516257,Ausser Betrieb ab 23. Jan. - Kirche Bühl,Goldbrunnenstrasse 54,8055,Zürich,Inactive
+538,47.368014,8.515902,Kirche Bühl,Goldbrunnenstrasse 54,8055,Zürich,Active
 539,47.402801,8.58131,Glattwiesen,Altwiesenstrasse 104,8051,Zürich,Active
 540,47.403822,8.546464,Berninaplatz,Berninastrasse 45,8057,Zürich,Active
 543,46.517338,6.59775,Siège du CIO,Chemin du Camping 3,1007,Lausanne,Active
@@ -459,7 +459,7 @@ id,latitude,longitude,name,address,zip,city,state
 606,46.31526,6.19271,"Coppet, Port",Place des Ormes,1296,Coppet,Active
 607,46.29934,6.16927,"Mies, Gare",Route de la gare,1295,Mies,Active
 608,46.42121,6.26294,"Gland, La Dôle",Chemin de la Dôle 15-11,1196,Gland,Active
-609,46.42391,6.26546,"Gland, Grand'Rue",Grand-Rue 38,1196,Gland,Active
+609,46.42391,6.26546,"fermé temporairement pour des raisons techniques - Gland, Grand'Rue",Grand-Rue 38,1196,Gland,Active
 610,46.42329,6.27557,"Gland, Montoly",Chemin de Montoly 1,1196,Gland,Active
 611,46.38362,6.23574,"Nyon, Gare Sud",Rue de la gare 38,1260,Nyon,Active
 612,46.37679,6.23515,"Nyon, La Plage",Route de Genève 12,1260,Nyon,Active
@@ -469,7 +469,7 @@ id,latitude,longitude,name,address,zip,city,state
 618,45.958424,8.917052,chiuso per sempre:  Barbengo,Via Soreso 6,6917,Lugano,Active
 619,46.016072,8.941042,Piscina Valgersa,Via Val Gersa,6942,Savosa,Active
 620,45.973369,8.927351,Centro Lugano Sud,Via Cantonale,6916,Grancia,Active
-625,46.03702,8.954823,chiuso per sempre: Comano Centro Prospò,Parcheggio Chiesa Comano,6949,Comano,Inactive
+625,46.03702,8.954823,Stazione chiusa: Comano Centro Prospò,Parcheggio Chiesa Comano,6949,Comano,Inactive
 626,46.55095610567505,6.57306649851556,Oassis,Chemin des Lentillières 15,1023,Crissier,Active
 627,45.999094,8.945139,via Maraini,via Clemente Maraini 12,6900,Lugano,Active
 628,46.00627672,8.94272889,Besso,via Besso 23,6900,Lugano,Active
@@ -542,7 +542,7 @@ id,latitude,longitude,name,address,zip,city,state
 731,46.380297084312886,6.240987669660989,"Nyon, Place de Savoie","Nyon, Place de Savoie",1260,Nyon,Active
 732,46.388983510293066,6.223670386094328,"Nyon, Piscine du Cossy",Route de Signy 21,1260,Nyon,Active
 733,46.461609,6.346166,"Rolle, Camping",Chemin de la Plage 4,1180,Rolle,Active
-734,46.381576302180214,6.240310145601514,"Nyon, Château",Rue Maupertuis 2,1260,Nyon,Active
+734,46.381576302180214,6.240310145601514,"fermé temporairement pour des raisons techniques - Nyon, Château",Rue Maupertuis 2,1260,Nyon,Active
 735,46.30442257745524,6.169752668043726,"Mies, Administration",Route de Veytey,1295,Mies,Active
 736,46.452185194140014,6.2910599793253486,"Bursins, Place du Soleil",Place du Soleil,1183,Bursins,Active
 737,46.42708,6.26574,"Gland, Eikenott",Allée du Communet,1196,Gland,Active
@@ -568,13 +568,13 @@ id,latitude,longitude,name,address,zip,city,state
 758,46.547872289288286,6.671632436126663,"Epalinges, Croix-Blanche",Rte de la Croix-Blanche 25,1066,Epalinges,Active
 763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
 764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
-765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
+765,46.345477,6.162667,"fermé temporairement pour des raisons techniques - Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
 766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active
 767,46.459494,6.333472,"Rolle, Martinet",Route des Quarte-Communes 7,1180,Rolle,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,6830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
 772,46.9191591,7.4383865,Gurten Kulm: WINTERPAUSE - Station nicht in Betrieb,Gurten - Park im Grünen,3084,Köniz,Inactive
-774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
+774,45.841265,8.98136,chiuso durante il carnevale: Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Inactive
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
 780,46.003948,8.961542,Foce,Via Foce,6900,Lugano,Active
 781,46.018784,8.962014,CSIA,Via Brentani,6900,Lugano,Active
@@ -587,7 +587,7 @@ id,latitude,longitude,name,address,zip,city,state
 789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
-798,47.325159,8.647915,Ausser Betrieb aus technischen Gründen: Forch,Kaltensteinstrasse 32,8127,Forch,Active
+798,47.325159,8.647915,Forch,Kaltensteinstrasse 32,8127,Forch,Active
 801,45.844533,8.926253,Montanstahl Via Gerette,Via Gerette,6855,Stabio,Active
 803,46.51196729119777,6.4849846482546685,Eglantine,Promenade de l'Eglantine 1,1110,Morges,Active
 804,46.979405440906326,7.457189997936046,Worblaufen RBS Bahnhof,Tiefenaustrasse 2,3048,Ittigen,Active
@@ -629,7 +629,7 @@ id,latitude,longitude,name,address,zip,city,state
 850,46.428783178554085,6.249760378428628,"Vich, Poste",Place Marcel Ponce,1267,Vich,Active
 852,46.5183879308213,6.4569022616279925,Denens village,Rue de la Cité 2,1135,Denens,Active
 853,46.51061054877812,6.659367730704223,Gare de Pully sud,Place de la Gare 1,1009,Pully,Active
-854,46.514863230694175,6.658812113086054,Gare de Pully nord,Chem. du Montillier 9,1009,Pully,Active
+854,46.514863230694175,6.658812113086054,fermé temporairement pour des raisons techniques - Gare de Pully nord,Chem. du Montillier 9,1009,Pully,Active
 855,46.52785589336738,6.560535663689192,Brûlée,"Rte de la Brûlée, 1024 Ecublens",1024,Ecublens,Active
 856,46.399965,6.203576,"Grens, Allée des Moulins",Chemin du Nant,1274,Grens,Active
 859,46.54405624882997,6.6034499977507615,Piscine de Fleur-de-Lys,Sentier de la Fleur-de-Lys 2,1008,Prilly,Active
@@ -660,6 +660,6 @@ id,latitude,longitude,name,address,zip,city,state
 901,46.006757,8.936176,Sorengo Gemmo,Via gemmo 6,6924,Sorengo,Active
 902,45.996331,8.935102,Sorengo San Grato,Via Ponte Tresa 35,6924,Sorengo,Active
 903,46.92692,7.503482,Cinedome Muri,Feldstrasse 32,3073,Muri bei Bern,Active
-904,46.557488,6.579244,Casard - Plan-Soleil,Chem. de Plan-Soleil 3,1023,Crissier,Active
+904,46.557488,6.579244,fermé temporairement pour des raisons techniques - Casard - Plan-Soleil,Chem. de Plan-Soleil 3,1023,Crissier,Active
 905,46.55951,6.573065,Crésentine,Chemin de la Pierre 2,1023,Crissier,Active
 906,46.549139,6.579048,Place Centrale,Rue des Alpes 6,1023,Crissier,Active

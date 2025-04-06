@@ -374,10 +374,10 @@ id,latitude,longitude,name,address,zip,city,state
 488,46.517009,6.635237,"Avenue de la Gare, TX Group SA",Avenue de la Gare 12A,1003,Lausanne,Active
 489,46.523333,6.625402,Station temporairement fermée,Place Chauderon 11,1003,Lausanne,Inactive
 490,46.534129,6.606292,Prilly-Centre,Route de Cossonay 28,1008,Prilly,Active
-491,46.9650342,7.4514649,Wylerbad,Scheibenstrasse 65c,3014,Bern,Active
+491,46.9650342,7.4514649,Station Wylerbad: verschoben wegen Bauarbeiten,Scheibenstrasse 65c,3014,Bern,Active
 497,46.9579458,7.4537747,Breitenrainplatz,Moserstrasse 33,3013,Bern,Active
 511,46.974841,7.453275,Spital Tiefenau,Tiefenaustrasse 110,3004,Bern,Active
-513,47.379705,8.537728,Sihlquai,Sihlquai 25,8005,Zürich,Active
+513,47.379705,8.537728,Sihlquai - Ausser Betrieb wegen Bauarbeiten,Sihlquai 25,8005,Zürich,Inactive
 514,47.397885,8.596202,Bahnhof Stettbach,Bahnhof Stettbach,8051,Zürich,Active
 515,47.3690153,8.5543974,Hottingerplatz,Kasinostrasse 10,8032,Zürich,Active
 516,47.418472,8.561746,Sirius-Platz,Sirius-Platz,8152,Opfikon,Active
@@ -410,7 +410,7 @@ id,latitude,longitude,name,address,zip,city,state
 548,46.944243,7.399437,Stöckacker Migros,Bethlehemstrasse 106,3018,Bern,Active
 549,46.951735,7.416496,Forsthaus KVA / TBA,Murtenstrasse 98,3008,Bern,Active
 550,46.958014,7.444949,Quartiergasse,Quartiergasse 31,3013,Bern,Active
-551,46.957592,7.451454,Breitenrainstrasse,Breitenrainstrasse 27,3013,Bern,Active
+551,46.957107,7.450851,Breitenrainstrasse,Optingenstrasse 53-47,3013,Bern,Active
 552,46.952701,7.454585,Salem-Spital,Schänzlistrasse 33,3013,Bern,Active
 553,46.944672,7.422308,Loryplatz,Könizstrasse 6,3008,Bern,Active
 554,46.95251,7.467399,Ostermundigerstrasse,Ostermundigenstrasse 36,3006,Bern,Active
@@ -546,7 +546,7 @@ id,latitude,longitude,name,address,zip,city,state
 739,46.42782864376307,6.276592047529303,"Gland, En Bord",Chemin du Lavasson,1196,Gland,Active
 740,46.99128453561965,7.46742522413544,HAFL Zollikofen,Länggasse 85,3052,Zollikofen,Active
 742,45.87595168951277,8.987138816048143,Mendrisio Cantine,Viale alle Cantine,6850,Mendrisio,Active
-743,45.84700376233985,9.005261994529603,Balerna Stazione FFS,Via Stazione,6828,Balerna,Active
+743,45.84700376233985,9.005261994529603,fuori servizio per motivi technici: Balerna Stazione FFS,Via Stazione,6828,Balerna,Active
 744,45.849737477082186,9.008044185318527,Balerna Ossario,Via Carlo Silva 2,6828,Balerna,Active
 745,45.844602,9.030907,Scuole Via Franscini,Via Stefano Franscini,6833,Vacallo,Active
 746,45.841894,8.916675,Stabio - Gaggiolo,Via Gaggiolo,6855,Stabio,Active
@@ -567,7 +567,7 @@ id,latitude,longitude,name,address,zip,city,state
 767,46.459494,6.333472,"Rolle, Martinet",Route des Quarte-Communes 7,1180,Rolle,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,6830,Chiasso,Active
 771,47.403145,8.609221,Eawag,Ueberlandstrasse 137,8600,Dübendorf,Active
-772,46.9191591,7.4383865,Gurten Kulm: WINTERPAUSE - Station nicht in Betrieb,Gurten - Park im Grünen,3084,Köniz,Inactive
+772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
 774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 775,46.33961592685363,6.171960914015045,"Founex, Ecolint",Chemin de la Ferme 2,1297,Founex,Active
 780,46.003948,8.961542,Foce,Via Foce,6900,Lugano,Active
@@ -581,7 +581,7 @@ id,latitude,longitude,name,address,zip,city,state
 789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
-798,47.325159,8.647915,Ausser Betrieb aus technischen Gründen: Forch,Kaltensteinstrasse 32,8127,Forch,Active
+798,47.325159,8.647915,Forch,Kaltensteinstrasse 32,8127,Forch,Active
 801,45.844533,8.926253,Montanstahl Via Gerette,Via Gerette,6855,Stabio,Active
 803,46.51196729119777,6.4849846482546685,Eglantine,Promenade de l'Eglantine 1,1110,Morges,Active
 804,46.979405440906326,7.457189997936046,Worblaufen RBS Bahnhof,Tiefenaustrasse 2,3048,Ittigen,Active

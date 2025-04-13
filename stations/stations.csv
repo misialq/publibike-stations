@@ -125,7 +125,7 @@ id,latitude,longitude,name,address,zip,city,state
 175,46.9393577,7.3863865,Statthalterstrasse,Freieckweg 2,3018,Bern,Active
 176,46.935853071517315,7.390354333129826,Technopark,Weidgasse 2,3018,Bern,Active
 177,46.94941743287729,7.381454366484235,Holenackerstrasse,Holenackerstrasse 24,3027,Bern,Active
-178,46.937354294265226,7.387354188494794,Kleefeld,Rehhagstrasse 37-31,3018,Bern,Active
+178,46.937206143601415,7.387227177905001,Station Kleefeld: verschoben aufgrund Baustelle,Rehhagstrasse,3018,Bern,Active
 179,46.9454695,7.3928104,Schwabgut,Schwabstrasse 10,3018,Bern,Active
 180,46.947829,7.377815,Gäbelbach,Colombstrasse 11,3027,Bern,Active
 181,46.9378963,7.3954739,Bahnhof Bümpliz Süd,Bümplizstrasse 187,3018,Bern,Active
@@ -268,7 +268,7 @@ id,latitude,longitude,name,address,zip,city,state
 357,47.370141,8.527298,Hallwylstrasse,Hallwylstrasse 71,8004,Zürich,Active
 358,47.397293,8.541453,Milchbuck,Schaffhauserstrasse 137,8057,Zürich,Active
 359,47.393365,8.512551,Fischerweg,Hardturmstrasse 161,8005,Zürich,Active
-360,47.387089,8.542663,Kirche Unterstrass,Turnerstrasse 47,8006,Zürich,Active
+360,47.387653,8.542125,Kirche Unterstrass,Turnerstrasse 47,8006,Zürich,Active
 361,47.394554,8.522117,Dorfstrasse,Dorfstrasse 40,8037,Zürich,Active
 362,47.37271,8.530437,Stauffachertor,Werdstrasse 25,8004,Zürich,Active
 363,47.416155,8.541712,Wahlenpark,Eggbühlstrasse 21,8050,Zürich,Active
@@ -374,7 +374,7 @@ id,latitude,longitude,name,address,zip,city,state
 488,46.517009,6.635237,"Avenue de la Gare, TX Group SA",Avenue de la Gare 12A,1003,Lausanne,Active
 489,46.523333,6.625402,Station temporairement fermée,Place Chauderon 11,1003,Lausanne,Inactive
 490,46.534129,6.606292,Prilly-Centre,Route de Cossonay 28,1008,Prilly,Active
-491,46.9650342,7.4514649,Station Wylerbad: verschoben wegen Bauarbeiten,Scheibenstrasse 65c,3014,Bern,Active
+491,46.9650342,7.4514649,Wylerbad,Scheibenstrasse 65c,3014,Bern,Active
 497,46.9579458,7.4537747,Breitenrainplatz,Moserstrasse 33,3013,Bern,Active
 511,46.974841,7.453275,Spital Tiefenau,Tiefenaustrasse 110,3004,Bern,Active
 513,47.379705,8.537728,Sihlquai - Ausser Betrieb wegen Bauarbeiten,Sihlquai 25,8005,Zürich,Inactive
@@ -515,19 +515,19 @@ id,latitude,longitude,name,address,zip,city,state
 705,45.88354716154987,8.980175414992559,Mendrisio Piscine,Via S. Martino,6850,Mendrisio,Active
 706,45.903314,8.979073,Capolago Stazione FFS,Via Famiglia Carlo Scacchi,6825,Capolago,Active
 707,45.86839596516475,8.97806954826163,Mendrisio Stazione FFS,Via Stefano Franscini,6850,Mendrisio,Active
-708,45.87023343314977,8.987408595931916,Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
+708,45.87023343314977,8.987408595931916,Temporaneamente chiuso per motivi tecnici - Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
 709,45.86959228856764,8.989624365925325,Mendrisio La Filanda,Largo Mario Soldini,6859,Mendrisio,Active
 710,45.87483787298627,8.937745151961444,Arzo Scuole,Via Onorio Longhi 2,6864,Mendrisio,Active
 711,45.871996543772816,8.994334187178147,Salorino Nucleo,Via S. Rocco 16,6872,Mendrisio,Active
 712,45.854808754188724,8.96080186040559,Genestrerio Nucleo,Piazza Baraini,6851,Genestrerio,Active
 713,45.87264624215591,8.953349054900483,Besazio Nucleo,Via Besazio,6863,Besazio,Active
-714,45.86245058491458,8.980687511646552,Mendrisio Comparto Scuole,Via Pier Francesco Mola,6850,Mendrisio,Active
+714,45.86245058491458,8.980687511646552,Temporaneamente chiuso per motivi tecnici - Mendrisio Comparto Scuole,Via Pier Francesco Mola,6850,Mendrisio,Active
 715,45.890055,8.950718,Quartiere di Meride,Ala Caraa,6866,Meride,Active
 716,45.86687922879933,8.983606564693778,Mendrisio Ospedale,Via Alfonso Turconi 25,6850,Mendrisio,Active
 717,45.87153897383477,8.968208417990107,Rancate Nucleo,Piazza S. Stefano,6862,Rancate,Active
 718,45.861449804710674,8.954692504152314,Ligornetto Nucleo,Via Eugenio Bernasconi 22,6853,Ligornetto,Active
 719,45.845724,9.014909,Morbio Serfontana,Viale Serfontana 20,6834,Morbio Inferiore,Active
-720,45.855005125749834,9.002221444016275,Castel S. Pietro alle Zocche,Via alle Zocche 7-3,6874,Castel San Pietro,Active
+720,45.855005125749834,9.002221444016275,Temporaneamente chiuso per motivi tecnici - Castel S. Pietro alle Zocche,Via alle Zocche 7-3,6874,Castel San Pietro,Active
 721,45.85200343,9.016464562,Morbio Municipio,Via Giuseppe Cereghetti 8,6834,Morbio Inferiore,Active
 722,45.861628339008064,9.00898208387063,Castel S. Pietro Posta,Via Landamano G. B. Maggi 10,6874,Castel San Pietro,Active
 723,45.854907,8.943853,Stabio Via Luvee,Via Luvee,6855,Stabio,Active
@@ -546,7 +546,7 @@ id,latitude,longitude,name,address,zip,city,state
 739,46.42782864376307,6.276592047529303,"Gland, En Bord",Chemin du Lavasson,1196,Gland,Active
 740,46.99128453561965,7.46742522413544,HAFL Zollikofen,Länggasse 85,3052,Zollikofen,Active
 742,45.87595168951277,8.987138816048143,Mendrisio Cantine,Viale alle Cantine,6850,Mendrisio,Active
-743,45.84700376233985,9.005261994529603,fuori servizio per motivi technici: Balerna Stazione FFS,Via Stazione,6828,Balerna,Active
+743,45.84700376233985,9.005261994529603,Balerna Stazione FFS,Via Stazione,6828,Balerna,Active
 744,45.849737477082186,9.008044185318527,Balerna Ossario,Via Carlo Silva 2,6828,Balerna,Active
 745,45.844602,9.030907,Scuole Via Franscini,Via Stefano Franscini,6833,Vacallo,Active
 746,45.841894,8.916675,Stabio - Gaggiolo,Via Gaggiolo,6855,Stabio,Active
@@ -637,7 +637,7 @@ id,latitude,longitude,name,address,zip,city,state
 883,46.96079848478852,7.433964120753491,Schwimmhalle Neufeld,Neubrückstrasse 133,3012,Bern,Active
 884,46.973323,7.484832,Ittigen Bahnhof,Worblentalstrasse 86,3063,Ittigen,Active
 886,47.395257,8.469131,Briefzentrum Zürich-Mülligen,Zürcherstrasse 161,8952,Schlieren,Active
-888,46.464141,6.348945,"Mont-sur-Rolle, Bellefontaine",Chem. du Levant 1,1185,Mont-sur-Rolle,Active
+888,46.464141,6.348945,"fermé temporairement pour des raisons techniques - Mont-sur-Rolle, Bellefontaine",Chem. du Levant 1,1185,Mont-sur-Rolle,Active
 889,47.015385,7.48331,RBS Moosseedorf,Sandstrasse 9,3302,Moosseedorf,Active
 890,47.012883,7.469947,Lochacker Moosseedorf,Lochackerweg 5,3302,Moosseedorf,Active
 891,46.001191,8.985164,Lugano Cortivo,Via Cortivo,6900,Lugano,Active

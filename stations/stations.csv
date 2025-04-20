@@ -208,7 +208,7 @@ id,latitude,longitude,name,address,zip,city,state
 277,47.413514,8.537816,Lamprechtweg,Birchstrasse 183,8050,Zürich,Active
 278,47.417701,8.545602,Emil-Oberhänsli,Felsenrainstrasse 2,8050,Zürich,Active
 279,47.39808,8.533647,Bucheggplatz,Bucheggplatz 2,8057,Zürich,Active
-280,47.392347,8.523549,Wipkingerplatz,Wipkingerplatz 4,8037,Zürich,Active
+280,47.392347,8.523549,Ausser Betrieb wegen Bauarbeiten - Wipkingerplatz,Wipkingerplatz 4,8037,Zürich,Inactive
 284,46.520469823395864,6.630836110862832,Place de l’Europe,Place Centrale,1003,Lausanne,Active
 285,47.36691,8.548562,Bahnhof Stadelhofen,Galerie über Gleis 3,8001,Zürich,Active
 286,47.3985553,8.493822,Tüffenwies,Meierwiesenstrasse 12-4,8064,Zürich,Active
@@ -457,7 +457,7 @@ id,latitude,longitude,name,address,zip,city,state
 606,46.31526,6.19271,"Coppet, Port",Place des Ormes,1296,Coppet,Active
 607,46.29934,6.16927,"Mies, Gare",Route de la gare,1295,Mies,Active
 608,46.42121,6.26294,"Gland, La Dôle",Chemin de la Dôle 15-11,1196,Gland,Active
-609,46.42391,6.26546,"Gland, Grand'Rue",Grand-Rue 38,1196,Gland,Active
+609,46.42391,6.26546,"Fermé temporairement pour raisons techniques - Gland, Grand'Rue",Grand-Rue 38,1196,Gland,Active
 610,46.42329,6.27557,"Gland, Montoly",Chemin de Montoly 1,1196,Gland,Active
 611,46.38362,6.23574,"Nyon, Gare Sud",Rue de la gare 38,1260,Nyon,Active
 612,46.37679,6.23515,"Nyon, La Plage",Route de Genève 12,1260,Nyon,Active
@@ -515,19 +515,19 @@ id,latitude,longitude,name,address,zip,city,state
 705,45.88354716154987,8.980175414992559,Mendrisio Piscine,Via S. Martino,6850,Mendrisio,Active
 706,45.903314,8.979073,Capolago Stazione FFS,Via Famiglia Carlo Scacchi,6825,Capolago,Active
 707,45.86839596516475,8.97806954826163,Mendrisio Stazione FFS,Via Stefano Franscini,6850,Mendrisio,Active
-708,45.87023343314977,8.987408595931916,Temporaneamente chiuso per motivi tecnici - Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
+708,45.87023343314977,8.987408595931916,Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
 709,45.86959228856764,8.989624365925325,Mendrisio La Filanda,Largo Mario Soldini,6859,Mendrisio,Active
 710,45.87483787298627,8.937745151961444,Arzo Scuole,Via Onorio Longhi 2,6864,Mendrisio,Active
 711,45.871996543772816,8.994334187178147,Salorino Nucleo,Via S. Rocco 16,6872,Mendrisio,Active
 712,45.854808754188724,8.96080186040559,Genestrerio Nucleo,Piazza Baraini,6851,Genestrerio,Active
 713,45.87264624215591,8.953349054900483,Besazio Nucleo,Via Besazio,6863,Besazio,Active
-714,45.86245058491458,8.980687511646552,Temporaneamente chiuso per motivi tecnici - Mendrisio Comparto Scuole,Via Pier Francesco Mola,6850,Mendrisio,Active
+714,45.86245058491458,8.980687511646552,Mendrisio Comparto Scuole,Via Pier Francesco Mola,6850,Mendrisio,Active
 715,45.890055,8.950718,Quartiere di Meride,Ala Caraa,6866,Meride,Active
 716,45.86687922879933,8.983606564693778,Mendrisio Ospedale,Via Alfonso Turconi 25,6850,Mendrisio,Active
 717,45.87153897383477,8.968208417990107,Rancate Nucleo,Piazza S. Stefano,6862,Rancate,Active
 718,45.861449804710674,8.954692504152314,Ligornetto Nucleo,Via Eugenio Bernasconi 22,6853,Ligornetto,Active
 719,45.845724,9.014909,Morbio Serfontana,Viale Serfontana 20,6834,Morbio Inferiore,Active
-720,45.855005125749834,9.002221444016275,Temporaneamente chiuso per motivi tecnici - Castel S. Pietro alle Zocche,Via alle Zocche 7-3,6874,Castel San Pietro,Active
+720,45.855005125749834,9.002221444016275,Castel S. Pietro alle Zocche,Via alle Zocche 7-3,6874,Castel San Pietro,Active
 721,45.85200343,9.016464562,Morbio Municipio,Via Giuseppe Cereghetti 8,6834,Morbio Inferiore,Active
 722,45.861628339008064,9.00898208387063,Castel S. Pietro Posta,Via Landamano G. B. Maggi 10,6874,Castel San Pietro,Active
 723,45.854907,8.943853,Stabio Via Luvee,Via Luvee,6855,Stabio,Active
@@ -637,7 +637,7 @@ id,latitude,longitude,name,address,zip,city,state
 883,46.96079848478852,7.433964120753491,Schwimmhalle Neufeld,Neubrückstrasse 133,3012,Bern,Active
 884,46.973323,7.484832,Ittigen Bahnhof,Worblentalstrasse 86,3063,Ittigen,Active
 886,47.395257,8.469131,Briefzentrum Zürich-Mülligen,Zürcherstrasse 161,8952,Schlieren,Active
-888,46.464141,6.348945,"fermé temporairement pour des raisons techniques - Mont-sur-Rolle, Bellefontaine",Chem. du Levant 1,1185,Mont-sur-Rolle,Active
+888,46.464141,6.348945,"fermé temporairement pour des raisons technique: Mont-sur-Rolle, Bellefontaine",Chem. du Levant 1,1185,Mont-sur-Rolle,Inactive
 889,47.015385,7.48331,RBS Moosseedorf,Sandstrasse 9,3302,Moosseedorf,Active
 890,47.012883,7.469947,Lochacker Moosseedorf,Lochackerweg 5,3302,Moosseedorf,Active
 891,46.001191,8.985164,Lugano Cortivo,Via Cortivo,6900,Lugano,Active

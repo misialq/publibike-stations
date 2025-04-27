@@ -1,13 +1,13 @@
 id,latitude,longitude,name,address,zip,city,state
-6,46.518108,6.564945,Colladon,Route J-D. Colladon,1015,Ecublens,Active
+6,46.518108,6.564945,Colladon - Fermeture pour Festival Balélec dès le 1/5/2025,Route J-D. Colladon,1015,Ecublens,Active
 7,46.522591,6.584961,Dorigny,UNIL Dorigny Bâtiment Extranef,1015,Ecublens,Active
-8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Ecublens,Active
+8,46.518951,6.562162,Place Alan Turing - Fermeture pour Festival Balélec dès le 1/5/2025,Chemin Alan Turing,1015,Ecublens,Active
 9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Ecublens,Active
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
-11,46.521978,6.564896,Rivier,Route de la Sorge,1015,Ecublens,Active
-12,46.520723,6.568276,Piccard,Avenue Piccard,1015,Ecublens,Active
-13,46.517153,6.561272,EPFL Innovation Park,Bâtiment G,1015,Ecublens,Active
-14,46.5224054,6.5655126,Quartier nord,Campus,1000,Ecublens,Active
+11,46.521978,6.564896,Rivier - Fermeture pour Festival Balélec dès le 1/5/2025,Route de la Sorge,1015,Ecublens,Active
+12,46.520723,6.568276,Piccard - Fermeture pour Festival Balélec dès le 1/5/2025,Avenue Piccard,1015,Ecublens,Active
+13,46.517153,6.561272,EPFL Innovation Park - Fermeture pour Festival Balélec dès le 1/5/2025,Bâtiment G,1015,Ecublens,Active
+14,46.5224054,6.5655126,Quartier Nord - Fermeture pour Festival Balélec dès le 1/5/2025,Campus,1000,Ecublens,Active
 18,46.5367962297447,6.57834071739537,Gare de Renens,Place de la gare,1020,Renens,Active
 20,46.506896,6.626253,Ouchy,Place de la Navigation,1006,Lausanne,Active
 21,46.521043,6.573253,Sorge,UNIL Sorge,1015,Ecublens,Active
@@ -186,7 +186,7 @@ id,latitude,longitude,name,address,zip,city,state
 249,46.000482,8.912639,Muzzano Industria,Via Industria,6933,Muzzano,Active
 250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
 251,46.948813,7.447638,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
-252,46.94970199819606,7.44441499979321,Speichergasse PROGR - verschoben aufgrund Baustelle,Waisenhausplatz 28,3011,Bern,Active
+252,46.94970199819606,7.44441499979321,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
 255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
@@ -257,7 +257,7 @@ id,latitude,longitude,name,address,zip,city,state
 331,46.9458073,7.4270475,Brunnmattschulhaus,Brunnmattstrasse 16,3007,Bern,Active
 332,46.943804,7.4694264,Egelgasse-Ostring,Egelgasse 72,3006,Bern,Active
 333,46.936635808279966,7.475831165818141,Egghölzli,Egghölzlistrasse 3A,3006,Bern,Active
-334,46.520202,6.571784,Forel,Avenue Forel,1015,Ecublens,Active
+334,46.520202,6.571784,Forel - Fermeture pour Festival Balélec dès le 1/5/2025,Avenue Forel,1015,Ecublens,Active
 335,46.54873,6.57476,Mongevon,Chemin de Mongevon 4,1023,Crissier,Active
 347,46.941479,7.466444,Burgernziel,Muristrasse 64,3006,Bern,Active
 348,46.97179532778565,7.44576189083437,Rossfeld,Rossfeldstrasse 7,3004,Bern,Active
@@ -383,14 +383,14 @@ id,latitude,longitude,name,address,zip,city,state
 516,47.418472,8.561746,Sirius-Platz,Sirius-Platz,8152,Opfikon,Active
 517,47.43281,8.566564,Stadthaus Opfikon,Oberhauserstrasse 25,8152,Opfikon,Active
 518,47.39572,8.62328,Oberdorf,Alte Oberdorfstrasse 15,8600,Dübendorf,Active
-519,47.430911,8.562033,Bahnhof Opfikon,Schaffhauserstrasse 64,8152,Opfikon,Active
+519,47.430911,8.562033,Bahnhof Opfikon,Schaffhauserstrasse 64,8152,Opfikon,Inactive
 520,47.40245,8.62726,Flugplatz Dübendorf,Wangenstrasse 47-39,8600,Dübendorf,Active
 521,47.39733,8.61865,Stadthaus Dübendorf,Usterstrasse 1,8600,Dübendorf,Active
 522,47.444516,8.582115,Schluefweg,Schluefweg 10,8302,Kloten,Active
 523,47.43117,8.55845,Bahnhof Glattbrugg,Bahnhofplatz 1,8152,Opfikon,Active
 524,47.451336,8.58205,Stadtplatz Kloten,Bachstrasse 8,8302,Kloten,Active
 525,47.400393,8.622367,Bahnhof Dübendorf,Bettlistrasse 1,8600,Dübendorf,Active
-526,47.395368,8.603989,Sonnental,Zürichstrasse 94,8600,Dübendorf,Active
+526,47.395368,8.603989,ausser Betrieb wegen Baustelle: Sonnental,Zürichstrasse 94,8600,Dübendorf,Inactive
 527,47.44173,8.56879,Bahnhof Balsberg,Kloten Balsberg,8302,Kloten,Active
 528,47.448799,8.583122,Bahnhof Kloten,Bahnhofstrasse 10,8302,Kloten,Active
 529,47.424155,8.562301,Boulevard Lilienthal,Boulevard Lilienthal 2,8152,Opfikon,Active
@@ -457,7 +457,7 @@ id,latitude,longitude,name,address,zip,city,state
 606,46.31526,6.19271,"Coppet, Port",Place des Ormes,1296,Coppet,Active
 607,46.29934,6.16927,"Mies, Gare",Route de la gare,1295,Mies,Active
 608,46.42121,6.26294,"Gland, La Dôle",Chemin de la Dôle 15-11,1196,Gland,Active
-609,46.42391,6.26546,"Fermé temporairement pour raisons techniques - Gland, Grand'Rue",Grand-Rue 38,1196,Gland,Active
+609,46.42391,6.26546,"hors service pour des raisons techniques : Gland, Grand'Rue",Grand-Rue 38,1196,Gland,Active
 610,46.42329,6.27557,"Gland, Montoly",Chemin de Montoly 1,1196,Gland,Active
 611,46.38362,6.23574,"Nyon, Gare Sud",Rue de la gare 38,1260,Nyon,Active
 612,46.37679,6.23515,"Nyon, La Plage",Route de Genève 12,1260,Nyon,Active
@@ -561,7 +561,7 @@ id,latitude,longitude,name,address,zip,city,state
 757,46.543261033642686,6.661545646440144,Croisettes-Biopôle,Route de la Corniche 2,1066,Epalinges,Active
 758,46.547872289288286,6.671632436126663,"Epalinges, Croix-Blanche",Rte de la Croix-Blanche 25,1066,Epalinges,Active
 763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
-764,46.470818,6.336435,"Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
+764,46.470818,6.336435,"hors service pour des raisons techniques : Mont-sur-Rolle, Eglise",Rue de Mont-le-Grand 1,1185,Mont-sur-Rolle,Active
 765,46.345477,6.162667,"Chavannes-de-Bogis, Village",Route de Bogis-Bossey 41,1279,Chavannes-de-Bogis,Active
 766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active
 767,46.459494,6.333472,"Rolle, Martinet",Route des Quarte-Communes 7,1180,Rolle,Active
@@ -606,7 +606,7 @@ id,latitude,longitude,name,address,zip,city,state
 829,46.8934148092464,7.3518540937205685,Thörishaus Dorf SBB SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active
 830,46.90080888317644,7.401061091966004,Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Active
 831,47.394686,8.478455,ZSC Lions,Vulkanstrasse 130,8048,Zürich,Active
-832,46.025237,8.963681,Cornèr Arena - HC Lugano,Via Sonvico di Porza,6900,Lugano,Active
+832,46.025237,8.963681,Fuori servizio per motivi technici: Cornèr Arena - HC Lugano,Via Sonvico di Porza,6900,Lugano,Active
 834,46.947801,7.416722,Güterstrasse (verschoben wegen Baustelle),Güterstrasse 21-9,3008,Bern,Active
 835,46.95884778357857,7.429204058387358,Gymnasium Neufeld,Bremgartenstrasse 133,3012,Bern,Active
 836,46.510153,6.558052,Saint-Sulpice-centre,Chemin du Crêt,1025,Saint-Sulpice,Active
@@ -632,12 +632,12 @@ id,latitude,longitude,name,address,zip,city,state
 866,47.407433,8.639147,Skyguide,Flugsicherungsstrasse 2,8602,Wangen,Active
 867,46.9477816,7.4365087,Welle 7 Velostation (06:00-22:00) INSIDE the building!,Merkurgässli,3008,Bern,Active
 877,46.97422346344607,7.476819763848439,Papiermühle Bahnhof,Papiermühlestrasse 172,3063,Ittigen,Active
-878,46.948670967854916,7.408147339558864,Los Lorentes Residences,Murtenstrasse 147,3008,Bern,Active
+878,46.948670967854916,7.408147339558864,hors service pour des raisons techniques : Los Lorentes Residences,Murtenstrasse 147,3008,Bern,Active
 882,46.927744881476436,7.370069357719424,Bodelenweg,Bodelenweg 100,3172,Köniz,Active
 883,46.96079848478852,7.433964120753491,Schwimmhalle Neufeld,Neubrückstrasse 133,3012,Bern,Active
 884,46.973323,7.484832,Ittigen Bahnhof,Worblentalstrasse 86,3063,Ittigen,Active
 886,47.395257,8.469131,Briefzentrum Zürich-Mülligen,Zürcherstrasse 161,8952,Schlieren,Active
-888,46.464141,6.348945,"fermé temporairement pour des raisons technique: Mont-sur-Rolle, Bellefontaine",Chem. du Levant 1,1185,Mont-sur-Rolle,Inactive
+888,46.464141,6.348945,"Mont-sur-Rolle, Bellefontaine",Chem. du Levant 1,1185,Mont-sur-Rolle,Inactive
 889,47.015385,7.48331,RBS Moosseedorf,Sandstrasse 9,3302,Moosseedorf,Active
 890,47.012883,7.469947,Lochacker Moosseedorf,Lochackerweg 5,3302,Moosseedorf,Active
 891,46.001191,8.985164,Lugano Cortivo,Via Cortivo,6900,Lugano,Active
@@ -660,3 +660,5 @@ id,latitude,longitude,name,address,zip,city,state
 908,46.93317997920845,7.417113169925848,Sportweg,Sportweg 34,3097,Liebefeld,Active
 909,46.401944,6.211667,"Nyon, Gare L'Asse",Route de Gingins 9,1260,Nyon,Active
 910,46.561365,6.682146,EHL Hospitality Business School - North Entrance,Route de Cojonnex 18,1000,Lausanne,Active
+911,46.97977354947435,7.443923763945266,Zehendermätteli,Reichenbachstrasse 161,3004,Bern,Active
+912,46.961055129023734,7.465430423450432,BERNEXPO,Papiermühlestrasse 50,3014,Bern,Active

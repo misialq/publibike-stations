@@ -124,7 +124,7 @@ id,latitude,longitude,name,address,zip,city,state
 251,46.948813,7.447638,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
 252,46.94970199819606,7.44441499979321,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
-254,46.9486345,7.4567436,Station Nydegg: AUSSER BETRIEB (Grand Prix),Nydeggasse 13,3011,Bern,Inactive
+254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
 255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
 256,46.95548253215054,7.476904610773494,Zentweg,Zentweg 23,3006,Bern,Active
 257,46.9480422,7.4502406,Simsonbrunnen,Kramgasse 40,3011,Bern,Active
@@ -347,7 +347,7 @@ id,latitude,longitude,name,address,zip,city,state
 708,45.87023343314977,8.987408595931916,Temporaneamente chiuso per motivi tecnici - Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
 709,45.86959228856764,8.989624365925325,Mendrisio La Filanda,Largo Mario Soldini,6859,Mendrisio,Active
 710,45.87483787298627,8.937745151961444,Arzo Scuole,Via Onorio Longhi 2,6864,Mendrisio,Active
-711,45.871996543772816,8.994334187178147,fuori servizio per motivi technici: Salorino Nucleo,Via S. Rocco 16,6872,Mendrisio,Active
+711,45.871996543772816,8.994334187178147,Salorino Nucleo,Via S. Rocco 16,6872,Mendrisio,Active
 712,45.854808754188724,8.96080186040559,Genestrerio Nucleo,Piazza Baraini,6851,Genestrerio,Active
 713,45.87264624215591,8.953349054900483,Besazio Nucleo,Via Besazio,6863,Besazio,Active
 714,45.86245058491458,8.980687511646552,Mendrisio Comparto Scuole,Via Pier Francesco Mola,6850,Mendrisio,Active
@@ -373,9 +373,9 @@ id,latitude,longitude,name,address,zip,city,state
 738,46.41916420448668,6.288709722973113,"Gland, La Falaise",Chemin de la Falaise,1196,Gland,Active
 739,46.42782864376307,6.276592047529303,"Gland, En Bord",Chemin du Lavasson,1196,Gland,Active
 740,46.99128453561965,7.46742522413544,HAFL Zollikofen,Länggasse 85,3052,Zollikofen,Active
-742,45.87595168951277,8.987138816048143,Mendrisio Cantine,Viale alle Cantine,6850,Mendrisio,Active
+742,45.87595168951277,8.987138816048143,Temporaneamente chiuso per motivi tecnici - Mendrisio Cantine,Viale alle Cantine,6850,Mendrisio,Active
 743,45.84700376233985,9.005261994529603,Balerna Stazione FFS,Via Stazione,6828,Balerna,Active
-744,45.849737477082186,9.008044185318527,Balerna Ossario,Via Carlo Silva 2,6828,Balerna,Active
+744,45.849737477082186,9.008044185318527,Temporaneamente chiuso per motivi tecnici - Balerna Ossario,Via Carlo Silva 2,6828,Balerna,Active
 745,45.844602,9.030907,Scuole Via Franscini,Via Stefano Franscini,6833,Vacallo,Active
 746,45.841894,8.916675,Stabio - Gaggiolo,Via Gaggiolo,6855,Stabio,Active
 749,46.01839064983639,8.952667134728758,Ospedale Civico,Via Tesserete 46,6900,Lugano,Active
@@ -446,7 +446,7 @@ id,latitude,longitude,name,address,zip,city,state
 849,46.51569970026471,6.499234489270572,Beausobre,Avenue de Vertou 2,1110,Morges,Active
 850,46.428783178554085,6.249760378428628,"Vich, Poste",Place Marcel Ponce,1267,Vich,Active
 852,46.5183879308213,6.4569022616279925,Denens village,Rue de la Cité 2,1135,Denens,Active
-853,46.51061054877812,6.659367730704223,Hors service pour raisons techniques : Gare de Pully sud,Place de la Gare 1,1009,Pully,Active
+853,46.51061054877812,6.659367730704223,Gare de Pully sud,Place de la Gare 1,1009,Pully,Active
 854,46.514863230694175,6.658812113086054,Gare de Pully nord,Chem. du Montillier 9,1009,Pully,Active
 855,46.52785589336738,6.560535663689192,Brûlée,"Rte de la Brûlée, 1024 Ecublens",1024,Ecublens,Active
 856,46.399965,6.203576,"Grens, Allée des Moulins",Chemin du Nant,1274,Grens,Active

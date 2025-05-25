@@ -65,7 +65,7 @@ id,latitude,longitude,name,address,zip,city,state
 179,46.9454695,7.3928104,Schwabgut,Schwabstrasse 10,3018,Bern,Active
 180,46.947829,7.377815,Gäbelbach,Colombstrasse 11,3027,Bern,Active
 181,46.9378963,7.3954739,Bahnhof Bümpliz Süd,Bümplizstrasse 187,3018,Bern,Active
-182,46.96274,7.46276,Stadion Wankdorf,Morgartenstrasse 1,3014,Bern,Active
+182,46.96274,7.46276,Station Stadion Wankdorf: ausser Betrieb am 01.06.24,Morgartenstrasse 1,3014,Bern,Active
 183,46.9432034,7.4735436,Sonnenhofspital,Buchserstrasse 26,3006,Bern,Active
 184,46.9489732,7.3882333,Tscharnergut,Waldmannstrasse 31,3027,Bern,Active
 185,46.946664,7.400752,Bahnhof Stöckacker,Untermattweg 36,3027,Bern,Active
@@ -344,7 +344,7 @@ id,latitude,longitude,name,address,zip,city,state
 705,45.88354716154987,8.980175414992559,Mendrisio Piscine,Via S. Martino,6850,Mendrisio,Active
 706,45.903314,8.979073,Capolago Stazione FFS,Via Famiglia Carlo Scacchi,6825,Capolago,Active
 707,45.86839596516475,8.97806954826163,Mendrisio Stazione FFS,Via Stefano Franscini,6850,Mendrisio,Active
-708,45.87023343314977,8.987408595931916,Temporaneamente chiuso per motivi tecnici - Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
+708,45.87023343314977,8.987408595931916,Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
 709,45.86959228856764,8.989624365925325,Mendrisio La Filanda,Largo Mario Soldini,6859,Mendrisio,Active
 710,45.87483787298627,8.937745151961444,Arzo Scuole,Via Onorio Longhi 2,6864,Mendrisio,Active
 711,45.871996543772816,8.994334187178147,Salorino Nucleo,Via S. Rocco 16,6872,Mendrisio,Active
@@ -373,9 +373,9 @@ id,latitude,longitude,name,address,zip,city,state
 738,46.41916420448668,6.288709722973113,"Gland, La Falaise",Chemin de la Falaise,1196,Gland,Active
 739,46.42782864376307,6.276592047529303,"Gland, En Bord",Chemin du Lavasson,1196,Gland,Active
 740,46.99128453561965,7.46742522413544,HAFL Zollikofen,Länggasse 85,3052,Zollikofen,Active
-742,45.87595168951277,8.987138816048143,Temporaneamente chiuso per motivi tecnici - Mendrisio Cantine,Viale alle Cantine,6850,Mendrisio,Active
+742,45.87595168951277,8.987138816048143,Mendrisio Cantine,Viale alle Cantine,6850,Mendrisio,Active
 743,45.84700376233985,9.005261994529603,Balerna Stazione FFS,Via Stazione,6828,Balerna,Active
-744,45.849737477082186,9.008044185318527,Temporaneamente chiuso per motivi tecnici - Balerna Ossario,Via Carlo Silva 2,6828,Balerna,Active
+744,45.849737477082186,9.008044185318527,Balerna Ossario,Via Carlo Silva 2,6828,Balerna,Active
 745,45.844602,9.030907,Scuole Via Franscini,Via Stefano Franscini,6833,Vacallo,Active
 746,45.841894,8.916675,Stabio - Gaggiolo,Via Gaggiolo,6855,Stabio,Active
 749,46.01839064983639,8.952667134728758,Ospedale Civico,Via Tesserete 46,6900,Lugano,Active
@@ -460,7 +460,7 @@ id,latitude,longitude,name,address,zip,city,state
 883,46.96079848478852,7.433964120753491,Schwimmhalle Neufeld,Neubrückstrasse 133,3012,Bern,Active
 884,46.973323,7.484832,Ittigen Bahnhof,Worblentalstrasse 86,3063,Ittigen,Active
 888,46.464141,6.348945,"Mont-sur-Rolle, Bellefontaine",Chem. du Levant 1,1185,Mont-sur-Rolle,Inactive
-889,47.015385,7.48331,RBS Moosseedorf,Sandstrasse 9,3302,Moosseedorf,Active
+889,47.015385,7.48331,Ausser Betrieb aus technischen Gründen: RBS Moosseedorf,Sandstrasse 9,3302,Moosseedorf,Active
 890,47.012883,7.469947,Lochacker Moosseedorf,Lochackerweg 5,3302,Moosseedorf,Active
 891,46.001191,8.985164,Lugano Cortivo,Via Cortivo,6900,Lugano,Active
 892,45.83778,9.02214,Chiasso Boffalora,Piazza Boffalora,6830,Chiasso,Active

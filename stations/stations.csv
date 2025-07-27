@@ -192,7 +192,7 @@ id,latitude,longitude,name,address,zip,city,state
 415,46.916092,7.418571,Entsorgungshof Werkhof,Muhlernstrasse 101,3098,Köniz,Active
 416,46.93046,7.428167,Steinhölzli,Kirchstrasse 6a,3097,Köniz,Active
 417,46.92903811738819,7.417226193945767,Neuhausplatz,Könizstrasse 249,3097,Köniz,Active
-418,46.929745,7.444948,Wabern Bahnhof,Bahnhofstrasse 16,3084,Köniz,Active
+418,46.92878380186514,7.446101,Wabern Bahnhof,Bahnhofstrasse 16,3084,Köniz,Active
 419,46.93036,7.41929,Liebefeld Bahnhof,Stationsstrasse 1,3097,Köniz,Active
 420,46.9356189,7.4165883,Vidmar,Könizstrasse 161,3097,Köniz,Active
 421,46.9229774,7.4141121,Köniz Zentrum,Bläuacker 10,3098,Köniz,Active
@@ -236,7 +236,6 @@ id,latitude,longitude,name,address,zip,city,state
 484,46.9456022,7.434734,Seilerstrasse,Seilerstrasse 22,3011,Bern,Active
 485,46.9432858,7.4144036,Stämpflistrasse,Stoosstrasse 2,3008,Bern,Active
 486,46.9503044,7.4145806,Sanpol Bern,Murtenstrasse 111,3008,Bern,Active
-487,46.524105,6.632782,Station temporairement fermée,Place de la Riponne 7,1005,Lausanne,Inactive
 488,46.517009,6.635237,"Avenue de la Gare, TX Group SA",Avenue de la Gare 12A,1003,Lausanne,Active
 489,46.523333,6.625402,Station temporairement fermée,Place Chauderon 11,1003,Lausanne,Inactive
 490,46.534129,6.606292,Prilly-Centre,Route de Cossonay 28,1008,Prilly,Active
@@ -261,7 +260,7 @@ id,latitude,longitude,name,address,zip,city,state
 584,46.006076,8.966775,Lanchetta,via delle Scuole,6900,Lugano,Active
 585,46.016524,8.955876,Via Vignola,Via Trevano,6900,Lugano,Active
 586,46.020198,8.97169,Via Loco,Via Loco,6900,Lugano,Active
-587,46.005806,8.957374,Fuori servizio per motivi technici: Parco Ciani,via Lucchini,6900,Lugano,Active
+587,46.005806,8.957374,Parco Ciani,via Lucchini,6900,Lugano,Active
 588,46.037002,8.979558,Davesco,Via Vecchio Tram,6964,Davesco-Soragno,Active
 589,46.9427868,7.3870759,Brünnenstrasse,Brünnenstrasse 80,3018,Bern,Active
 590,46.946544688600916,7.4207811103582495,Insel West,Friedbühlstrasse 52,3008,Bern,Active
@@ -318,10 +317,10 @@ id,latitude,longitude,name,address,zip,city,state
 705,45.88354716154987,8.980175414992559,Mendrisio Piscine,Via S. Martino,6850,Mendrisio,Active
 706,45.903314,8.979073,Capolago Stazione FFS,Via Famiglia Carlo Scacchi,6825,Capolago,Active
 707,45.86839596516475,8.97806954826163,Mendrisio Stazione FFS,Via Stefano Franscini,6850,Mendrisio,Active
-708,45.87023343314977,8.987408595931916,Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
+708,45.87023343314977,8.987408595931916,momentaneamente fuori servizio per motivi tecnici : Mendrisio Centro,Via Luigi Lavizzari,6850,Mendrisio,Active
 709,45.86959228856764,8.989624365925325,Mendrisio La Filanda,Largo Mario Soldini,6859,Mendrisio,Active
 710,45.87483787298627,8.937745151961444,Arzo Scuole,Via Onorio Longhi 2,6864,Mendrisio,Active
-711,45.871996543772816,8.994334187178147,Salorino Nucleo,Via S. Rocco 16,6872,Mendrisio,Active
+711,45.871996543772816,8.994334187178147,momentaneamente fuori servizio per motivi tecnici : Salorino Nucleo,Via S. Rocco 16,6872,Mendrisio,Active
 712,45.854808754188724,8.96080186040559,Genestrerio Nucleo,Piazza Baraini,6851,Genestrerio,Active
 713,45.87264624215591,8.953349054900483,Besazio Nucleo,Via Besazio,6863,Besazio,Active
 714,45.86245058491458,8.980687511646552,Mendrisio Comparto Scuole,Via Pier Francesco Mola,6850,Mendrisio,Active
@@ -336,7 +335,7 @@ id,latitude,longitude,name,address,zip,city,state
 725,45.90587981635428,8.972694428589046,Riva San Vitale - Posteggio Piazzale a Lago,Via al Lido,6826,Riva San Vitale,Active
 726,46.9647833374251,7.4484037810233445,Wylergut,Dändlikerweg 48,3013,Bern,Active
 740,46.99128453561965,7.46742522413544,HAFL Zollikofen,Länggasse 85,3052,Zollikofen,Active
-742,45.87595168951277,8.987138816048143,Mendrisio Cantine,Viale alle Cantine,6850,Mendrisio,Active
+742,45.87595168951277,8.987138816048143,momentaneamente fuori servizio per motivi tecnici : Mendrisio Cantine,Viale alle Cantine,6850,Mendrisio,Active
 743,45.84700376233985,9.005261994529603,Balerna Stazione FFS,Via Stazione,6828,Balerna,Active
 744,45.849737477082186,9.008044185318527,Balerna Ossario,Via Carlo Silva 2,6828,Balerna,Active
 745,45.844602,9.030907,Scuole Via Franscini,Via Stefano Franscini,6833,Vacallo,Active
@@ -350,7 +349,7 @@ id,latitude,longitude,name,address,zip,city,state
 766,46.020826,8.964896,Quartiere 9,Via Industria,6963,Lugano,Active
 770,45.83472077054605,9.01820134325138,Chiasso Soldini,Via Soldini parcheggio Crocione,6830,Chiasso,Active
 772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
-774,45.841265,8.98136,Fuori servizio per motivi technici: Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
+774,45.841265,8.98136,Novazzano Centro Paese,Via alla Scuola,6883,Novazzano,Active
 780,46.003948,8.961542,Foce,Via Foce,6900,Lugano,Active
 781,46.018784,8.962014,CSIA,Via Brentani,6900,Lugano,Active
 782,46.029052,8.969857,Ecocentro Pregassona,Via Ruggì 46,6963,Pregassona,Active
@@ -362,6 +361,7 @@ id,latitude,longitude,name,address,zip,city,state
 789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
+792,46.53317639350977,6.646243245874777,Sallaz,Place de la Sallaz,1010,Lausanne,Active
 803,46.51196729119777,6.4849846482546685,Eglantine,Promenade de l'Eglantine 1,1110,Morges,Active
 804,46.979405440906326,7.457189997936046,Worblaufen RBS Bahnhof,Tiefenaustrasse 2,3048,Ittigen,Active
 806,46.544314905605354,6.586897691005923,Baumettes,Av. des Baumettes 9,1020,Renens,Active
@@ -372,8 +372,6 @@ id,latitude,longitude,name,address,zip,city,state
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
 816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
 817,46.51673942261787,6.566454652605652,Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
-818,46.929742,7.44506,Gurtenfestival 1,Kirchstrasse 152,3084,Köniz,Active
-819,46.929612328482335,7.445094435077926,Gurtenfestival 2,Kirchstrasse 152,3084,Wabern bei Bern,Active
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
 822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active
@@ -381,7 +379,7 @@ id,latitude,longitude,name,address,zip,city,state
 825,46.95123907638763,7.487040006612239,Waldheimstrasse,Bachstrasse 5-1,3072,Ostermundigen,Active
 826,46.988369990781095,7.463319968143853,INFORAMA Zollikofen,Rütti 10,3052,Zollikofen,Active
 828,46.941794,7.390649,Fussgängerzone Bümpliz,Bümplizstrasse 112,3000,Bern,Active
-829,46.8934148092464,7.3518540937205685,Thörishaus Dorf SBB SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active
+829,46.8934148092464,7.3518540937205685,Aus technischen Gründen vorübergehend ausser Betrieb : Thörishaus Dorf SBB SwissBikePark,Sensemattstrasse 21,3174,Thörishaus,Active
 830,46.90080888317644,7.401061091966004,Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Active
 832,46.025237,8.963681,Cornèr Arena - HC Lugano,Via Sonvico di Porza,6900,Lugano,Active
 834,46.947801,7.416722,Güterstrasse (verschoben wegen Baustelle),Güterstrasse 21-9,3008,Bern,Active
@@ -421,7 +419,7 @@ id,latitude,longitude,name,address,zip,city,state
 898,46.950519,7.451593,Altenbergstrasse,Altenberg,3013,Bern,Active
 899,46.96593389019524,7.44160952607623,Studerstrasse,Studerstrasse 62,3004,Bern,Active
 900,46.545388,6.588019,Arbora,En baumettaz 5,1023,Renens,Active
-901,46.006757,8.936176,Sorengo Gemmo,Via gemmo 6,6924,Sorengo,Active
+901,46.006757,8.936176,momentaneamente fuori servizio per motivi tecnici : Sorengo Gemmo,Via gemmo 6,6924,Sorengo,Active
 902,45.996331,8.935102,Sorengo San Grato,Via Ponte Tresa 35,6924,Sorengo,Active
 903,46.92692,7.503482,Cinedome Muri,Feldstrasse 32,3073,Muri bei Bern,Active
 904,46.557488,6.579244,Casard - Plan-Soleil,Chem. de Plan-Soleil 3,1023,Crissier,Active

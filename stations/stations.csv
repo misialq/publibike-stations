@@ -27,13 +27,13 @@ id,latitude,longitude,name,address,zip,city,state
 37,46.538908,6.581072,Place du Marché,Av. du Quatorze-Avril 12,1020,Renens,Active
 38,46.526347,6.603215,Station temporairement fermée,Avenue du Chablais,1008,Prilly,Inactive
 39,46.52804418,6.59119606,Longemalle,Avenue de Longemalle,1020,Renens,Active
-40,45.9242,8.9192,Morcote,Riva Dal Garavéll 8,6922,Morcote,Active
+40,45.9242,8.9192,Fuori servizio per motivi technici: Morcote,Riva Dal Garavéll 8,6922,Morcote,Active
 41,45.953905,8.949715,Melide,Via alla Bola,6815,Melide,Active
 42,45.998453,8.94848,Arte e Cultura LAC,Via Antonio Caccia,6900,Lugano,Active
 43,46.005849,8.961709,Campo Marzio,Viale Castagnola 4,6900,Lugano,Active
 44,46.065999,8.966679,Tesserete,Piazza Stazione,6950,Tesserete,Active
-45,46.023159,8.959919,Fuori servizio per motivi technici: Stadio,Via Trevano 100,6900,Lugano,Active
-46,46.021942,8.962901,Fuori servizio per motivi technici: Via Ciani,Via Giacomo E Filippo Ciani,6900,Lugano,Active
+45,46.023159,8.959919,Stadio,Via Trevano 100,6900,Lugano,Active
+46,46.021942,8.962901,Via Ciani,Via Giacomo E Filippo Ciani,6900,Lugano,Active
 47,46.02398,8.968292,Pregassona,Via Terzerina,6900,Lugano,Active
 48,46.0105808,8.95794,USI,Via Giuseppe Buffi 13,6900,Lugano,Active
 49,46.005707,8.95184,Piazza Mercato/Contrada di Verla,Via Pretorio / Piazza Mercato,6900,Lugano,Active
@@ -45,7 +45,7 @@ id,latitude,longitude,name,address,zip,city,state
 119,46.95752776631194,7.440576239521807,PostAuto Engehalde,Engehaldenstrasse 37,3012,Bern,Active
 121,46.956956,7.48287,SBB Poststrasse,Poststrasse 5,3072,Ostermundigen,Active
 122,46.9613082,7.4466679,SBB Wylerpark,Wylerstrasse 123,3014,Bern,Active
-146,46.004469,8.947096,Fuori servizio per motivi technici: Stazione FFS,Via Clemente Maraini P+R,6900,Lugano,Active
+146,46.004469,8.947096,Stazione FFS,Via Clemente Maraini P+R,6900,Lugano,Active
 174,46.9436036,7.4071777,Europaplatz,Freiburgstrasse 130,3008,Bern,Active
 175,46.9393577,7.3863865,Statthalterstrasse,Freieckweg 2,3018,Bern,Active
 176,46.935853071517315,7.390354333129826,Technopark,Weidgasse 2,3018,Bern,Active
@@ -92,7 +92,7 @@ id,latitude,longitude,name,address,zip,city,state
 220,46.9559178,7.4467885,Dammweg TX Group AG,Dammweg 9,3013,Bern,Active
 221,46.9519742,7.4227466,Ausser Betrieb: Fabrikstrasse Uni Bern,Fabrikstrasse 2,3012,Bern,Inactive
 222,46.9534366,7.4239308,Hochschulzentrum von Roll,Fabrikstrasse 14,3012,Bern,Active
-223,46.9506632,7.4370414,Hauptgebaude Uni Bern,Falkenplatz 4,3012,Bern,Active
+223,46.9506632,7.4370414,Hauptgebäude Uni Bern,Falkenplatz 4,3012,Bern,Active
 224,46.9541456,7.4307168,Unitobler West,Lerchenweg 37,3012,Bern,Active
 225,46.95560612233403,7.428042090100739,Hochfeldstrasse,Länggassstrasse 74,3012,Bern,Active
 226,46.9557805,7.4352658,Uni Mittelstrasse,Mittelstrasse 38,3012,Bern,Active
@@ -106,7 +106,7 @@ id,latitude,longitude,name,address,zip,city,state
 245,46.012749,8.914699,Molinazzo,Via Longa,6934,Bioggio,Active
 246,46.040345,8.932433,Lamone - Cadempino FFS,Via Girella 49,6814,Lamone,Active
 247,46.020356,8.916114,Bioggio Via Industria,Via Industria 31,6934,Bioggio,Active
-248,45.993326,8.924532,Fuori servizio per motivi technici: Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Active
+248,45.993326,8.924532,Cappella-Agnuzzo FLP,Cappella-Agnuzzo,6925,Collina d'Oro,Active
 249,46.000482,8.912639,Muzzano Industria,Via Industria,6933,Muzzano,Active
 250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
 251,46.948813,7.447638,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
@@ -281,7 +281,7 @@ id,latitude,longitude,name,address,zip,city,state
 639,46.015758,8.971604,San Siro,Via al Campanile 1,6962,Viganello,Active
 648,46.949233,7.436822,Open 07:00 - 18:00 In der Velostation Schanzenbrücke,Velostation Parkterrasse,3012,Bern,Active
 663,46.951897864484735,7.442042659901252,Kleeplatz / Bollwerk,Bollwerk 41,3011,Bern,Active
-664,46.011494,8.961011,Campus Est,Via la Santa,6962,Viganello,Active
+664,46.011494,8.961011,Fuori servizio per motivi technici: Campus Est,Via la Santa,6962,Viganello,Active
 665,46.92962527658024,7.4209414544658925,Liebefeld Park,Bündenackerstrasse 1,3098,Köniz,Active
 666,46.997311304908294,7.458796441962296,Ziegelei Märit,Märitgasse 1,3052,Zollikofen,Active
 667,46.99996912619948,7.442087059202756,Geisshubel Zollikofen,Im Kläyhof 2,3052,Zollikofen,Active
@@ -309,7 +309,7 @@ id,latitude,longitude,name,address,zip,city,state
 692,45.831757,9.032651,Chiasso Stazione FFS,Via Giuseppe Motta,6830,Chiasso,Active
 693,45.835102068444385,9.027882228092864,Chiasso Municipio,Piazza Col. C. Bernasconi 1,6830,Chiasso,Active
 694,45.849794,8.944964,Stabio Stazione FFS,Via Cantonale 11,6855,Stabio,Active
-696,45.991069,8.936421,Gentilino,Via Nocc,6925,Collina d'Oro,Active
+696,45.991069,8.936421,Fuori servizio per motivi technici: Gentilino,Via Nocc,6925,Collina d'Oro,Active
 699,45.858612,8.940146,Stabio Via Segeno,Via Segeno,6855,Stabio,Active
 700,46.530875,6.601074,Sicpa,Route des Flumeaux 40,1008,Prilly,Active
 704,45.87254294486857,8.987224327562924,Mendrisio Museo,Via Vincenzo Vela,6850,Mendrisio,Active
@@ -335,11 +335,11 @@ id,latitude,longitude,name,address,zip,city,state
 726,46.9647833374251,7.4484037810233445,Wylergut,Dändlikerweg 48,3013,Bern,Active
 740,46.99128453561965,7.46742522413544,HAFL Zollikofen,Länggasse 85,3052,Zollikofen,Active
 742,45.87595168951277,8.987138816048143,Mendrisio Cantine,Viale alle Cantine,6850,Mendrisio,Active
-743,45.84700376233985,9.005261994529603,Balerna Stazione FFS,Via Stazione,6828,Balerna,Active
+743,45.84700376233985,9.005261994529603,Fuori servizio per motivi technici: Balerna Stazione FFS,Via Stazione,6828,Balerna,Active
 744,45.849737477082186,9.008044185318527,Balerna Ossario,Via Carlo Silva 2,6828,Balerna,Active
-745,45.844602,9.030907,Fuori servizio per motivi technici: Scuole Via Franscini,Via Stefano Franscini,6833,Vacallo,Active
-749,46.01839064983639,8.952667134728758,Fuori servizio per motivi technici: Ospedale Civico,Via Tesserete 46,6900,Lugano,Active
-750,45.95289,8.965247,Fuori servizio per motivi technici: Bissone,Via Collina,6816,Bissone,Active
+745,45.844602,9.030907,Scuole Via Franscini,Via Stefano Franscini,6833,Vacallo,Active
+749,46.01839064983639,8.952667134728758,Ospedale Civico,Via Tesserete 46,6900,Lugano,Active
+750,45.95289,8.965247,Bissone,Via Collina,6816,Bissone,Active
 751,45.92991043850694,8.938161232544616,Brusino Arsizio – Debarcadero,Piazza Don F. Andreoletti 1,6827,Brusino Arsizio,Active
 752,46.027895,8.954881,Porza Sant'Elena,Via Cantonale,6948,Porza,Active
 757,46.543261033642686,6.661545646440144,Croisettes-Biopôle,Route de la Corniche 2,1066,Epalinges,Active
@@ -425,7 +425,7 @@ id,latitude,longitude,name,address,zip,city,state
 906,46.549139,6.579048,Hors Service pour raison de vandalisme: Place Centrale,Rue des Alpes 6,1023,Crissier,Inactive
 907,46.95751,7.514008,RBS Deisswil,Bahnhofplatz 2,3066,Stettlen,Active
 908,46.93317997920845,7.417113169925848,Sportweg,Sportweg 34,3097,Liebefeld,Active
-910,46.561365,6.682146,EHL Hospitality Business School - North Entrance,Route de Cojonnex 18,1000,Lausanne,Active
+910,46.561365,6.682146,Hors service pour des raisons techniques : EHL Hospitality Business School - North Entrance,Route de Cojonnex 18,1000,Lausanne,Active
 911,46.97977354947435,7.443923763945266,Zehendermätteli,Reichenbachstrasse 161,3004,Bern,Active
 912,46.961055129023734,7.465430423450432,BERNEXPO,Papiermühlestrasse 50,3014,Bern,Active
 914,46.946499,7.491459,Freibad Ostermundigen,Dennigkofenweg 120,3072,Ostermundigen,Active

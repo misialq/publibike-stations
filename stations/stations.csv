@@ -89,10 +89,10 @@ id,latitude,longitude,name,address,zip,city,state
 251,46.948813,7.447638,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
 252,46.94970199819606,7.44441499979321,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
-254,46.9486345,7.4567436,Nydegg (am 28.11. geschlossen für den Santarun),Nydeggasse 13,3011,Bern,Active
+254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
 255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
 256,46.95548253215054,7.476904610773494,Zentweg,Zentweg 23,3006,Bern,Active
-257,46.9480422,7.4502406,Simsonbrunnen (am 28.11. geschlossen für den Santarun),Kramgasse 40,3011,Bern,Active
+257,46.9480422,7.4502406,Simsonbrunnen,Kramgasse 40,3011,Bern,Active
 258,46.9475995,7.4473498,Theaterplatz,Theaterplatz 4,3011,Bern,Active
 259,46.9539295,7.4267524,Waldheim,Freiestrasse 43,3012,Bern,Active
 260,46.9486794,7.4532728,Postgasse,Postgasse 66,3011,Bern,Active
@@ -100,9 +100,9 @@ id,latitude,longitude,name,address,zip,city,state
 262,46.9416249,7.4631929,Böcklinstrasse,Brunnadernstrasse 20,3006,Bern,Active
 271,46.947856328360984,7.436903989490435,PostParc Velostation (06:00-22:00) INSIDE the building!,Schanzenstrasse 5,3008,Bern,Active
 284,46.520469823395864,6.630836110862832,Place de l’Europe,Place Centrale,1003,Lausanne,Active
-290,46.946888089472424,7.445830418186601,Nationalbank (am 28.11. geschlossen für den Santarun),Inselgasse 1,3011,Bern,Active
+290,46.946888089472424,7.445830418186601,Nationalbank,Inselgasse 1,3011,Bern,Active
 291,46.9635131,7.4555218,Markuskirche,Winkelriedstrasse 56,3014,Bern,Active
-292,46.946604,7.441624,Bundesgasse am 24.11. geschlossen für Zibelemärit,Bundesgasse 3,3011,Bern,Active
+292,46.946604,7.441624,Bundesgasse,Bundesgasse 3,3011,Bern,Active
 293,46.9465196,7.4481457,Casinoplatz,Casinoplatz 3,3011,Bern,Active
 294,46.95361163218042,7.4372760729484755,Hallerstrasse West,Zähringerstrasse 4,3012,Bern,Active
 295,46.9371056,7.4178248,Sporthalle Weissenstein,Hardeggerstrasse 1,3008,Bern,Active
@@ -135,7 +135,7 @@ id,latitude,longitude,name,address,zip,city,state
 323,46.933646280041835,7.448225744500959,Restaurant Dählhölzli,Tierparkweg 2,3005,Bern,Active
 324,46.94588,7.41549,Schenkstrasse,Huberstrasse 2,3008,Bern,Active
 325,46.9360173,7.4300596,Bahnhof Weissenbühl,Südbahnhofstrasse 14b,3007,Bern,Active
-326,46.9478691,7.4598938,Bärenpark (am 28.11. geschlossen für den Santarun),Grosser-Muristalden 4,3006,Bern,Active
+326,46.9478691,7.4598938,Bärenpark,Grosser-Muristalden 4,3006,Bern,Active
 327,46.938964,7.4476281,Anshelmstrasse,Aegertenstrasse 49,3005,Bern,Active
 328,46.9417265,7.3930062,Bümpliz Post,Keltenstrasse 106,3018,Bern,Active
 329,46.94167,7.42598,Cäcilienplatz,Brunnmattstrasse 55,3007,Bern,Active
@@ -185,7 +185,7 @@ id,latitude,longitude,name,address,zip,city,state
 472,46.9477995,7.454056,Junkerngasse,Junkerngasse 30,3011,Bern,Active
 473,46.9491966,7.445947,Predigergasse,Predigergasse 6,3011,Bern,Active
 474,46.9501048,7.4283779,Depotstrasse,Depotstrasse 2,3012,Bern,Active
-475,46.9475304,7.4521275,Station ausser Betrieb wegen technischen Problemen: Münster,Münstergasse 2,3011,Bern,Active
+475,46.9475304,7.4521275,Münster,Münstergasse 2,3011,Bern,Active
 476,46.9459831,7.4394178,Kleine Schanze,Schwanengasse 14,3011,Bern,Active
 477,46.9616862,7.4396136,Innere Enge,Engestrasse 54a,3012,Bern,Active
 478,46.9406928,7.4431488,Dampfzentrale,Marzilistrasse 45,3005,Bern,Active
@@ -247,7 +247,7 @@ id,latitude,longitude,name,address,zip,city,state
 681,46.93987160970557,7.425113039012359,Weberstrasse,Weberstrasse 25,3007,Bern,Active
 682,46.938845,7.4210796,Kirchbergerstrasse,Kirchbergerstrasse 41,3008,Bern,Active
 683,46.948471616973904,7.450529302235038,Rathausgasse,Rathausgasse 31,3000,Bern,Active
-700,46.530875,6.601074,Sicpa,Route des Flumeaux 40,1008,Prilly,Active
+700,46.530875,6.601074,Hors service pour des raisons techniques : Sicpa,Route des Flumeaux 40,1008,Prilly,Active
 726,46.9647833374251,7.4484037810233445,Wylergut,Dändlikerweg 48,3013,Bern,Active
 740,46.99128453561965,7.46742522413544,HAFL Zollikofen,Länggasse 85,3052,Zollikofen,Active
 757,46.543261033642686,6.661545646440144,Croisettes-Biopôle,Route de la Corniche 2,1066,Epalinges,Active
@@ -272,7 +272,7 @@ id,latitude,longitude,name,address,zip,city,state
 816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
 817,46.51673942261787,6.566454652605652,Starling Esplanade,Route Cantonal 31,1025,Saint-Sulpice,Active
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
-822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
+822,46.95812,7.48801,Station ausser Betrieb wegen technischen Problemen: Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active
 824,46.956504,7.482886,Ostermundigen Bahnhof (verschoben wegen Baustelle),Poststrasse 31,3072,Ostermundigen,Active
 825,46.95123907638763,7.487040006612239,Waldheimstrasse,Bachstrasse 5-1,3072,Ostermundigen,Active
@@ -282,7 +282,7 @@ id,latitude,longitude,name,address,zip,city,state
 830,46.90080888317644,7.401061091966004,Gasel BLS SwissBikePark,Schwarzenburgstrasse 574a,3144,Köniz,Active
 834,46.947801,7.416722,Güterstrasse (verschoben wegen Baustelle),Güterstrasse 21-9,3008,Bern,Active
 835,46.95884778357857,7.429204058387358,Gymnasium Neufeld,Bremgartenstrasse 133,3012,Bern,Active
-838,46.505009,6.641321,Tour Haldimand - TetraLaval TetraPak,Av. Général-Guisan 70,1009,Pully,Active
+838,46.505009,6.641321,Hors service pour des raisons techniques : Tour Haldimand - TetraLaval TetraPak,Av. Général-Guisan 70,1009,Pully,Active
 841,46.938446718314495,7.4808033698062095,Wittigkofen,Jupiterstrasse 1,3015,Bern,Active
 842,46.93658906078831,7.395474687081315,Weidmattweg,Weidmattweg 1,3018,Bern,Active
 843,46.94303954532779,7.4016277739719145,Stöckacker Süd,Bethlehemstrasse 118,3018,Bern,Active
@@ -298,7 +298,7 @@ id,latitude,longitude,name,address,zip,city,state
 883,46.96079848478852,7.433964120753491,Schwimmhalle Neufeld,Neubrückstrasse 133,3012,Bern,Active
 884,46.973323,7.484832,Ittigen Bahnhof,Worblentalstrasse 86,3063,Ittigen,Active
 889,47.015385,7.48331,RBS Moosseedorf,Sandstrasse 9,3302,Moosseedorf,Active
-890,47.012883,7.469947,Station ausser Betrieb wegen technischen Problemen: Lochacker Moosseedorf,Lochackerweg 5,3302,Moosseedorf,Active
+890,47.012883,7.469947,Lochacker Moosseedorf,Lochackerweg 5,3302,Moosseedorf,Active
 893,46.97551090002302,7.441680989240398,Fährstrasse,Fährstrasse 43,3004,Bern,Active
 894,46.97251813179933,7.441408311220162,Felsenaustrasse,Felsenaustrasse 17,3004,Bern,Active
 895,46.9353829,7.3500931,Oberbottigen,Hausmattweg 291,3019,Bern,Active
@@ -308,7 +308,7 @@ id,latitude,longitude,name,address,zip,city,state
 899,46.96593389019524,7.44160952607623,Studerstrasse,Studerstrasse 62,3004,Bern,Active
 900,46.545388,6.588019,Arbora,En baumettaz 5,1023,Renens,Active
 903,46.92692,7.503482,Cinedome Muri,Feldstrasse 32,3073,Muri bei Bern,Active
-904,46.557488,6.579244,Hors service pour des raisons techniques : Casard - Plan-Soleil,Chem. de Plan-Soleil 3,1023,Crissier,Active
+904,46.557488,6.579244,Casard - Plan-Soleil,Chem. de Plan-Soleil 3,1023,Crissier,Active
 905,46.55951,6.573065,Crésentine,Chemin de la Pierre 2,1023,Crissier,Active
 906,46.549139,6.579048,Hors Service pour raison de vandalisme: Place Centrale,Rue des Alpes 6,1023,Crissier,Inactive
 907,46.95751,7.514008,RBS Deisswil,Bahnhofplatz 2,3066,Stettlen,Active

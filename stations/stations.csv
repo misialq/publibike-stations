@@ -4,18 +4,18 @@ id,latitude,longitude,name,address,zip,city,state
 8,46.518951,6.562162,Place Alan Turing,Chemin Alan Turing,1015,Ecublens,Active
 9,46.519805,6.579676,Centre Sportif UNIL EPFL,Route Cantonale,1015,Ecublens,Active
 10,46.526079,6.579268,Mouline,Rue de la Mouline,1022,Chavannes-près-Renens,Active
-11,46.521978,6.564896,Rivier,Route de la Sorge,1015,Ecublens,Active
+11,46.521978,6.564896,Hors service pour des raisons techniques : Rivier,Route de la Sorge,1015,Ecublens,Active
 12,46.520723,6.568276,Piccard,Avenue Piccard,1015,Ecublens,Active
 13,46.517153,6.561272,EPFL Innovation Park,Bâtiment G,1015,Ecublens,Active
-14,46.5224054,6.5655126,Hors service pour des raisons techniques : Quartier nord,Campus,1000,Ecublens,Active
+14,46.5224054,6.5655126,Quartier nord,Campus,1000,Ecublens,Active
 18,46.5367962297447,6.57834071739537,Gare de Renens,Place de la gare,1020,Renens,Active
 20,46.506896,6.626253,Ouchy,Place de la Navigation,1006,Lausanne,Active
-21,46.521043,6.573253,Sorge,UNIL Sorge,1015,Ecublens,Active
+21,46.521043,6.573253,Hors service pour des raisons techniques : Sorge,UNIL Sorge,1015,Ecublens,Active
 22,46.508486,6.499667,Casino,Place du Casino,1110,Morges,Active
 23,46.5175143,6.5261484,Préverenges,Route de Genève,1028,Préverenges,Active
 25,46.51729603169255,6.630497103216617,Lausanne Gare CFF Nord,Avenue de la Gare,1003,Lausanne,Active
 26,46.521668,6.581345,Unil Centre,Unicentre,1015,Ecublens,Active
-27,46.50225151684113,6.48110823288,Medtronic,Route du Molliau 31,1131,Tolochenaz,Active
+27,46.50225151684113,6.48110823288,Hors service pour des raisons techniques : Medtronic,Route du Molliau 31,1131,Tolochenaz,Active
 29,46.5058,6.6711,Paudex,Route du Lac,1094,Paudex,Active
 30,46.511048,6.492569,Moulin,Gare de Morges,1110,Morges,Active
 31,46.50737,6.495352,Dufour,Place Dufour,1110,Morges,Active
@@ -24,7 +24,7 @@ id,latitude,longitude,name,address,zip,city,state
 34,46.532879,6.566487,Hors Service pour raison de vandalisme: Croset,Route du Bois 29a,1024,Ecublens,Inactive
 35,46.510562,6.499863,Temple,Grand-Rue,1110,Morges,Active
 36,46.51856,6.50736,Gracieuse,Avenue de Lonay,1110,Morges,Active
-37,46.538908,6.581072,Place du Marché,Av. du Quatorze-Avril 12,1020,Renens,Active
+37,46.538908,6.581072,Hors service pour des raisons techniques : Place du Marché,Av. du Quatorze-Avril 12,1020,Renens,Active
 38,46.526347,6.603215,Station temporairement fermée,Avenue du Chablais,1008,Prilly,Inactive
 39,46.52804418,6.59119606,Longemalle,Avenue de Longemalle,1020,Renens,Active
 114,46.9566007,7.4402185,Engehalde,Engehaldenstrasse 26,3012,Bern,Active
@@ -159,7 +159,7 @@ id,latitude,longitude,name,address,zip,city,state
 415,46.916092,7.418571,Entsorgungshof Werkhof,Muhlernstrasse 101,3098,Köniz,Active
 416,46.93046,7.428167,Steinhölzli,Kirchstrasse 6a,3097,Köniz,Active
 417,46.92903811738819,7.417226193945767,Neuhausplatz,Könizstrasse 249,3097,Köniz,Active
-418,46.92878380186514,7.446101,Station ausser Betrieb wegen technischen Problemen: Wabern Bahnhof,Bahnhofstrasse 16,3084,Köniz,Active
+418,46.92878380186514,7.446101,Wabern Bahnhof,Bahnhofstrasse 16,3084,Köniz,Active
 419,46.93036,7.41929,Liebefeld Bahnhof,Stationsstrasse 1,3097,Köniz,Active
 420,46.9356189,7.4165883,Vidmar,Könizstrasse 161,3097,Köniz,Active
 421,46.9229774,7.4141121,Köniz Zentrum,Bläuacker 10,3098,Köniz,Active
@@ -202,7 +202,7 @@ id,latitude,longitude,name,address,zip,city,state
 491,46.9650342,7.4514649,Wylerbad,Scheibenstrasse 65c,3014,Bern,Active
 497,46.9579458,7.4537747,Breitenrainplatz,Moserstrasse 33,3013,Bern,Active
 511,46.974841,7.453275,Spital Tiefenau,Tiefenaustrasse 110,3004,Bern,Active
-543,46.517338,6.59775,Hors service pour des raisons techniques : Siège du CIO,Chemin du Camping 3,1007,Lausanne,Active
+543,46.517338,6.59775,Siège du CIO,Chemin du Camping 3,1007,Lausanne,Active
 544,46.52864,6.566695,Cerisaie,Avenue du Tir Fédéral 88,1024,Ecublens,Active
 545,46.943536,7.463293,Egelsee,Ensingerstrasse 3,3006,Bern,Active
 546,46.939462,7.46973,Elfenauweg,Elfenauweg 6a,3006,Bern,Active
@@ -227,7 +227,7 @@ id,latitude,longitude,name,address,zip,city,state
 597,46.941383,7.448788,Museen Bernastrasse,Bernastrasse 23,3005,Bern,Active
 602,47.000176,7.461966,Zollikofen Bahnhof,Bernstrasse 189,3052,Zollikofen,Active
 616,46.975958,7.472646,Bundesamt für Energie,Mühlestrasse 4,3063,Ittigen,Active
-626,46.55095610567505,6.57306649851556,Oassis,Chemin des Lentillières 15,1023,Crissier,Active
+626,46.55095610567505,6.57306649851556,Hors service pour des raisons techniques : Oassis,Chemin des Lentillières 15,1023,Crissier,Active
 648,46.949233,7.436822,Open 07:00 - 18:00 In der Velostation Schanzenbrücke,Velostation Parkterrasse,3012,Bern,Active
 663,46.951897864484735,7.442042659901252,Kleeplatz / Bollwerk,Bollwerk 41,3011,Bern,Active
 665,46.92962527658024,7.4209414544658925,Liebefeld Park,Bündenackerstrasse 1,3098,Köniz,Active
@@ -249,23 +249,23 @@ id,latitude,longitude,name,address,zip,city,state
 700,46.530875,6.601074,Sicpa,Route des Flumeaux 40,1008,Prilly,Active
 726,46.9647833374251,7.4484037810233445,Wylergut,Dändlikerweg 48,3013,Bern,Active
 740,46.99128453561965,7.46742522413544,HAFL Zollikofen,Länggasse 85,3052,Zollikofen,Active
-757,46.543261033642686,6.661545646440144,Croisettes-Biopôle,Route de la Corniche 2,1066,Epalinges,Active
+757,46.543261033642686,6.661545646440144,Hors service pour des raisons techniques : Croisettes-Biopôle,Route de la Corniche 2,1066,Epalinges,Active
 758,46.547872289288286,6.671632436126663,"Epalinges, Croix-Blanche",Rte de la Croix-Blanche 25,1066,Epalinges,Active
-763,46.51649685275541,6.550408183414197,Hors service pour des raisons techniques : Vallaire,Champs-Courbes,1024,Ecublens,Active
+763,46.51649685275541,6.550408183414197,Vallaire,Champs-Courbes,1024,Ecublens,Active
 772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
-786,46.5275155987152,6.5727380643235245,Hors service pour des raisons techniques : Café de Chavannes,Route de la Maladière 40,1022,Chavannes-près-Renens,Active
+786,46.5275155987152,6.5727380643235245,Café de Chavannes,Route de la Maladière 40,1022,Chavannes-près-Renens,Active
 787,46.53439438272029,6.5780125706014605,Hors Service pour raison de vandalisme: Chocolaterie,Avenue de la gare 22,1022,Chavanne-près-Renens,Inactive
-788,46.52285180329474,6.616691677562492,SEVELIN.CH,Avenue de Sévelin,1004,Lausanne,Active
-789,46.51966972197189,6.632556563027347,Hors service pour des raisons techniques : Saint-François,Place Saint-François,1003,Lausanne,Active
+788,46.52285180329474,6.616691677562492,Hors service pour des raisons techniques : SEVELIN.CH,Avenue de Sévelin,1004,Lausanne,Active
+789,46.51966972197189,6.632556563027347,Saint-François,Place Saint-François,1003,Lausanne,Active
 790,46.52112812235608,6.64036369203716,Ours,Passage Perdonnet 1,1005,Lausanne,Active
 791,46.52689212107495,6.651725094510788,Chailly,Av. de Chailly 1,1012,Lausanne,Active
-792,46.53317639350977,6.646243245874777,Sallaz,Place de la Sallaz,1010,Lausanne,Active
+792,46.53317639350977,6.646243245874777,Hors service pour des raisons techniques : Sallaz,Place de la Sallaz,1010,Lausanne,Active
 803,46.51196729119777,6.4849846482546685,Eglantine,Promenade de l'Eglantine 1,1110,Morges,Active
 804,46.979405440906326,7.457189997936046,Worblaufen RBS Bahnhof,Tiefenaustrasse 2,3048,Ittigen,Active
 806,46.544314905605354,6.586897691005923,Baumettes,Av. des Baumettes 9,1020,Renens,Active
 807,46.52654734920485,6.64111195901793,CHUV,Rue du Bugnon,1011,Lausanne,Active
 808,46.547024950077954,6.607627798721679,Hors service pour des raisons techniques : CHUV Cery,Route de Cery 60,1008,Prilly,Active
-809,46.530961547725724,6.570954143053104,Cèdres,Allée des Cèdres,1022,Chavannes-près-Renens,Active
+809,46.530961547725724,6.570954143053104,Hors service pour des raisons techniques : Cèdres,Allée des Cèdres,1022,Chavannes-près-Renens,Active
 814,46.96629170335004,7.48318298315503,UPD Restaurant,UPD Bern,3000,Bern,Active
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
 816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
@@ -286,12 +286,12 @@ id,latitude,longitude,name,address,zip,city,state
 842,46.93658906078831,7.395474687081315,Weidmattweg,Weidmattweg 1,3018,Bern,Active
 843,46.94303954532779,7.4016277739719145,Stöckacker Süd,Bethlehemstrasse 118,3018,Bern,Active
 849,46.51569970026471,6.499234489270572,Beausobre,Avenue de Vertou 2,1110,Morges,Active
-853,46.51061054877812,6.659367730704223,Gare de Pully sud,Place de la Gare 1,1009,Pully,Active
+853,46.51061054877812,6.659367730704223,Hors service pour des raisons techniques : Gare de Pully sud,Place de la Gare 1,1009,Pully,Active
 854,46.514863230694175,6.658812113086054,Gare de Pully nord,Chem. du Montillier 9,1009,Pully,Active
 855,46.52785589336738,6.560535663689192,Brûlée,"Rte de la Brûlée, 1024 Ecublens",1024,Ecublens,Active
 859,46.54405624882997,6.6034499977507615,Piscine de Fleur-de-Lys,Sentier de la Fleur-de-Lys 2,1008,Prilly,Active
 867,46.9477816,7.4365087,Welle 7 Velostation (06:00-22:00) INSIDE the building!,Merkurgässli,3008,Bern,Active
-877,46.97422346344607,7.476819763848439,Papiermühle Bahnhof,Papiermühlestrasse 172,3063,Ittigen,Active
+877,46.97422346344607,7.476819763848439,Station ausser Betrieb wegen technischen Problemen: Papiermühle Bahnhof,Papiermühlestrasse 172,3063,Ittigen,Active
 878,46.948670967854916,7.408147339558864,Los Lorentes Residences,Murtenstrasse 147,3008,Bern,Active
 882,46.927744881476436,7.370069357719424,Bodelenweg,Bodelenweg 100,3172,Köniz,Active
 883,46.960822,7.433923,Schwimmhalle Neufeld,Neubrückstrasse 133,3012,Bern,Active

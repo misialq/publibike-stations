@@ -44,7 +44,7 @@ id,latitude,longitude,name,address,zip,city,state
 218,46.961965,7.452968,Breitfeld,Weingartstrasse 59,3014,Bern,Active
 219,46.9514853,7.4303815,Bühlstrasse Uni,Bühlstrasse 37,3012,Bern,Active
 220,46.9559178,7.4467885,Dammweg TX Group AG,Dammweg 9,3013,Bern,Active
-221,46.9519742,7.4227466,Ausser Betrieb: Fabrikstrasse Uni Bern,Fabrikstrasse 2,3012,Bern,Inactive
+221,46.9519742,7.4227466,Ausser Betrieb während Bauarbeiten: Fabrikstrasse Uni Bern,Fabrikstrasse 2,3012,Bern,Inactive
 222,46.9534366,7.4239308,Hochschulzentrum von Roll,Fabrikstrasse 14,3012,Bern,Active
 223,46.9506632,7.4370414,Hauptgebäude Uni Bern,Falkenplatz 4,3012,Bern,Active
 224,46.9541456,7.4307168,Unitobler West,Lerchenweg 37,3012,Bern,Active
@@ -174,7 +174,7 @@ id,latitude,longitude,name,address,zip,city,state
 548,46.944243,7.399437,Stöckacker Migros,Bethlehemstrasse 106,3018,Bern,Active
 549,46.951735,7.416496,Forsthaus KVA / TBA,Murtenstrasse 98,3008,Bern,Active
 550,46.958014,7.444949,Quartiergasse,Quartiergasse 31,3013,Bern,Active
-551,46.957107,7.450851,Breitenrainstrasse,Optingenstrasse 53-47,3013,Bern,Active
+551,46.9573476,7.4514373,Breitenrainstrasse,Spitalackerstrasse 74,3013,Bern,Active
 552,46.952701,7.454585,Salem-Spital,Schänzlistrasse 33,3013,Bern,Active
 553,46.944672,7.422308,Loryplatz,Könizstrasse 6,3008,Bern,Active
 554,46.95251,7.467399,Ostermundigerstrasse,Ostermundigenstrasse 36,3006,Bern,Active
@@ -207,7 +207,7 @@ id,latitude,longitude,name,address,zip,city,state
 680,46.946852812713296,7.483654624791477,Merzenacker,Obere Zollgasse 94,3006,Bern,Active
 681,46.93987160970557,7.425113039012359,Weberstrasse,Weberstrasse 25,3007,Bern,Active
 682,46.938845,7.4210796,Kirchbergerstrasse,Kirchbergerstrasse 41,3008,Bern,Active
-683,46.948471616973904,7.450529302235038,Station ausser Betrieb wegen technischen Problemen: Rathausgasse,Rathausgasse 31,3000,Bern,Active
+683,46.948471616973904,7.450529302235038,Rathausgasse,Rathausgasse 31,3000,Bern,Active
 726,46.9647833374251,7.4484037810233445,Wylergut,Dändlikerweg 48,3013,Bern,Active
 740,46.99128453561965,7.46742522413544,HAFL Zollikofen,Länggasse 85,3052,Zollikofen,Active
 772,46.9191591,7.4383865,Gurten Kulm,Gurten - Park im Grünen,3084,Köniz,Active
@@ -255,3 +255,10 @@ id,latitude,longitude,name,address,zip,city,state
 917,46.95693232201068,7.523767999999968,RBS Stettlen,Ringstrasse 1,3066,Stettlen,Active
 918,46.95315709014869,7.547451354966772,RBS Boll,Bahnhofplatz 1b,3067,Boll,Active
 919,46.948961234422434,7.451716473749641,Rathausparking,Postgasshalde 50,3011,Bern,Active
+923,46.9231944,7.46175,Nesslerenweg,Nesslerenweg 30a,3084,Köniz,Active
+924,46.911,7.4098889,Talbodenstrasse,Talbodenstrasse 70,3098,Köniz,Active
+925,46.9213611,7.4239167,Adlerweg,Adlerweg 18,3098,Köniz,Active
+926,46.9128056,7.4158333,Eichmatt,Talbodenstrasse 3,3098,Köniz,Active
+927,46.9066389,7.4153611,Fuhrenstrasse,Fuhrenstrasse 19,3098,Köniz,Active
+929,46.9256111,7.4333611,Balsigerrain,Balsigerrain 4,3095,Spiegel b. Bern,Active
+930,46.9266389,7.4140278,Gartenstadtstrasse,Gartenstadtstrasse 12A,3098,Köniz,Active

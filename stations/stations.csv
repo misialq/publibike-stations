@@ -13,7 +13,7 @@ id,latitude,longitude,name,address,zip,city,state
 179,46.9454695,7.3928104,Schwabgut,Schwabstrasse 10,3018,Bern,Active
 180,46.947829,7.377815,Gäbelbach,Colombstrasse 11,3027,Bern,Active
 181,46.9378963,7.3954739,Bahnhof Bümpliz Süd,Bümplizstrasse 187,3018,Bern,Active
-182,46.96274,7.46276,Hopp YB - Stadion Wankdorf,Morgartenstrasse 1,3014,Bern,Active
+182,46.96274,7.46276,Stadion Wankdorf,Morgartenstrasse 1,3014,Bern,Active
 183,46.9432034,7.4735436,Sonnenhofspital,Buchserstrasse 26,3006,Bern,Active
 184,46.9489732,7.3882333,Tscharnergut,Waldmannstrasse 31,3027,Bern,Active
 185,46.946664,7.400752,Bahnhof Stöckacker,Untermattweg 36,3027,Bern,Active
@@ -44,7 +44,7 @@ id,latitude,longitude,name,address,zip,city,state
 218,46.961965,7.452968,Breitfeld,Weingartstrasse 59,3014,Bern,Active
 219,46.9514853,7.4303815,Bühlstrasse Uni,Bühlstrasse 37,3012,Bern,Active
 220,46.9559178,7.4467885,Dammweg TX Group AG,Dammweg 9,3013,Bern,Active
-221,46.9519742,7.4227466,Ausser Betrieb während Bauarbeiten: Fabrikstrasse Uni Bern,Fabrikstrasse 2,3012,Bern,Inactive
+221,46.9519742,7.4227466,Station ausser Betrieb wegen technischen Problemen: Fabrikstrasse Uni Bern,Fabrikstrasse 2,3012,Bern,Inactive
 222,46.9534366,7.4239308,Hochschulzentrum von Roll,Fabrikstrasse 14,3012,Bern,Active
 223,46.9506632,7.4370414,Hauptgebäude Uni Bern,Falkenplatz 4,3012,Bern,Active
 224,46.9541456,7.4307168,Unitobler West,Lerchenweg 37,3012,Bern,Active
@@ -101,7 +101,7 @@ id,latitude,longitude,name,address,zip,city,state
 318,46.9410334,7.4359176,Monbijoustrasse,Monbijoustrasse 61,3007,Bern,Active
 320,46.946466,7.452518,Mattelift,Badgasse 21,3011,Bern,Active
 321,46.93965162143165,7.440241261842887,Monbijoubrücke,Eigerstrasse 80,3007,Bern,Active
-322,46.934534,7.441946,Schöneggweg - wegen Baustelle verschoben,Zinggstrasse 24,3007,Bern,Active
+322,46.934534,7.441946,Schöneggweg,Zinggstrasse 24,3007,Bern,Active
 323,46.933646280041835,7.448225744500959,Restaurant Dählhölzli,Tierparkweg 2,3005,Bern,Active
 324,46.94588,7.41549,Schenkstrasse,Huberstrasse 2,3008,Bern,Active
 325,46.9360173,7.4300596,Bahnhof Weissenbühl,Südbahnhofstrasse 14b,3007,Bern,Active
@@ -231,7 +231,7 @@ id,latitude,longitude,name,address,zip,city,state
 843,46.94303954532779,7.4016277739719145,Stöckacker Süd,Bethlehemstrasse 118,3018,Bern,Active
 867,46.9477816,7.4365087,Welle 7 Velostation (06:00-22:00) INSIDE the building!,Merkurgässli,3008,Bern,Active
 877,46.97422346344607,7.476819763848439,Papiermühle Bahnhof,Papiermühlestrasse 172,3063,Ittigen,Active
-878,46.948670967854916,7.408147339558864,Los Lorentes Residences,Murtenstrasse 147,3008,Bern,Active
+878,46.948670967854916,7.408147339558864,Station ausser Betrieb wegen technischen Problemen: Los Lorentes Residences,Murtenstrasse 147,3008,Bern,Active
 882,46.927744881476436,7.370069357719424,Bodelenweg,Bodelenweg 100,3172,Köniz,Active
 883,46.960822,7.433923,Schwimmhalle Neufeld,Neubrückstrasse 133,3012,Bern,Active
 884,46.973323,7.484832,Ittigen Bahnhof,Worblentalstrasse 86,3063,Ittigen,Active

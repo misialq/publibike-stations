@@ -123,13 +123,11 @@ id,latitude,longitude,name,address,zip,city,state
 374,46.88922737105038,7.367057544825261,SwissBikePark Oberried,Oberriedgässli 6,3145,Niederscherli,Active
 411,46.9257473,7.3770699,Niederwangen Bahnhof,Freiburgstrasse 554a,3098,Köniz,Active
 412,46.9266467,7.4359484,Bellevuestrasse,Bellevuestrasse 75,3095,Köniz,Active
-413,46.9250228,7.4154375,Köniz Bahnhof,Sonnenweg 22,3098,Köniz,Active
 414,46.926197,7.417231,Brühlplatz,Schwarzenburgstrasse 236,3098,Köniz,Active
 415,46.916092,7.418571,Entsorgungshof Werkhof,Muhlernstrasse 101,3098,Köniz,Active
 416,46.93046,7.428167,Steinhölzli,Kirchstrasse 6a,3097,Köniz,Active
 417,46.92903811738819,7.417226193945767,Neuhausplatz,Könizstrasse 249,3097,Köniz,Active
 418,46.92878380186514,7.446101,Wabern Bahnhof,Bahnhofstrasse 16,3084,Köniz,Active
-419,46.93036,7.41929,Liebefeld Bahnhof,Stationsstrasse 1,3097,Köniz,Active
 420,46.9356189,7.4165883,Vidmar,Könizstrasse 161,3097,Köniz,Active
 421,46.9229774,7.4141121,Köniz Zentrum,Bläuacker 10,3098,Köniz,Active
 422,46.92775,7.453419,Tram-Endstation,Seftigenstrasse 280,3084,Köniz,Active
@@ -231,7 +229,7 @@ id,latitude,longitude,name,address,zip,city,state
 843,46.94303954532779,7.4016277739719145,Stöckacker Süd,Bethlehemstrasse 118,3018,Bern,Active
 867,46.9477816,7.4365087,Welle 7 Velostation (06:00-22:00) INSIDE the building!,Merkurgässli,3008,Bern,Active
 877,46.97422346344607,7.476819763848439,Papiermühle Bahnhof,Papiermühlestrasse 172,3063,Ittigen,Active
-878,46.948670967854916,7.408147339558864,Station ausser Betrieb wegen technischen Problemen: Los Lorentes Residences,Murtenstrasse 147,3008,Bern,Active
+878,46.948670967854916,7.408147339558864,Los Lorentes Residences,Murtenstrasse 147,3008,Bern,Active
 882,46.927744881476436,7.370069357719424,Bodelenweg,Bodelenweg 100,3172,Köniz,Active
 883,46.960822,7.433923,Schwimmhalle Neufeld,Neubrückstrasse 133,3012,Bern,Active
 884,46.973323,7.484832,Ittigen Bahnhof,Worblentalstrasse 86,3063,Ittigen,Active
@@ -255,10 +253,22 @@ id,latitude,longitude,name,address,zip,city,state
 917,46.95693232201068,7.523767999999968,RBS Stettlen,Ringstrasse 1,3066,Stettlen,Active
 918,46.95315709014869,7.547451354966772,RBS Boll,Bahnhofplatz 1b,3067,Boll,Active
 919,46.948961234422434,7.451716473749641,Rathausparking,Postgasshalde 50,3011,Bern,Active
+920,46.9281667,7.4106667,Könizbergstrasse,Könizbergstrasse 46,3018,Köniz,Active
+921,46.9310556,7.4573611,Gossetstrasse,Gossetstrasse 66,3084,Köniz,Active
+922,46.9301944,7.4380556,Lerbermattstrasse,Lerbermattstrasse 3,3084,Köniz,Active
 923,46.9231944,7.46175,Nesslerenweg,Nesslerenweg 30a,3084,Köniz,Active
 924,46.911,7.4098889,Talbodenstrasse,Talbodenstrasse 70,3098,Köniz,Active
 925,46.9213611,7.4239167,Adlerweg,Adlerweg 18,3098,Köniz,Active
 926,46.9128056,7.4158333,Eichmatt,Talbodenstrasse 3,3098,Köniz,Active
 927,46.9066389,7.4153611,Fuhrenstrasse,Fuhrenstrasse 19,3098,Köniz,Active
+928,46.9281111,7.3861389,Brüggbühlstrasse Papillon,Brüggbühlstrasse 103A,3172,Niederwangen bei Bern,Active
 929,46.9256111,7.4333611,Balsigerrain,Balsigerrain 4,3095,Spiegel b. Bern,Active
 930,46.9266389,7.4140278,Gartenstadtstrasse,Gartenstadtstrasse 12A,3098,Köniz,Active
+931,46.9258333,7.3733056,Wangentalstrasse,Wangentalstrasse 46,3172,Niederwangen bei Bern,Active
+932,46.9224167,7.4081667,Lilienweg,Lilienweg 44,3098,Köniz,Active
+933,46.87978825736747,7.506471427253964,Riedli,Nünenenweg 61,3123,Belp,Active
+934,46.91006433558227,7.505659898853847,Giessenbad,Flugplatzstrasse 6B,3123,Belp,Active
+935,46.88905450928306,7.498856127098997,Bahnhof Belp,Bahnhofplatz 6,3123,Belp,Active
+936,46.89536150857663,7.4932470575832175,Bahnhof Steinbach,Amselweg 2,3123,Belp,Active
+937,46.914725864358616,7.467288528845693,Kehrsatz Bahnhof Nord,Bernstrasse 83b,3122,Kehrsatz,Active
+938,46.90899783401344,7.472001706989876,Kehrsatz Bahnhof,Belpstrasse 10,3122,Kehrsatz,Active

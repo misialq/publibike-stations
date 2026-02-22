@@ -58,13 +58,13 @@ id,latitude,longitude,name,address,zip,city,state
 232,46.943994,7.449697,Helvetiaplatz Bern,Marienstrasse,3005,Bern,Active
 244,46.9603536,7.4485856,Wyleregg,Wylerstrasse 51,3014,Bern,Active
 250,46.9490849,7.4444363,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
-251,46.948813,7.447638,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
+251,46.948813,7.447638,Ausser Betrieb - Bern Fasnacht - Kornhausplatz,Kornhausplatz 20,3011,Bern,Inactive
 252,46.94970199819606,7.44441499979321,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
 254,46.9486345,7.4567436,Nydegg,Nydeggasse 13,3011,Bern,Active
 255,46.9526864,7.4299899,Pauluskirche Bern,Freiestrasse 3,3012,Bern,Active
 256,46.95548253215054,7.476904610773494,Zentweg,Zentweg 23,3006,Bern,Active
-257,46.9480422,7.4502406,Simsonbrunnen,Kramgasse 40,3011,Bern,Active
+257,46.9480422,7.4502406,Ausser Betrieb - Bern Fasnacht - Simsonbrunnen,Kramgasse 40,3011,Bern,Inactive
 258,46.9475995,7.4473498,Theaterplatz,Theaterplatz 4,3011,Bern,Active
 259,46.9539295,7.4267524,Waldheim,Freiestrasse 43,3012,Bern,Active
 260,46.9486794,7.4532728,Postgasse,Postgasse 66,3011,Bern,Active
@@ -76,7 +76,7 @@ id,latitude,longitude,name,address,zip,city,state
 292,46.946604,7.441624,Bundesgasse,Bundesgasse 3,3011,Bern,Active
 293,46.9465196,7.4481457,Casinoplatz,Casinoplatz 3,3011,Bern,Active
 294,46.95361163218042,7.4372760729484755,Hallerstrasse West,Zähringerstrasse 4,3012,Bern,Active
-295,46.9371056,7.4178248,Sporthalle Weissenstein,Hardeggerstrasse 1,3008,Bern,Active
+295,46.9371056,7.4178248,Station ausser Betrieb wegen technischen Problemen: Sporthalle Weissenstein,Hardeggerstrasse 1,3008,Bern,Active
 296,46.9439259,7.3853056,Stapfenacker,Brünnenstrasse 61,3018,Bern,Active
 298,46.9427331,7.4595458,Seminar,Seminarstrasse 15,3006,Bern,Active
 299,46.9399346,7.3825121,Waldmeisterstrasse,Waldmeisterstrasse 36,3018,Bern,Active
@@ -88,7 +88,7 @@ id,latitude,longitude,name,address,zip,city,state
 305,46.9416773,7.43188762,Eigerplatz,Mühlemattstrasse 55,3007,Bern,Active
 306,46.9400198,7.4317782,Eigerplatz Süd,Seftigenstrasse 1,3007,Bern,Active
 307,46.948011846616254,7.421892556487192,Friedbühlstrasse,Friedbühlstrasse 51,3008,Bern,Active
-308,46.9465416,7.4356627,Hallenbad Hirschengraben,Maulbeerstrasse 17,3011,Bern,Active
+308,46.9465416,7.4356627,Station ausser Betrieb wegen technischen Problemen: Hallenbad Hirschengraben,Maulbeerstrasse 17,3011,Bern,Inactive
 309,46.9405957,7.418738,Fischermätteli,Könizstrasse 73,3008,Bern,Active
 310,46.959334038741154,7.434909268498735,Freies Gymnasium,Hochfeldstrasse 115,3012,Bern,Active
 311,46.9442197,7.4366739,Kapellenstrasse BFF,Kapellenstrasse 8,3011,Bern,Active
@@ -151,7 +151,7 @@ id,latitude,longitude,name,address,zip,city,state
 472,46.9477995,7.454056,Junkerngasse,Junkerngasse 30,3011,Bern,Active
 473,46.9491966,7.445947,Predigergasse,Predigergasse 6,3011,Bern,Active
 474,46.9501048,7.4283779,Depotstrasse,Depotstrasse 2,3012,Bern,Active
-475,46.9475304,7.4521275,Münster,Münstergasse 2,3011,Bern,Active
+475,46.9475304,7.4521275,Ausser Betrieb - Bern Fasnacht - Münster,Münstergasse 2,3011,Bern,Inactive
 476,46.9459831,7.4394178,Kleine Schanze,Schwanengasse 14,3011,Bern,Active
 477,46.9616862,7.4396136,Innere Enge,Engestrasse 54a,3012,Bern,Active
 478,46.9406928,7.4431488,Dampfzentrale,Marzilistrasse 45,3005,Bern,Active
@@ -214,7 +214,7 @@ id,latitude,longitude,name,address,zip,city,state
 815,46.96526082670581,7.481022157938033,UPD,Bolligenstrasse 111,3000,Bern,Active
 816,46.9694975302973,7.485804790590767,UPD Neuhaus,u. Zollgasse 99,3063,Ittigen,Active
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
-822,46.95812,7.48801,Station ausser Betrieb wegen technischen Problemen: Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
+822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611252733205,7.498312728132974,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active
 824,46.956504,7.482886,Ostermundigen Bahnhof (verschoben wegen Baustelle),Poststrasse 31,3072,Ostermundigen,Active
 825,46.95123907638763,7.487040006612239,Waldheimstrasse,Bachstrasse 5-1,3072,Ostermundigen,Active
@@ -244,7 +244,7 @@ id,latitude,longitude,name,address,zip,city,state
 899,46.96593389019524,7.44160952607623,Studerstrasse,Studerstrasse 62,3004,Bern,Active
 903,46.92692,7.503482,Cinedome Muri,Feldstrasse 32,3073,Muri bei Bern,Active
 907,46.95751,7.514008,RBS Deisswil,Bahnhofplatz 2,3066,Stettlen,Active
-908,46.93317997920845,7.417113169925848,Sportweg,Sportweg 34,3097,Liebefeld,Active
+908,46.93317997920845,7.417113169925848,Station ausser Betrieb: Sportweg,Sportweg 34,3097,Liebefeld,Inactive
 911,46.97977354947435,7.443923763945266,Zehendermätteli,Reichenbachstrasse 161,3004,Bern,Active
 912,46.961055129023734,7.465430423450432,BERNEXPO,Papiermühlestrasse 50,3014,Bern,Active
 914,46.946499,7.491459,Freibad Ostermundigen,Dennigkofenweg 120,3072,Ostermundigen,Active

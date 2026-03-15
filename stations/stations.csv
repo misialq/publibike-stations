@@ -39,7 +39,7 @@ id,latitude,longitude,name,address,zip,city,state
 213,46.9503428,7.435298,UniS,Schanzeneckstrasse 1,3012,Bern,Active
 214,46.94626375,7.438039659,Wallgasse,Wallgasse 3,3011,Bern,Active
 215,46.95206911,7.461576536,Rosengarten Ost,Reiterstrasse 19,3006,Bern,Active
-216,46.95382478,7.458180959,Schönburg,Spitalackerstrasse 12,3013,Bern,Active
+216,46.95382478,7.458180959,Station ausser Betrieb wegen technischen Problemen: Schönburg,Spitalackerstrasse 12,3013,Bern,Active
 217,46.9483305,7.44079,Bahnhofplatz,Spitalgasse 44,3011,Bern,Active
 218,46.96196875,7.452963636,Breitfeld,Weingartstrasse 59,3014,Bern,Active
 219,46.9514853,7.4303815,Bühlstrasse Uni,Bühlstrasse 37,3012,Bern,Active
@@ -261,7 +261,7 @@ id,latitude,longitude,name,address,zip,city,state
 925,46.92136857,7.423917968,Adlerweg,Adlerweg 18,3098,Köniz,Active
 926,46.91281351,7.415836544,Eichmatt,Talbodenstrasse 3,3098,Köniz,Active
 927,46.9066389,7.4153611,Fuhrenstrasse,Fuhrenstrasse 19,3098,Köniz,Active
-928,46.9281111,7.3861389,Brüggbühlstrasse Papillon,Brüggbühlstrasse 103A,3172,Niederwangen bei Bern,Active
+928,46.9281111,7.3861389,Station ausser Betrieb wegen technischen Problemen: Brüggbühlstrasse Papillon,Brüggbühlstrasse 103A,3172,Niederwangen bei Bern,Active
 929,46.9256111,7.4333611,Balsigerrain,Balsigerrain 4,3095,Spiegel b. Bern,Active
 930,46.9266389,7.4140278,Gartenstadtstrasse,Gartenstadtstrasse 12A,3098,Köniz,Active
 931,46.9258333,7.3733056,Wangentalstrasse,Wangentalstrasse 46,3172,Niederwangen bei Bern,Active

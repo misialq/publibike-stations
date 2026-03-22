@@ -39,7 +39,7 @@ id,latitude,longitude,name,address,zip,city,state
 213,46.9503428,7.435298,UniS,Schanzeneckstrasse 1,3012,Bern,Active
 214,46.94626375,7.438039659,Wallgasse,Wallgasse 3,3011,Bern,Active
 215,46.95206911,7.461576536,Rosengarten Ost,Reiterstrasse 19,3006,Bern,Active
-216,46.95382478,7.458180959,Station ausser Betrieb wegen technischen Problemen: Schönburg,Spitalackerstrasse 12,3013,Bern,Active
+216,46.95382478,7.458180959,Schönburg,Spitalackerstrasse 12,3013,Bern,Active
 217,46.9483305,7.44079,Bahnhofplatz,Spitalgasse 44,3011,Bern,Active
 218,46.96196875,7.452963636,Breitfeld,Weingartstrasse 59,3014,Bern,Active
 219,46.9514853,7.4303815,Bühlstrasse Uni,Bühlstrasse 37,3012,Bern,Active
@@ -57,7 +57,7 @@ id,latitude,longitude,name,address,zip,city,state
 231,46.95245857,7.4354223,Hallerstrasse,Hallerstrasse 9,3012,Bern,Active
 232,46.94399921,7.449698,Helvetiaplatz Bern,Marienstrasse,3005,Bern,Active
 244,46.9603601,7.448583918,Wyleregg,Wylerstrasse 51,3014,Bern,Active
-250,46.94908865,7.4444373,Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
+250,46.94908865,7.4444373,Station ausser Betrieb wegen technischen Problemen: Waisenhausplatz,Waisenhausplatz 21,3011,Bern,Active
 251,46.94881691,7.447639,Kornhausplatz,Kornhausplatz 20,3011,Bern,Active
 252,46.94970655,7.444410561,Speichergasse PROGR,Waisenhausplatz 28,3011,Bern,Active
 253,46.9534004,7.4285549,Uni Muesmatt,Muesmattstrasse 29,3012,Bern,Active
@@ -87,8 +87,8 @@ id,latitude,longitude,name,address,zip,city,state
 304,46.94297644,7.430234236,Zieglerstrasse,Zieglerstrasse 62,3007,Bern,Active
 305,46.9416773,7.43188762,Eigerplatz,Mühlemattstrasse 55,3007,Bern,Active
 306,46.94002172,7.431781882,Eigerplatz Süd,Seftigenstrasse 1,3007,Bern,Active
-307,46.94801738,7.4218936,Friedbühlstrasse,Friedbühlstrasse 51,3008,Bern,Active
-308,46.9465416,7.4356627,Station ausser Betrieb wegen technischen Problemen: Hallenbad Hirschengraben,Maulbeerstrasse 17,3011,Bern,Inactive
+307,46.94801738,7.4218936,Station ausser Betrieb wegen technischen Problemen: Friedbühlstrasse,Friedbühlstrasse 51,3008,Bern,Active
+308,46.9465416,7.4356627,Hallenbad Hirschengraben,Maulbeerstrasse 17,3011,Bern,Active
 309,46.9406022,7.418736318,Fischermätteli,Könizstrasse 73,3008,Bern,Active
 310,46.9593371,7.43490843,Freies Gymnasium,Hochfeldstrasse 115,3012,Bern,Active
 311,46.94422437,7.4366749,Kapellenstrasse BFF,Kapellenstrasse 8,3011,Bern,Active
@@ -199,7 +199,7 @@ id,latitude,longitude,name,address,zip,city,state
 671,46.92898585565497,7.450277590824284,Wabern Zentrum,Waldblickstrasse 8,3084,Köniz,Active
 673,46.93167482551549,7.485391308590751,Sternen Muri,Thunstrasse 74a,3074,Muri,Active
 674,46.93358371,7.505070164,Bahnhof Gümligen,Worbstrasse 210,3074,Muri,Active
-675,46.95906857,7.47775778,Burgfeld,Mittelholzerstrasse 30,3006,Bern,Active
+675,46.95906857,7.47775778,Station ausser Betrieb wegen technischen Problemen: Burgfeld,Mittelholzerstrasse 30,3006,Bern,Active
 676,46.9461220614124,7.475815366515189,Schöngrün-Vermont,Weltistrasse 40,3006,Bern,Active
 677,46.94910628,7.433277459,Stadtbachstrasse,Pavillonweg 13,3012,Bern,Active
 680,46.946852812713296,7.483654624791477,Merzenacker,Obere Zollgasse 94,3006,Bern,Active
@@ -216,7 +216,7 @@ id,latitude,longitude,name,address,zip,city,state
 821,46.958152075321834,7.492620923918697,Wegmühlegässli,Bernstrasse 96,3072,Ostermundigen,Active
 822,46.95812,7.48801,Zollgasse,Untere Zollgasse 4,3072,Ostermundigen,Active
 823,46.95611583,7.498308797,Oberfeld,Kirschbaumweg 1,3072,Ostermundigen,Active
-824,46.956504,7.482886,Ostermundigen Bahnhof (verschoben wegen Baustelle),Poststrasse 31,3072,Ostermundigen,Active
+824,46.956504,7.482886,Ostermundigen Bahnhof,Poststrasse 31,3072,Ostermundigen,Active
 825,46.95123907638763,7.487040006612239,Waldheimstrasse,Bachstrasse 5-1,3072,Ostermundigen,Active
 826,46.9883765,7.463318318,INFORAMA Zollikofen,Rütti 10,3052,Zollikofen,Active
 828,46.941794,7.390649,Fussgängerzone Bümpliz,Bümplizstrasse 112,3000,Bern,Active
@@ -261,7 +261,7 @@ id,latitude,longitude,name,address,zip,city,state
 925,46.92136857,7.423917968,Adlerweg,Adlerweg 18,3098,Köniz,Active
 926,46.91281351,7.415836544,Eichmatt,Talbodenstrasse 3,3098,Köniz,Active
 927,46.9066389,7.4153611,Fuhrenstrasse,Fuhrenstrasse 19,3098,Köniz,Active
-928,46.9281111,7.3861389,Station ausser Betrieb wegen technischen Problemen: Brüggbühlstrasse Papillon,Brüggbühlstrasse 103A,3172,Niederwangen bei Bern,Active
+928,46.9281111,7.3861389,Brüggbühlstrasse Papillon,Brüggbühlstrasse 103A,3172,Niederwangen bei Bern,Active
 929,46.9256111,7.4333611,Balsigerrain,Balsigerrain 4,3095,Spiegel b. Bern,Active
 930,46.9266389,7.4140278,Gartenstadtstrasse,Gartenstadtstrasse 12A,3098,Köniz,Active
 931,46.9258333,7.3733056,Wangentalstrasse,Wangentalstrasse 46,3172,Niederwangen bei Bern,Active
